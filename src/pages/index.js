@@ -6,7 +6,7 @@ import { useEffect } from 'react';
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   useEffect(() => {
-    window.location.href = 'https://hb.seria.moe';
+    window.location.href = './docs/intro';
   }, []);
   return null;
 }
