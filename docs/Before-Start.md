@@ -6,6 +6,7 @@ But there's users that use Third-party Platform Login (i.e: Apple ID, Game Cente
 
 This page will help you setup your HoYoverse account to use with Hoyo Buddy
 
-## As a first time player. No account yet.
+## As a first time player without an account yet thru any means.
 
-If this is the first time you hear about any HoYoverse games
+If this is the first time you hear about any HoYoverse games, please create a new account on [HoYoverse Account Center](https://account.hoyoverse.com)
+

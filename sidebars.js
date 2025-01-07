@@ -18,6 +18,7 @@ const sidebars = {
   // By default, Docusaurus generates a sidebar from the docs folder structure
   mainSidebar: [
     'intro',
+    'Before-Start',
     'Getting-Started',
     'Why-Hoyo-Buddy',
     'FAQ',
