@@ -1,4 +1,4 @@
-# Account - Before Using Hoyo Buddy
+# Account Pre-setup
 
 When you first use Hoyo Buddy, you need to link an email and password or use token. Most of those are in [FAQ](./FAQ.md).
 
@@ -34,17 +34,17 @@ Once in, Click "Link" next to Link account and follow the on-screen prompt
 
 For In-game Linking, go to User Center and Link your email and password there.
 
-- Honkai Impact 3rd: "LV.[XX] [Name]" -> Account -> User Center
+- **Honkai Impact 3rd**: "LV.[XX] [Name]" -> Account -> User Center
 
-- Genshin Impact: Paimon Menu -> Settings -> Account -> User Center
+- **Genshin Impact**: Paimon Menu -> Settings -> Account -> User Center
 
-- Honkai: Star Rail: 
+- **Honkai: Star Rail**: 
 
-  - Login Screen: Settings -> Account -> User Center (Recommended if you don't want to download the entire game)
+  - *Login Screen*: Settings -> Account -> User Center (Recommended if you don't want to download the entire game)
 
-  - In-Game: Phone -> Account Settings -> User Center
+  - *In-Game*: Phone -> Account Settings -> User Center
 
-- Zenless Zone Zero: Menu -> Options -> Account -> USER CENTER
+- **Zenless Zone Zero**: Menu -> Options -> Account -> USER CENTER
 
 ![Account email linking screen](../src/assets/images/hb-account/pc/in-game-email.png)
 
@@ -52,11 +52,11 @@ For In-game Linking, go to User Center and Link your email and password there.
 
 Hoyo Buddy only use Email and Password or DevTools login to access your account. If you wish to link to a third-party platform, please go to Link Account on [HoYoverse Account Center](https://account.hoyoverse.com). Only Facebook and Twitter (X) Platform can be link, for other platfrom, please link them in-game on the device you want link.
 
-- Game Center: iOS (In-game)
-- Apple Login: iOS (In-game), Web (only first sign-up).
-- Google: Android (In-game), PC* (In-game), Web (only first sign-up).
-- Microsoft Account: Xbox** (In-game).
-- PlayStation Network: PlayStation**/\*** (In-game)
+- **Game Center**: iOS (In-game)
+- **Apple Login**: iOS (In-game), Web (only first sign-up).
+- **Google**: Android (In-game), PC* (In-game), Web (only first sign-up).
+- **Microsoft Account**: Xbox** (In-game).
+- **PlayStation Network**: PlayStation**/\*** (In-game)
 
 *To Link your existing HoYo account to your Google Account on PC, please download [Genshin Impact](https://genshin.hoyoverse.com) or [Honkai Impact 3rd](https://honkaiimpact3.hoyoverse.com/) - Google Play PC on the Google Play Store from the official Game Page. Google Play Games PC will be install, later by HoYoPlay installer of the specifc game.
 
@@ -68,14 +68,38 @@ Once logged in, a screen will pop-up asking to login with Google Play. Follow th
 
 **Note**: _Google Play PC version only allow linking. To unlink your Google account, please Unlink it on your Android Device._
 
+**Please see the below for more information.
+
+***PSN account and Game accounts are region bound by PSN account region, see the below for more info.
+
 ### Linking from Console
 
 By using Hoyo Buddy, you will able to use Features that Mobile and PC user have.
 
-For new users, please follow the [Linking an email from third-party login](./Before-Start.md#linking-an-email-from-third-party-login)
+For new users starting on console, please follow the [Linking an email from third-party login](./Before-Start.md#linking-an-email-from-third-party-login)
 
 For existing users, follow the instruction below.
 
-[PlayStation Only]: Please check your region account before linking your HoYo account to PSN. See the chart below. Applies to all HoYoverse games
+**[PlayStation Only]**: Please check your region account before linking your HoYo account to PSN. See the chart below. Applies to all HoYoverse games
 
 ![PSN Region Lock List](../src/assets/images/hb-account/console/PSN_Region_Lock.png)
+
+Login to one of the HoYo games and choose "Already have an Account, log in directly"
+
+![Linking Screen - Xbox](../src/assets/images/hb-account/console/xbox-link_1.png)
+
+If you only use third-party login, Scan the QR Code if you wish to only use DevTools login.
+
+![Linking Screen - Xbox - Existing](../src/assets/images/hb-account/console/xbox-link_2.png)
+
+When using QR Link, check if the the information is correct.
+
+![Linking Screen - QR - Xbox](../src/assets/images/hb-account/console/qr_link-1.png)
+
+**Note**: PSN User please double check if your account region is correct with your server region. If the game asks you to link create a new game account, close the game and double check if your region account is correct as the [chart](./Before-Start.md#linking-from-console) said.
+
+![Linking Screen - QR - PSN](../src/assets/images/hb-account/console/qr_link-psn.png)
+
+If you are sure the region is correct. Confirm the link.
+
+**Congrats! You can now play any HoYoverse game cross-platform with Hoyo Buddy enhancement!**
