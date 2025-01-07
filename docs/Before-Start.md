@@ -6,7 +6,76 @@ But there's users that use Third-party Platform Login (i.e: Apple ID, Game Cente
 
 This page will help you setup your HoYoverse account to use with Hoyo Buddy
 
-## As a first time player without an account yet thru any means.
+## As a first time player without an account yet thru any means
 
-If this is the first time you hear about any HoYoverse games, please create a new account on [HoYoverse Account Center](https://account.hoyoverse.com)
+If this is the first time you hear about any HoYoverse games and you want to use Hoyo Buddy with your HoYoverse account, please first create a new account on [HoYoverse Account Center](https://account.hoyoverse.com).
 
+Click Sign-in -> Register and follow the on screen prompts.
+
+<img src="../src/assets/images/hb-account/web/sign-up_no-link.png" alt="Register Screen" width="300" height="450" />
+
+If you plan to login with third party, please choose the third party provider first. (Google, Facebook, Twitter(X), Apple)
+
+Once linked, a screen may pop-up asking to link the existing email to HoYoverse account. please make sure to link your email and add a password to complete account creation to use Hoyo Buddy with.
+
+<img src="../src/assets/images/hb-account/web/sign-up_google-link.png" alt="Third-party Account Linking" width="300" height="500" />
+
+**Note**: <u>Third party login without email is possible for Hoyo Buddy, but you must use Google, Apple, Twitter (X) or Facebook to login to HoYoLAB and ONLY DevTools is allow to Login. Certain Features of Hoyo Buddy will be limited.</u>
+
+## For existing user
+
+### Linking an email from third-party login
+
+If you use third-party as your main login. Head to [HoYoverse Account Center](https://account.hoyoverse.com). Go to "Personal Information" and link an email and password.
+
+Once in, Click "Link" next to Link account and follow the on-screen prompt
+
+<img src="../src/assets/images/hb-account/web/post-link.png" alt="Account email linking screen" width="562.5" height="300" />
+
+For In-game Linking, go to User Center and Link your email and password there.
+
+- Honkai Impact 3rd: "LV.[XX] [Name]" -> Account -> User Center
+
+- Genshin Impact: Paimon Menu -> Settings -> Account -> User Center
+
+- Honkai: Star Rail: 
+
+  - Login Screen: Settings -> Account -> User Center (Recommended if you don't want to download the entire game)
+
+  - In-Game: Phone -> Account Settings -> User Center
+
+- Zenless Zone Zero: Menu -> Options -> Account -> USER CENTER
+
+<img src="../src/assets/images/hb-account/pc/in-game-email.png" alt="Account email linking screen" width="550" height="300" />
+
+### Linking third-party from email login
+
+Hoyo Buddy only use Email and Password or DevTools login to access your account. If you wish to link to a third-party platform, please go to Link Account on [HoYoverse Account Center](https://account.hoyoverse.com). Only Facebook and Twitter (X) Platform can be link, for other platfrom, please link them in-game on the device you want link.
+
+- Game Center: iOS (In-game)
+- Apple Login: iOS (In-game), Web (only first sign-up).
+- Google: Android (In-game), PC* (In-game), Web (only first sign-up).
+- Microsoft Account: Xbox** (In-game).
+- PlayStation Network: PlayStation**/\*** (In-game)
+
+*To Link your existing HoYo account to your Google Account on PC, please download [Genshin Impact](https://genshin.hoyoverse.com) or [Honkai Impact 3rd](https://honkaiimpact3.hoyoverse.com/) - Google Play PC on the Google Play Store from the official Game Page. Google Play Games PC will be install, later by HoYoPlay installer of the specifc game.
+
+Once installation Completed and the game is ready to run, launch the game and login to your existing HoYoverse account.
+
+Once logged in, a screen will pop-up asking to login with Google Play. Follow the on screen instruction to complete the linking process.
+
+<img src="../src/assets/images/hb-account/pc/hk4e_google.png" alt="Genshin - Google Play PC Linking" width="550" height="300" />
+
+**Note**: <u>Google Play PC version only allow linking. To unlink your Google account, please Unlink it on your Android Device.</u>
+
+### Linking from Console.
+
+By using Hoyo Buddy, you will able to use Features that Mobile and PC user have.
+
+For new users, please follow the [Linking an email from third-party login](./Before-Start.md#linking-an-email-from-third-party-login)
+
+For existing users, follow the instruction below.
+
+[PlayStation Only]: Please check your region account before linking your HoYo account to PSN. See the chart below. Applies to all HoYoverse games
+
+<img src="../src/assets/images/hb-account/console/PSN_Region_Lock.png" alt="PSN Region Locking" width="600" height="300" />
