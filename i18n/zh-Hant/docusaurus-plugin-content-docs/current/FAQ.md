@@ -1,87 +1,86 @@
-<!-- markdownlint-disable MD026 MD040 MD047 -->
-# Frequently Asked Questions
+# 常見問題解答
 
-## Something is not working!1!1!!
+## 某些功能無法正常運作
 
-If there is an issue with Hoyo Buddy, you can tag @seria_ati in the [Discord server](https://dsc.gg/hoyo-buddy) or [directly message](https://discord.com/users/410036441129943050) me about it.
+如果 Hoyo Buddy 出現問題，你可以在 [Discord 伺服器](https://link.seria.moe/hb-dc) 中標註 @seria_ati，或者 [直接私訊我](https://discord.com/users/410036441129943050) 以獲得協助。
 
-## Is Hoyo Buddy safe to use?
+## Hoyo Buddy 安全嗎？
 
-It depends on what you mean by "safe", please read the account security page for more information.
+這取決於你對「安全」的定義。請參閱[帳戶安全頁面](./Account-Security.md)以獲取更多信息。
 
-## Some texts are still being shown as English, even though I've selected other languages through /settings
+## 問題：即使我已經通過 /settings 選擇了其他語言，某些文本仍然顯示為英文？
 
-This is because the translation for the texts you're seeing are not ready yet, Hoyo Buddy only has a small group of volunteers to translate the texts, and we all have our personal life to enjoy with. So, if you want to speed up this process, you're very welcomed to join the translation team! If you're interested, read the [contribution guidelines](https://github.com/seriaati/hoyo-buddy/blob/main/CONTRIBUTING.md) for more information.
+這是因為你看到的文本尚未完成翻譯。Hoyo Buddy 目前只有一個小型志願者團隊負責翻譯，而我們都有自己的生活需要平衡。如果你希望加速翻譯過程，非常歡迎你加入我們的翻譯團隊！如有興趣，請參閱 [貢獻指南](https://github.com/seriaati/hoyo-buddy/blob/main/CONTRIBUTING.md) 以了解更多信息。
 
-## How is my data being used?
+## 我的數據是如何被使用的？
 
-Your data is never shared with third parties; for more information, please read the [privacy policy](https://github.com/seriaati/hoyo-buddy/blob/main/PRIVACY.md) page.
+你的數據絕不會與第三方共享。有關更多信息，請閱讀 [隱私政策](https://github.com/seriaati/hoyo-buddy/blob/main/PRIVACY.md) 頁面。
 
-## Is Hoyo Buddy open source?
+## Hoyo Buddy 是開源的嗎？
 
-Yes, Hoyo Buddy is open source. You can find the source code on [GitHub](https://github.com/seriaati/hoyo-buddy/) , please comply with the [license](https://github.com/seriaati/hoyo-buddy/blob/main/LICENSE) when using the code.
+是的，Hoyo Buddy 是開源的。你可以在 [GitHub](https://github.com/seriaati/hoyo-buddy/) 上查看源代碼。使用代碼時，請遵守 [許可協議](https://github.com/seriaati/hoyo-buddy/blob/main/LICENSE)。
 
-### Can I self-host Hoyo Buddy?
+### 我可以自行部署 Hoyo Buddy 嗎？
 
-I won't provide any assistance to self-hosting, but with enough technical skills, it's possible to set up your own instance of Hoyo Buddy. However, due to copyright purposes, I have locked the assets that Hoyo Buddy uses in a private repository, this means that all image generation features on your instance will not work (except the 3rd party card templates in /profile).
+不行，這無法被辦到。
 
-## Why are the buttons/selects disabled?
+## 為什麼按鈕/選項被禁用了？
 
-To save resources, UI (user interface) elements expire after 10 minutes. To avoid confusion, UI elements are disabled when they expire.
+為了節省資源，使用者介面（UI）元素在 10 分鐘後會過期。為避免混淆，過期後的 UI 元素將被禁用。
 
-## "Too many requests" error when trying to add accounts using email & password method
+## 問題：「使用電子郵件和密碼方法添加帳戶時出現 'Too many requests' 錯誤」
 
-Most of the time, this issue is just temporary, wait for 30 minutes then try again. If the error still shows, you're account may be "soft-locked", please read the guide below closely (Note: A user reported that their account is automatically unlocked after waiting for 5 days.)
+通常這個問題是暫時性的，等待 30 分鐘後再嘗試即可。如果問題仍未解決，你的帳戶可能已被「軟鎖定」，請仔細閱讀以下指南：
 
-1. First, please DO NOT reset your account's password, this won't solve the issue and will only make it worse.
+1. 首先，請不要重設你的帳戶密碼，這無助於解決問題，反而可能使問題更嚴重。
 
-2. Second, please STOP trying to login on HoYoLAB/Hoyo Buddy/in-game with your email/username and password.
+2. 其次，停止使用電子郵件/用戶名和密碼嘗試登入 HoYoLAB/Hoyo Buddy/遊戲。
 
-Are you still logged in in your games (Genshin, ZZZ, etc.)?
+**你還能登入你的遊戲（如原神、絕區零等）嗎？**
 
-* Yes: First, [send an email to customer service](./FAQ#sending-an-email-to-the-customer-service). Then try [DevTools](./FAQ#logging-in-with-devtools) or [email instead of username](./FAQ#logging-in-with-email-instead-of-username) to login on Hoyo Buddy.
+* **是**：首先，[發送電子郵件給客服](./FAQ#發送電子郵件給客服)。然後嘗試 [DevTools 方法](./FAQ#使用 DevTools 登入) 或 [使用電子郵件而非用戶名登入](./FAQ#使用電子郵件而非用戶名登入)。
 
-* No: See [trying to login into your games](./FAQ#trying-to-login-into-your-games).
+* **否**：請參閱[嘗試登入遊戲](./FAQ#嘗試登入遊戲)。
 
-### Logging in with email instead of username
+### 使用電子郵件而非用戶名登入
 
-A user discovered that if you have been logging in with your username, logging in with email can bypass the error message. Likewise, if you have been logging with your email, try logging in with your username.
+有用戶發現，如果你之前一直使用用戶名登入，改用電子郵件可以繞過錯誤提示。同樣地，如果你之前使用電子郵件登入，請嘗試使用用戶名。
 
-### Logging in with DevTools
+### 使用 DevTools 登入
 
-If you have a PC/laptop device, you can login using the DevTools method, the button is next to the email & password one. You won't be able to use code redemption features (like auto redeem) with this method.
+如果你有 PC/筆記本電腦設備，你可以使用 DevTools 方法登入，按鈕就在電子郵件和密碼方法旁邊。使用此方法，你將無法使用兌換碼相關功能（如自動兌換）。
 
-### Trying to login into your games
+### 嘗試登入遊戲
 
-Is your Hoyoverse account linked to any social medias (Google, X, etc.)?
+你的 Hoyoverse 帳戶是否綁定了任何社交媒體（如 Google、X 等）？
 
-* Yes: Login to your games with the social media linked. Then, [send an email to customer service](./FAQ#sending-an-email-to-the-customer-service). Next, try [DevTools](./FAQ#logging-in-with-devtools) or [email instead of username](./FAQ#logging-in-with-email-instead-of-username) to login on Hoyo Buddy.
+* **是**：使用綁定的社交媒體登入你的遊戲。然後，[發送電子郵件給客服](./FAQ#發送電子郵件給客服)。接著嘗試 [DevTools 方法](./FAQ#使用 DevTools 登入) 或 [使用電子郵件而非用戶名登入](./FAQ#使用電子郵件而非用戶名登入)。
 
-* No: See below
+* **否**：請參閱以下內容。
 
-Are you logged in at the [Hoyoverse Account Center](https://account.hoyoverse.com/)?
+你是否已登入 [Hoyoverse 帳戶中心](https://account.hoyoverse.com/)？
 
-* Yes: Link your account to a social media and login to your games with it. Then, [send an email to customer service](./FAQ#sending-an-email-to-the-customer-service). Next, try [DevTools](./FAQ#logging-in-with-devtools) or [email instead of username](./FAQ#logging-in-with-email-instead-of-username) to login on Hoyo Buddy.
+* **是**：將你的帳戶與社交媒體綁定，然後使用它登入你的遊戲。接著，[發送電子郵件給客服](./FAQ#發送電子郵件給客服)。最後嘗試 [DevTools 方法](./FAQ#使用 DevTools 登入) 或 [使用電子郵件而非用戶名登入](./FAQ#使用電子郵件而非用戶名登入)。
 
-* No: Try [this](./FAQ#logging-in-with-email-instead-of-username), if it doesn't work,  [send an email to customer service](./FAQ#sending-an-email-to-the-customer-service) then wait patiently for their response. Sorry, but you can't access your game account for now.
+* **否**：嘗試[這個方法](./FAQ#使用電子郵件而非用戶名登入)，如果無法解決，[發送電子郵件給客服](./FAQ#發送電子郵件給客服)，然後耐心等待回應。很抱歉，目前你無法訪問你的遊戲帳戶。
 
-### Sending an email to the customer service
+### 發送電子郵件給客服
 
-Email address: [hoyolab@hoyoverse.com](mailto:hoyolab@hoyoverse.com)
+電子郵件地址：[hoyolab@hoyoverse.com](mailto:hoyolab@hoyoverse.com)
 
-Template:
+範本：
 
+```plaintext
+我無法使用我的電子郵件和密碼登入 HoYoLAB，當我嘗試這樣做時，出現了「請求過多，請刷新頁面後重試」的錯誤（如下圖所示）。我已經等待超過 8 小時，錯誤仍然存在。請幫助我解鎖我的帳戶，我將不勝感激。
+
+我的電子郵件是 <你的電子郵件>
+（附上一張顯示錯誤的截圖）
 ```
-I am unable to login to HoYoLAB with my email and password, it says "Too Many Requests, Please Refresh the Page and try Again Later" when I try to do so (as shown in the screenshot below). I have already waited for more than 8 hours and it still shows this error. Please help me unlock my account, I would greatly appreciate it.
 
-My email is <your email>
-(attach a screenshot showing the error)
-```
+## 為什麼使用與兌換碼相關的功能時會顯示「Cookie Token Expired」錯誤，但其他功能（如自動每日簽到）卻能正常工作？
 
-## Why do I get "Cookie Token Expired" errors with code redemption related features, even though other features (like auto daily check-in) work just fine?
+簡而言之，Hoyoverse 使用了一個特殊的 Cookie（Cookie Token）處理兌換碼功能，該 Token 的有效期非常短（僅 3 天）。據我所知，Cookie Token 僅在兌換碼功能中使用，因此其他功能不受影響。若要刷新你的 Cookie Token，需要通過 /accounts 重新添加帳戶，這將從 Hoyoverse 獲取一個新的 Cookie Token。然而，該 Cookie Token 仍會在 3 天後過期；為了避免麻煩，你可以通過電子郵件和密碼方法添加帳戶，這樣 Hoyo Buddy 可以通過 Hoyoverse 使用的相同技術自動刷新你的 Cookie Token。
 
-To put simply, Hoyoverse uses a special cookie (cookie token) for code redemption that expires very quickly (3 days to be exact). As far as I know, cookie token is only used in code redemption, so that's why other features still work. To refresh your cookie token, you need to re-add your accounts using /accounts, which gets a fresh cookie token from Hoyoverse. However, this cookie token will still expire after 3 days; therefore, to avoid the hassle, you can add your accounts through the email and password method, so Hoyo Buddy can refresh your cookie token automatically through the same technique used by Hoyoverse.
+## 為什麼我會看到「交互失敗」錯誤？
 
-## Why do I see "interaction failed" error?
-
-Most of the time this is caused by bot restarts (to apply code updates), and you just need to re-type the command again. However, if this keeps on happening, that means something is broken and you should notify the developer via /feedback.
+大多數情況下，這是由於機器人重新啟動（用於應用代碼更新）所致，你只需重新輸入指令即可解決。然而，如果此問題持續發生，說明系統可能有問題，你應該在 [Discord 伺服器](https://link.seria.moe/hb-dc) 中聯繫開發者。

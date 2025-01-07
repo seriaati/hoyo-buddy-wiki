@@ -1,47 +1,48 @@
-# Account Security
 
-## Disclaimer
+# 帳戶安全
 
-It is entirely **YOUR** decision whether to provide your Cookies or not. While many features offered by the bot depend on the user's HoYoLAB cookies for functionality, Hoyo Buddy has never coerced users into providing their cookies against their will. The developer has implemented robust security measures to prevent the leakage of your Cookies. In the event of a data breach, the developer's utmost responsibility is to promptly inform users about the situation and strongly advise them to change their passwords. In summary, please use this tool at your own discretion and risk!
+## 免責聲明
 
-## Introduction
+是否提供你的 Cookies 完全取決於 **你** 的決定。雖然 Hoyo Buddy 的許多功能依賴於用戶的 HoYoLAB Cookies 才能運作，但 Hoyo Buddy 從未強迫用戶在非自願情況下提供 Cookies。開發者已實施強大的安全措施來防止 Cookies 的洩漏。如果發生數據洩露事件，開發者的首要責任是及時通知用戶，並強烈建議用戶更改密碼。總之，請自行判斷並承擔風險使用此工具！
 
-This section explains how your account data is used and stored. Remember that Hoyo Buddy is open-source, and you can confirm account processing procedures by yourself via reading the source code.
+## 簡介
 
-### What Are Cookies?
+本節說明你的帳戶數據如何被使用和儲存。請記住，Hoyo Buddy 是開源的，你可以通過檢閱源代碼自行驗證帳戶處理流程。
 
-Cookies 🍪 are small pieces of data that websites store on your computer or device when you visit them. They're not programs, they can't carry viruses, and they're not spyware. Instead, they're more like a note that a website leaves for your browser to remember certain things about you or your visit.
+### 什麼是 Cookies？
 
-Imagine you walk into a shop and the shopkeeper gives you a sticker. This sticker might have information like what items you looked at, how long you stayed in the shop, or even your preferences. Later, when you come back to the shop, the shopkeeper looks at your sticker and can tailor your experience based on the information on it.
+Cookies 🍪 是網站在你訪問時儲存在你的電腦或設備上的小數據片段。它們不是程序，無法攜帶病毒，也不是間諜軟件。相反，它們更像是網站留給你的瀏覽器的一張便條紙，用於記錄關於你或你訪問的某些信息。
 
-Similarly, when you visit the HoYoLAB website, it gives your browser a "cookie." This cookie contains your login details, allowing the website to identify that it is you accessing the website.
+想像一下，你走進一家商店，店員給了你一張貼紙。這張貼紙可能記錄了你看過哪些商品、在店內停留了多久，甚至是你的偏好。稍後，當你再次光臨這家商店時，店員根據貼紙上的信息為你提供更貼合需求的體驗。
 
-### Ok, How Does Hoyo Buddy Use My Cookies?
+類似地，當你訪問 HoYoLAB 網站時，它會給你的瀏覽器一個「Cookie」。這個 Cookie 包含你的登入信息，使網站能識別是你在訪問。
 
-Hoyo Buddy requests users to provide their Cookies. By obtaining your Cookies, Hoyo Buddy can simulate requests to HoYoLAB using your identity, thereby accessing information such as real-time notes, Spiral Abyss overviews, and more. In essence, HoYoLAB identifies the requester based on Cookies, and Hoyo Buddy utilizes your Cookies to inform HoYoLAB that the requester is you, consequently gaining access to the information stored in your account.
+### 那麼，Hoyo Buddy 如何使用我的 Cookies？
 
-### Questions Related to Account Security
+Hoyo Buddy 需要用戶提供 Cookies。通過獲取你的 Cookies，Hoyo Buddy 可以以你的身份模擬對 HoYoLAB 的請求，從而獲取例如即時便籤、深淵總覽等信息。簡而言之，HoYoLAB 根據 Cookies 識別請求者的身份，而 Hoyo Buddy 使用你的 Cookies 告訴 HoYoLAB 請求者是你，進而獲取你的帳戶存儲的信息。
 
-#### Do You Have Access to My Account?
+### 關於帳戶安全的問題
 
-For HoYoLAB accounts, yes ✅. However, for game accounts, no ❌. Hoyoverse employs stringent security protocols for game accounts, ensuring that game logins differ significantly from typical website logins. Consequently, using Cookies to mimic requests and gain access to games with your identity is not feasible. Put simply, my access is limited to the information visible on HoYoLAB; anything beyond that remains inaccessible.
+#### 你可以訪問我的帳戶嗎？
 
-#### Can You Change My Account's Password?
+對於 HoYoLAB 帳戶，是的 ✅；但對於遊戲帳戶，則否 ❌。Hoyoverse 對遊戲帳戶採用了嚴格的安全協議，使遊戲登入與網站登入有顯著區別。因此，使用 Cookies 模擬請求並以你的身份訪問遊戲是不可能的。簡單來說，我的訪問僅限於 HoYoLAB 可見的信息，超出這範圍的內容則無法訪問。
 
-No, changing your account password involves additional layers of security measures beyond using your Cookies alone. It is impossible to modify any sensitive information on your account without the additional verification from your email or 2FA (if you have it enabled).
+#### 你可以更改我的帳戶密碼嗎？
 
-#### Can You Make Posts on HoYoLAB With My Identity?
+不能，因為更改帳戶密碼需要額外的安全驗證，僅憑 Cookies 是無法實現的。要修改帳戶的敏感信息，還需要進行電子郵件或雙重驗證（如果已啟用）。
 
-Given that I have access to your HoYoLAB account, technically yes ✅. However, it's essential to emphasize that I won't engage in such malicious activities.
+#### 你可以以我的身份在 HoYoLAB 發布貼文嗎？
 
-#### Do Cookies Expire?
+從技術上講，可以 ✅，因為我能訪問你的 HoYoLAB 帳戶。但需要強調的是，我不會進行此類惡意活動。
 
-Yes ✅, Cookies typically have an expiration period, commonly set to one year. Note that changing your account's password renders all previous Cookies immediately invalid.
+#### Cookies 會過期嗎？
 
-### How Are My Cookies Stored?
+會的 ✅，Cookies 通常有一年的有效期限。請注意，更改帳戶密碼會使所有先前的 Cookies 立即失效。
 
-Your Cookies are securely stored in a database hosted by [Vultr](https://www.vultr.com/). To access this database and obtain your Cookies, a hacker would need to acquire both my server's account password and the database's password. Such a scenario is typically associated with data breaches, although it's important to note that breaches involving Vultr, a reputable and widely-used server hosting provider, are relatively rare. However, in the unlikely event of a breach, I will immediately issue an announcement in the Discord server, urging all users to change their account passwords. This action ensures that any previously stored Cookies in the database become invalidated, thus safeguarding your privacy and security.
+### 我的 Cookies 是如何儲存的？
 
-### How Does The Email and Password Login Method Work?
+你的 Cookies 被安全地存儲在由 [Hetzner](https://www.hetzner.com/) 提供的資料庫中。駭客需要同時獲得我的伺服器帳戶密碼和資料庫密碼才能訪問這些 Cookies。這種情況通常與數據洩露有關，但值得注意的是，作為一家可信賴且廣泛使用的伺服器託管服務提供商，Hetzner 相關的洩露事件相對罕見。然而，如果不幸發生洩露，我會立即在 Discord 伺服器中發布公告，敦促所有用戶更改帳戶密碼，確保資料庫中存儲的 Cookies 無效化，從而保障你的隱私和安全。
 
-Firstly, it's important to emphasize that this method is not designed to compromise your account security. Instead, it's implemented to simplify the account setup process in Hoyo Buddy. Many users encounter difficulties locating their Cookies manually, prompting the introduction of an easier alternative. The method functions exactly to logging in via email and password on HoYoLAB, occasionally requiring CAPTCHA verification for security purposes. It's crucial to note that your email and password are never stored in the database. Instead, they are temporarily held in-memory and encrypted before being transmitted to Hoyoverse's server. This approach enhances security by minimizing the exposure of sensitive login credentials; you can verify this transparent process by examining the source code.
+### 電子郵件和密碼登入方式如何運作？
+
+首先，需要強調此方法並非用於損害你的帳戶安全，而是為了簡化 Hoyo Buddy 的帳戶設置流程。許多用戶在手動查找 Cookies 時遇到困難，因此引入了一種更簡便的替代方法。此方法的功能與使用電子郵件和密碼登入 HoYoLAB 相同，有時需要通過 CAPTCHA 驗證以確保安全。需要注意的是，你的電子郵件和密碼從未存儲在資料庫中，而是臨時保存在內存中，並在加密後傳輸到 Hoyoverse 的伺服器。這種方法通過最小化敏感登入憑據的暴露來增強安全性；你可以通過檢閱源代碼來驗證此過程的透明性。
