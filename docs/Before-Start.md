@@ -72,7 +72,7 @@ Once logged in, a screen will pop-up asking to login with Google Play. Follow th
 
 ***PSN account and Game accounts are region bound by PSN account region, see the below for more info.
 
-### Linking from Console
+## Linking from Console
 
 By using Hoyo Buddy, you will able to use Features that Mobile and PC user have.
 
@@ -102,4 +102,4 @@ When using QR Link, check if the the information is correct.
 
 If you are sure the region is correct. Confirm the link.
 
-**Congrats! You can now play any HoYoverse game cross-platform with Hoyo Buddy enhancement!**
+**Congrats! You can now play any HoYoverse game cross-platform with Hoyo Buddy enhancement!** Check out [Getting Started](./Getting-Started.md) to Setup Hoyo Buddy
