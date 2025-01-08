@@ -24,12 +24,6 @@ const sidebars = {
     'FAQ',
     'Account-Security',
     'Login-Workflow',
-
-    {
-      type: 'link',
-      href: 'https://dsc.gg/hoyo-buddy',
-      label: 'Discord',
-    },
   ],
 
   // But you can create a sidebar manually
