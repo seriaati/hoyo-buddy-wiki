@@ -29,6 +29,10 @@ I won't provide any assistance to self-hosting, but with enough technical skills
 
 To save resources, UI (user interface) elements expire after 10 minutes. To avoid confusion, UI elements are disabled when they expire.
 
+## I have 2 accounts, 1 using Third-party login, other using email. Can I use it?
+
+Third-party login can use [DevTools](./FAQ.md#logging-in-with-devtools) to login but Certain Features will be limited. If you want to use the full feature set, please [Link an email from third-party login account](./Before-Start.md#linking-an-email-from-third-party-login-account), then log in using email/username and password to link to Hoyo Buddy.
+
 ## "Too many requests" error when trying to add accounts using email & password method
 
 Most of the time, this issue is just temporary, wait for 30 minutes then try again. If the error still shows, you're account may be "soft-locked", please read the guide below closely (Note: A user reported that their account is automatically unlocked after waiting for 5 days.)

@@ -24,7 +24,7 @@ Once linked, a screen may pop-up asking to link the existing email to HoYoverse 
 
 ## For existing user
 
-### Linking an email from third-party login
+### Linking an email from third-party login account
 
 If you use third-party as your main login. Head to [HoYoverse Account Center](https://account.hoyoverse.com). Go to "Personal Information" and link an email and password.
 
@@ -48,7 +48,7 @@ For In-game Linking, go to User Center and Link your email and password there.
 
 ![Account email linking screen](../../../../src/assets/images/hb-account/pc/in-game-email.png)
 
-### Linking third-party from email login
+### Linking third-party from email login account
 
 Hoyo Buddy only use Email and Password or DevTools login to access your account. If you wish to link to a third-party platform, please go to Link Account on [HoYoverse Account Center](https://account.hoyoverse.com). Only Facebook and Twitter (X) Platform can be link, for other platfrom, please link them in-game on the device you want link.
 

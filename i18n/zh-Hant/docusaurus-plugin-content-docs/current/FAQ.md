@@ -28,6 +28,10 @@
 
 為了節省資源，使用者介面（UI）元素在 10 分鐘後會過期。為避免混淆，過期後的 UI 元素將被禁用。
 
+## I have 2 accounts, 1 using Third-party login, other using email. Can I use it?
+
+Third-party login can use [DevTools](./FAQ.md#logging-in-with-devtools) to login but Certain Features will be limited. If you want to use the full feature set, please [Link an email from third-party login account](./Before-Start.md#linking-an-email-from-third-party-login-account), then log in using email/username and password to link to Hoyo Buddy.
+
 ## 問題：「使用電子郵件和密碼方法添加帳戶時出現 'Too many requests' 錯誤」
 
 通常這個問題是暫時性的，等待 30 分鐘後再嘗試即可。如果問題仍未解決，你的帳戶可能已被「軟鎖定」，請仔細閱讀以下指南：
