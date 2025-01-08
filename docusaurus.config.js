@@ -106,6 +106,11 @@ const config = {
             position: 'right',
           },
           {
+            href: 'https://dsc.gg/hoyo-buddy',
+            label: 'Discord',
+            position: 'right',
+          },
+          {
             type: 'localeDropdown',
             position: 'right',
           },
