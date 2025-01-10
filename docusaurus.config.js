@@ -106,7 +106,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://dsc.gg/hoyo-buddy',
+            href: 'https://link.seria.moe/hb-dc',
             label: 'Discord',
             position: 'right',
           },

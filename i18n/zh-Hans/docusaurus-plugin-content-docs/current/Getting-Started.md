@@ -37,7 +37,7 @@ Type `/` in the textbox, then select Hoyo Buddy's profile picture (red + blue tr
 
 ## Reporting Issues and Giving Suggestions
 
-Please join our [Discord server](https://dsc.gg/hoyo-buddy).
+Please join our [Discord server](https://link.seria.moe/hb-dc).
 
 ## Other Usage Tips
 
