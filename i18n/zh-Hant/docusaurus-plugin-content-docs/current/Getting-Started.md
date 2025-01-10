@@ -26,7 +26,7 @@
 
 ## 回報問題和給予反饋
 
-請加入 [Discord 伺服器](https://dsc.gg/hoyo-buddy)。
+請加入 [Discord 伺服器](https://link.seria.moe/hb-dc)。
 
 ## 其他使用技巧
 

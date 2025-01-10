@@ -3,7 +3,7 @@
 
 ## Something is not working!1!1!!
 
-If there is an issue with Hoyo Buddy, you can tag @seria_ati in the [Discord server](https://dsc.gg/hoyo-buddy) or [directly message](https://discord.com/users/410036441129943050) me about it.
+If there is an issue with Hoyo Buddy, you can tag @seria_ati in the [Discord server](https://link.seria.moe/hb-dc) or [directly message](https://discord.com/users/410036441129943050) me about it.
 
 ## Is Hoyo Buddy safe to use?
 
