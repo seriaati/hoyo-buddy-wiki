@@ -7,4 +7,4 @@ Trang này chỉ dành cho mục đích phát triển.
 <!-- markdownlint-disable MD033 -->
 <p></p>
 
-![Account Login Workflow Graph](../src/assets/images/Workflow.png)
+![Account Login Workflow Graph](../../../../src/assets/images/Workflow.png)
