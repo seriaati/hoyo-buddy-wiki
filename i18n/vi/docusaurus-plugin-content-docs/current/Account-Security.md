@@ -8,7 +8,7 @@ Việc bạn muốn cung cấp Cookie của bạn là do quyết định của *
 
 Phần này giải thích cách dữ liệu tài khoản của bạn được sử dụng và lưu trữ. Hãy nhớ rằng Hoyo Buddy là mã nguồn mở và bạn có thể tự xác nhận quy trình xử lý tài khoản bằng cách đọc mã nguồn.
 
-### Cookies là gìgì?
+### Cookies là gì?
 
 Cookie 🍪 là những phần dữ liệu nhỏ mà các trang web lưu trữ trên máy tính hoặc thiết bị của bạn khi bạn truy cập vào trang web đó. Chúng không phải là phần mềm, không thể mang vi-rút và không phải là phần mềm gián điệp. Thay vào đó, chúng giống như một ghi chú mà một trang web để lại cho trình duyệt của bạn để ghi nhớ một số thông tin nhất định về bạn hoặc lượt truy cập của bạn.
 
