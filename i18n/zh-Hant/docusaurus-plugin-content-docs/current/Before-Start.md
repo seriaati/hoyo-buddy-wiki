@@ -1,6 +1,6 @@
 # 帳戶預設
 
-當您第一次使用 Hoyo Buddy 時，您需要連結電子郵件和密碼或使用令牌。大多數這些信息都在[常見問題](./FAQ.md)中。
+首次使用Hoyo Buddy時，您需要連結郵箱和密碼或使用DevTools。大部分內容都在 [FAQ](./FAQ.md) 中。
 
 但是，有些用戶使用第三方平台登錄（例如：Apple ID、Game Center、Google、PlayStation、Microsoft、Facebook 和 Twitter）。
 
@@ -53,10 +53,14 @@
 Hoyo Buddy 只使用電子郵件和密碼或 DevTools 登錄來訪問您的帳戶。如果您希望連結到第三方平台，請前往[HoYoverse 帳戶中心](https://account.hoyoverse.com)的連結帳戶。僅能連結 Facebook 和 Twitter (X) 平台，對於其他平台，請在您想要連結的設備上在遊戲內連結。
 
 - **Game Center**：iOS（遊戲內）
+
 - **Apple 登錄**：iOS（遊戲內），網頁（僅首次註冊）。
+
 - **Google**：Android（遊戲內），PC*（遊戲內），網頁（僅首次註冊）。
-- **Microsoft 帳戶**：Xbox**（遊戲內）。
-- **PlayStation Network**：PlayStation**/\***（遊戲內）
+
+- **Microsoft 帳戶**：Xbox（遊戲內 - [限遊戲機](./Before-Start.md#從主機連結)）。
+
+- **PlayStation Network**：PlayStation**（遊戲內 - [限遊戲機](./Before-Start.md#從主機連結)）
 
 *要將現有的 HoYo 帳戶連結到您的 Google 帳戶，請在 Google Play 商店從官方遊戲頁面下載[原神](https://genshin.hoyoverse.com)或[崩壞3](https://honkaiimpact3.hoyoverse.com/) - Google Play PC。Google Play Games PC 將由 HoYoPlay 安裝程序安裝特定遊戲。
 
@@ -68,9 +72,7 @@ Hoyo Buddy 只使用電子郵件和密碼或 DevTools 登錄來訪問您的帳�
 
 **注意**：_Google Play PC 版本僅允許連結。要取消連結您的 Google 帳戶，請在您的 Android 設備上取消連結。_
 
-**請參閱以下更多信息。
-
-***PSN 帳戶和遊戲帳戶受 PSN 帳戶區域限制，請參閱以下更多信息。
+**PSN 帳戶和遊戲帳戶受 PSN 帳戶區域限制，請參閱以下更多信息。
 
 ## 從主機連結
 
