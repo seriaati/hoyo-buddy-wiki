@@ -6,8 +6,8 @@ import { useEffect } from 'react';
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   useEffect(() => {
-    if (window.location.pathname !== '/docs/intro') {
-      window.location.href = '/docs/intro';
+    if (window.location.pathname !== '/zh-Hans/docs/intro') {
+      window.location.href = '/zh-Hans/docs/intro';
     }
   }, []);
   return null;
