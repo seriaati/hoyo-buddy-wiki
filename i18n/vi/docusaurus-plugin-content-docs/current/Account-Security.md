@@ -24,9 +24,7 @@ Hoyo Buddy yêu cầu người dùng cung cấp Cookie của họ. Bằng cách 
 
 #### Bạn có quyền truy cập vào tài khoản của tôi không?
 
-Đối với tài khoản HoYoLAB, có ✅. Tuy nhiên, với tài khoản trò chơi, không ❌
-
-For HoYoLAB accounts, yes ✅. However, for game accounts, no ❌. Hoyoverse sử dụng các giao thức bảo mật nghiêm ngặt cho tài khoản trò chơi, đảm bảo rằng thông tin đăng nhập trò chơi khác biệt đáng kể so với thông tin đăng nhập trang web thông thường. Do đó, việc sử dụng Cookie để bắt chước các yêu cầu và truy cập vào trò chơi bằng danh tính của bạn là không khả thi. Nói một cách đơn giản, quyền truy cập của tôi bị giới hạn ở thông tin hiển thị trên HoYoLAB; bất kỳ thông tin nào ngoài thông tin đó đều không thể truy cập được.
+Đối với tài khoản HoYoLAB, có ✅. Tuy nhiên, với tài khoản trò chơi, không ❌. Hoyoverse sử dụng các giao thức bảo mật nghiêm ngặt cho tài khoản trò chơi, đảm bảo rằng thông tin đăng nhập trò chơi khác biệt đáng kể so với thông tin đăng nhập trang web thông thường. Do đó, việc sử dụng Cookie để bắt chước các yêu cầu và truy cập vào trò chơi bằng danh tính của bạn là không khả thi. Nói một cách đơn giản, quyền truy cập của tôi bị giới hạn ở thông tin hiển thị trên HoYoLAB; bất kỳ thông tin nào ngoài thông tin đó đều không thể truy cập được.
 
 #### Bạn có thể thay đổi mật khẩu tài khoản của tôi không??
 
