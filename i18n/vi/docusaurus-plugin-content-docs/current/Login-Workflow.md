@@ -1,10 +1,10 @@
-# Account Login Workflow
+# Quy trình đăng nhập tài khoản
 
-This page is for development purposes only.
+Trang này chỉ dành cho mục đích phát triển.
 
 [Link](https://excalidraw.com/#json=yaVxeJhtQEzD6zsBT_kZg,_Tr2y72VxUOmDTkJ1CozmA)
 
 <!-- markdownlint-disable MD033 -->
 <p></p>
 
-![Account Login Workflow Graph](../../../../src/assets/images/Workflow.png)
+![Account Login Workflow Graph](../src/assets/images/Workflow.png)
