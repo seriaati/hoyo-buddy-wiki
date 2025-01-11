@@ -1,47 +1,47 @@
-# Account Security
+# Bảo Mật Tài Khoản
 
-## Disclaimer
+## Miễn trừ
 
-It is entirely **YOUR** decision whether to provide your Cookies or not. While many features offered by the bot depend on the user's HoYoLAB cookies for functionality, Hoyo Buddy has never coerced users into providing their cookies against their will. The developer has implemented robust security measures to prevent the leakage of your Cookies. In the event of a data breach, the developer's utmost responsibility is to promptly inform users about the situation and strongly advise them to change their passwords. In summary, please use this tool at your own discretion and risk!
+Việc bạn muốn cung cấp Cookie của bạn là do quyết định của **BẠN**. Mặc dù nhiều tính năng do bot cung cấp phụ thuộc vào cookie HoYoLAB của người dùng để hoạt động, Hoyo Buddy chưa bao giờ bắt người dùng cung cấp cookie của họ khi họ không muốn. Lập trình viên đã triển khai các biện pháp bảo mật mạnh mẽ để ngăn chặn việc rò rỉ Cookie của bạn. Trong trường hợp dữ liệu bị rò rỉ, trách nhiệm tối cao của lập trình viên là thông báo kịp thời cho người dùng về tình hình và khuyến cáo họ nên thay đổi mật khẩu. Tóm lại, vui lòng sử dụng công cụ này theo quyết định và rủi ro của riêng bạn!
 
-## Introduction
+## Giới thiệu
 
-This section explains how your account data is used and stored. Remember that Hoyo Buddy is open-source, and you can confirm account processing procedures by yourself via reading the source code.
+Phần này giải thích cách dữ liệu tài khoản của bạn được sử dụng và lưu trữ. Hãy nhớ rằng Hoyo Buddy là mã nguồn mở và bạn có thể tự xác nhận quy trình xử lý tài khoản bằng cách đọc mã nguồn.
 
-### What Are Cookies?
+### Cookies là gì?
 
-Cookies 🍪 are small pieces of data that websites store on your computer or device when you visit them. They're not programs, they can't carry viruses, and they're not spyware. Instead, they're more like a note that a website leaves for your browser to remember certain things about you or your visit.
+Cookie 🍪 là những phần dữ liệu nhỏ mà các trang web lưu trữ trên máy tính hoặc thiết bị của bạn khi bạn truy cập vào trang web đó. Chúng không phải là phần mềm, không thể mang vi-rút và không phải là phần mềm gián điệp. Thay vào đó, chúng giống như một ghi chú mà một trang web để lại cho trình duyệt của bạn để ghi nhớ một số thông tin nhất định về bạn hoặc lượt truy cập của bạn.
 
-Imagine you walk into a shop and the shopkeeper gives you a sticker. This sticker might have information like what items you looked at, how long you stayed in the shop, or even your preferences. Later, when you come back to the shop, the shopkeeper looks at your sticker and can tailor your experience based on the information on it.
+Hãy tưởng tượng bạn bước vào một cửa hàng và người bán hàng đưa cho bạn một nhãn dán. Nhãn dán này có thể có thông tin như những mặt hàng bạn đã xem, bạn ở trong cửa hàng bao lâu hoặc thậm chí là sở thích của bạn. Sau đó, khi bạn quay lại cửa hàng, người bán hàng sẽ xem nhãn dán của bạn và có thể tùy chỉnh trải nghiệm của bạn dựa trên thông tin trên đó.
 
-Similarly, when you visit the HoYoLAB website, it gives your browser a "cookie." This cookie contains your login details, allowing the website to identify that it is you accessing the website.
+Tương tự như vậy, khi bạn truy cập trang web HoYoLAB, nó sẽ cung cấp cho trình duyệt của bạn một "cookie". Cookie này chứa thông tin đăng nhập của bạn, cho phép trang web xác định rằng bạn là người truy cập trang web.
 
-### Ok, How Does Hoyo Buddy Use My Cookies?
+### Ok vậy, Hoyo Buddy sử dụng Cookie của tôi như thế nào?
 
-Hoyo Buddy requests users to provide their Cookies. By obtaining your Cookies, Hoyo Buddy can simulate requests to HoYoLAB using your identity, thereby accessing information such as real-time notes, Spiral Abyss overviews, and more. In essence, HoYoLAB identifies the requester based on Cookies, and Hoyo Buddy utilizes your Cookies to inform HoYoLAB that the requester is you, consequently gaining access to the information stored in your account.
+Hoyo Buddy yêu cầu người dùng cung cấp Cookie của họ. Bằng cách lấy Cookie của bạn, Hoyo Buddy có thể mô phỏng các yêu cầu đến HoYoLAB bằng danh tính của bạn, do đó truy cập thông tin như ghi chú thời gian thực, tổng quan về Spiral Abyss, v.v. Về bản chất, HoYoLAB xác định người yêu cầu dựa trên Cookie và Hoyo Buddy sử dụng Cookie của bạn để thông báo cho HoYoLAB rằng người yêu cầu là bạn, do đó có được quyền truy cập vào thông tin được lưu trữ trong tài khoản của bạn.
 
-### Questions Related to Account Security
+### Câu hỏi liên quan về bảo mật tài khoản
 
-#### Do You Have Access to My Account?
+#### Bạn có quyền truy cập vào tài khoản của tôi không?
 
-For HoYoLAB accounts, yes ✅. However, for game accounts, no ❌. Hoyoverse employs stringent security protocols for game accounts, ensuring that game logins differ significantly from typical website logins. Consequently, using Cookies to mimic requests and gain access to games with your identity is not feasible. Put simply, my access is limited to the information visible on HoYoLAB; anything beyond that remains inaccessible.
+Đối với tài khoản HoYoLAB, có ✅. Tuy nhiên, với tài khoản trò chơi, không ❌. Hoyoverse sử dụng các giao thức bảo mật nghiêm ngặt cho tài khoản trò chơi, đảm bảo rằng thông tin đăng nhập trò chơi khác biệt đáng kể so với thông tin đăng nhập trang web thông thường. Do đó, việc sử dụng Cookie để bắt chước các yêu cầu và truy cập vào trò chơi bằng danh tính của bạn là không khả thi. Nói một cách đơn giản, quyền truy cập của tôi bị giới hạn ở thông tin hiển thị trên HoYoLAB; bất kỳ thông tin nào ngoài thông tin đó đều không thể truy cập được.
 
-#### Can You Change My Account's Password?
+#### Bạn có thể thay đổi mật khẩu tài khoản của tôi không??
 
-No, changing your account password involves additional layers of security measures beyond using your Cookies alone. It is impossible to modify any sensitive information on your account without the additional verification from your email or 2FA (if you have it enabled).
+Không, việc thay đổi mật khẩu tài khoản của bạn liên quan đến các lớp bảo mật bổ sung ngoài việc chỉ sử dụng Cookie. Không thể sửa đổi bất kỳ thông tin nhạy cảm nào trên tài khoản của bạn mà không có xác minh bổ sung từ email hoặc 2FA (nếu bạn đã bật).
 
-#### Can You Make Posts on HoYoLAB With My Identity?
+#### Bạn có thể đăng bài trên HoYoLAB bằng danh tính của tôi không?
 
-Given that I have access to your HoYoLAB account, technically yes ✅. However, it's essential to emphasize that I won't engage in such malicious activities.
+Vì tôi có quyền truy cập vào tài khoản HoYoLAB của bạn, về mặt kỹ thuật là được ✅. Tuy nhiên, điều quan trọng cần nhấn mạnh là tôi sẽ không tham gia vào các hoạt động độc hại như spam bài đăng, nói xấu, v.v.
 
-#### Do Cookies Expire?
+#### Cookie có thời hạn không?
 
-Yes ✅, Cookies typically have an expiration period, commonly set to one year. Note that changing your account's password renders all previous Cookies immediately invalid.
+Có ✅, Cookie thường có thời hạn hết hạn, thường được đặt là một năm. Lưu ý rằng việc thay đổi mật khẩu tài khoản của bạn sẽ khiến tất cả các Cookie trước đó ngay lập tức trở nên vô hiệu.
 
-### How Are My Cookies Stored?
+### Cookie của tôi được lưu trữ như thế nào?
 
-Your Cookies are securely stored in a database hosted by [Hetzner](https://www.hetzner.com/). To access this database and obtain your Cookies, a hacker would need to acquire both my server's account password and the database's password. Such a scenario is typically associated with data breaches, although it's important to note that breaches involving hetzner, a reputable and widely-used server hosting provider, are relatively rare. However, in the unlikely event of a breach, I will immediately issue an announcement in the Discord server, urging all users to change their account passwords. This action ensures that any previously stored Cookies in the database become invalidated, thus safeguarding your privacy and security.
+Cookie của bạn được lưu trữ an toàn trong cơ sở dữ liệu do [Hetzner](https://www.hetzner.com/) lưu trữ. Để truy cập cơ sở dữ liệu này và lấy được Cookie của bạn, tin tặc sẽ cần phải lấy được cả mật khẩu tài khoản máy chủ của tôi và mật khẩu cơ sở dữ liệu. Một kịch bản như vậy thường liên quan đến vi phạm dữ liệu, mặc dù điều quan trọng cần lưu ý là vi phạm liên quan đến hetzner, một nhà cung cấp dịch vụ lưu trữ máy chủ uy tín và được sử dụng rộng rãi, tương đối hiếm. Tuy nhiên, trong trường hợp vi phạm không mong muốn, tôi sẽ ngay lập tức đưa ra thông báo trên máy chủ Discord, yêu cầu tất cả người dùng thay đổi mật khẩu tài khoản của họ. Hành động này đảm bảo rằng bất kỳ Cookie nào đã lưu trữ trước đó trong cơ sở dữ liệu đều trở nên vô hiệu, do đó bảo vệ quyền riêng tư và bảo mật của bạn.
 
-### How Does The Email and Password Login Method Work?
+### Phương pháp đăng nhập bằng email và mật khẩu hoạt động như thế nào?
 
-Firstly, it's important to emphasize that this method is not designed to compromise your account security. Instead, it's implemented to simplify the account setup process in Hoyo Buddy. Many users encounter difficulties locating their Cookies manually, prompting the introduction of an easier alternative. The method functions exactly to logging in via email and password on HoYoLAB, occasionally requiring CAPTCHA verification for security purposes. It's crucial to note that your email and password are never stored in the database. Instead, they are temporarily held in-memory and encrypted before being transmitted to Hoyoverse's server. This approach enhances security by minimizing the exposure of sensitive login credentials; you can verify this transparent process by examining the source code.
+Trước tiên, điều quan trọng cần nhấn mạnh là phương pháp này không được thiết kế để xâm phạm tính bảo mật tài khoản của bạn. Thay vào đó, nó được triển khai để đơn giản hóa quy trình thiết lập tài khoản trong Hoyo Buddy. Nhiều người dùng gặp khó khăn khi định vị Cookie theo cách thủ công, thúc đẩy việc giới thiệu một giải pháp thay thế dễ dàng hơn. Phương pháp này hoạt động chính xác như đăng nhập qua email và mật khẩu trên HoYoLAB, đôi khi yêu cầu xác minh CAPTCHA vì mục đích bảo mật. Điều quan trọng cần lưu ý là email và mật khẩu của bạn không bao giờ được lưu trữ trong cơ sở dữ liệu. Thay vào đó, chúng được lưu tạm thời trong bộ nhớ và được mã hóa trước khi được truyền đến máy chủ của Hoyoverse. Phương pháp này tăng cường bảo mật bằng cách giảm thiểu việc tiết lộ thông tin đăng nhập nhạy cảm; bạn có thể xác minh quy trình minh bạch này bằng cách kiểm tra mã nguồn.

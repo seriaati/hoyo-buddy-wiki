@@ -1,105 +1,107 @@
-# Account Pre-setup
+# Thiết lập trước tài khoản
 
-When you first use Hoyo Buddy, you need to link an email and password or use token. Most of those are in [FAQ](./FAQ.md).
+Khi bạn sử dụng Hoyo Buddy lần đầu tiên, bạn cần liên kết email và mật khẩu hoặc sử dụng DevTools để liên kếtkết. Hầu hết những thông tin đó đều có trong [FAQ](./FAQ.md).
 
-But there's users that use Third-party Platform Login (i.e: Apple ID, Game Center, Google, PlayStation, Microsoft, Facebook and Twitter).
+Nhưng có những người dùng sử dụng Đăng nhập nền tảng của bên thứ ba (ví dụ: Apple ID, Game Center, Google, PlayStation, Microsoft, Facebook và Twitter).
 
-This page will help you setup your HoYoverse account to use with Hoyo Buddy
+Trang này sẽ giúp bạn thiết lập tài khoản HoYoverse để sử dụng với Hoyo Buddy
 
-## As a first time player without an account yet thru any means
+## Là người chơi lần đầu tiên mà chưa có tài khoản nào
 
-If this is the first time you hear about any HoYoverse games and you want to use Hoyo Buddy with your HoYoverse account, please first create a new account on [HoYoverse Account Center](https://account.hoyoverse.com).
+Nếu đây là lần đầu tiên bạn nghe về bất kỳ trò chơi HoYoverse nào và bạn muốn sử dụng Hoyo Buddy với tài khoản HoYoverse của mình, trước tiên hãy tạo một tài khoản mới trên [Trung tâm tài khoản HoYoverse](https://account.hoyoverse.com).
 
-Click Sign-in -> Register and follow the on screen prompts.
+Chọn Đăng Nhập -> Đăng ký ngay và làm theo hướng dẫn trên màn hình.
 
 ![Register Screen](../../../../src/assets/images/hb-account/web/sign-up_no-link.png)
 
-If you plan to login with third party, please choose the third party provider first. (Google, Facebook, Twitter(X), Apple)
+Nếu bạn dự định đăng nhập bằng bên thứ ba, vui lòng chọn nhà cung cấp bên thứ ba trước. (Google, Facebook, Twitter(X), Apple)
 
-Once linked, a screen may pop-up asking to link the existing email to HoYoverse account. please make sure to link your email and add a password to complete account creation to use Hoyo Buddy with.
+Sau khi liên kết, một màn hình có thể bật lên yêu cầu liên kết email hiện tại với tài khoản HoYoverse. Vui lòng đảm bảo liên kết email của bạn và thêm mật khẩu để hoàn tất việc tạo tài khoản để sử dụng Hoyo Buddy.
 
 ![Third-party Account Linking](../../../../src/assets/images/hb-account/web/sign-up_google-link.png)
 
-**Note**: <u>Third party login without email is possible for Hoyo Buddy, but you must use Google, Apple, Twitter (X) or Facebook to login to HoYoLAB and ONLY DevTools is allow to Login. Certain Features of Hoyo Buddy will be limited.</u>
+**Lưu ý**: <u>Hoyo Buddy có thể đăng nhập bằng bên thứ ba mà không cần email, nhưng bạn phải sử dụng Google, Apple, Twitter (X) hoặc Facebook để đăng nhập vào HoYoLAB và CHỈ DevTools mới được phép Đăng nhập. Một số Tính năng của Hoyo Buddy sẽ bị hạn chế.</u>
 
-## For existing user
+## Đối với người dùng hiện tại
 
-### Linking an email from third-party login account
+### Liên kết email từ tài khoản đăng nhập bằng nền tảng bên thứ ba
 
-If you use third-party as your main login. Head to [HoYoverse Account Center](https://account.hoyoverse.com). Go to "Personal Information" and link an email and password.
+Nếu bạn sử dụng bên nền tảng đăng nhập thứ ba làm thông tin đăng nhập chính. Hãy vào [Trung tâm tài khoản HoYoverse](https://account.hoyoverse.com). Vào "Thông tin cá nhân" và liên kết email và mật khẩu.
 
-Once in, Click "Link" next to Link account and follow the on-screen prompt
+Khi đã vào, hãy nhấp vào "Liên kết" bên cạnh Liên kết email và làm theo hướng dẫn trên màn hình
 
 ![Account email linking screen](../../../../src/assets/images/hb-account/web/post-link.png)
 
-For In-game Linking, go to User Center and Link your email and password there.
+Để liên kết trong trò chơi, hãy vào Trung tâm người dùng và liên kết email và mật khẩu của bạn tại đó.
 
-- **Honkai Impact 3rd**: "LV.[XX] [Name]" -> Account -> User Center
+- **Honkai Impact 3rd**: "LV.[XX] [Tên]" -> Tài Khoản -> Trung tâm Người dùng
 
-- **Genshin Impact**: Paimon Menu -> Settings -> Account -> User Center
+- **Genshin Impact**: Menu Paimon -> Cài đặt -> Tài Khoản -> Trung tâm Người dùng
 
 - **Honkai: Star Rail**: 
 
-  - *Login Screen*: Settings -> Account -> User Center (Recommended if you don't want to download the entire game)
+  - *Màn hình đăng nhập*: Cài đặt -> Tài Khoản -> Trung tâm Người dùng (Khuyến nghị nếu bạn không muốn tải toàn bộ tài nguyên trò chơi)
 
-  - *In-Game*: Phone -> Account Settings -> User Center
+  - *Trong Game*: Điện Thoại -> Thiết lập Tài Khoản -> Trung tâm Người dùng
 
-- **Zenless Zone Zero**: Menu -> Options -> Account -> USER CENTER
+- **Zenless Zone Zero**: Menu -> Thiết Lập -> Tài Khoản -> Trung tâm Người dùng
 
 ![Account email linking screen](../../../../src/assets/images/hb-account/pc/in-game-email.png)
 
-### Linking third-party from email login account
+### Liên kết nền tảng bên thứ ba từ tài khoản đăng nhập bằng email
 
-Hoyo Buddy only use Email and Password or DevTools login to access your account. If you wish to link to a third-party platform, please go to Link Account on [HoYoverse Account Center](https://account.hoyoverse.com). Only Facebook and Twitter (X) Platform can be link, for other platfrom, please link them in-game on the device you want link.
+Hoyo Buddy chỉ sử dụng Email và Mật khẩu hoặc thông tin đăng nhập DevTools để truy cập tài khoản của bạn. Nếu bạn muốn liên kết đến nền tảng của bên thứ ba, vui lòng truy cập Liên kết Tài khoản trên [Trung tâm Tài khoản HoYoverse](https://account.hoyoverse.com). Chỉ có thể liên kết Nền tảng Facebook và Twitter (X), đối với các nền tảng khác, vui lòng liên kết chúng trong trò chơi trên thiết bị bạn muốn liên kết.
 
-- **Game Center**: iOS (In-game)
-- **Apple Login**: iOS (In-game), Web (only first sign-up).
-- **Google**: Android (In-game), PC* (In-game), Web (only first sign-up).
-- **Microsoft Account**: Xbox** (In-game).
-- **PlayStation Network**: PlayStation**/\*** (In-game)
+- **Game Center (iCloud)**: iOS (Trong Game)
 
-*To Link your existing HoYo account to your Google Account on PC, please download [Genshin Impact](https://genshin.hoyoverse.com) or [Honkai Impact 3rd](https://honkaiimpact3.hoyoverse.com/) - Google Play PC on the Google Play Store from the official Game Page. Google Play Games PC will be install, later by HoYoPlay installer of the specifc game.
+- **Đăng Nhập bằng Apple**: iOS (Trong Game), Web (dành cho đăng ký lần đầu).
 
-Once installation Completed and the game is ready to run, launch the game and login to your existing HoYoverse account.
+- **Google**: Android (Trong Game), PC* (Trong Game), Web (dành cho đăng ký lần đầu).
 
-Once logged in, a screen will pop-up asking to login with Google Play. Follow the on screen instruction to complete the linking process.
+- **Microsoft Account**: Xbox (Trong Game - [Trên Console](./Before-Start.md#liên-kết-từ-console)).
+
+- **PlayStation Network**: PlayStation** (Trong Game - [Trên Console](./Before-Start.md#liên-kết-từ-console))
+
+*Để liên kết tài khoản HoYo hiện tại của bạn với Tài khoản Google trên PC, vui lòng tải xuống [Genshin Impact](https://genshin.hoyoverse.com) hoặc [Honkai Impact 3rd](https://honkaiimpact3.hoyoverse.com/) - Google Play PC trên Cửa hàng Google Play từ Trang trò chơi chính thức. Trò chơi Google Play PC sẽ được cài đặt sau, bằng trình cài đặt HoYoPlay của trò chơi cụ thể.
+
+Sau khi cài đặt hoàn tất và trò chơi đã sẵn sàng chạy, hãy khởi chạy trò chơi và đăng nhập vào tài khoản HoYoverse hiện có của bạn.
+
+Sau khi đăng nhập, một màn hình sẽ bật lên yêu cầu đăng nhập bằng Google Play. Làm theo hướng dẫn trên màn hình để hoàn tất quá trình liên kết.
 
 ![Genshin - Google Play PC Linking](../../../../src/assets/images/hb-account/pc/hk4e_google.png)
 
-**Note**: _Google Play PC version only allow linking. To unlink your Google account, please Unlink it on your Android Device._
+**Lưu ý**: _Phiên bản Google Play PC chỉ cho phép liên kết. Để hủy liên kết tài khoản Google của bạn, vui lòng Hủy liên kết trên Thiết bị Android của bạn._.
 
-**Please see the below for more information.
+***Khu vực tài khoản trò chơi của bạn bị giới hạn theo khu vực tài khoản PSN mà bạn đặt, xem thông tin bên dưới để biết thêm thông tin.
 
-***PSN account and Game accounts are region bound by PSN account region, see the below for more info.
+## Liên kết từ Console
 
-## Linking from Console
+Bằng cách sử dụng Hoyo Buddy, bạn có thể sử dụng các tính năng mà người dùng di động và PC có.
 
-By using Hoyo Buddy, you will able to use Features that Mobile and PC user have.
+Đối với người dùng mới bắt đầu sử dụng bảng điều khiển, vui lòng làm theo [Liên kết email từ thông tin đăng nhập của bên thứ ba](./Before-Start.md#liên-kết-email-từ-tài-khoản-đăng-nhập-bằng-nền-tảng-bên-thứ-ba)
 
-For new users starting on console, please follow the [Linking an email from third-party login](./Before-Start.md#linking-an-email-from-third-party-login)
+Đối với người dùng hiện tại, hãy làm theo hướng dẫn bên dưới.
 
-For existing users, follow the instruction below.
-
-**[PlayStation Only]**: Please check your region account before linking your HoYo account to PSN. See the chart below. Applies to all HoYoverse games
+**[Chỉ PlayStation]**: Vui lòng kiểm tra tài khoản khu vực của bạn trước khi liên kết tài khoản HoYo của bạn với PSN. Xem biểu đồ bên dưới. Áp dụng cho tất cả các trò chơi HoYoverse
 
 ![PSN Region Lock List](../../../../src/assets/images/hb-account/console/PSN_Region_Lock.png)
 
-Login to one of the HoYo games and choose "Already have an Account, log in directly"
+Đăng nhập vào một trong các trò chơi HoYo và chọn "Đã có tài khoản, đăng nhập trực tiếp"
 
 ![Linking Screen - Xbox](../../../../src/assets/images/hb-account/console/xbox-link_1.png)
 
-If you only use third-party login, Scan the QR Code if you wish to only use DevTools login.
+Nếu bạn chỉ sử dụng thông tin đăng nhập của bên thứ ba, hãy Quét Mã QR nếu bạn chỉ muốn sử dụng thông tin đăng nhập DevTools.
 
 ![Linking Screen - Xbox - Existing](../../../../src/assets/images/hb-account/console/xbox-link_2.png)
 
-When using QR Link, check if the the information is correct.
+Khi sử dụng QR Link, hãy kiểm tra xem thông tin có chính xác không.
 
 ![Linking Screen - QR - Xbox](../../../../src/assets/images/hb-account/console/qr_link-1.png)
 
-**Note**: PSN User please double check if your account region is correct with your server region. If the game asks you to link create a new game account, close the game and double check if your region account is correct as the [chart](./Before-Start.md#linking-from-console) said.
+**Lưu ý**: Người dùng PSN vui lòng kiểm tra lại xem vùng tài khoản của bạn có đúng với vùng máy chủ của bạn không. Nếu trò chơi yêu cầu bạn liên kết tạo tài khoản trò chơi mới, hãy đóng trò chơi và kiểm tra lại xem tài khoản vùng của bạn có đúng như [bảng trên](./Before-Start.md#liên-kết-từ-console) không.
 
 ![Linking Screen - QR - PSN](../../../../src/assets/images/hb-account/console/qr_link-psn.png)
 
-If you are sure the region is correct. Confirm the link.
+Nếu bạn chắc chắn vùng là đúng. Xác nhận liên kết.
 
-**Congrats! You can now play any HoYoverse game cross-platform with Hoyo Buddy enhancement!** Check out [Getting Started](./Getting-Started.md) to Setup Hoyo Buddy
+**Xin chúc mừng! Bây giờ bạn có thể chơi bất kỳ trò chơi HoYoverse nào trên nhiều nền tảng với cải tiến Hoyo Buddy!** Hãy xem [Bắt đầu](./Getting-Started.md) để Thiết lập Hoyo Buddy

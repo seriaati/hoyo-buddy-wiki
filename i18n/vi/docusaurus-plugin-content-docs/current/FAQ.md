@@ -1,91 +1,91 @@
 <!-- markdownlint-disable MD026 MD040 MD047 -->
-# Frequently Asked Questions
+# Những Câu Hỏi Thường Gặp
 
-## Something is not working!1!1!!
+## Có gì đó không ổn!1!1!!
 
-If there is an issue with Hoyo Buddy, you can tag @seria_ati in the [Discord server](https://link.seria.moe/hb-dc) or [directly message](https://discord.com/users/410036441129943050) me about it.
+Nếu có vấn đề gì với Hoyo Buddy, bạn có thể tag @seria_ati trên [máy chủ Discord](https://link.seria.moe/hb-dc) hoặc [nhắn tin trực tiếp](https://discord.com/users/410036441129943050) cho tôi về vấn đề đó.
 
-## Is Hoyo Buddy safe to use?
+## Hoyo Buddy có an toàn khi sử dụng không?
 
-It depends on what you mean by "safe", please read the account security page for more information.
+Tùy thuộc vào ý bạn khi nói đến "an toàn", vui lòng đọc trang bảo mật tài khoản để biết thêm thông tin.
 
-## Some texts are still being shown as English, even though I've selected other languages through /settings
+## Một số văn bản vẫn được hiển thị là tiếng Anh, mặc dù tôi đã chọn ngôn ngữ khác thông qua /settings
 
-This is because the translation for the texts you're seeing are not ready yet, Hoyo Buddy only has a small group of volunteers to translate the texts, and we all have our personal life to enjoy with. So, if you want to speed up this process, you're very welcomed to join the translation team! If you're interested, read the [contribution guidelines](https://github.com/seriaati/hoyo-buddy/blob/main/CONTRIBUTING.md) for more information.
+Nguyên nhân là do bản dịch cho các văn bản bạn đang xem vẫn chưa sẵn sàng, Hoyo Buddy chỉ có một nhóm nhỏ tình nguyện viên để dịch các văn bản và tất cả chúng ta đều có cuộc sống riêng để tận hưởng. Vì vậy, nếu bạn muốn đẩy nhanh quá trình này, bạn rất được hoan nghênh tham gia nhóm dịch viên! Nếu bạn quan tâm, hãy đọc [hướng dẫn đóng góp](https://github.com/seriaati/hoyo-buddy/blob/main/CONTRIBUTING.md) để biết thêm thông tin.
 
-## How is my data being used?
+## Dữ liệu của tôi được sử dụng như thế nào?
 
-Your data is never shared with third parties; for more information, please read the [privacy policy](https://github.com/seriaati/hoyo-buddy/blob/main/PRIVACY.md) page.
+Dữ liệu của bạn sẽ không bao giờ được chia sẻ với bên thứ ba; để biết thêm thông tin, vui lòng đọc trang [chính sách bảo mật](https://github.com/seriaati/hoyo-buddy/blob/main/PRIVACY.md).
 
-## Is Hoyo Buddy open source?
+## Hoyo Buddy có phải là phần mềm mã nguồn mở không?
 
-Yes, Hoyo Buddy is open source. You can find the source code on [GitHub](https://github.com/seriaati/hoyo-buddy/) , please comply with the [license](https://github.com/seriaati/hoyo-buddy/blob/main/LICENSE) when using the code.
+Có, Hoyo Buddy là mã nguồn mở. Bạn có thể tìm mã nguồn trên [GitHub](https://github.com/seriaati/hoyo-buddy/), vui lòng tuân thủ [giấy phép](https://github.com/seriaati/hoyo-buddy/blob/main/LICENSE) khi sử dụng mã.
 
-### Can I self-host Hoyo Buddy?
+### Tôi có thể tự-host Hoyo Buddy không?
 
-I won't provide any assistance to self-hosting, but with enough technical skills, it's possible to set up your own instance of Hoyo Buddy. However, due to copyright purposes, I have locked the assets that Hoyo Buddy uses in a private repository, this means that all image generation features on your instance will not work (except the 3rd party card templates in /profile).
+Tôi sẽ không cung cấp bất kỳ hỗ trợ nào cho việc tự host, nhưng với đủ kỹ năng kỹ thuật, bạn có thể thiết lập phiên bản Hoyo Buddy của riêng mình. Tuy nhiên, vì lý do bản quyền, tôi đã khóa các tài sản mà Hoyo Buddy sử dụng trong kho lưu trữ riêng, điều này có nghĩa là tất cả các tính năng tạo hình ảnh trên phiên bản của bạn sẽ không hoạt động (trừ các mẫu thẻ của bên thứ 3 trong /profile).
 
-## Why are the buttons/selects disabled?
+## Tại sao các nút/lựa chọn bị vô hiệu hóa?
 
-To save resources, UI (user interface) elements expire after 10 minutes. To avoid confusion, UI elements are disabled when they expire.
+Để tiết kiệm tài nguyên, các thành phần UI (giao diện người dùng) sẽ hết hạn sau 10 phút. Để tránh nhầm lẫn, các thành phần UI sẽ bị vô hiệu hóa khi chúng hết hạn.
 
-## I have 2 accounts, 1 using Third-party login, other using email. Can I use it?
+## Tôi có 2 tài khoản, 1 tài khoản sử dụng đăng nhập của bên thứ ba, tài khoản còn lại sử dụng email. Tôi có thể sử dụng không?
 
-Third-party login can use [DevTools](./FAQ.md#logging-in-with-devtools) to login but Certain Features will be limited. If you want to use the full feature set, please [Link an email from third-party login account](./Before-Start.md#linking-an-email-from-third-party-login-account), then log in using email/username and password to link to Hoyo Buddy.
+Đăng nhập của bên thứ ba có thể sử dụng [DevTools](./FAQ.md#đăng-nhập-bằng-devtools) để đăng nhập nhưng một số tính năng nhất định sẽ bị hạn chế. Nếu bạn muốn sử dụng toàn bộ tính năng, vui lòng [Liên kết email từ tài khoản đăng nhập bằng nền tảng bên thứ ba](./Before-Start.md#liên-kết-email-từ-tài-khoản-đăng-nhập-bằng-nền-tảng-bên-thứ-ba), sau đó đăng nhập bằng email/tên người dùng và mật khẩu để liên kết đến Hoyo Buddy.
 
-## "Too many requests" error when trying to add accounts using email & password method
+## Lỗi "Quá nhiều yêu cầu" khi cố gắng thêm tài khoản bằng phương pháp email và mật khẩu
 
-Most of the time, this issue is just temporary, wait for 30 minutes then try again. If the error still shows, you're account may be "soft-locked", please read the guide below closely (Note: A user reported that their account is automatically unlocked after waiting for 5 days.)
+Hầu hết thời gian, sự cố này chỉ là tạm thời, hãy đợi 30 phút rồi thử lại. Nếu lỗi vẫn hiển thị, tài khoản của bạn có thể bị "khóa mềm", vui lòng đọc kỹ hướng dẫn bên dưới (Lưu ý: Một người dùng đã báo cáo rằng tài khoản của họ được tự động mở khóa sau khi chờ 5 ngày.)
 
-1. First, please DO NOT reset your account's password, this won't solve the issue and will only make it worse.
+1. Trước tiên, vui lòng KHÔNG đặt lại mật khẩu tài khoản của bạn, điều này sẽ không giải quyết được sự cố và sẽ chỉ khiến sự cố trở nên tồi tệ hơn.
 
-2. Second, please STOP trying to login on HoYoLAB/Hoyo Buddy/in-game with your email/username and password.
+2. Thứ hai, vui lòng DỪNG cố gắng đăng nhập vào HoYoLAB/Hoyo Buddy/trong trò chơi bằng email/tên người dùng và mật khẩu của bạn.
 
-Are you still logged in in your games (Genshin, ZZZ, etc.)?
+Bạn có còn đăng nhập vào trò chơi của mình không (Genshin, ZZZ, v.v.)?
 
-* Yes: First, [send an email to customer service](./FAQ#sending-an-email-to-the-customer-service). Then try [DevTools](./FAQ#logging-in-with-devtools) or [email instead of username](./FAQ#logging-in-with-email-instead-of-username) to login on Hoyo Buddy.
+* Có: Đầu tiên, [gửi email đến bộ phận chăm sóc khách hàng](./FAQ#gửi-email-đến-cskh). Sau đó, hãy thử [DevTools](./FAQ.md#đăng-nhập-bằng-devtools) hoặc [email thay vì tên người dùng](./FAQ#đăng-nhập-bằng-tên-người-dùng-thay-vì-email) để đăng nhập vào Hoyo Buddy.
 
-* No: See [trying to login into your games](./FAQ#trying-to-login-into-your-games).
+* Không: Xem [cố gắng đăng nhập vào trò chơi của bạn](./FAQ#đang-cố-gắng-đăng-nhập-vào-trò-chơi-của-bạn).
 
-### Logging in with email instead of username
+### Đăng nhập bằng tên người dùng thay vì email
 
-A user discovered that if you have been logging in with your username, logging in with email can bypass the error message. Likewise, if you have been logging with your email, try logging in with your username.
+Một người dùng phát hiện ra rằng nếu bạn đã đăng nhập bằng tên người dùng của mình, đăng nhập bằng email có thể bỏ qua thông báo lỗi. Tương tự như vậy, nếu bạn đã đăng nhập bằng email của mình, hãy thử đăng nhập bằng tên người dùng của mình.
 
-### Logging in with DevTools
+### Đăng nhập bằng DevTools
 
-If you have a PC/laptop device, you can login using the DevTools method, the button is next to the email & password one. You won't be able to use code redemption features (like auto redeem) with this method.
+Nếu bạn có thiết bị PC/laptop, bạn có thể đăng nhập bằng phương pháp DevTools, nút nằm cạnh email và mật khẩu. Bạn sẽ không thể sử dụng các tính năng đổi mã (như đổi tự động) bằng phương pháp này.
 
-### Trying to login into your games
+### Cố gắng đăng nhập vào trò chơi của bạn
 
-Is your Hoyoverse account linked to any social medias (Google, X, etc.)?
+Tài khoản Hoyoverse của bạn có được liên kết với bất kỳ nền tảng bên thứ ba nào không (Google, Facebook, v.v.)?
 
-* Yes: Login to your games with the social media linked. Then, [send an email to customer service](./FAQ#sending-an-email-to-the-customer-service). Next, try [DevTools](./FAQ#logging-in-with-devtools) or [email instead of username](./FAQ#logging-in-with-email-instead-of-username) to login on Hoyo Buddy.
+* Có: Đăng nhập vào trò chơi của bạn bằng phương tiện truyền thông xã hội được liên kết. Sau đó, [gửi email đến bộ phận CSKH](./FAQ#gửi-email-đến-cskh). Tiếp theo, hãy thử [DevTools](./FAQ#đăng-nhập-bằng-devtools) hoặc [email thay vì tên người dùng](./FAQ#đăng-nhập-bằng-tên-người-dùng-thay-vì-email) để đăng nhập vào Hoyo Buddy.
 
-* No: See below
+* Không: Xem bên dưới
 
-Are you logged in at the [Hoyoverse Account Center](https://account.hoyoverse.com/)?
+Bạn đã đăng nhập vào [Trung tâm tài khoản Hoyoverse](https://account.hoyoverse.com/) chưa?
 
-* Yes: Link your account to a social media and login to your games with it. Then, [send an email to customer service](./FAQ#sending-an-email-to-the-customer-service). Next, try [DevTools](./FAQ#logging-in-with-devtools) or [email instead of username](./FAQ#logging-in-with-email-instead-of-username) to login on Hoyo Buddy.
+* Có: Liên kết tài khoản của bạn với phương tiện truyền thông xã hội và đăng nhập vào trò chơi của bạn bằng phương tiện đó. Sau đó, [gửi email đến bộ phận CSKH](./FAQ#gửi-email-đến-cskh). Tiếp theo, hãy thử [DevTools](./FAQ.md#đăng-nhập-bằng-devtools) hoặc [email thay vì tên người dùng](./FAQ#đăng-nhập-bằng-tên-người-dùng-thay-vì-email) để đăng nhập vào Hoyo Buddy.
 
-* No: Try [this](./FAQ#logging-in-with-email-instead-of-username), if it doesn't work,  [send an email to customer service](./FAQ#sending-an-email-to-the-customer-service) then wait patiently for their response. Sorry, but you can't access your game account for now.
+* Không: Hãy thử [cái này](./FAQ#đăng-nhập-bằng-tên-người-dùng-thay-vì-email), nếu không được, hãy [gửi email đến bộ phận CSKH](./FAQ#gửi-email-đến-cskh) rồi kiên nhẫn chờ phản hồi của họ. Rất tiếc, nhưng hiện tại bạn không thể truy cập tài khoản trò chơi của mình.
 
-### Sending an email to the customer service
+### Gửi email đến CSKH
 
-Email address: [hoyolab@hoyoverse.com](mailto:hoyolab@hoyoverse.com)
+Địa chỉ Email: [hoyolab@hoyoverse.com](mailto:hoyolab@hoyoverse.com)
 
-Template:
+Mẫu:
 
 ```
-I am unable to login to HoYoLAB with my email and password, it says "Too Many Requests, Please Refresh the Page and try Again Later" when I try to do so (as shown in the screenshot below). I have already waited for more than 8 hours and it still shows this error. Please help me unlock my account, I would greatly appreciate it.
+Tôi không thể đăng nhập vào HoYoLAB bằng email và mật khẩu của mình, khi tôi thử đăng nhập thì nó báo "Quá nhiều yêu cầu, vui lòng làm mới trang và thử lại sau" (như trong ảnh chụp màn hình bên dưới). Tôi đã đợi hơn 8 giờ và nó vẫn hiển thị lỗi này. Vui lòng giúp tôi mở khóa tài khoản, tôi chân thành cảm ơn.
 
-My email is <your email>
-(attach a screenshot showing the error)
+Email của tôi là <email của bạn>
+(đính kèm ảnh chụp màn hình hiển thị lỗi)
 ```
 
-## Why do I get "Cookie Token Expired" errors with code redemption related features, even though other features (like auto daily check-in) work just fine?
+## Tại sao tôi nhận được lỗi "Cookie Token Expired" với các tính năng liên quan đến đổi mã, mặc dù các tính năng khác (như tự động kiểm tra hàng ngày) hoạt động tốt?
 
-To put simply, Hoyoverse uses a special cookie (cookie token) for code redemption that expires very quickly (3 days to be exact). As far as I know, cookie token is only used in code redemption, so that's why other features still work. To refresh your cookie token, you need to re-add your accounts using /accounts, which gets a fresh cookie token from Hoyoverse. However, this cookie token will still expire after 3 days; therefore, to avoid the hassle, you can add your accounts through the email and password method, so Hoyo Buddy can refresh your cookie token automatically through the same technique used by Hoyoverse.
+Nói một cách đơn giản, Hoyoverse sử dụng một cookie đặc biệt (cookie token) để đổi mã hết hạn rất nhanh (chính xác là 3 ngày). Theo như tôi biết, cookie token chỉ được sử dụng để đổi mã, vì vậy đó là lý do tại sao các tính năng khác vẫn hoạt động. Để làm mới cookie token của bạn, bạn cần thêm lại tài khoản của mình bằng cách sử dụng /accounts, lệnh này sẽ nhận được cookie token mới từ Hoyoverse. Tuy nhiên, cookie token này vẫn sẽ hết hạn sau 3 ngày; do đó, để tránh rắc rối, bạn có thể thêm tài khoản của mình thông qua phương pháp email và mật khẩu, để Hoyo Buddy có thể tự động làm mới cookie token của bạn thông qua cùng một kỹ thuật mà Hoyoverse sử dụng.
 
-## Why do I see "interaction failed" error?
+## Tại sao tôi thấy lỗi "interaction failed"?
 
-Most of the time this is caused by bot restarts (to apply code updates), and you just need to re-type the command again. However, if this keeps on happening, that means something is broken and you should notify the developer via /feedback.
+Hầu hết thời gian lỗi này là do bot khởi động lại (để áp dụng bản cập nhật mã) và bạn chỉ cần nhập lại lệnh. Tuy nhiên, nếu lỗi này tiếp tục xảy ra, điều đó có nghĩa là có lỗi và bạn nên thông báo cho nhà phát triển qua /feedback.

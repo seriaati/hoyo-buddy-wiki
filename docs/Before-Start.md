@@ -1,6 +1,6 @@
 # Account Pre-setup
 
-When you first use Hoyo Buddy, you need to link an email and password or use token. Most of those are in [FAQ](./FAQ.md).
+When you first use Hoyo Buddy, you need to link an email and password or use DevToolsDevTools. Most of those are in [FAQ](./FAQ.md).
 
 But there's users that use Third-party Platform Login (i.e: Apple ID, Game Center, Google, PlayStation, Microsoft, Facebook and Twitter).
 
@@ -24,7 +24,7 @@ Once linked, a screen may pop-up asking to link the existing email to HoYoverse 
 
 ## For existing user
 
-### Linking an email from third-party login account
+### Linking an email from third-party login
 
 If you use third-party as your main login. Head to [HoYoverse Account Center](https://account.hoyoverse.com). Go to "Personal Information" and link an email and password.
 
@@ -48,15 +48,19 @@ For In-game Linking, go to User Center and Link your email and password there.
 
 ![Account email linking screen](../src/assets/images/hb-account/pc/in-game-email.png)
 
-### Linking third-party from email login account
+### Linking third-party from email login
 
 Hoyo Buddy only use Email and Password or DevTools login to access your account. If you wish to link to a third-party platform, please go to Link Account on [HoYoverse Account Center](https://account.hoyoverse.com). Only Facebook and Twitter (X) Platform can be link, for other platfrom, please link them in-game on the device you want link.
 
 - **Game Center**: iOS (In-game)
+
 - **Apple Login**: iOS (In-game), Web (only first sign-up).
+
 - **Google**: Android (In-game), PC* (In-game), Web (only first sign-up).
-- **Microsoft Account**: Xbox** (In-game).
-- **PlayStation Network**: PlayStation**/\*** (In-game)
+
+- **Microsoft Account**: Xbox (In-game - [Console Only](./Before-Start.md#linking-from-console)).
+
+- **PlayStation Network**: PlayStation** (In-game - [Console Only](./Before-Start.md#linking-from-console))
 
 *To Link your existing HoYo account to your Google Account on PC, please download [Genshin Impact](https://genshin.hoyoverse.com) or [Honkai Impact 3rd](https://honkaiimpact3.hoyoverse.com/) - Google Play PC on the Google Play Store from the official Game Page. Google Play Games PC will be install, later by HoYoPlay installer of the specifc game.
 
@@ -68,9 +72,7 @@ Once logged in, a screen will pop-up asking to login with Google Play. Follow th
 
 **Note**: _Google Play PC version only allow linking. To unlink your Google account, please Unlink it on your Android Device._
 
-**Please see the below for more information.
-
-***PSN account and Game accounts are region bound by PSN account region, see the below for more info.
+**PSN account and Game accounts are region bound by PSN account region, see the below for more info.
 
 ## Linking from Console
 

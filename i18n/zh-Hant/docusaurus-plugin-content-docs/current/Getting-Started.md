@@ -8,12 +8,12 @@
 1. 點擊[此連結](https://discord.com/oauth2/authorize?client_id=1000045812522430626).
 
 2. 選擇你想要的選項。  
-![image](https://github.com/user-attachments/assets/27a46e7d-b3ce-4a91-a166-b934647330b5)
+![image](../../../../src/assets/images/HB_Add-app_zh_Hant.png)
 
 3. 回到 Discord 並輸入 `/`, 接著選擇 Hoyo Buddy 的圖標 (紅色和藍色的三角形). 你現在將能看到 Hoyo Buddy 的所有指令, 選擇任意指令來執行它.  
-![image](https://github.com/user-attachments/assets/6960be6c-8b51-49fd-93ae-bad4dad6822b)
+![image](../../../../src/assets/images/392196104-6960be6c-8b51-49fd-93ae-bad4dad6822b.png)
 
-了解更多: [Hoyo Buddy 安全嗎? (英文)](https://github.com/seriaati/hoyo-buddy/wiki/Account-Security)
+了解更多: [Hoyo Buddy 安全嗎? (英文)](./Account-Security.md)
 
 ### 設置完成後
 
