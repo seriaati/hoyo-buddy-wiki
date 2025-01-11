@@ -1,6 +1,6 @@
 # Account Pre-setup
 
-When you first use Hoyo Buddy, you need to link an email and password or use DevToolsDevTools. Most of those are in [FAQ](./FAQ.md).
+When you first use Hoyo Buddy, you need to link an email and password or use DevTools. Most of those are in [FAQ](./FAQ.md).
 
 But there's users that use Third-party Platform Login (i.e: Apple ID, Game Center, Google, PlayStation, Microsoft, Facebook and Twitter).
 
