@@ -10,7 +10,7 @@ Hoyo Buddy is designed from the ground up to support all (current and future) Ho
 
 ## It's Free
 
-Hoyo Buddy is completely free. We understand the frustration when developers lock fundamental features (like custom art for character build cards) behind a paywall, essentially forcing you to pay. That's why we never lock any features behind a paywall. Everything on Hoyo Buddy is free—there are no "premium" features or perks.
+Hoyo Buddy is completely free. We understand the frustration when developers lock fundamental features (like custom art for character build cards) behind a paywall, essentially forcing you to pay. That's why we never lock any features behind a paywall. Everything on Hoyo Buddy is free — there are no "premium" features or perks.
 
 ## It's Easy to Use
 

@@ -24,7 +24,7 @@ If you need help setting up Hoyo Buddy, please join our [Discord server](https:/
 
 ![Slash Command Screen](../../../../src/assets/images/392196104-6960be6c-8b51-49fd-93ae-bad4dad6822b.png)
 
-Read more: Is Hoyo Buddy safe?
+Read more: [Is Hoyo Buddy safe?](./Account-Security.md)
 
 ### Post-Set Up
 
