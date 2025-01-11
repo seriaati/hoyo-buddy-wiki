@@ -4,11 +4,11 @@
 
 Việc bạn muốn cung cấp Cookie của bạn là do quyết định của **BẠN**. Mặc dù nhiều tính năng do bot cung cấp phụ thuộc vào cookie HoYoLAB của người dùng để hoạt động, Hoyo Buddy chưa bao giờ bắt người dùng cung cấp cookie của họ khi họ không muốn. Lập trình viên đã triển khai các biện pháp bảo mật mạnh mẽ để ngăn chặn việc rò rỉ Cookie của bạn. Trong trường hợp dữ liệu bị rò rỉ, trách nhiệm tối cao của lập trình viên là thông báo kịp thời cho người dùng về tình hình và khuyến cáo họ nên thay đổi mật khẩu. Tóm lại, vui lòng sử dụng công cụ này theo quyết định và rủi ro của riêng bạn!
 
-## Introduction
+## Giới thiệu
 
 Phần này giải thích cách dữ liệu tài khoản của bạn được sử dụng và lưu trữ. Hãy nhớ rằng Hoyo Buddy là mã nguồn mở và bạn có thể tự xác nhận quy trình xử lý tài khoản bằng cách đọc mã nguồn.
 
-### What Are Cookies?
+### Cookies là gìgì?
 
 Cookie 🍪 là những phần dữ liệu nhỏ mà các trang web lưu trữ trên máy tính hoặc thiết bị của bạn khi bạn truy cập vào trang web đó. Chúng không phải là phần mềm, không thể mang vi-rút và không phải là phần mềm gián điệp. Thay vào đó, chúng giống như một ghi chú mà một trang web để lại cho trình duyệt của bạn để ghi nhớ một số thông tin nhất định về bạn hoặc lượt truy cập của bạn.
 
