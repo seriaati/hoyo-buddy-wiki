@@ -1,5 +1,7 @@
 # Getting Started
 
+If you do not have a Hoyoverse account (you login with 3rd party services like Google), or you are a console player, please check out the [Account Pre-setup guide](./Before-Start.md).
+
 <!-- markdownlint-disable MD033 -->
 
 ## Try out Hoyo Buddy today

@@ -38,7 +38,7 @@ For In-game Linking, go to User Center and Link your email and password there.
 
 - **Genshin Impact**: Paimon Menu -> Settings -> Account -> User Center
 
-- **Honkai: Star Rail**: 
+- **Honkai: Star Rail**:
 
   - *Login Screen*: Settings -> Account -> User Center (Recommended if you don't want to download the entire game)
 
@@ -70,7 +70,7 @@ Once logged in, a screen will pop-up asking to login with Google Play. Follow th
 
 ![Genshin - Google Play PC Linking](../src/assets/images/hb-account/pc/hk4e_google.png)
 
-**Note**: _Google Play PC version only allow linking. To unlink your Google account, please Unlink it on your Android Device._
+**Note**: *Google Play PC version only allow linking. To unlink your Google account, please Unlink it on your Android Device.*
 
 **PSN account and Game accounts are region bound by PSN account region, see the below for more info.
 
