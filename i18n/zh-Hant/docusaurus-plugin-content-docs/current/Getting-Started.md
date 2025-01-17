@@ -1,5 +1,7 @@
 # 開始使用
 
+如果你沒有 Hoyoverse 帳戶（平常使用第三方服務，例如 Google 登入），或是你是個遊戲主機玩家，請查看[帳戶前置作業](./Before-Start.md)。
+
 ## 使用 Hoyo Buddy
 
 你可以在**不邀請** Hoyo Buddy 至任何伺服器的情況下使用它。  
