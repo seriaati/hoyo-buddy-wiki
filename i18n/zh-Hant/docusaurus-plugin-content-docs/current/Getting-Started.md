@@ -13,7 +13,7 @@
 3. 回到 Discord 並輸入 `/`, 接著選擇 Hoyo Buddy 的圖標 (紅色和藍色的三角形). 你現在將能看到 Hoyo Buddy 的所有指令, 選擇任意指令來執行它.  
 ![image](../../../../src/assets/images/392196104-6960be6c-8b51-49fd-93ae-bad4dad6822b.png)
 
-了解更多: [Hoyo Buddy 安全嗎? (英文)](./Account-Security.md)
+了解更多: [Hoyo Buddy 安全嗎?](./Account-Security.md)
 
 ### 設置完成後
 
