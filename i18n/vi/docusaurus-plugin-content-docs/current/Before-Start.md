@@ -1,6 +1,6 @@
 # Thiết lập trước tài khoản
 
-Khi bạn sử dụng Hoyo Buddy lần đầu tiên, bạn cần liên kết email và mật khẩu hoặc sử dụng DevTools để liên kếtkết. Hầu hết những thông tin đó đều có trong [FAQ](./FAQ.md).
+Khi bạn sử dụng Hoyo Buddy lần đầu tiên, bạn cần liên kết email và mật khẩu hoặc sử dụng DevTools để liên kết. Hầu hết những thông tin đó đều có trong [FAQ](./FAQ.md).
 
 Nhưng có những người dùng sử dụng Đăng nhập nền tảng của bên thứ ba (ví dụ: Apple ID, Game Center, Google, PlayStation, Microsoft, Facebook và Twitter).
 
@@ -38,7 +38,7 @@ Khi đã vào, hãy nhấp vào "Liên kết" bên cạnh Liên kết email và 
 
 - **Genshin Impact**: Menu Paimon -> Cài đặt -> Tài Khoản -> Trung tâm Người dùng
 
-- **Honkai: Star Rail**: 
+- **Honkai: Star Rail**:
 
   - *Màn hình đăng nhập*: Cài đặt -> Tài Khoản -> Trung tâm Người dùng (Khuyến nghị nếu bạn không muốn tải toàn bộ tài nguyên trò chơi)
 
@@ -70,7 +70,7 @@ Sau khi đăng nhập, một màn hình sẽ bật lên yêu cầu đăng nhập
 
 ![Genshin - Google Play PC Linking](../../../../src/assets/images/hb-account/pc/hk4e_google.png)
 
-**Lưu ý**: _Phiên bản Google Play PC chỉ cho phép liên kết. Để hủy liên kết tài khoản Google của bạn, vui lòng Hủy liên kết trên Thiết bị Android của bạn._.
+**Lưu ý**: *Phiên bản Google Play PC chỉ cho phép liên kết. Để hủy liên kết tài khoản Google của bạn, vui lòng Hủy liên kết trên Thiết bị Android của bạn.*
 
 ***Khu vực tài khoản trò chơi của bạn bị giới hạn theo khu vực tài khoản PSN mà bạn đặt, xem thông tin bên dưới để biết thêm thông tin.
 
