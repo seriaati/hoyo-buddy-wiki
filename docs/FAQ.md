@@ -58,9 +58,9 @@ Most of the time, this issue is just temporary, wait for 30 minutes then try aga
 
 Are you still logged in in your games (Genshin, ZZZ, etc.)?
 
-- Yes: First, [send an email to customer service](./FAQ#sending-an-email-to-the-customer-service). Then try [DevTools](./FAQ#logging-in-with-devtools) or [email instead of username](./FAQ#logging-in-with-email-instead-of-username) to login on Hoyo Buddy.
+- Yes: First, [send an email to customer service](#sending-an-email-to-the-customer-service). Then try [DevTools](#logging-in-with-devtools) or [email instead of username](#logging-in-with-email-instead-of-username) to login on Hoyo Buddy.
 
-- No: See [trying to login into your games](./FAQ#trying-to-login-into-your-games).
+- No: See [trying to login into your games](#trying-to-login-into-your-games).
 
 ### Logging in with email instead of username
 
@@ -74,15 +74,15 @@ If you have a PC/laptop device, you can login using the DevTools method, the but
 
 Is your Hoyoverse account linked to any social medias (Google, X, etc.)?
 
-- Yes: Login to your games with the social media linked. Then, [send an email to customer service](./FAQ#sending-an-email-to-the-customer-service). Next, try [DevTools](./FAQ#logging-in-with-devtools) or [email instead of username](./FAQ#logging-in-with-email-instead-of-username) to login on Hoyo Buddy.
+- Yes: Login to your games with the social media linked. Then, [send an email to customer service](#sending-an-email-to-the-customer-service). Next, try [DevTools](#logging-in-with-devtools) or [email instead of username](#logging-in-with-email-instead-of-username) to login on Hoyo Buddy.
 
 - No: See below
 
 Are you logged in at the [Hoyoverse Account Center](https://account.hoyoverse.com/)?
 
-- Yes: Link your account to a social media and login to your games with it. Then, [send an email to customer service](./FAQ#sending-an-email-to-the-customer-service). Next, try [DevTools](./FAQ#logging-in-with-devtools) or [email instead of username](./FAQ#logging-in-with-email-instead-of-username) to login on Hoyo Buddy.
+- Yes: Link your account to a social media and login to your games with it. Then, [send an email to customer service](#sending-an-email-to-the-customer-service). Next, try [DevTools](#logging-in-with-devtools) or [email instead of username](#logging-in-with-email-instead-of-username) to login on Hoyo Buddy.
 
-- No: Try [this](./FAQ#logging-in-with-email-instead-of-username), if it doesn't work,  [send an email to customer service](./FAQ#sending-an-email-to-the-customer-service) then wait patiently for their response. Sorry, but you can't access your game account for now.
+- No: Try [this](#logging-in-with-email-instead-of-username), if it doesn't work,  [send an email to customer service](#sending-an-email-to-the-customer-service) then wait patiently for their response. Sorry, but you can't access your game account for now.
 
 ### Sending an email to the customer service
 
