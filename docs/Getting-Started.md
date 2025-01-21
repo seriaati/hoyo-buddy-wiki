@@ -1,13 +1,13 @@
 # Getting Started
 
+You can use Hoyo Buddy without inviting it into any Discord servers. If you need help setting up Hoyo Buddy, please join our [Discord server](https://link.seria.moe/hb-dc).
+
 > [!NOTE]  
 > If you don't have a Hoyoverse account (you login with 3rd party services like Google), or you are a console player, please check the [Account Pre-setup guide](./Before-Start.md).
 
 Read more: [Is Hoyo Buddy safe?](./Account-Security.md)
 
 ## Trying out Hoyo Buddy
-
-You can use Hoyo Buddy without inviting it into any Discord servers. If you need help setting up Hoyo Buddy, please join our [Discord server](https://link.seria.moe/hb-dc).
 
 1. Click on [this link](https://discord.com/oauth2/authorize?client_id=1000045812522430626).
 
