@@ -1,82 +1,65 @@
-# Account Pre-setup
+# Account Pre-Setup Guide
 
-When you first use Hoyo Buddy, you need to link an email and password or use DevTools. Most of those are in [FAQ](./FAQ.md).
+> [!NOTE]  
+> If you already have a Hoyoverse account, you can skip this guide and go to [Getting Started](./Getting-Started.md).
 
-But there's users that use Third-party Platform Login (i.e: Apple ID, Game Center, Google, PlayStation, Microsoft, Facebook and Twitter).
+Setting up a Hoyoverse account is only needed if you want to login with the email and password method. If you wish to login with DevTools, you can skip this guide. [Which login method should I use?](./FAQ.md#which-login-method-should-i-use)
 
-This page will help you setup your HoYoverse account to use with Hoyo Buddy
+"3rd-party services" refer to Google, Apple, Facebook, X, etc.
 
-## As a first time player without an account yet thru any means
+## I Login With 3rd-Party Services
 
-If this is the first time you hear about any HoYoverse games and you want to use Hoyo Buddy with your HoYoverse account, please first create a new account on [HoYoverse Account Center](https://account.hoyoverse.com).
+First, go to [HoYoverse Account Center](https://account.hoyoverse.com).
 
-Click Sign-in -> Register and follow the on screen prompts.
+Click "Log In" and choose the third-party provider you use to login to your game.
 
-![Register Screen](../src/assets/images/hb-account/web/sign-up_no-link.png)
+![Login Screen](../src/assets/images/hb-account/web/account-log-in.png)
 
-If you plan to login with third party, please choose the third party provider first. (Google, Facebook, Twitter(X), Apple)
+After logging in, 3 things can happen:
 
-Once linked, a screen may pop-up asking to link the existing email to HoYoverse account. please make sure to link your email and add a password to complete account creation to use Hoyo Buddy with.
+### Link a New Account
 
 ![Third-party Account Linking](../src/assets/images/hb-account/web/sign-up_google-link.png)
 
-**Note**: <u>Third party login without email is possible for Hoyo Buddy, but you must use Google, Apple, Twitter (X) or Facebook to login to HoYoLAB and ONLY DevTools is allow to Login. Certain Features of Hoyo Buddy will be limited.</u>
+This means that the email you used to login is not linked to any Hoyoverse account. Enter a desired password and click "Link", this will create a new Hoyoverse account and bind it to the third-party login you used.
 
-## For existing user
+You can then use this email and password to login to Hoyo Buddy.
 
-### Linking an email from third-party login
+### Link Email
 
-If you use third-party as your main login. Head to [HoYoverse Account Center](https://account.hoyoverse.com). Go to "Personal Information" and link an email and password.
+![Link Email](../src/assets/images/hb-account/web/link-email.png)
 
-Once in, Click "Link" next to Link account and follow the on-screen prompt
+This means that a Hoyoverse account was created automatically when you logged in with the third-party provider. Click "Link".
 
-![Account email linking screen](../src/assets/images/hb-account/web/post-link.png)
+![Password and Security](../src/assets/images/hb-account/web/password-and-security.png)
 
-For In-game Linking, go to User Center and Link your email and password there.
+On the next screen, click "Manage" in the "Password and Security" section.
 
-- **Honkai Impact 3rd**: "LV.[XX] [Name]" -> Account -> User Center
+![Update Password](../src/assets/images/hb-account/web/update-password.png)
 
-- **Genshin Impact**: Paimon Menu -> Settings -> Account -> User Center
+Click on "Update" and follow the instructions to set a password for your account.
 
-- **Honkai: Star Rail**:
+You can then use this email and password to login to Hoyo Buddy.
 
-  - *Login Screen*: Settings -> Account -> User Center (Recommended if you don't want to download the entire game)
+### Link to an Existing Account
 
-  - *In-Game*: Phone -> Account Settings -> User Center
+![Link to Existing Account](../src/assets/images/hb-account/web/link-existing.png)
 
-- **Zenless Zone Zero**: Menu -> Options -> Account -> USER CENTER
+This means a Hoyoverse account with the same email already exists. Enter the password of this Hoyoverse account and click "Link" to bind the third-party login to the existing account. If you forgot the password, click "Having problems?" -> "Forgot Password?" to reset it.
 
-![Account email linking screen](../src/assets/images/hb-account/pc/in-game-email.png)
+You can then use this email and password to login to Hoyo Buddy.
 
-### Linking third-party from email login
+### Password Last Updated Date is "-"
 
-Hoyo Buddy only use Email and Password or DevTools login to access your account. If you wish to link to a third-party platform, please go to Link Account on [HoYoverse Account Center](https://account.hoyoverse.com). Only Facebook and Twitter (X) Platform can be link, for other platfrom, please link them in-game on the device you want link.
+![Password and Security](../src/assets/images/hb-account/web/password-and-security.png)
 
-- **Game Center**: iOS (In-game)
+Follow the same steps as [Link Email](#link-email) to set a password for your account.
 
-- **Apple Login**: iOS (In-game), Web (only first sign-up).
+### Other Scenarios
 
-- **Google**: Android (In-game), PC* (In-game), Web (only first sign-up).
+If you encounter scenarios not listed above, please find help in the [Discord server](https://link.seria.moe/hb-dc).
 
-- **Microsoft Account**: Xbox (In-game - [Console Only](./Before-Start.md#linking-from-console)).
-
-- **PlayStation Network**: PlayStation** (In-game - [Console Only](./Before-Start.md#linking-from-console))
-
-*To Link your existing HoYo account to your Google Account on PC, please download [Genshin Impact](https://genshin.hoyoverse.com) or [Honkai Impact 3rd](https://honkaiimpact3.hoyoverse.com/) - Google Play PC on the Google Play Store from the official Game Page. Google Play Games PC will be install, later by HoYoPlay installer of the specifc game.
-
-Once installation Completed and the game is ready to run, launch the game and login to your existing HoYoverse account.
-
-Once logged in, a screen will pop-up asking to login with Google Play. Follow the on screen instruction to complete the linking process.
-
-![Genshin - Google Play PC Linking](../src/assets/images/hb-account/pc/hk4e_google.png)
-
-**Note**: *Google Play PC version only allow linking. To unlink your Google account, please Unlink it on your Android Device.*
-
-**PSN account and Game accounts are region bound by PSN account region, see the below for more info.
-
-## Linking from Console
-
-By using Hoyo Buddy, you will able to use Features that Mobile and PC user have.
+## I am a Console Player
 
 For new users starting on console, please follow the [Linking an email from third-party login](./Before-Start.md#linking-an-email-from-third-party-login)
 
