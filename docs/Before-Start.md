@@ -2,12 +2,12 @@
 
 > [!NOTE]  
 > If you already have a Hoyoverse account, you can skip this guide and go to [Getting Started](./Getting-Started.md).
-
-Setting up a Hoyoverse account is only needed if you want to login with the email and password method. If you wish to login with DevTools, you can skip this guide. [Which login method should I use?](./FAQ.md#which-login-method-should-i-use)
-
-"3rd-party services" refer to Google, Apple, Facebook, X, etc.
+>
+> Setting up a Hoyoverse account is only needed if you want to login with the email and password method. If you wish to login with DevTools, you can skip this guide. [Which login method should I use?](./FAQ.md#which-login-method-should-i-use)
 
 ## I Login With 3rd-Party Services
+
+"3rd-party services" refer to Google, Apple, Facebook, X, etc.
 
 First, go to [HoYoverse Account Center](https://account.hoyoverse.com).
 
@@ -61,29 +61,42 @@ If you encounter scenarios not listed above, please find help in the [Discord se
 
 ## I am a Console Player
 
+### I Don't Have a Hoyoverse Account
+
+Go to [HoYoverse Account Center](https://account.hoyoverse.com) and sign up for an account.
+
+Proceed to [I have a Hoyoverse Account](#i-have-a-hoyoverse-account) after signing up.
+
 ### I Have a Hoyoverse Account
 
-> [!IMPORTANT]  
-> **[PlayStation Only]**: Please check your region account before linking your HoYo account to PSN. See the chart below. Applies to all HoYoverse games
+**[PlayStation Only]**: Please check your region account before linking your HoYo account to PSN. See the chart below. Applies to all HoYoverse games
 
 ![PSN Region Lock List](../src/assets/images/hb-account/console/PSN_Region_Lock.png)
 
-Login to one of the HoYo games and choose "Already have an Account, log in directly"
+Launch the game and choose "Already have an Account, log in directly"
 
 ![Linking Screen - Xbox](../src/assets/images/hb-account/console/xbox-link_1.png)
 
-If you only use third-party login, Scan the QR Code if you wish to only use DevTools login.
+> [!TIP]
+> If you don't see this screen, that means your game account is already linked to a Hoyoverse account. You can skip this guide and go to [Getting Started](./Getting-Started.md).
+
+Login with the Hoyoverse account you already have/created earlier.
 
 ![Linking Screen - Xbox - Existing](../src/assets/images/hb-account/console/xbox-link_2.png)
 
-When using QR Link, check if the the information is correct.
+#### Xbox
+
+Check if the the information is correct.
 
 ![Linking Screen - QR - Xbox](../src/assets/images/hb-account/console/qr_link-1.png)
 
-**Note**: PSN User please double check if your account region is correct with your server region. If the game asks you to link create a new game account, close the game and double check if your region account is correct as the [chart](./Before-Start.md#linking-from-console) said.
+#### PlayStation
+
+> [!IMPORTANT]  
+> PSN User please double check that your account region is correct with your server region. If the game asks you to create a new game account, close the game and double check if your region account is correct as in the chart.
 
 ![Linking Screen - QR - PSN](../src/assets/images/hb-account/console/qr_link-psn.png)
 
 If you are sure the region is correct. Confirm the link.
 
-**Congrats! You can now play any HoYoverse game cross-platform with Hoyo Buddy enhancement!** Check out [Getting Started](./Getting-Started.md) to Setup Hoyo Buddy
+**Congrats! You can now play any HoYoverse game cross-platform with Hoyo Buddy enhancement!** Check out [Getting Started](./Getting-Started.md) to set up Hoyo Buddy.
