@@ -1,5 +1,7 @@
 # Bắt đầu
 
+Nếu bạn không có tài khoản Hoyoverse (bạn đăng nhập bằng dịch vụ bên thứ ba như Google), hoặc bạn là người chơi trên Console (Xbox Series, PlayStation), vui lòng xem [Hướng dẫn Thiết lập trước tài khoản](./Before-Start.md)
+
 <!-- markdownlint-disable MD033 -->
 
 ## Thử Hoyo Buddy ngay hôm nay
