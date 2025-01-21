@@ -31,7 +31,7 @@ Tôi sẽ không cung cấp bất kỳ hỗ trợ nào cho việc tự host, nh�
 
 ## Tôi có 2 tài khoản, 1 tài khoản sử dụng đăng nhập của bên thứ ba, tài khoản còn lại sử dụng email. Tôi có thể sử dụng không?
 
-Đăng nhập của bên thứ ba có thể sử dụng [DevTools](./FAQ.md#đăng-nhập-bằng-devtools) để đăng nhập nhưng một số tính năng nhất định sẽ bị hạn chế. Nếu bạn muốn sử dụng toàn bộ tính năng, vui lòng [Liên kết email từ tài khoản đăng nhập bằng nền tảng bên thứ ba](./Before-Start.md#liên-kết-email-từ-tài-khoản-đăng-nhập-bằng-nền-tảng-bên-thứ-ba), sau đó đăng nhập bằng email/tên người dùng và mật khẩu để liên kết đến Hoyo Buddy.
+Đăng nhập của bên thứ ba có thể sử dụng [DevTools](.md#đăng-nhập-bằng-devtools) để đăng nhập nhưng một số tính năng nhất định sẽ bị hạn chế. Nếu bạn muốn sử dụng toàn bộ tính năng, vui lòng [Liên kết email từ tài khoản đăng nhập bằng nền tảng bên thứ ba](./Before-Start.md#liên-kết-email-từ-tài-khoản-đăng-nhập-bằng-nền-tảng-bên-thứ-ba), sau đó đăng nhập bằng email/tên người dùng và mật khẩu để liên kết đến Hoyo Buddy.
 
 ## Lỗi "Quá nhiều yêu cầu" khi cố gắng thêm tài khoản bằng phương pháp email và mật khẩu
 
@@ -43,9 +43,9 @@ Hầu hết thời gian, sự cố này chỉ là tạm thời, hãy đợi 30 p
 
 Bạn có còn đăng nhập vào trò chơi của mình không (Genshin, ZZZ, v.v.)?
 
-* Có: Đầu tiên, [gửi email đến bộ phận chăm sóc khách hàng](./FAQ#gửi-email-đến-cskh). Sau đó, hãy thử [DevTools](./FAQ.md#đăng-nhập-bằng-devtools) hoặc [email thay vì tên người dùng](./FAQ#đăng-nhập-bằng-tên-người-dùng-thay-vì-email) để đăng nhập vào Hoyo Buddy.
+* Có: Đầu tiên, [gửi email đến bộ phận chăm sóc khách hàng](#gửi-email-đến-cskh). Sau đó, hãy thử [DevTools](.md#đăng-nhập-bằng-devtools) hoặc [email thay vì tên người dùng](#đăng-nhập-bằng-tên-người-dùng-thay-vì-email) để đăng nhập vào Hoyo Buddy.
 
-* Không: Xem [cố gắng đăng nhập vào trò chơi của bạn](./FAQ#đang-cố-gắng-đăng-nhập-vào-trò-chơi-của-bạn).
+* Không: Xem [cố gắng đăng nhập vào trò chơi của bạn](#cố-gắng-đăng-nhập-vào-trò-chơi-của-bạn).
 
 ### Đăng nhập bằng tên người dùng thay vì email
 
@@ -59,15 +59,15 @@ Nếu bạn có thiết bị PC/laptop, bạn có thể đăng nhập bằng ph�
 
 Tài khoản Hoyoverse của bạn có được liên kết với bất kỳ nền tảng bên thứ ba nào không (Google, Facebook, v.v.)?
 
-* Có: Đăng nhập vào trò chơi của bạn bằng phương tiện truyền thông xã hội được liên kết. Sau đó, [gửi email đến bộ phận CSKH](./FAQ#gửi-email-đến-cskh). Tiếp theo, hãy thử [DevTools](./FAQ#đăng-nhập-bằng-devtools) hoặc [email thay vì tên người dùng](./FAQ#đăng-nhập-bằng-tên-người-dùng-thay-vì-email) để đăng nhập vào Hoyo Buddy.
+* Có: Đăng nhập vào trò chơi của bạn bằng phương tiện truyền thông xã hội được liên kết. Sau đó, [gửi email đến bộ phận CSKH](#gửi-email-đến-cskh). Tiếp theo, hãy thử [DevTools](#đăng-nhập-bằng-devtools) hoặc [email thay vì tên người dùng](#đăng-nhập-bằng-tên-người-dùng-thay-vì-email) để đăng nhập vào Hoyo Buddy.
 
 * Không: Xem bên dưới
 
 Bạn đã đăng nhập vào [Trung tâm tài khoản Hoyoverse](https://account.hoyoverse.com/) chưa?
 
-* Có: Liên kết tài khoản của bạn với phương tiện truyền thông xã hội và đăng nhập vào trò chơi của bạn bằng phương tiện đó. Sau đó, [gửi email đến bộ phận CSKH](./FAQ#gửi-email-đến-cskh). Tiếp theo, hãy thử [DevTools](./FAQ.md#đăng-nhập-bằng-devtools) hoặc [email thay vì tên người dùng](./FAQ#đăng-nhập-bằng-tên-người-dùng-thay-vì-email) để đăng nhập vào Hoyo Buddy.
+* Có: Liên kết tài khoản của bạn với phương tiện truyền thông xã hội và đăng nhập vào trò chơi của bạn bằng phương tiện đó. Sau đó, [gửi email đến bộ phận CSKH](#gửi-email-đến-cskh). Tiếp theo, hãy thử [DevTools](.md#đăng-nhập-bằng-devtools) hoặc [email thay vì tên người dùng](#đăng-nhập-bằng-tên-người-dùng-thay-vì-email) để đăng nhập vào Hoyo Buddy.
 
-* Không: Hãy thử [cái này](./FAQ#đăng-nhập-bằng-tên-người-dùng-thay-vì-email), nếu không được, hãy [gửi email đến bộ phận CSKH](./FAQ#gửi-email-đến-cskh) rồi kiên nhẫn chờ phản hồi của họ. Rất tiếc, nhưng hiện tại bạn không thể truy cập tài khoản trò chơi của mình.
+* Không: Hãy thử [cái này](#đăng-nhập-bằng-tên-người-dùng-thay-vì-email), nếu không được, hãy [gửi email đến bộ phận CSKH](#gửi-email-đến-cskh) rồi kiên nhẫn chờ phản hồi của họ. Rất tiếc, nhưng hiện tại bạn không thể truy cập tài khoản trò chơi của mình.
 
 ### Gửi email đến CSKH
 
