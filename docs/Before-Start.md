@@ -61,11 +61,10 @@ If you encounter scenarios not listed above, please find help in the [Discord se
 
 ## I am a Console Player
 
-For new users starting on console, please follow the [Linking an email from third-party login](./Before-Start.md#linking-an-email-from-third-party-login)
+### I Have a Hoyoverse Account
 
-For existing users, follow the instruction below.
-
-**[PlayStation Only]**: Please check your region account before linking your HoYo account to PSN. See the chart below. Applies to all HoYoverse games
+> [!IMPORTANT]  
+> **[PlayStation Only]**: Please check your region account before linking your HoYo account to PSN. See the chart below. Applies to all HoYoverse games
 
 ![PSN Region Lock List](../src/assets/images/hb-account/console/PSN_Region_Lock.png)
 

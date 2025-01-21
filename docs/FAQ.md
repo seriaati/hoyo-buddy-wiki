@@ -83,7 +83,7 @@ Are you logged in at the [Hoyoverse Account Center](https://account.hoyoverse.co
 
 ### Sending an email to the customer service
 
-Email address: <hoyolab@hoyoverse.com>
+Email address: [hoyolab@hoyoverse.com](mailto:hoyolab@hoyoverse.com)
 
 Template:
 
@@ -109,7 +109,7 @@ Make sure you're logged in with the same credentials you used in-game.
 
 ### DevTools method
 
-Make sure you're logged in with the same credentials you used in-game on HoYoLAB. For example, if you use a Google account <a@gmail.com> to login Genshin Impact, then use the <a@gamil.com> Google account to login HoYoLAB.
+Make sure you're logged in with the same credentials you used in-game on HoYoLAB. For example, if you use a Google account [a@gmail.com](mailto:a@hoyoverse.com) to login Genshin Impact, then use the [a@gmail.com](mailto:a@hoyoverse.com) Google account to login HoYoLAB.
 
 If you see duplicated Cookie entries, try using an incognito window to login.
 
