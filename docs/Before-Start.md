@@ -104,6 +104,12 @@ PSN User please double check that your account region is correct with your serve
 
 :::
 
+:::warning
+
+If you choose "Create a HoYoverse account", you will need to link your email and password in the game **User Center** to use Hoyo Buddy.
+
+:::
+
 ![Linking Screen - QR - PSN](../src/assets/images/hb-account/console/qr_link-psn.png)
 
 If you are sure the region is correct. Confirm the link.
