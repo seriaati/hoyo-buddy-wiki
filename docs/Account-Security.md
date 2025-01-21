@@ -42,7 +42,10 @@ Your Cookies are securely stored in a database hosted by [Hetzner](https://www.h
 
 ### How Does The Email and Password Login Method Work?
 
-> [!IMPORTANT]  
-> Your email and password were never stored.
+:::info
+
+Your email and password were never stored.
+
+:::
 
 This method isn't designed to compromise your account security, it's made to simplify the account set up process. Many users encounter difficulties locating their Cookies manually, prompting the introduction of an easier alternative. The method functions exactly to logging in via email and password on HoYoLAB, occasionally requiring CAPTCHA verification for security purposes. Your email and password were never stored in the database. They are temporarily held in-memory and encrypted before being sent to Hoyoverse's server. Internally, this method functions the same as the DevTools method, both only saves your Cookies in the database, but some might feel that the DevTools method is safer.

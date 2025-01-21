@@ -16,8 +16,11 @@ Please read the [Account Security](./Account-Security.md) page.
 | Email & password | ✅ | ✅ | ✅[*](./Before-Start.md) | ✅ | Easier
 | DevTools | ❌ | ✅ | ❌ | ❌ | ...
 
-> [!NOTE]  
-> Email & password refer to **Hoyoverse account's** email and password, not Google, Apple, etc. accounts.
+:::note
+
+Email & password refer to **Hoyoverse account's** email and password, not Google, Apple, etc. accounts.
+
+:::
 
 Read more:
 

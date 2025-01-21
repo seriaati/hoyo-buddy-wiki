@@ -1,9 +1,12 @@
 # Account Pre-Setup Guide
 
-> [!NOTE]  
-> If you already have a Hoyoverse account, you can skip this guide and go to [Getting Started](./Getting-Started.md).
->
-> Setting up a Hoyoverse account is only needed if you want to login with the email and password method. If you wish to login with DevTools, you can skip this guide. [Which login method should I use?](./FAQ.md#which-login-method-should-i-use)
+:::note
+
+If you already have a Hoyoverse account, you can skip this guide and go to [Getting Started](./Getting-Started.md).
+
+Setting up a Hoyoverse account is only needed if you want to login with the email and password method. If you wish to login with DevTools, you can skip this guide. [Which login method should I use?](./FAQ.md#which-login-method-should-i-use)
+
+:::
 
 ## I Login With 3rd-Party Services
 
@@ -77,8 +80,11 @@ Launch the game and choose "Already have an Account, log in directly"
 
 ![Linking Screen - Xbox](../src/assets/images/hb-account/console/xbox-link_1.png)
 
-> [!TIP]
-> If you don't see this screen, that means your game account is already linked to a Hoyoverse account. You can skip this guide and go to [Getting Started](./Getting-Started.md).
+:::tip
+
+If you don't see this screen, that means your game account is already linked to a Hoyoverse account. You can skip this guide and go to [Getting Started](./Getting-Started.md).
+
+:::
 
 Login with the Hoyoverse account you already have/created earlier.
 
@@ -92,8 +98,11 @@ Check if the the information is correct.
 
 #### PlayStation
 
-> [!IMPORTANT]  
-> PSN User please double check that your account region is correct with your server region. If the game asks you to create a new game account, close the game and double check if your region account is correct as in the chart.
+:::info
+
+PSN User please double check that your account region is correct with your server region. If the game asks you to create a new game account, close the game and double check if your region account is correct as in the chart.
+
+:::
 
 ![Linking Screen - QR - PSN](../src/assets/images/hb-account/console/qr_link-psn.png)
 
