@@ -84,9 +84,13 @@ If your PlayStation or Xbox account is linked to a Hoyoverse account, you can sk
 
 ### How to Link Your Hoyoverse Account
 
+:::warning
+
+This method will create a new HoYoverse account and link the current save data on your console to that new account, not linking any existing data on an existing account, even if the account does not have game data.
+
+:::
+
 1. Launch the Hoyoverse game that you want to link to your Hoyoverse account.
 2. Open the [User Center](#how-to-access-the-user-center) in the game.
 3. Select "Link Account" or a similar option.
-4. Follow the instructions to link your Hoyoverse account.
-   - You may need to enter your HoYoverse account credentials (username and password).
-   - If you don't have a HoYoverse account, you'll be prompted to create one.
+4. Follow the on-screen instructions to link your Hoyoverse account.
