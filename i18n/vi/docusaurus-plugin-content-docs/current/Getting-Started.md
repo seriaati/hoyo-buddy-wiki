@@ -2,7 +2,7 @@
 
 Bạn có thể sử dụng Hoyo Buddy mà không cần mời vào bất kỳ máy chủ Discord nào. Nếu bạn cần trợ giúp thiết lập Hoyo Buddy, vui lòng tham gia [máy chủ Discord](https://link.seria.moe/hb-dc) của chúng tôi.
 
-:::notenote
+:::note
 
 Nếu bạn không có tài khoản Hoyoverse (bạn đăng nhập bằng dịch vụ của bên thứ 3 như Google) hoặc bạn là người chơi console, vui lòng kiểm tra [Hướng dẫn thiết lập trước tài khoản](./Before-Start.md).
 
