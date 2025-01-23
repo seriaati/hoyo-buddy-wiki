@@ -1,107 +1,88 @@
-# 帳戶前置作業
+# 帳號前置作業指南
 
-首次使用Hoyo Buddy時，你需要連結郵箱和密碼或使用DevTools。大部分內容都在 [FAQ](./FAQ.md) 中。
+:::note
 
-但是，有些用戶使用第三方平台登錄（例如：Apple ID、Game Center、Google、PlayStation、Microsoft、Facebook 和 Twitter）。
+如果你已擁有 Hoyoverse 帳號，你可以跳過此指南，直接前往 [開始使用](./Getting-Started.md)。  
 
-此頁面將幫助你設置 HoYoverse 帳戶以使用 Hoyo Buddy。
+設定 Hoyoverse 帳號僅在你想使用電子郵件與密碼登入方式時需要。如果你希望使用 DevTools 登入，則可跳過此指南。[我應該選擇哪種登入方式？](./FAQ.md#我應該選擇哪種登入方式)
 
-## 作為首次使用且尚未通過任何方式擁有帳戶的玩家
+:::
 
-如果這是你第一次聽說 HoYoverse 遊戲並且你想使用 Hoyo Buddy 與你的 HoYoverse 帳戶，請首先在[HoYoverse 帳戶中心](https://account.hoyoverse.com)創建一個新帳戶。
+## 我使用第三方服務登入
 
-點擊登錄 -> 註冊並按照屏幕上的提示操作。
+「第三方服務」是指 Google、Apple、Facebook、X 等平台。
 
-![註冊畫面](../../../../src/assets/images/hb-account/web/sign-up_no-link.png)
+首先，進入 [HoYoverse 帳號中心](https://account.hoyoverse.com)。  
 
-如果你計劃使用第三方登錄，請首先選擇第三方提供商。（Google、Facebook、Twitter(X)、Apple）
+點擊「登入」，然後選擇你用於遊戲登入的第三方提供商。  
 
-連結後，可能會彈出一個屏幕要求將現有的電子郵件連結到 HoYoverse 帳戶。請確保連結你的電子郵件並添加密碼以完成帳戶創建，以便使用 Hoyo Buddy。
+![登入畫面](../../../../src/assets/images/hb-account/web/account-log-in.png)
 
-![第三方帳戶連結](../../../../src/assets/images/hb-account/web/sign-up_google-link.png)
+登入後，可能出現以下三種情況：  
 
-**注意**：<u>Hoyo Buddy 可以使用無電子郵件的第三方登錄，但你必須使用 Google、Apple、Twitter (X) 或 Facebook 登錄 HoYoLAB，並且僅允許使用 DevTools 登錄。某些 Hoyo Buddy 功能將受到限制。</u>
+### 連結新帳號
 
-## 對於現有用戶
+![第三方帳號綁定](../../../../src/assets/images/hb-account/web/sign-up_google-link.png)
 
-### 從第三方登錄帳戶連結電子郵件
+這表示你使用的電子郵件尚未連結任何 Hoyoverse 帳號。輸入你想要的密碼並點擊「綁定」，這將創建一個新的 Hoyoverse 帳號，並將其與你使用的第三方登入綁定。
 
-如果你使用第三方作為主要登錄方式，請前往[HoYoverse 帳戶中心](https://account.hoyoverse.com)。進入“個人信息”並連結電子郵件和密碼。
+之後，你就可以使用該電子郵件與密碼登入 Hoyo Buddy。
 
-進入後，點擊“連結”旁邊的連結帳戶並按照屏幕上的提示操作。
+### 綁定電子郵件
 
-![帳戶電子郵件連結畫面](../../../../src/assets/images/hb-account/web/post-link.png)
+![綁定電子郵件](../../../../src/assets/images/hb-account/web/link-email.png)
 
-對於遊戲內連結，請前往用戶中心並在那裡連結你的電子郵件和密碼。
+這表示你使用第三方提供商登入時，Hoyoverse 已自動創建了一個帳號。點擊「綁定」。  
 
-- **崩壞3**： "LV.[XX] [名稱]" -> 帳戶 -> 用戶中心
+![密碼與安全性](../../../../src/assets/images/hb-account/web/password-and-security.png)
 
-- **原神**：派蒙菜單 -> 設置 -> 帳戶 -> 用戶中心
+在下一頁，於「密碼與安全性」部分點擊「管理」。  
 
-- **崩壞：星穹鐵道**：
+![更新密碼](../../../../src/assets/images/hb-account/web/update-password.png)
 
-  - *登錄畫面*：設置 -> 帳戶 -> 用戶中心（如果你不想下載整個遊戲，建議使用此方法）
+點擊「更新」並按照指示為你的帳號設置密碼。
 
-  - *遊戲內*：手機 -> 帳戶設置 -> 用戶中心
+之後，你就可以使用該電子郵件與密碼登入 Hoyo Buddy。
 
-- **絕區零**：菜單 -> 選項 -> 帳戶 -> 用戶中心
+### 綁定至現有帳號
 
-![帳戶電子郵件連結畫面](../../../../src/assets/images/hb-account/pc/in-game-email.png)
+![綁定至現有帳號](../../../../src/assets/images/hb-account/web/link-existing.png)
 
-### 從電子郵件登錄帳戶連結第三方
+這表示已存在一個與你電子郵件相同的 Hoyoverse 帳號。輸入該 Hoyoverse 帳號的密碼並點擊「綁定」，即可將第三方登入綁定至該現有帳號。如果忘記密碼，點擊「有問題嗎？」 -> 「忘記密碼？」以重置。
 
-Hoyo Buddy 只使用電子郵件和密碼或 DevTools 登錄來訪問你的帳戶。如果你希望連結到第三方平台，請前往[HoYoverse 帳戶中心](https://account.hoyoverse.com)的連結帳戶。僅能連結 Facebook 和 Twitter (X) 平台，對於其他平台，請在你想要連結的設備上在遊戲內連結。
+之後，你就可以使用該電子郵件與密碼登入 Hoyo Buddy。
 
-- **Game Center**：iOS（遊戲內）
+### 密碼上次更新日期為「-」
 
-- **Apple 登錄**：iOS（遊戲內），網頁（僅首次註冊）。
+![密碼與安全性](../../../../src/assets/images/hb-account/web/password-and-security.png)
 
-- **Google**：Android（遊戲內），PC*（遊戲內），網頁（僅首次註冊）。
+按照 [綁定電子郵件](#綁定電子郵件) 的步驟為你的帳號設置密碼。
 
-- **Microsoft 帳戶**：Xbox（遊戲內 - [限遊戲機](./Before-Start.md#從主機連結)）。
+### 其他情況
 
-- **PlayStation Network**：PlayStation**（遊戲內 - [限遊戲機](./Before-Start.md#從主機連結)）
+若遇到此處未列出的情況，請加入 [Discord 伺服器](https://link.seria.moe/hb-dc) 尋求幫助。
 
-*要將現有的 HoYo 帳戶連結到你的 Google 帳戶，請在 Google Play 商店從官方遊戲頁面下載[原神](https://genshin.hoyoverse.com)或[崩壞3](https://honkaiimpact3.hoyoverse.com/) - Google Play PC。Google Play Games PC 將由 HoYoPlay 安裝程序安裝特定遊戲。
+## 我是主機玩家
 
-安裝完成並且遊戲準備運行後，啟動遊戲並登錄到你的現有 HoYoverse 帳戶。
+:::note
 
-登錄後，將彈出一個屏幕要求使用 Google Play 登錄。按照屏幕上的說明完成連結過程。
+如果你的 PlayStation 或 Xbox 帳號已連結至 Hoyoverse 帳號，你可以跳過此指南，直接前往 [開始使用](./Getting-Started.md)。
 
-![原神 - Google Play PC 連結](../../../../src/assets/images/hb-account/pc/hk4e_google.png)
+:::
 
-**注意**：*Google Play PC 版本僅允許連結。要取消連結你的 Google 帳戶，請在你的 Android 設備上取消連結。*
+### 如何進入用戶中心
 
-**PSN 帳戶和遊戲帳戶受 PSN 帳戶區域限制，請參閱以下更多信息。
+- **原神**: 派蒙菜單 -> 設定 -> 帳戶 -> 用戶中心
+- **崩壞：星穹鐵道**:
+  - 登入畫面: 設定 -> 帳戶 -> 用戶中心 (如果你不想下載整個遊戲，建議使用此方法)
+  - 遊戲內: 手機 -> 帳戶設定 -> 用戶中心
+- **絕區零**: 選單 -> 選項 -> 帳戶 -> 用戶中心
 
-## 從主機連結
+### 如何連結你的 Hoyoverse 帳號
 
-通過使用 Hoyo Buddy，你將能夠使用移動和 PC 用戶擁有的功能。
-
-對於在主機上開始的新用戶，請按照[從第三方登錄連結電子郵件](./Before-Start.md#linking-an-email-from-third-party-login)操作。
-
-對於現有用戶，請按照以下說明操作。
-
-**[僅限 PlayStation]**：在將你的 HoYo 帳戶連結到 PSN 之前，請檢查你的區域帳戶。請參閱下表。適用於所有 HoYoverse 遊戲。
-
-![PSN 區域鎖定列表](../../../../src/assets/images/hb-account/console/PSN_Region_Lock.png)
-
-登錄到其中一個 HoYo 遊戲並選擇“已經有帳戶，直接登錄”。
-
-![連結畫面 - Xbox](../../../../src/assets/images/hb-account/console/xbox-link_1.png)
-
-如果你僅使用第三方登錄，請掃描 QR 碼，如果你只想使用 DevTools 登錄。
-
-![連結畫面 - Xbox - 現有](../../../../src/assets/images/hb-account/console/xbox-link_2.png)
-
-使用 QR 連結時，請檢查信息是否正確。
-
-![連結畫面 - QR - Xbox](../../../../src/assets/images/hb-account/console/qr_link-1.png)
-
-**注意**：PSN 用戶請仔細檢查你的帳戶區域是否與你的伺服器區域一致。如果遊戲要求你創建一個新遊戲帳戶，請關閉遊戲並仔細檢查你的區域帳戶是否正確，如[圖表](./Before-Start.md#從主機連結)所示。
-
-![連結畫面 - QR - PSN](../../../../src/assets/images/hb-account/console/qr_link-psn.png)
-
-如果你確定區域正確，請確認連結。
-
-**恭喜！你現在可以使用 Hoyo Buddy 增強功能跨平台遊玩任何 HoYoverse 遊戲！** 請查看[入門指南](./Getting-Started.md)以設置 Hoyo Buddy。
+1. 啟動你想要連結至 Hoyoverse 帳號的遊戲。
+2. 在遊戲中開啟[用戶中心](#如何進入用戶中心)。
+3. 選擇「連結帳號」或類似選項。
+4. 按照指示連結你的 Hoyoverse 帳號。
+   - 你可能需要輸入你的 Hoyoverse 帳號憑證 (用戶名和密碼)。
+   - 如果你沒有 Hoyoverse 帳號，系統將提示你創建一個。

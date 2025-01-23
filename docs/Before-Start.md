@@ -64,54 +64,29 @@ If you encounter scenarios not listed above, please find help in the [Discord se
 
 ## I am a Console Player
 
-### I Don't Have a Hoyoverse Account
+:::note
 
-Go to [HoYoverse Account Center](https://account.hoyoverse.com) and sign up for an account.
-
-Proceed to [I have a Hoyoverse Account](#i-have-a-hoyoverse-account) after signing up.
-
-### I Have a Hoyoverse Account
-
-**[PlayStation Only]**: Please check your region account before linking your HoYo account to PSN. See the chart below. Applies to all HoYoverse games
-
-![PSN Region Lock List](../src/assets/images/hb-account/console/PSN_Region_Lock.png)
-
-Launch the game and choose "Already have an Account, log in directly"
-
-![Linking Screen - Xbox](../src/assets/images/hb-account/console/xbox-link_1.png)
-
-:::tip
-
-If you don't see this screen, that means your game account is already linked to a Hoyoverse account. You can skip this guide and go to [Getting Started](./Getting-Started.md).
+If your PlayStation or Xbox account is linked to a Hoyoverse account, you can skip this guide and go to [Getting Started](./Getting-Started.md).
 
 :::
 
-Login with the Hoyoverse account you already have/created earlier.
+### How to Access the User Center
 
-![Linking Screen - Xbox - Existing](../src/assets/images/hb-account/console/xbox-link_2.png)
+- **Genshin Impact**: Paimon Menu -> Settings -> Account -> User Center
 
-#### Xbox
+- **Honkai: Star Rail**:
 
-Check if the the information is correct.
+  - *Login Screen*: Settings -> Account -> User Center (Recommended if you don't want to download the entire game)
 
-![Linking Screen - QR - Xbox](../src/assets/images/hb-account/console/qr_link-1.png)
+  - *In-Game*: Phone -> Account Settings -> User Center
 
-#### PlayStation
+- **Zenless Zone Zero**: Menu -> Options -> Account -> USER CENTER
 
-:::info
+### How to Link Your Hoyoverse Account
 
-PSN User please double check that your account region is correct with your server region. If the game asks you to create a new game account, close the game and double check if your region account is correct as in the chart.
-
-:::
-
-:::warning
-
-If you choose "Create a HoYoverse account", you will need to link your email and password in the game **User Center** to use Hoyo Buddy.
-
-:::
-
-![Linking Screen - QR - PSN](../src/assets/images/hb-account/console/qr_link-psn.png)
-
-If you are sure the region is correct. Confirm the link.
-
-**Congrats! You can now play any HoYoverse game cross-platform with Hoyo Buddy enhancement!** Check out [Getting Started](./Getting-Started.md) to set up Hoyo Buddy.
+1. Launch the Hoyoverse game that you want to link to your Hoyoverse account.
+2. Open the [User Center](#how-to-access-the-user-center) in the game.
+3. Select "Link Account" or a similar option.
+4. Follow the instructions to link your Hoyoverse account.
+   - You may need to enter your HoYoverse account credentials (username and password).
+   - If you don't have a HoYoverse account, you'll be prompted to create one.
