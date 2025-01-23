@@ -64,48 +64,25 @@
 
 ## 我是主機玩家
 
-### 我沒有 Hoyoverse 帳號
+:::note
 
-前往 [HoYoverse 帳號中心](https://account.hoyoverse.com) 並註冊一個帳號。  
-
-註冊完成後，請繼續查看 [我有 Hoyoverse 帳號](#我有-hoyoverse-帳號)。
-
-### 我有 Hoyoverse 帳號
-
-**[僅限 PlayStation]**：在將 HoYo 帳號綁定至 PSN 前，請檢查你的區域帳號是否正確，參考下表。適用於所有 HoYoverse 遊戲。  
-
-![PSN 區域鎖定列表](../../../../src/assets/images/hb-account/console/PSN_Region_Lock.png)
-
-啟動遊戲並選擇「已有帳號，直接登入」。  
-
-![連結畫面 - Xbox](../../../../src/assets/images/hb-account/console/xbox-link_1.png)
-
-:::tip
-
-如果未看到此畫面，表示你的遊戲帳號已經綁定至 Hoyoverse 帳號。你可以跳過此指南，直接前往 [開始使用](./Getting-Started.md)。
+如果你的 PlayStation 或 Xbox 帳號已連結至 Hoyoverse 帳號，你可以跳過此指南，直接前往 [開始使用](./Getting-Started.md)。
 
 :::
 
-使用你現有或剛創建的 Hoyoverse 帳號登入。  
+### 如何進入用戶中心
 
-![連結畫面 - Xbox - 現有帳號](../../../../src/assets/images/hb-account/console/xbox-link_2.png)
+- **原神**: 派蒙菜單 -> 設定 -> 帳戶 -> 用戶中心
+- **崩壞：星穹鐵道**:
+  - 登入畫面: 設定 -> 帳戶 -> 用戶中心 (如果你不想下載整個遊戲，建議使用此方法)
+  - 遊戲內: 手機 -> 帳戶設定 -> 用戶中心
+- **絕區零**: 選單 -> 選項 -> 帳戶 -> 用戶中心
 
-#### Xbox 玩家
+### 如何連結你的 Hoyoverse 帳號
 
-確認信息是否正確。  
-
-![連結畫面 - QR - Xbox](../../../../src/assets/images/hb-account/console/qr_link-1.png)
-
-#### PlayStation 玩家
-
-:::info
-
-PSN 用戶請務必再次確認你的帳號區域是否與伺服器區域一致。如果遊戲提示你創建一個新遊戲帳號，請關閉遊戲並再次確認你的區域帳號是否正確（參見表格）。  
-
-:::
-
-![連結畫面 - QR - PSN](../../../../src/assets/images/hb-account/console/qr_link-psn.png)
-
-確認區域正確後，完成連結。
-
-**恭喜！你現在可以使用 Hoyo Buddy 的增強功能跨平台遊玩任何 HoYoverse 遊戲！** 請查看 [開始使用](./Getting-Started.md) 完成 Hoyo Buddy 的設置。
+1. 啟動你想要連結至 Hoyoverse 帳號的遊戲。
+2. 在遊戲中開啟[用戶中心](#如何進入用戶中心)。
+3. 選擇「連結帳號」或類似選項。
+4. 按照指示連結你的 Hoyoverse 帳號。
+   - 你可能需要輸入你的 Hoyoverse 帳號憑證 (用戶名和密碼)。
+   - 如果你沒有 Hoyoverse 帳號，系統將提示你創建一個。
