@@ -4,7 +4,7 @@
 
 Nếu bạn đã có tài khoản Hoyoverse, bạn có thể bỏ qua hướng dẫn này và đi đến [Bắt đầu](./Getting-Started.md).
 
-Chỉ cần thiết lập tài khoản Hoyoverse nếu bạn muốn đăng nhập bằng phương pháp email và mật khẩu. Nếu bạn muốn đăng nhập bằng DevTools, bạn có thể bỏ qua hướng dẫn này. [Tôi nên sử dụng phương pháp đăng nhập nào?](./FAQ.md#đăng-nhập-bằng-tên-người-dùng-thay-vì-email) 
+Chỉ cần thiết lập tài khoản Hoyoverse nếu bạn muốn đăng nhập bằng phương pháp email và mật khẩu. Nếu bạn muốn đăng nhập bằng DevTools, bạn có thể bỏ qua hướng dẫn này. [Tôi nên sử dụng phương pháp đăng nhập nào?](./FAQ.md#đăng-nhập-bằng-tên-người-dùng-thay-vì-email)
 
 :::
 
@@ -76,15 +76,15 @@ Nếu tài khoản PlayStation hoặc Xbox của bạn được liên kết vớ
 
 - **Zenless Zone Zero**: Menu -> Cài Đặt -> Tài Khoản -> Trung Tâm Người Dùng
 
-### Làm sao để liên kết tài khoản Hoyoverse.
+### Làm sao để liên kết tài khoản Hoyoverse
 
 :::warning
 
-Cách này sẽ tạo một tài khoản Hoyoverse mới và liên kết dữ liệu hiện tại trên máy chơi game vào tài khoản mới, không phải liên kết dữ liệu hiện có trên tài khoản cũ, dù tài khoản không có dữ liệu trò chơi.
+Cách này sẽ tạo một tài khoản Hoyoverse mới và liên kết dữ liệu hiện tại trên máy chơi game vào tài khoản mới, không phải liên kết dữ liệu hiện có trên tài khoản cũ, dù tài khoản có dữ liệu trò chơi hoặc không.
 
 :::
 
 1. Mở trò chơi Hoyoverse bạn muốn liên kết tài khoản Hoyoverse của bạn
 2. Mở [Trung Tâm Người Dùng](#làm-sao-để-truy-cập-trung-tâm-người-dùng) trong trò chơi.
 3. Chọn "liên kết tài khoản" hoặc mục nào tương tự.
-4. Làm theo hướng dẫn trên màn hình để liên kêt tài khoản Hoyoverse của bạnbạn
+4. Làm theo hướng dẫn trên màn hình để liên kêt tài khoản Hoyoverse của bạn
