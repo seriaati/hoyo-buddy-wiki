@@ -72,8 +72,6 @@ If your PlayStation or Xbox account is linked to a Hoyoverse account, you can sk
 
 ### How to Access the User Center
 
-- **Honkai Impact 3rd**: "LV.[XX] [Name]" -> Account -> User Center
-
 - **Genshin Impact**: Paimon Menu -> Settings -> Account -> User Center
 
 - **Honkai: Star Rail**:
