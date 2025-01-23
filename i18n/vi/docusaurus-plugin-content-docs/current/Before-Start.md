@@ -1,4 +1,4 @@
-# Hướng Dẫn Thiết lập trước tài khoản
+# Hướng dẫn thiết lập trước tài khoản
 
 :::note
 
