@@ -9,6 +9,25 @@ Nếu có vấn đề gì với Hoyo Buddy, bạn có thể tag @seria_ati trên
 
 Tùy thuộc vào ý bạn khi nói đến "an toàn", vui lòng đọc trang bảo mật tài khoản để biết thêm thông tin.
 
+## Tôi nên sử dụng phương thức đăng nhập nào?
+
+| Phương thức | Đăng nhập bằng thiết bị di động | Đăng nhập bằng PC | Đăng nhập bằng máy chơi game | Đổi mã tự động & thủ công | Ghi chú
+|---|---|---|---|---|---
+| Email & mật khẩu | ✅ | ✅ | ✅[*](./Before-Start.md) | ✅ | Dễ hơn
+| DevTools | ❌ | ✅ | ❌ | ❌ | ...
+
+:::note
+
+Email & mật khẩu đề cập đến email và mật khẩu của **tài khoản Hoyoverse**, không phải tài khoản Google, Apple, v.v.
+
+:::
+
+Đọc thêm:
+
+- [Hoyo Buddy có an toàn không?](./Account-Security.md)
+- [Phương pháp đăng nhập bằng email và mật khẩu hoạt động như thế nào?](./Account-Security.md#phương-pháp-đăng-nhập-bằng-email-và-mật-khẩu-hoạt-động-như-thế-nào)
+- [Tại sao tính năng đổi mã chỉ dành riêng cho người dùng đã đăng nhập bằng email và mật khẩu?](#tại-sao-tính-năng-đổi-mã-chỉ-dành-riêng-cho-người-dùng-đăng-nhập-bằng-email-và-mật-khẩu)
+
 ## Một số văn bản vẫn được hiển thị là tiếng Anh, mặc dù tôi đã chọn ngôn ngữ khác thông qua /settings
 
 Nguyên nhân là do bản dịch cho các văn bản bạn đang xem vẫn chưa sẵn sàng, Hoyo Buddy chỉ có một nhóm nhỏ tình nguyện viên để dịch các văn bản và tất cả chúng ta đều có cuộc sống riêng để tận hưởng. Vì vậy, nếu bạn muốn đẩy nhanh quá trình này, bạn rất được hoan nghênh tham gia nhóm dịch viên! Nếu bạn quan tâm, hãy đọc [hướng dẫn đóng góp](https://github.com/seriaati/hoyo-buddy/blob/main/CONTRIBUTING.md) để biết thêm thông tin.
@@ -28,10 +47,6 @@ Tôi sẽ không cung cấp bất kỳ hỗ trợ nào cho việc tự host, nh�
 ## Tại sao các nút/lựa chọn bị vô hiệu hóa?
 
 Để tiết kiệm tài nguyên, các thành phần UI (giao diện người dùng) sẽ hết hạn sau 10 phút. Để tránh nhầm lẫn, các thành phần UI sẽ bị vô hiệu hóa khi chúng hết hạn.
-
-## Tôi có 2 tài khoản, 1 tài khoản sử dụng đăng nhập của bên thứ ba, tài khoản còn lại sử dụng email. Tôi có thể sử dụng không?
-
-Đăng nhập của bên thứ ba có thể sử dụng [DevTools](#đăng-nhập-bằng-devtools) để đăng nhập nhưng một số tính năng nhất định sẽ bị hạn chế. Nếu bạn muốn sử dụng toàn bộ tính năng, vui lòng [Liên kết email từ tài khoản đăng nhập bằng nền tảng bên thứ ba](./Before-Start#liên-kết-email-từ-tài-khoản-đăng-nhập-bằng-nền-tảng-bên-thứ-ba), sau đó đăng nhập bằng email/tên người dùng và mật khẩu để liên kết đến Hoyo Buddy.
 
 ## Lỗi "Quá nhiều yêu cầu" khi cố gắng thêm tài khoản bằng phương pháp email và mật khẩu
 
@@ -82,10 +97,25 @@ Email của tôi là <email của bạn>
 (đính kèm ảnh chụp màn hình hiển thị lỗi)
 ```
 
-## Tại sao tôi nhận được lỗi "Cookie Token Expired" với các tính năng liên quan đến đổi mã, mặc dù các tính năng khác (như tự động kiểm tra hàng ngày) hoạt động tốt?
+## Tại sao tính năng đổi mã chỉ dành riêng cho người dùng đăng nhập bằng email và mật khẩu?
 
-Nói một cách đơn giản, Hoyoverse sử dụng một cookie đặc biệt (cookie token) để đổi mã hết hạn rất nhanh (chính xác là 3 ngày). Theo như tôi biết, cookie token chỉ được sử dụng để đổi mã, vì vậy đó là lý do tại sao các tính năng khác vẫn hoạt động. Để làm mới cookie token của bạn, bạn cần thêm lại tài khoản của mình bằng cách sử dụng /accounts, lệnh này sẽ nhận được cookie token mới từ Hoyoverse. Tuy nhiên, cookie token này vẫn sẽ hết hạn sau 3 ngày; do đó, để tránh rắc rối, bạn có thể thêm tài khoản của mình thông qua phương pháp email và mật khẩu, để Hoyo Buddy có thể tự động làm mới cookie token của bạn thông qua cùng một kỹ thuật mà Hoyoverse sử dụng.
+Hoyoverse sử dụng một cookie đặc biệt gọi là `cookie_token` để đổi mã hết hạn rất nhanh. `cookie_token` chỉ được sử dụng để đổi mã, do đó các tính năng khác vẫn hoạt động. Khi người dùng đăng nhập bằng email và mật khẩu của họ, một cookie đặc biệt gọi là `stoken` sẽ được nhận, có thể được sử dụng để làm mới `cookie_token`, do đó tính năng này có tính độc quyền.
+
+## Tôi không thấy tài khoản trò chơi của mình sau khi đăng nhập
+
+### Phương pháp email và mật khẩu
+
+Đảm bảo bạn đã đăng nhập bằng cùng thông tin đăng nhập mà bạn đã sử dụng trong trò chơi.
+
+- [Tôi sử dụng phương pháp đăng nhập của bên thứ 3 (Google, Facebook, v.v.)](./Before-Start.md#tôi-dăng-nhập-bằng-dịch-vụ-bên-thứ-ba)
+- [Tôi là người chơi console](./Before-Start.md#tôi-chới-trên-máy-chơi-game-playstation-và-xbox)
+
+### Phương pháp DevTools
+
+Đảm bảo bạn đã đăng nhập bằng cùng thông tin đăng nhập mà bạn đã sử dụng trong trò chơi trên HoYoLAB. Ví dụ: nếu bạn sử dụng tài khoản Google [a@gmail.com](mailto:a@gmail.com) để đăng nhập Genshin Impact, thì hãy sử dụng tài khoản Google [a@gmail.com](mailto:a@gmail.com) để đăng nhập HoYoLAB.
+
+Nếu bạn thấy mục Cookie trùng lặp, hãy thử sử dụng cửa sổ ẩn danh để đăng nhập.
 
 ## Tại sao tôi thấy lỗi "interaction failed"?
 
-Hầu hết thời gian lỗi này là do bot khởi động lại (để áp dụng bản cập nhật mã) và bạn chỉ cần nhập lại lệnh. Tuy nhiên, nếu lỗi này tiếp tục xảy ra, điều đó có nghĩa là có lỗi và bạn nên thông báo cho nhà phát triển qua /feedback.
+Hầu hết thời gian lỗi này là do bot khởi động lại (để áp dụng bản cập nhật mã) và bạn chỉ cần nhập lại lệnh. Tuy nhiên, nếu lỗi này tiếp tục xảy ra, điều đó có nghĩa là có lỗi và bạn nên thông báo cho nhà phát triển trong [máy chủ Discord](https://link.seria.moe/hb-dc).

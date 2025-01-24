@@ -1,13 +1,16 @@
 # Bắt đầu
 
-Nếu bạn không có tài khoản Hoyoverse (bạn đăng nhập bằng dịch vụ bên thứ ba như Google), hoặc bạn là người chơi trên Console (Xbox Series, PlayStation), vui lòng xem [Hướng dẫn Thiết lập trước tài khoản](./Before-Start.md)
+Bạn có thể sử dụng Hoyo Buddy mà không cần mời vào bất kỳ máy chủ Discord nào. Nếu bạn cần trợ giúp thiết lập Hoyo Buddy, vui lòng tham gia [máy chủ Discord](https://link.seria.moe/hb-dc) của chúng tôi.
 
-<!-- markdownlint-disable MD033 -->
+:::note
 
-## Thử Hoyo Buddy ngay hôm nay
+Nếu bạn không có tài khoản Hoyoverse (bạn đăng nhập bằng dịch vụ của bên thứ 3 như Google) hoặc bạn là người chơi console, vui lòng kiểm tra [Hướng dẫn thiết lập trước tài khoản](./Before-Start.md).
 
-YBạn có thể sử dụng Hoyo Buddy mà không cần mời vào bất kỳ máy chủ Discord nào.
-Nếu bạn cần trợ giúp thiết lập Hoyo Buddy, vui lòng tham gia [máy chủ Discord](https://link.seria.moe/hb-dc) của chúng tôi.
+:::
+
+Đọc thêm: [Hoyo Buddy có an toàn không?](./Account-Security.md)
+
+## Thử ngay Hoyo BuddyBuddy
 
 1. Nhấp vào [liên kết này](https://discord.com/oauth2/authorize?client_id=1000045812522430626).
 
@@ -19,7 +22,6 @@ Nếu bạn cần trợ giúp thiết lập Hoyo Buddy, vui lòng tham gia [máy
 
 <p></p>
 
-<!-- markdownlint-disable MD029 -->
 3. Vào Discord và nhập `/`, sau đó chọn biểu tượng Hoyo Buddy (hình tam giác màu xanh và đỏ). Bây giờ bạn sẽ thấy tất cả các lệnh có sẵn của Hoyo Buddy, hãy chọn bất kỳ lệnh nào để chạy.
 
 <p></p>
@@ -30,17 +32,11 @@ Nếu bạn cần trợ giúp thiết lập Hoyo Buddy, vui lòng tham gia [máy
 
 ### Sau khi thiết lập
 
-Sau khi thiết lập tài khoản của bạn, bạn có thể chuyển đổi các tính năng như tự động kiểm tra hàng ngày và tự động đổi mã cho từng tài khoản.
+Bạn có thể chuyển đổi các tính năng như tự động kiểm tra hàng ngày và tự động đổi mã cho từng tài khoản bằng cách sử dụng `/accounts`.
 Nút chuyển đổi "Đặt tài khoản thành công khai" kiểm soát xem tài khoản của bạn có hiển thị với người khác khi họ chọn bạn làm người dùng lệnh hay không.
 
-## Xem tất cả lệnh
-
-Nhập `/` trong khu vục nhắn, chọn ảnh Đại diện Hoyo Buddy (Tam giác đỏ + xanh dương). Ngoài ra, hãy mở trình khởi chạy hoạt động và chọn ảnh đại diện của Hoyo Buddy. Bây giờ bạn có thể xem tất cả các lệnh mà Hoyo Buddy có.
+Bạn có thể sử dụng lệnh `/settings` để kiểm soát chủ đề của hình ảnh do Hoyo Buddy tạo ra (chủ đề sáng hoặc tối) và ngôn ngữ của nội dung được Hoyo Buddy hiển thị.
 
 ## Báo cáo sự cố và đưa ra gợi ý
 
 Hãy tham gia [máy chủ Discord](https://link.seria.moe/hb-dc) của chúng tôi.
-
-## Các mẹo sử dụng khác
-
-Bạn có thể sử dụng lệnh `/settings` để kiểm soát chủ đề của hình ảnh do Hoyo Buddy tạo ra (chủ đề sáng hoặc tối) và ngôn ngữ của nội dung được Hoyo Buddy hiển thị.

@@ -1,12 +1,10 @@
 # Bảo Mật Tài Khoản
 
+Phần này giải thích cách dữ liệu tài khoản của bạn được sử dụng và lưu trữ. Hãy nhớ rằng Hoyo Buddy là dự án mã nguồn mở và bạn có thể tự xác nhận quy trình xử lý tài khoản bằng cách đọc mã nguồn.
+
 ## Miễn trừ
 
 Việc bạn muốn cung cấp Cookie của bạn là do quyết định của **BẠN**. Mặc dù nhiều tính năng do bot cung cấp phụ thuộc vào cookie HoYoLAB của người dùng để hoạt động, Hoyo Buddy chưa bao giờ bắt người dùng cung cấp cookie của họ khi họ không muốn. Lập trình viên đã triển khai các biện pháp bảo mật mạnh mẽ để ngăn chặn việc rò rỉ Cookie của bạn. Trong trường hợp dữ liệu bị rò rỉ, trách nhiệm tối cao của lập trình viên là thông báo kịp thời cho người dùng về tình hình và khuyến cáo họ nên thay đổi mật khẩu. Tóm lại, vui lòng sử dụng công cụ này theo quyết định và rủi ro của riêng bạn!
-
-## Giới thiệu
-
-Phần này giải thích cách dữ liệu tài khoản của bạn được sử dụng và lưu trữ. Hãy nhớ rằng Hoyo Buddy là mã nguồn mở và bạn có thể tự xác nhận quy trình xử lý tài khoản bằng cách đọc mã nguồn.
 
 ### Cookies là gì?
 
@@ -43,5 +41,11 @@ Có ✅, Cookie thường có thời hạn hết hạn, thường được đặ
 Cookie của bạn được lưu trữ an toàn trong cơ sở dữ liệu do [Hetzner](https://www.hetzner.com/) lưu trữ. Để truy cập cơ sở dữ liệu này và lấy được Cookie của bạn, tin tặc sẽ cần phải lấy được cả mật khẩu tài khoản máy chủ của tôi và mật khẩu cơ sở dữ liệu. Một kịch bản như vậy thường liên quan đến vi phạm dữ liệu, mặc dù điều quan trọng cần lưu ý là vi phạm liên quan đến hetzner, một nhà cung cấp dịch vụ lưu trữ máy chủ uy tín và được sử dụng rộng rãi, tương đối hiếm. Tuy nhiên, trong trường hợp vi phạm không mong muốn, tôi sẽ ngay lập tức đưa ra thông báo trên máy chủ Discord, yêu cầu tất cả người dùng thay đổi mật khẩu tài khoản của họ. Hành động này đảm bảo rằng bất kỳ Cookie nào đã lưu trữ trước đó trong cơ sở dữ liệu đều trở nên vô hiệu, do đó bảo vệ quyền riêng tư và bảo mật của bạn.
 
 ### Phương pháp đăng nhập bằng email và mật khẩu hoạt động như thế nào?
+
+:::info
+
+Email và mật khẩu của bạn không bao giờ được lưu trữ.
+
+:::
 
 Trước tiên, điều quan trọng cần nhấn mạnh là phương pháp này không được thiết kế để xâm phạm tính bảo mật tài khoản của bạn. Thay vào đó, nó được triển khai để đơn giản hóa quy trình thiết lập tài khoản trong Hoyo Buddy. Nhiều người dùng gặp khó khăn khi định vị Cookie theo cách thủ công, thúc đẩy việc giới thiệu một giải pháp thay thế dễ dàng hơn. Phương pháp này hoạt động chính xác như đăng nhập qua email và mật khẩu trên HoYoLAB, đôi khi yêu cầu xác minh CAPTCHA vì mục đích bảo mật. Điều quan trọng cần lưu ý là email và mật khẩu của bạn không bao giờ được lưu trữ trong cơ sở dữ liệu. Thay vào đó, chúng được lưu tạm thời trong bộ nhớ và được mã hóa trước khi được truyền đến máy chủ của Hoyoverse. Phương pháp này tăng cường bảo mật bằng cách giảm thiểu việc tiết lộ thông tin đăng nhập nhạy cảm; bạn có thể xác minh quy trình minh bạch này bằng cách kiểm tra mã nguồn.
