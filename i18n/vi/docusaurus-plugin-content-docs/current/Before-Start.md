@@ -80,7 +80,7 @@ Nếu tài khoản PlayStation hoặc Xbox của bạn được liên kết vớ
 
 :::warning
 
-Cách này sẽ tạo một tài khoản Hoyoverse mới và liên kết dữ liệu hiện tại trên máy chơi game vào tài khoản mới, không phải liên kết dữ liệu hiện có trên tài khoản cũ, dù tài khoản có dữ liệu trò chơi hoặc không.
+Phương pháp này sẽ tạo một tài khoản HoYoverse mới và liên kết dữ liệu đã lưu hiện tại trên bảng điều khiển của bạn với tài khoản mới đó. Không thể liên kết với tài khoản Hoyoverse hiện có.
 
 :::
 
