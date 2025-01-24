@@ -86,7 +86,7 @@ If your PlayStation or Xbox account is linked to a Hoyoverse account, you can sk
 
 :::warning
 
-This method will create a new HoYoverse account and link the current save data on your console to that new account, not linking any existing data on an existing account, even if the account have game data or not.
+This method will create a new HoYoverse account and link the current saved data on your console to that new account. Linking to an existing Hoyoverse account is not possible.
 
 :::
 
