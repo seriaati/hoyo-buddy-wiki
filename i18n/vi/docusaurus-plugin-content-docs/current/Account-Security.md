@@ -1,10 +1,14 @@
 # Bảo Mật Tài Khoản
 
-Phần này giải thích cách dữ liệu tài khoản của bạn được sử dụng và lưu trữ. Hãy nhớ rằng Hoyo Buddy là dự án mã nguồn mở và bạn có thể tự xác nhận quy trình xử lý tài khoản bằng cách đọc mã nguồn.
+Phần này giải thích cách dữ liệu tài khoản của bạn được sử dụng và lưu trữ. Hãy nhớ rằng Hoyo Buddy là mã nguồn mở và mọi người đều có thể xác nhận quy trình xử lý tài khoản bằng cách đọc mã nguồn.
 
 ## Miễn trừ
 
 Việc bạn muốn cung cấp Cookie của bạn là do quyết định của **BẠN**. Mặc dù nhiều tính năng do bot cung cấp phụ thuộc vào cookie HoYoLAB của người dùng để hoạt động, Hoyo Buddy chưa bao giờ bắt người dùng cung cấp cookie của họ khi họ không muốn. Lập trình viên đã triển khai các biện pháp bảo mật mạnh mẽ để ngăn chặn việc rò rỉ Cookie của bạn. Trong trường hợp dữ liệu bị rò rỉ, trách nhiệm tối cao của lập trình viên là thông báo kịp thời cho người dùng về tình hình và khuyến cáo họ nên thay đổi mật khẩu. Tóm lại, vui lòng sử dụng công cụ này theo quyết định và rủi ro của riêng bạn!
+
+## Hoyo Buddy hoạt động như thế nào?
+
+Hoyo Buddy sử dụng cookie HoYoLAB của bạn để truy cập thông tin tài khoản của bạn. Bằng cách lấy cookie của bạn, Hoyo Buddy có thể mô phỏng các yêu cầu gửi đến HoYoLAB bằng danh tính của bạn, do đó truy cập thông tin như ghi chú thời gian thực và nhiều thông tin khác. HoYoLAB xác định người yêu cầu dựa trên cookie và Hoyo Buddy sử dụng cookie của bạn để thông báo cho HoYoLAB rằng người yêu cầu là bạn.
 
 ### Cookies là gì?
 
@@ -12,29 +16,37 @@ Cookie 🍪 là những phần dữ liệu nhỏ mà các trang web lưu trữ t
 
 Hãy tưởng tượng bạn bước vào một cửa hàng và người bán hàng đưa cho bạn một nhãn dán. Nhãn dán này có thể có thông tin như những mặt hàng bạn đã xem, bạn ở trong cửa hàng bao lâu hoặc thậm chí là sở thích của bạn. Sau đó, khi bạn quay lại cửa hàng, người bán hàng sẽ xem nhãn dán của bạn và có thể tùy chỉnh trải nghiệm của bạn dựa trên thông tin trên đó.
 
-Tương tự như vậy, khi bạn truy cập trang web HoYoLAB, nó sẽ cung cấp cho trình duyệt của bạn một "cookie". Cookie này chứa thông tin đăng nhập của bạn, cho phép trang web xác định rằng bạn là người truy cập trang web.
+Tương tự như vậy, khi bạn truy cập HoYoLAB, nó sẽ cung cấp cho trình duyệt của bạn một "cookie". Cookie này cho phép trang web xác định rằng chính bạn là người đang truy cập trang web.
 
-### Ok vậy, Hoyo Buddy sử dụng Cookie của tôi như thế nào?
+## Câu hỏi thường gặp
 
-Hoyo Buddy yêu cầu người dùng cung cấp Cookie của họ. Bằng cách lấy Cookie của bạn, Hoyo Buddy có thể mô phỏng các yêu cầu đến HoYoLAB bằng danh tính của bạn, do đó truy cập thông tin như ghi chú thời gian thực, tổng quan về Spiral Abyss, v.v. Về bản chất, HoYoLAB xác định người yêu cầu dựa trên Cookie và Hoyo Buddy sử dụng Cookie của bạn để thông báo cho HoYoLAB rằng người yêu cầu là bạn, do đó có được quyền truy cập vào thông tin được lưu trữ trong tài khoản của bạn.
+| Câu hỏi | Trả lời | Ghi chú |
+|---|---|---|
+| Email và mật khẩu của tôi có được lưu trữ không? | ❌ | [Xem mã](https://github.com/seriaati/hoyo-buddy/blob/main/hoyo_buddy/web_app/pages/finish.py) |
+| Bạn có thể đăng nhập vào tài khoản trò chơi của tôi không? | ❌ | Không thể |
+| Bạn có thể thay đổi mật khẩu tài khoản của tôi không? | ❌ | Không thể |
+| Bạn có thể đánh cắp tài khoản của tôi không? | ❌ | Không thể |
+| Bạn có thể bán tài khoản của tôi không? | ❌ | Không thể |
+| Tôi có thể bị cấm vì sử dụng Hoyo Buddy không? | ❔ | [Đọc thêm](#tôi-có-thể-bị-cấm-vì-sử-dụng-hoyo-buddy-không) |
+| Cookie có hết hạn không? | ✅ | Sau 1 năm |
+| Cookie có bị vô hiệu hóa sau khi tôi thay đổi mật khẩu không? | ✅ | Ngay lập tức |
+| Bạn có thể đăng bài trên HoYoLAB bằng danh tính của tôi không? | ✅ | [Đọc thêm](#truy-cập-các-tính-năng-cộng-đồng-hoyolab-bằng-cookie) |
 
-### Câu hỏi liên quan về bảo mật tài khoản
+### Tôi có thể bị cấm vì sử dụng Hoyo Buddy không?
 
-#### Bạn có quyền truy cập vào tài khoản của tôi không?
+Câu trả lời ngắn gọn là tôi không biết.
 
-Đối với tài khoản HoYoLAB, có ✅. Tuy nhiên, với tài khoản trò chơi, không ❌. Hoyoverse sử dụng các giao thức bảo mật nghiêm ngặt cho tài khoản trò chơi, đảm bảo rằng thông tin đăng nhập trò chơi khác biệt đáng kể so với thông tin đăng nhập trang web thông thường. Do đó, việc sử dụng Cookie để bắt chước các yêu cầu và truy cập vào trò chơi bằng danh tính của bạn là không khả thi. Nói một cách đơn giản, quyền truy cập của tôi bị giới hạn ở thông tin hiển thị trên HoYoLAB; bất kỳ thông tin nào ngoài thông tin đó đều không thể truy cập được.
+Tôi chưa được người dùng thông báo về bất kỳ lệnh cấm nào do sử dụng Hoyo Buddy. Tuy nhiên, bạn nên lưu ý rằng việc sử dụng bất kỳ công cụ của bên thứ ba nào để truy cập dữ liệu tài khoản của bạn đều vi phạm TOS. Mặc dù nguy cơ bị cấm là thấp, nhưng không phải là không có, tôi không thể đưa ra bất kỳ đảm bảo nào. Nếu bạn lo ngại về khả năng bị cấm, bạn nên tránh sử dụng Hoyo Buddy.
 
-#### Bạn có thể thay đổi mật khẩu tài khoản của tôi không??
+Về mặt kỹ thuật, nếu lệnh cấm thực sự xảy ra, đó sẽ là lệnh cấm đối với HoYoLAB, không phải đối với chính trò chơi. Điều này có nghĩa là bạn vẫn có thể chơi trò chơi, nhưng bạn sẽ không thể truy cập HoYoLAB nữa.
 
-Không, việc thay đổi mật khẩu tài khoản của bạn liên quan đến các lớp bảo mật bổ sung ngoài việc chỉ sử dụng Cookie. Không thể sửa đổi bất kỳ thông tin nhạy cảm nào trên tài khoản của bạn mà không có xác minh bổ sung từ email hoặc 2FA (nếu bạn đã bật).
+### Truy cập các tính năng cộng đồng HoYoLAB bằng Cookie
 
-#### Bạn có thể đăng bài trên HoYoLAB bằng danh tính của tôi không?
+Bạn có thể đăng bài, bình luận, trả lời và tham gia chủ đề trên HoYoLAB bằng cookie của mình.
 
-Vì tôi có quyền truy cập vào tài khoản HoYoLAB của bạn, về mặt kỹ thuật là được ✅. Tuy nhiên, điều quan trọng cần nhấn mạnh là tôi sẽ không tham gia vào các hoạt động độc hại như spam bài đăng, nói xấu, v.v.
+Trong bot, các tính năng cộng đồng chỉ được sử dụng để hoàn thành nhiệm vụ Traveling Mimo. Nếu có nhiệm vụ bình luận, bot sẽ bình luận thay mặt bạn rồi xóa nhiệm vụ đó.
 
-#### Cookie có thời hạn không?
-
-Có ✅, Cookie thường có thời hạn hết hạn, thường được đặt là một năm. Lưu ý rằng việc thay đổi mật khẩu tài khoản của bạn sẽ khiến tất cả các Cookie trước đó ngay lập tức trở nên vô hiệu.
+Nếu tính năng hoàn thành nhiệm vụ tự động Traveling Mimo bị tắt trên tài khoản của bạn, bot sẽ không truy cập bất kỳ tính năng cộng đồng nào.
 
 ### Cookie của tôi được lưu trữ như thế nào?
 
