@@ -44,9 +44,9 @@ Về mặt kỹ thuật, nếu lệnh cấm thực sự xảy ra, đó sẽ là 
 
 Bạn có thể đăng bài, bình luận, trả lời và tham gia chủ đề trên HoYoLAB bằng cookie của mình.
 
-Trong bot, các tính năng cộng đồng chỉ được sử dụng để hoàn thành nhiệm vụ Traveling Mimo. Nếu có nhiệm vụ bình luận, bot sẽ bình luận thay mặt bạn rồi xóa nhiệm vụ đó.
+Trong bot, các tính năng cộng đồng chỉ được sử dụng để hoàn thành nhiệm vụ Mimo Du Lịch. Nếu có nhiệm vụ bình luận, bot sẽ bình luận thay mặt bạn rồi xóa nhiệm vụ đó.
 
-Nếu tính năng hoàn thành nhiệm vụ tự động Traveling Mimo bị tắt trên tài khoản của bạn, bot sẽ không truy cập bất kỳ tính năng cộng đồng nào.
+Nếu tính năng hoàn thành nhiệm vụ tự động Mimo Du Lịch bị tắt trên tài khoản của bạn, bot sẽ không truy cập bất kỳ tính năng cộng đồng nào.
 
 ### Cookie của tôi được lưu trữ như thế nào?
 
