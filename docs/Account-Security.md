@@ -1,10 +1,14 @@
 # Account Security
 
-This section explains how your account data is used and stored. Remember that Hoyo Buddy is open-source, and you can confirm account processing procedures by yourself via reading the source code.
+This section explains how your account data is used and stored. Remember that Hoyo Buddy is open-source, and everyone can confirm account processing procedures via reading the source code.
 
 ## Disclaimer
 
 It is entirely **YOUR** decision whether to provide your Cookies or not. While many features offered by the bot depend on the user's HoYoLAB cookies for functionality, Hoyo Buddy has never coerced users into providing their cookies against their will. The developer has implemented robust security measures to prevent the leakage of your Cookies. In the event of a data breach, the developer's utmost responsibility is to promptly inform users about the situation and strongly advise them to change their passwords. In summary, please use this tool at your own discretion and risk!
+
+## How does Hoyo Buddy work?
+
+Hoyo Buddy uses your HoYoLAB cookies to access your account information. By obtaining your cookies, Hoyo Buddy can simulate requests to HoYoLAB using your identity, thereby accessing information such as real-time notes and more. HoYoLAB identifies the requester based on cookies, and Hoyo Buddy utilizes your cookies to inform HoYoLAB that the requester is you.
 
 ## What are Cookies?
 
@@ -12,29 +16,37 @@ Cookies 🍪 are small pieces of data that websites store on your computer or de
 
 Imagine you walk into a shop and the shopkeeper gives you a sticker. This sticker might have information like what items you looked at, how long you stayed in the shop, or even your preferences. Later, when you come back to the shop, the shopkeeper looks at your sticker and can tailor your experience based on the information on it.
 
-Similarly, when you visit the HoYoLAB website, it gives your browser a "cookie." This cookie contains your login details, allowing the website to identify that it is you accessing the website.
+Similarly, when you visit HoYoLAB, it gives your browser a "cookie." This cookie allows the website to identify that it is you accessing the website.
 
-## Ok, How Does Hoyo Buddy use my Cookies?
+## Frequently Asked Questions
 
-Hoyo Buddy requests users to provide their Cookies. By obtaining your Cookies, Hoyo Buddy can simulate requests to HoYoLAB using your identity, thereby accessing information such as real-time notes, Spiral Abyss overviews, and more. In essence, HoYoLAB identifies the requester based on Cookies, and Hoyo Buddy utilizes your Cookies to inform HoYoLAB that the requester is you, consequently gaining access to the information stored in your account.
+| Question | Answer | Notes |
+|---|---|---|
+| Is my email and password being stored? | ❌ | [See code](https://github.com/seriaati/hoyo-buddy/blob/main/hoyo_buddy/web_app/pages/finish.py) |
+| Can you login to my game account? | ❌ | Not possible |
+| Can you change my account's password? | ❌ | Not possible |
+| Can you steal my account? | ❌ | Not possible |
+| Can you sell my account? | ❌ | Not possible |
+| Can I get banned for using Hoyo Buddy? | ❔ | [Read more](#can-i-get-banned-for-using-hoyo-buddy) |
+| Do Cookies expire? | ✅ | After 1 year |
+| Is Cookies invalidated after I change my password? | ✅ | Immediately |
+| Can you make posts on HoYoLAB with my identity? | ✅ | [Read more](#accessing-hoyolab-community-features-with-cookies) |
 
-## Questions Related to Account Security
+### Can I get banned for using Hoyo Buddy?
 
-### Do you Have Access to my Account?
+The short answer is I don't know.
 
-For HoYoLAB accounts, yes ✅. However, for game accounts, no ❌. Hoyoverse employs stringent security protocols for game accounts, ensuring that game logins differ significantly from typical website logins. Consequently, using Cookies to mimic requests and gain access to games with your identity is not feasible. Put simply, my access is limited to the information visible on HoYoLAB; anything beyond that remains inaccessible.
+I haven't been notified from my users of any bans resulting from the use of Hoyo Buddy. However, you should note that using any third-party tool to access your account data is against the TOS. While the risk of being banned is low, it is not zero, I cannot make any guarantees. If you are concerned about the possibility of being banned, you should avoid using Hoyo Buddy.
 
-### Can you Change my Account's Password?
+Technically, if a ban actually happens, it will be a ban from HoYoLAB, not from the game itself. This means you can still play the game, but you won't be able to access HoYoLAB anymore.
 
-No, changing your account password involves additional layers of security measures beyond using your Cookies alone. It is impossible to modify any sensitive information on your account without the additional verification from your email or 2FA (if you have it enabled).
+### Accessing HoYoLAB Community Features With Cookies
 
-### Can you Make Posts on HoYoLAB With my Identity?
+It's possible to make posts, comments, replis, and join topics on HoYoLAB using your cookies.
 
-Given that I have access to your HoYoLAB account, technically yes ✅. However, it's essential to emphasize that I won't engage in such malicious activities.
+In the bot, community features are strictly being used for completing Traveling Mimo tasks. If there is a comment task, the bot will make a comment on your behalf then delete it.
 
-### Do Cookies Expire?
-
-Yes ✅, Cookies typically have an expiration period, commonly set to one year. Note that changing your account's password renders all previous Cookies immediately invalid.
+If Traveling Mimo auto task completion is disabled on your account, the bot doesn't access any community features at all.
 
 ### How is my Cookies Being Stored?
 
