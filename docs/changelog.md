@@ -1,4 +1,4 @@
-# Hoyo Buddy Changelog
+# Changelogs
 
 ## v1.15.7
 

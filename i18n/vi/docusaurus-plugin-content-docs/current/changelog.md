@@ -1,4 +1,4 @@
-# Nhật ký thay đổi Hoyo Buddy
+# Nhật ký thay đổi
 
 ## v1.15.7
 
