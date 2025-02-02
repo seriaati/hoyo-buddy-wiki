@@ -22,6 +22,7 @@ const sidebars = {
     'Getting-Started',
     'Why-Hoyo-Buddy',
     'FAQ',
+    'features',
     'Account-Security',
     'Login-Workflow',
     'changelog',
