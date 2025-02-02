@@ -10,7 +10,7 @@ Nếu bạn không có tài khoản Hoyoverse (bạn đăng nhập bằng dịch
 
 Đọc thêm: [Hoyo Buddy có an toàn không?](./Account-Security.md)
 
-## Thử ngay Hoyo BuddyBuddy
+## Thử ngay Hoyo Buddy
 
 1. Nhấp vào [liên kết này](https://discord.com/oauth2/authorize?client_id=1000045812522430626).
 

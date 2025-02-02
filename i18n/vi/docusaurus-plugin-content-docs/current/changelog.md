@@ -1,4 +1,4 @@
-# Nhật ký thay đổi Hoyo Buddy
+# Nhật ký thay đổi
 
 ## v1.15.7
 
@@ -134,7 +134,7 @@
 
 ## v1.15.3
 
-Lỗi code trong phiên bản trước đã xẩy ra lỗi "nhiều yêu cầu quá, vui lòng thử lại" khi người dùng đăng nhập, vui lòng xem [bài đăng này](https://link.seria.moe/kky283) để biết thêm thông tin.
+Lỗi code trong phiên bản trước đã xẩy ra lỗi "nhiều yêu cầu quá, vui lòng thử lại" khi người dùng đăng nhập, vui lòng xem [bài đăng này](./FAQ.md#lỗi-quá-nhiều-yêu-cầu-khi-cố-gắng-thêm-tài-khoản-bằng-phương-pháp-email-và-mật-khẩu) để biết thêm thông tin.
 
 ### Tính năng mới
 

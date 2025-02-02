@@ -24,6 +24,7 @@ const sidebars = {
     'FAQ',
     'Account-Security',
     'Login-Workflow',
+    'changelog',
   ],
 
   // But you can create a sidebar manually
