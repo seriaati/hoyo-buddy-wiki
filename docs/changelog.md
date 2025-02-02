@@ -132,7 +132,7 @@
 ## v1.15.3
 
 Bad code in the previous versions caused some users to see the "too many requests" error while logging in, please see
-[this article](https://link.seria.moe/kky283) for more information.
+[this article](./FAQ.md#too-many-requests-error-when-trying-to-add-accounts-using-email--password-method) for more information.
 
 ### New Features
 
