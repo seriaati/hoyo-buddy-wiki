@@ -56,7 +56,7 @@ Hầu hết thời gian, sự cố này chỉ là tạm thời, hãy đợi 30 p
 
 2. Thứ hai, vui lòng DỪNG cố gắng đăng nhập vào HoYoLAB/Hoyo Buddy/trong trò chơi bằng email/tên người dùng và mật khẩu của bạn.
 
-Bạn có còn đăng nhập vào trò chơi của mình không (Genshin, ZZZ, v.v.)?
+### Bạn có còn đăng nhập vào trò chơi của mình không (Genshin, ZZZ, v.v.)?
 
 * Có: Đầu tiên, [gửi email đến bộ phận chăm sóc khách hàng](#gửi-email-đến-cskh). Sau đó, hãy thử [DevTools](#đăng-nhập-bằng-devtools) hoặc [email thay vì tên người dùng](#đăng-nhập-bằng-tên-người-dùng-thay-vì-email) để đăng nhập vào Hoyo Buddy.
 
