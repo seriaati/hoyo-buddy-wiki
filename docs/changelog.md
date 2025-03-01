@@ -1,5 +1,30 @@
 # Changelogs
 
+## v1.16.0
+
+[For the nerds](https://github.com/seriaati/hoyo-buddy/releases/tag/v1.16.0)
+
+### New Features
+
+- (`/profile`) Added template previews in card settings.
+- (`/profile`) Show custom image availability in card template dropdown.
+- (`/notes`) Increaseed trailblaze power limit to 300.
+- (`/notes`) Added open game buttons.
+- (`/search zzz`) Added core skill level dropdown.
+- (`/gacha-log import`) Compare UID of incoming logs with the UID of the account being imported to.
+- Automatically set new user's language based on their Discord client's language.
+
+### Improvements
+
+- (`/redeem`) Improved UX by fixing no response when redeeming a redeemed code.
+- (`/gacha-log`) Made account parameter required to avoid confusion.
+- Show better error messages for "Missing Permissions" and "Message Blocked by AutoMod" errors.
+- Simplified texts shown in account set up process.
+
+### Bug Fixes
+
+Various bug fixes and improvements.
+
 ## v1.15.7
 
 ### New Features
