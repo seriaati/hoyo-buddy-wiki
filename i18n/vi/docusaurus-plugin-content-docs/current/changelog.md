@@ -8,6 +8,9 @@
 - (`/profile`) Hiển thị ảnh tùy chỉnh sẵn có trong menu mẫu thẻ
 - (`/notes`) Tăng giới hạn Sức mạnh Khai Phá lên 300.
 - (`/notes`) Thêm nút mở trò chơi.
+- (`/search zzz`) Thêm menu cấp độ Kỹ Năng Cốt Lõi.
+- (`/gacha-log import`) So sánh UID của nhật ký đến với UID của tài khoản đang được nhập vào.
+- Tự động cài đặt ngôn ngữ của người dùng mới dựa trên ngôn ngữ của ứng dụng Discord.
 
 ### Cải Tiến
 
