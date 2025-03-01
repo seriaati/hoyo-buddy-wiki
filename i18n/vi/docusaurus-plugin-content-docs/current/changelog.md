@@ -1,6 +1,6 @@
 # Nhật ký thay đổi
 
-## v1.16.00
+## v1.16.0
 
 ### Tính năng mới
 
