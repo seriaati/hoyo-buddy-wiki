@@ -8,7 +8,7 @@
 
 - (`/profile`) Added template previews in card settings.
 - (`/profile`) Show custom image availability in card template dropdown.
-- (`/notes`) Increaseed trailblaze power limit to 300.
+- (`/notes`) Increased trailblaze power limit to 300.
 - (`/notes`) Added open game buttons.
 - (`/search zzz`) Added core skill level dropdown.
 - (`/gacha-log import`) Compare UID of incoming logs with the UID of the account being imported to.
