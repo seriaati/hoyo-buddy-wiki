@@ -1,5 +1,26 @@
 # Nhật ký thay đổi
 
+## v1.16.0
+
+### Tính năng mới
+
+- (`/profile`) Thêm Xem trước Mẫu thẻ trong cài đặt thẻ
+- (`/profile`) Hiển thị ảnh tùy chỉnh sẵn có trong menu mẫu thẻ
+- (`/notes`) Tăng giới hạn Sức mạnh Khai Phá lên 300.
+- (`/notes`) Thêm nút mở trò chơi.
+
+### Cải Tiến
+
+- (`/redeem`) Cải thiện UX bằng cách sữa không phản hồi khi đang đổi mã.
+- (`/gacha-log`) Làm tham số tài-khoản bắt buộc để tránh sự bối rối.
+- Hiển thị thông báo lỗi tốt hơn cho lỗi "Thiếu quyền" và "Tin nhắn bị AutoMod chặn".
+- Hiển thị văn bản đơn giản trong quá trình thiết lập tài khoản.
+
+### Sửa Lỗi
+
+- Sửa nhiều lỗi và cải tiến.
+- Cải thiện phiên dịch Tiếng Việt.
+
 ## v1.15.7
 
 ### Tính năng mới
