@@ -128,6 +128,13 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      algolia: {
+        apiKey: process.env.ALGOLIA_APP_ID,
+        indexName: process.env.ALGOLIA_API_KEY,
+        appId: process.env.ALGOLIA_INDEX_NAME, // Optional, if you have an Algolia App ID
+        contextualSearch: true,
+        searchParameters: {}, // Optional, if you want to pass additional search parameters
+      }
     }),
 };
 
