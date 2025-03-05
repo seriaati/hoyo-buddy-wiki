@@ -86,4 +86,6 @@ Cookies don't have enough permissions to change your account's password, usernam
 
 ### Can you Steal/Sell my Account?
 
-No, I can't. Stealing or selling your account requires changing your password, which is [not possible](#can-you-change-my-accounts-password). Even if I share your Cookies, it's not possible to [login to your game account](#can-you-login-to-my-game-account).
+No, I can't.
+
+Stealing or selling your account requires changing your password, which is [not possible](#can-you-change-my-accounts-password). Even if I share your Cookies to others, it's not possible to [login to your game account](#can-you-login-to-my-game-account).
