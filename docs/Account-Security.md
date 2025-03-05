@@ -18,15 +18,25 @@ Imagine you walk into a shop and the shopkeeper gives you a sticker. This sticke
 
 Similarly, when you visit HoYoLAB, it gives your browser a "cookie." This cookie allows the website to identify that it is you accessing the website.
 
+## What Permissions do Cookies Have?
+
+| Permission | Have? |
+|---|---|
+| Login to your game account | ❌ |
+| Change your account's password | ❌ |
+| Access sensitive information (email, mobile number, etc.) | ❌ |
+| Make posts/comments/replies on HoYoLAB with your identity | ✅ |
+| Access real-time notes, character stats, and other non-sensitive information in the battle chronicle | ✅ |
+
 ## Frequently Asked Questions
 
 | Question | Answer | Notes |
 |---|---|---|
 | Is my email and password being stored? | ❌ | [See code](https://github.com/seriaati/hoyo-buddy/blob/main/hoyo_buddy/web_app/pages/finish.py) |
-| Can you login to my game account? | ❌ | Not possible |
-| Can you change my account's password? | ❌ | Not possible |
-| Can you steal my account? | ❌ | Not possible |
-| Can you sell my account? | ❌ | Not possible |
+| Can you login to my game account? | ❌ | [Not possible](#can-you-login-to-my-game-account) |
+| Can you change my account's password? | ❌ | [Not possible](#can-you-change-my-accounts-password) |
+| Can you steal my account? | ❌ | [Not possible](#can-you-stealsell-my-account) |
+| Can you sell my account? | ❌ | [Not possible](#can-you-stealsell-my-account) |
 | Can I get banned for using Hoyo Buddy? | ❔ | [Read more](#can-i-get-banned-for-using-hoyo-buddy) |
 | Do Cookies expire? | ✅ | After 1 year |
 | Is Cookies invalidated after I change my password? | ✅ | Immediately |
@@ -61,3 +71,19 @@ Your email and password were never stored.
 :::
 
 This method isn't designed to compromise your account security, it's made to simplify the account set up process. Many users encounter difficulties locating their Cookies manually, prompting the introduction of an easier alternative. The method functions exactly to logging in via email and password on HoYoLAB, occasionally requiring CAPTCHA verification for security purposes. Your email and password were never stored in the database. They are temporarily held in-memory and encrypted before being sent to Hoyoverse's server. Internally, this method functions the same as the DevTools method, both only saves your Cookies in the database, but some might feel that the DevTools method is safer.
+
+### Can you Login to my Game Account?
+
+No, I can't.
+
+Cookies don't have enough permissions to login to your game account, username and password login is needed for that. Your username and password were never stored; even if they were, logging in on an unknown device requires email verification, and I don't have access to your email.
+
+### Can you Change my Account's Password?
+
+No, I can't.
+
+Cookies don't have enough permissions to change your account's password, username and password login is needed for that. Your username and password were never stored; even if they were, changing password requires email verification, and I don't have access to your email.
+
+### Can you Steal/Sell my Account?
+
+No, I can't. Stealing or selling your account requires changing your password, which is [not possible](#can-you-change-my-accounts-password). Even if I share your Cookies, it's not possible to [login to your game account](#can-you-login-to-my-game-account).
