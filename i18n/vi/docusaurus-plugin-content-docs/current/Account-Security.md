@@ -18,15 +18,25 @@ Hãy tưởng tượng bạn bước vào một cửa hàng và người bán h�
 
 Tương tự như vậy, khi bạn truy cập HoYoLAB, nó sẽ cung cấp cho trình duyệt của bạn một "cookie". Cookie này cho phép trang web xác định rằng chính bạn là người đang truy cập trang web.
 
+## Cookie có những quyền truy cập gì?
+
+| Quyền | Có/Không |
+|---|---|
+| Đăng nhập vào tài khoản trò chơi | ❌ |
+| Đổi mật khẩu tài khoản | ❌ |
+| Truy cập vào thông tin cá nhân (email, số điện thoại, v.v.) | ❌ |
+| Tạo bài đăng/bình luận/trả lời bình luận trên HoYoLAB bằng danh tính của bạn | ✅ |
+| Truy cập ghi chú thời gian thực, thống kê dữ liệu nhân vật, và thông tin không nhạy cảm khác trong chiến tích | ✅ |
+
 ## Câu hỏi thường gặp
 
 | Câu hỏi | Trả lời | Ghi chú |
 |---|---|---|
 | Email và mật khẩu của tôi có được lưu trữ không? | ❌ | [Xem mã](https://github.com/seriaati/hoyo-buddy/blob/main/hoyo_buddy/web_app/pages/finish.py) |
-| Bạn có thể đăng nhập vào tài khoản trò chơi của tôi không? | ❌ | Không thể |
-| Bạn có thể thay đổi mật khẩu tài khoản của tôi không? | ❌ | Không thể |
-| Bạn có thể đánh cắp tài khoản của tôi không? | ❌ | Không thể |
-| Bạn có thể bán tài khoản của tôi không? | ❌ | Không thể |
+| Bạn có thể đăng nhập vào tài khoản trò chơi của tôi không? | ❌ | [Không thể](#bạn-có-thể-đăng-nhập-vào-tài-khoản-trò-chơi-của-tôi-không) |
+| Bạn có thể thay đổi mật khẩu tài khoản của tôi không? | ❌ | [Không thể](#bạn-có-thể-thay-đổi-mật-khẩu-tài-khoản-của-tôi-không) |
+| Bạn có thể đánh cắp tài khoản của tôi không? | ❌ | [Không thể](#bạn-có-thể-đánh-cắpbán-tài-khoản-của-tôi-không) |
+| Bạn có thể bán tài khoản của tôi không? | ❌ | [Không thể](#bạn-có-thể-đánh-cắpbán-tài-khoản-của-tôi-không) |
 | Tôi có thể bị cấm vì sử dụng Hoyo Buddy không? | ❔ | [Đọc thêm](#tôi-có-thể-bị-cấm-vì-sử-dụng-hoyo-buddy-không) |
 | Cookie có hết hạn không? | ✅ | Sau 1 năm |
 | Cookie có bị vô hiệu hóa sau khi tôi thay đổi mật khẩu không? | ✅ | Ngay lập tức |
@@ -61,3 +71,21 @@ Email và mật khẩu của bạn không bao giờ được lưu trữ.
 :::
 
 Trước tiên, điều quan trọng cần nhấn mạnh là phương pháp này không được thiết kế để xâm phạm tính bảo mật tài khoản của bạn. Thay vào đó, nó được triển khai để đơn giản hóa quy trình thiết lập tài khoản trong Hoyo Buddy. Nhiều người dùng gặp khó khăn khi định vị Cookie theo cách thủ công, thúc đẩy việc giới thiệu một giải pháp thay thế dễ dàng hơn. Phương pháp này hoạt động chính xác như đăng nhập qua email và mật khẩu trên HoYoLAB, đôi khi yêu cầu xác minh CAPTCHA vì mục đích bảo mật. Điều quan trọng cần lưu ý là email và mật khẩu của bạn không bao giờ được lưu trữ trong cơ sở dữ liệu. Thay vào đó, chúng được lưu tạm thời trong bộ nhớ và được mã hóa trước khi được truyền đến máy chủ của Hoyoverse. Phương pháp này tăng cường bảo mật bằng cách giảm thiểu việc tiết lộ thông tin đăng nhập nhạy cảm; bạn có thể xác minh quy trình minh bạch này bằng cách kiểm tra mã nguồn.
+
+### Bạn có thể đăng nhập vào tài khoản trò chơi của tôi không?
+
+Không, tôi không thể.
+
+Cookie không có đủ quyền để đăng nhập vào tài khoản trò chơi của bạn, cần phải đăng nhập bằng tên người dùng và mật khẩu. Tên người dùng và mật khẩu của bạn chưa bao giờ được lưu trữ; ngay cả khi chúng được lưu trữ, việc đăng nhập trên một thiết bị không xác định yêu cầu xác minh email, và tôi không có quyền truy cập vào email của bạn.
+
+### Bạn có thể thay đổi mật khẩu tài khoản của tôi không?
+
+Không, tôi không thể.
+
+Cookie không có đủ quyền để thay đổi mật khẩu tài khoản của bạn, cần phải đăng nhập bằng tên người dùng và mật khẩu. Tên người dùng và mật khẩu của bạn chưa bao giờ được lưu trữ; ngay cả khi chúng được lưu trữ, việc thay đổi mật khẩu yêu cầu xác minh email, và tôi không có quyền truy cập vào email của bạn.
+
+### Bạn có thể đánh cắp/bán tài khoản của tôi không?
+
+Không, tôi không thể.
+
+Đánh cắp hoặc bán tài khoản của bạn yêu cầu thay đổi mật khẩu của bạn, điều này [không thể thực hiện được](#bạn-có-thể-thay-đổi-mật-khẩu-tài-khoản-của-tôi-không). Ngay cả khi tôi chia sẻ Cookie của bạn cho người khác, cũng không thể [đăng nhập vào tài khoản trò chơi của bạn](#bạn-có-thể-đăng-nhập-vào-tài-khoản-trò-chơi-của-tôi-không).
