@@ -1,5 +1,24 @@
 # 更新日誌
 
+## v1.16.1
+
+### 新功能
+
+- (`/gacha-log upload`) 新增對 [Starward 啟動器](https://github.com/Scighost/Starward) 的絕區零部份匯入抽卡紀錄的支援。
+- (`/redeem`) 新增通知設定。
+- (`/accounts`) 新增獲取 aaid 的說明，方便用戶新增米遊社帳號。
+- 新增「隱藏 UI」按鈕，適用於按鈕數量較多的指令。
+
+### 優化
+
+- (`/search`) 移除「未釋出內容」分類，詳情請參見[這則訊息](https://discord.com/channels/1000727526194298910/1042428379120545873/1346411349999357973)。
+- (`/characters`) 允許在篩選器中不選擇任何項目。
+- 提升自動任務的性能。
+
+### 問題修復
+
+修復了多個問題，詳情請查閱[完整更新日誌](https://github.com/seriaati/hoyo-buddy/releases/tag/v1.16.1)。
+
 ## v1.16.0  
 
 [給技術宅們](https://github.com/seriaati/hoyo-buddy/releases/tag/v1.16.0)  
