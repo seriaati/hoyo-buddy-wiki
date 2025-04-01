@@ -1,5 +1,24 @@
 # Nhật ký thay đổi
 
+## v1.16.1
+
+### Tính năng mới
+
+- (`/gacha-log upload`) Thêm hỗ trợ nhập dữ liệu gacha từ trình khởi chạy [Starward](https://github.com/Scighost/Starward)
+- (`/redeem`) Thêm cài đặt thông báo
+- (`/accounts`) Thêm hướng dẫn để lấy aaid để thêm các tài khoản Miyoushe.
+- Thêm nút ẩn UIUI
+
+### Cải Tiến
+
+- (`/search`) Đã xóa danh mục "nội dung chưa phát hành", hãy xem [tin nhắn này](https://discord.com/channels/1000727526194298910/1042428379120545873/1346413266737561660) để biết lý do.
+- (`/characters`) Cho phép không chọn gì cho các bộ lọc.
+- Tăng hiệu suất cho các tác vụ tự động.
+
+### Sửa Lỗi
+
+Đã sửa nhiều lỗi khác nhau, hãy xem [nhật ký thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy/releases/tag/v1.16.1) để biết thêm chi tiết.
+
 ## v1.16.0
 
 ### Tính năng mới
