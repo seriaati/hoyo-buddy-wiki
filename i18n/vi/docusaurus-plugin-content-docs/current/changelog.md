@@ -11,7 +11,7 @@
 
 ### Cải Tiến
 
-- (`/search`) Đã xóa danh mục "nội dung chưa phát hành", hãy xem [tin nhắn này](https://discord.com/channels/1000727526194298910/1042428379120545873/1346411349999357973) để biết lý do.
+- (`/search`) Đã xóa danh mục "nội dung chưa phát hành", hãy xem [tin nhắn này](https://discord.com/channels/1000727526194298910/1042428379120545873/1346413266737561660) để biết lý do.
 - (`/characters`) Cho phép không chọn gì cho các bộ lọc.
 - Tăng hiệu suất cho các tác vụ tự động.
 
