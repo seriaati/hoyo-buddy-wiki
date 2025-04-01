@@ -1,5 +1,24 @@
 # Changelogs
 
+## v1.16.1
+
+### New Features
+
+- (`/gacha-log upload`) Added support for importing from [Starward](https://github.com/Scighost/Starward) for ZZZ.
+- (`/redeem`) Added notification settings.
+- (`/accounts`) Added instructions for gettings aaid for adding Miyoushe accounts.
+- Added "Hide UI" button for commands that have many buttons.
+
+### Improvements
+
+- (`/search`) Removed "unreleased content" category, see [this message](https://discord.com/channels/1000727526194298910/1042428379120545873/1346411349999357973) for why.
+- (`/characters`) Allow selecting nothing for the filters.
+- Increased performance for auto tasks.
+
+### Bug Fixes
+
+Various bug fixes, see the [full changelog](https://github.com/seriaati/hoyo-buddy/releases/tag/v1.16.1) for more details.
+
 ## v1.16.0
 
 [For the nerds](https://github.com/seriaati/hoyo-buddy/releases/tag/v1.16.0)
