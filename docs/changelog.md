@@ -8,8 +8,8 @@
 
 ### Bug Fixes
 
-- (`/profile zzz`) Fixed Pulchra's image position in template 2.
-- (`/build genshin`) Fixed artifact position emojis not being shown properly for user app users.
+- (`/profile zzz`) Fixed Pulchra's image position in card template 2.
+- (`/build genshin`) Fixed artifact position emojis not being shown properly for user apps.
 
 ## v1.16.1
 
