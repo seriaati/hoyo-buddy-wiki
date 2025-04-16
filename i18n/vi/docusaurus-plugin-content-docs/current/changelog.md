@@ -1,5 +1,16 @@
 # Nhật ký thay đổi
 
+## v1.16.2
+
+### Tính năng mới
+
+- (`/profile hsr`) Thêm dữ liệu thẻ cho Castorice & Anaxa.
+
+### Sửa lỗi
+
+- (`/profile zzz`) Sửa vị trí thẻ hình của Pulchra trong Mẫu thẻ Hoyo Buddy 2.
+- (`/build genshin`) Sửa lỗi di vật vị trí emoji không được hiển thị đúng cách trong ứng dụng của tôi.
+
 ## v1.16.1
 
 ### Tính năng mới
