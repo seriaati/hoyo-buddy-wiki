@@ -1,4 +1,4 @@
-# Features
+# Tính năng
 
 Hoyo Buddy tích hợp các tính năng từ tất cả game của Hoyoverse, hỗ trợ HoYoLAB và Miyoushe.
 

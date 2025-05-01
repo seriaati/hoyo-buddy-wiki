@@ -48,54 +48,9 @@ Tôi sẽ không cung cấp bất kỳ hỗ trợ nào cho việc tự host, nh�
 
 Để tiết kiệm tài nguyên, các thành phần UI (giao diện người dùng) sẽ hết hạn sau 10 phút. Để tránh nhầm lẫn, các thành phần UI sẽ bị vô hiệu hóa khi chúng hết hạn.
 
-## Lỗi "Quá nhiều yêu cầu" khi cố gắng thêm tài khoản bằng phương pháp email và mật khẩu
+## Lỗi "Quá nhiều yêu cầu" khi thêm tài khoản
 
-Hầu hết thời gian, sự cố này chỉ là tạm thời, hãy đợi 30 phút rồi thử lại. Nếu lỗi vẫn hiển thị, tài khoản của bạn có thể bị "khóa mềm", vui lòng đọc kỹ hướng dẫn bên dưới (Lưu ý: Một người dùng đã báo cáo rằng tài khoản của họ được tự động mở khóa sau khi chờ 5 ngày.)
-
-1. Trước tiên, vui lòng KHÔNG đặt lại mật khẩu tài khoản của bạn, điều này sẽ không giải quyết được sự cố và sẽ chỉ khiến sự cố trở nên tồi tệ hơn.
-
-2. Thứ hai, vui lòng DỪNG cố gắng đăng nhập vào HoYoLAB/Hoyo Buddy/trong trò chơi bằng email/tên người dùng và mật khẩu của bạn.
-
-### Bạn có còn đăng nhập vào trò chơi của mình không (Genshin, ZZZ, v.v.)?
-
-* Có: Đầu tiên, [gửi email đến bộ phận chăm sóc khách hàng](#gửi-email-đến-cskh). Sau đó, hãy thử [DevTools](#đăng-nhập-bằng-devtools) hoặc [email thay vì tên người dùng](#đăng-nhập-bằng-tên-người-dùng-thay-vì-email) để đăng nhập vào Hoyo Buddy.
-
-* Không: Xem [cố gắng đăng nhập vào trò chơi của bạn](#cố-gắng-đăng-nhập-vào-trò-chơi-của-bạn).
-
-### Đăng nhập bằng tên người dùng thay vì email
-
-Một người dùng phát hiện ra rằng nếu bạn đã đăng nhập bằng tên người dùng của mình, đăng nhập bằng email có thể bỏ qua thông báo lỗi. Tương tự như vậy, nếu bạn đã đăng nhập bằng email của mình, hãy thử đăng nhập bằng tên người dùng của mình.
-
-### Đăng nhập bằng DevTools
-
-Nếu bạn có thiết bị PC/laptop, bạn có thể đăng nhập bằng phương pháp DevTools, nút nằm cạnh email và mật khẩu. Bạn sẽ không thể sử dụng các tính năng đổi mã (như đổi tự động) bằng phương pháp này.
-
-### Cố gắng đăng nhập vào trò chơi của bạn
-
-Tài khoản Hoyoverse của bạn có được liên kết với bất kỳ nền tảng bên thứ ba nào không (Google, Facebook, v.v.)?
-
-* Có: Đăng nhập vào trò chơi của bạn bằng phương tiện truyền thông xã hội được liên kết. Sau đó, [gửi email đến bộ phận CSKH](#gửi-email-đến-cskh). Tiếp theo, hãy thử [DevTools](#đăng-nhập-bằng-devtools) hoặc [email thay vì tên người dùng](#đăng-nhập-bằng-tên-người-dùng-thay-vì-email) để đăng nhập vào Hoyo Buddy.
-
-* Không: Xem bên dưới
-
-Bạn đã đăng nhập vào [Trung tâm tài khoản Hoyoverse](https://account.hoyoverse.com/) chưa?
-
-* Có: Liên kết tài khoản của bạn với phương tiện truyền thông xã hội và đăng nhập vào trò chơi của bạn bằng phương tiện đó. Sau đó, [gửi email đến bộ phận CSKH](#gửi-email-đến-cskh). Tiếp theo, hãy thử [DevTools](#đăng-nhập-bằng-devtools) hoặc [email thay vì tên người dùng](#đăng-nhập-bằng-tên-người-dùng-thay-vì-email) để đăng nhập vào Hoyo Buddy.
-
-* Không: Hãy thử [cái này](#đăng-nhập-bằng-tên-người-dùng-thay-vì-email), nếu không được, hãy [gửi email đến bộ phận CSKH](#gửi-email-đến-cskh) rồi kiên nhẫn chờ phản hồi của họ. Rất tiếc, nhưng hiện tại bạn không thể truy cập tài khoản trò chơi của mình.
-
-### Gửi email đến CSKH
-
-Địa chỉ Email: [hoyolab@hoyoverse.com](mailto:hoyolab@hoyoverse.com)
-
-Mẫu:
-
-```
-Tôi không thể đăng nhập vào HoYoLAB bằng email và mật khẩu của mình, khi tôi thử đăng nhập thì nó báo "Quá nhiều yêu cầu, vui lòng làm mới trang và thử lại sau" (như trong ảnh chụp màn hình bên dưới). Tôi đã đợi hơn 8 giờ và nó vẫn hiển thị lỗi này. Vui lòng giúp tôi mở khóa tài khoản, tôi chân thành cảm ơn.
-
-Email của tôi là <email của bạn>
-(đính kèm ảnh chụp màn hình hiển thị lỗi)
-```
+Xem [trang này](./too-many-requests.md) để biết thêm thông tin.
 
 ## Tại sao tính năng đổi mã chỉ dành riêng cho người dùng đăng nhập bằng email và mật khẩu?
 
@@ -119,3 +74,7 @@ Nếu bạn thấy mục Cookie trùng lặp, hãy thử sử dụng cửa sổ 
 ## Tại sao tôi thấy lỗi "interaction failed"?
 
 Hầu hết thời gian lỗi này là do bot khởi động lại (để áp dụng bản cập nhật mã) và bạn chỉ cần nhập lại lệnh. Tuy nhiên, nếu lỗi này tiếp tục xảy ra, điều đó có nghĩa là có lỗi và bạn nên thông báo cho nhà phát triển trong [máy chủ Discord](https://link.seria.moe/hb-dc).
+
+## Tài khoản của tôi bị can thiệp (hacked) sau khi thêm vào Hoyo Buddy
+
+Xem [trang này](./account-hacked.md) để biết thêm thông tin.
