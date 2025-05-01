@@ -1,23 +1,105 @@
-# Features
+# 功能
 
-Hoyo Buddy integrates features from all Hoyoverse games, supporting both HoYoLAB and Miyoushe.
+这是 Hoyo Buddy 可用功能的概述。要查看全部可用命令，请在 Discord 中输入"/"并选择 Hoyo Buddy 图标。
 
-| Command | Description | Genshin Impact | Honkai: Star Rail | Zenless Zone Zero | Honkai Impact 3rd | Tears of Themis |
-|---|---|---|---|---|---|---|
-| /profile | Generate character build cards and team cards. | ✅ | ✅ | ✅ | ❌ | ❌ |
-| /mimo | Automatic Traveling Mimo task completion and reward buying. | ✅ | ✅ | ✅ | ❌ | ❌ |
-| /notes | View real-time notes and set reminders. | ✅ | ✅ | ✅ | ✅ | ❌ |
-| /redeem | Automatic and manual gift code redemption. | ✅ | ✅ | ✅ | ❌ | ✅ |
-| /check-in | Automatic HoYoLAB/Miyoushe daily reward check-in. | ✅ | ✅ | ✅ | ✅ | ✅ |
-| /characters | View and filter all owned characters.  | ✅ | ✅ | ✅ | ✅ | ❌ |
-| /challenge | View statistics/overview of end-game content. | ✅ | ✅ | ✅ | ❌ | ❌ |
-| /stats | View account statistics.  | ✅ | ✅ | ✅ | ✅ | ❌ |
-| /search | Search anything game-related, including unreleased content. | ✅ | ✅ | ✅ | ❌ | ❌ |
-| /gacha-log | Import, view, and analyze your gacha records. | ✅ | ✅ | ✅ | ❌ | ❌ |
-| /events | View on-going in-game events and banners. | ✅ | ✅ | ✅ | ❌ | ❌ |
-| /exploration | View area exploration statistics. | ✅ | ❌ | ❌ | ❌ | ❌ |
-| /lb view | View leaderboards. | ✅ | ✅ | ✅ | ❌ | ❌ |
-| /lb akasha | View character damage leaderboard. | ✅ | ❌ | ❌ | ❌ | ❌ |
-| /farm reminder | Set reminders for farming materials for a character/weapon. | ✅ | ❌ | ❌ | ❌ | ❌ |
-| /farm view | View farmable domain materials in different weekdays. | ✅ | ❌ | ❌ | ❌ | ❌ |
-| /web-events | View on-going web events and get notified for new ones. | ✅ | ✅ | ✅ | ✅ | ✅ |
+## 基础功能
+
+### /accounts
+
+- **注册**: 将您的 HoYoLAB 账户添加到 Hoyo Buddy
+- **账户列表**: 查看已注册的所有账户和游戏账号
+- **账户设置**: 启用/禁用自动签到、自动兑换礼物码等功能
+
+### /settings
+
+- **语言**: 更改机器人文本语言
+- **主题**: 更改图片背景颜色（浅色/深色）
+- **更多选项**: 自动签到时间、角色/光锥排序方式等
+
+## 原神功能
+
+### /genshin 状态
+
+查看树脂、洞天宝钱、每日任务、参量质变仪等状态。
+
+### /genshin 角色
+
+查看指定角色的武器、圣遗物、天赋等信息。
+
+### /genshin 深渊
+
+查看深境螺旋挑战记录。
+
+### /genshin 收藏
+
+查看角色、武器收藏情况。
+
+### /genshin 笔记
+
+查看游戏记录，如角色数量、成就进度等。
+
+## 崩坏：星穹铁道功能
+
+### /starrail 状态
+
+查看开拓力、每日任务、拟造花萼、历战余响等状态。
+
+### /starrail 角色
+
+查看指定角色的光锥、遗器、星魂等信息。
+
+### /starrail 忘却之庭
+
+查看忘却之庭挑战记录。
+
+### /starrail 收藏
+
+查看角色、光锥收藏情况。
+
+### /starrail 笔记
+
+查看游戏记录，如角色数量、成就进度等。
+
+## 绝区零功能
+
+### /zenless 状态
+
+查看体力、每日任务等状态。
+
+### /zenless 角色
+
+查看指定角色的武器、心相等信息。
+
+### /zenless 测试
+
+查看信誉竞技场记录。
+
+### /zenless 收藏
+
+查看角色、武器收藏情况。
+
+### /zenless 笔记
+
+查看游戏记录，如角色数量等信息。
+
+## 通用功能
+
+### /hoyolab 笔记
+
+查看 HoYoLAB 日记，包括签到记录、活跃天数等。
+
+### /codes
+
+查看最新兑换码并一键兑换。
+
+### /旅行者笔记
+
+查看米游社中的"旅行者笔记"信息。
+
+### /profile
+
+生成可自定义的角色收藏展示卡片。
+
+## 展望
+
+Hoyo Buddy 仍在持续开发中。我们计划添加更多功能以提升用户体验。如有任何建议或问题，欢迎加入我们的 [Discord 服务器](https://link.seria.moe/hb-dc) 进行反馈。
