@@ -1,31 +1,31 @@
-# Using Hoyo Buddy in Discord Servers
+# Sử dụng Hoyo Buddy trong máy chủ Discord
 
-## What Can Get You Warned or Banned
+## Những gì có thể khiến bạn bị cảnh báo hoặc bị cấm khỏi máy chủ
 
-Some users have received warnings for discussing Hoyo Buddy or sharing its content in **Official Discord servers**.
+Một số người dùng đã nhận được cảnh báo vì thảo luận về Hoyo Buddy hoặc chia sẻ nội dung của nó trên **máy chủ Discord chính thức**.
 
-At this time, only official servers are known to restrict Hoyo Buddy use. Other Discord servers may have different rules - check with server admins to be sure.
+Hiện tại, chỉ có máy chủ chính thức được biết là hạn chế việc sử dụng Hoyo Buddy. Các máy chủ Discord khác có thể có các quy tắc khác - hãy kiểm tra với quản trị viên máy chủ để chắc chắn.
 
-These actions **will** trigger warnings in Official Discord servers:
+Những hành động này **sẽ** kích hoạt cảnh báo trên máy chủ Discord chính thức:
 
-- Talking about Hoyo Buddy
-- Sharing content made by Hoyo Buddy:
-  - Definitely banned: Build cards and character summary cards
-  - Possibly banned: End game cards and other content
-- Using Hoyo Buddy in a server where it's not allowed
+- Nói về Hoyo Buddy
+- Chia sẻ nội dung do Hoyo Buddy tạo ra:
+  - Chắc chắn bị cấm: Thẻ xây dựng và thẻ tóm tắt nhân vật
+  - Có thể bị cấm: Thẻ nội dung endgame và nội dung khác
+- Sử dụng Hoyo Buddy trên máy chủ không được phép
 
-Remember: Multiple warnings can lead to a ban.
+Hãy nhớ rằng: Nhiều cảnh báo có thể dẫn đến lệnh cấm.
 
-## Why Official Servers Ban Hoyo Buddy
+## Tại sao máy chủ chính thức cấm Hoyo Buddy
 
-The official reason is that Hoyo Buddy is a third-party service that violates Hoyoverse's Terms of Service. Hoyoverse considers it a security risk.
+Lý do chính thức là Hoyo Buddy là dịch vụ của bên thứ ba vi phạm Điều khoản dịch vụ của Hoyoverse. Hoyoverse coi đó là rủi ro bảo mật.
 
-Unofficially, Hoyoverse may see Hoyo Buddy as competition that makes HoYoLAB less relevant.
+Không chính thức, Hoyoverse có thể coi Hoyo Buddy là đối thủ cạnh tranh khiến HoYoLAB ít liên quan hơn.
 
-## What About Unofficial Discord Servers?
+## Còn máy chủ Discord không chính thức thì sao?
 
-We haven't seen unofficial Discord servers ban Hoyo Buddy yet. If any do, it's likely because they're following Hoyoverse's Terms of Service rules.
+Chúng tôi chưa thấy máy chủ Discord không chính thức nào cấm Hoyo Buddy. Nếu có, thì có thể là do họ tuân thủ các quy tắc Điều khoản dịch vụ của Hoyoverse.
 
-## Will This Affect My Game Account?
+## Điều này có ảnh hưởng đến tài khoản trò chơi của tôi không?
 
-Most likely not. Bans from official Discord servers should only affect your Discord access and shouldn't impact your game account in any way.
+Rất có thể là không. Việc cấm từ máy chủ Discord chính thức chỉ ảnh hưởng đến quyền truy cập Discord của bạn và không ảnh hưởng đến tài khoản trò chơi của bạn theo bất kỳ cách nào.

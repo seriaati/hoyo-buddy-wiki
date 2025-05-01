@@ -31,6 +31,9 @@ Once finished, start local dev to see preview
 $ npm start
 ```
 
+> [!NOTE]
+> A `.env` file containing the Search Engine System "Algolia" is required. Please DM seria_ati to get the file.
+
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server. Please note that localhost index page is always redirect to Hoyo Buddy Homepage. To access the docs, visit:
 
 ```
@@ -64,6 +67,10 @@ Local Dev Link is:
 ```
 localhost:3000/[Your Lang]/docs/intro
 ```
+
+#### Sidebar Translations
+
+When working with sidebar, run
 
 ### Build
 

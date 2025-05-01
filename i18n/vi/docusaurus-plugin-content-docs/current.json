@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.mainSidebar.category.About": {
+    "message": "Giới Thiệu",
+    "description": "Giới thiệu về Hoyo Buddy"
+  },
+  "sidebar.mainSidebar.category.Security": {
+    "message": "Bảo mật",
+    "description": "Về bảo mật của Hoyo Buddy"
+  }
+}

@@ -1,4 +1,4 @@
-# Tại sao lại là Hoyo Buddy?
+# Tại sao lại chọn Hoyo Buddy?
 
 ## Giới thiệu
 
