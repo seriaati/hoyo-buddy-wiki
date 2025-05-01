@@ -18,5 +18,9 @@
   "sidebar.mainSidebar.doc.Too Many Requests Error": {
     "message": "請求次數過多錯誤",
     "description": "The label for the doc item Too Many Requests Error in sidebar mainSidebar, linking to the doc too-many-requests"
+  },
+  "sidebar.mainSidebar.doc.Usage in Discord Servers": {
+    "message": "在 Discord 伺服器中的使用",
+    "description": "The label for the doc item Usage in Discord Servers in sidebar mainSidebar, linking to the doc dc-server-ban"
   }
 }

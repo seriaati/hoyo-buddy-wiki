@@ -21,7 +21,11 @@ const sidebars = {
     'Before-Start',
     'Getting-Started',
     'FAQ',
-    'dc-server-ban',
+    {
+      type: 'doc',
+      id: 'dc-server-ban',
+      label: 'Usage in Discord Servers'
+    },
     {
       type: 'category',
       label: 'About',
