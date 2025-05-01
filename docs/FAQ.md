@@ -48,54 +48,9 @@ I won't provide any assistance to self-hosting, but with enough technical skills
 
 To save resources, UI (user interface) elements expire after 10 minutes. To avoid confusion, UI elements are disabled when they expire.
 
-## "Too many requests" error when trying to add accounts using email & password method
+# "Too Many Requests" Error When Adding Accounts
 
-Most of the time, this issue is just temporary, wait for 30 minutes then try again. If the error still shows, you're account may be "soft-locked", please read the guide below closely (Note: A user reported that their account is automatically unlocked after waiting for 5 days.)
-
-1. First, please DO NOT reset your account's password, this won't solve the issue and will only make it worse.
-
-2. Second, please STOP trying to login on HoYoLAB/Hoyo Buddy/in-game with your email/username and password.
-
-Are you still logged in in your games (Genshin, ZZZ, etc.)?
-
-- Yes: First, [send an email to customer service](#sending-an-email-to-the-customer-service). Then try [DevTools](#logging-in-with-devtools) or [email instead of username](#logging-in-with-email-instead-of-username) to login on Hoyo Buddy.
-
-- No: See [trying to login into your games](#trying-to-login-into-your-games).
-
-### Logging in with email instead of username
-
-A user discovered that if you have been logging in with your username, logging in with email can bypass the error message. Likewise, if you have been logging with your email, try logging in with your username.
-
-### Logging in with DevTools
-
-If you have a PC/laptop device, you can login using the DevTools method, the button is next to the email & password one. You won't be able to use code redemption features (like auto redeem) with this method.
-
-### Trying to login into your games
-
-Is your Hoyoverse account linked to any social medias (Google, X, etc.)?
-
-- Yes: Login to your games with the social media linked. Then, [send an email to customer service](#sending-an-email-to-the-customer-service). Next, try [DevTools](#logging-in-with-devtools) or [email instead of username](#logging-in-with-email-instead-of-username) to login on Hoyo Buddy.
-
-- No: See below
-
-Are you logged in at the [Hoyoverse Account Center](https://account.hoyoverse.com/)?
-
-- Yes: Link your account to a social media and login to your games with it. Then, [send an email to customer service](#sending-an-email-to-the-customer-service). Next, try [DevTools](#logging-in-with-devtools) or [email instead of username](#logging-in-with-email-instead-of-username) to login on Hoyo Buddy.
-
-- No: Try [this](#logging-in-with-email-instead-of-username), if it doesn't work,  [send an email to customer service](#sending-an-email-to-the-customer-service) then wait patiently for their response. Sorry, but you can't access your game account for now.
-
-### Sending an email to the customer service
-
-Email address: [hoyolab@hoyoverse.com](mailto:hoyolab@hoyoverse.com)
-
-Template:
-
-```
-I am unable to login to HoYoLAB with my email and password, it says "Too Many Requests, Please Refresh the Page and try Again Later" when I try to do so (as shown in the screenshot below). I have already waited for more than 8 hours and it still shows this error. Please help me unlock my account, I would greatly appreciate it.
-
-My email is <your email>
-(attach a screenshot showing the error)
-```
+See [this page](./too-many-requests.md) for more information.
 
 ## Why are code redemption features exclusive to users logged in with email & password?
 
@@ -119,3 +74,7 @@ If you see duplicated Cookie entries, try using an incognito window to login.
 ## Why do I see "Interaction Failed" error?
 
 Most of the time this is caused by bot restarts (to apply code updates), and you just need to re-type the command again. However, if this keeps on happening, that means something is broken and you should report it in the [Discord server](https://link.seria.moe/hb-dc).
+
+## My Account Was Hacked After I Added It to Hoyo Buddy
+
+See [this page](./account-hacked.md) for more information.
