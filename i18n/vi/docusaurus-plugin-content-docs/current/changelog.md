@@ -1,5 +1,23 @@
 # Nhật ký thay đổi
 
+## v1.16.3
+
+### Tính năng mới
+
+- (`/profile zzz`) Đã thêm dữ liệu thẻ của Vivian & Hugo.
+- Đã thêm bản dịch tiếng Bồ Đào Nha (Brazil).
+- Đã thêm bản dịch tiếng Nhật.
+
+### Cải tiến
+
+- (`/profile zzz`) Đã điều chỉnh vị trí hình ảnh của một số nhân vật.
+- (`/profile zzz`) Các lớp hình ảnh được cải thiện cho các mẫu thẻ.
+
+### Sửa lỗi
+
+- (`/notes`) Đã sửa lỗi thông báo biến áp tham số không hoạt động.
+- (`/gacha-log upload`) Đã sửa lỗi độ hiếm của mục sai đối với một số phương thức nhập ZZZ.
+
 ## v1.16.2
 
 ### Tính năng mới
