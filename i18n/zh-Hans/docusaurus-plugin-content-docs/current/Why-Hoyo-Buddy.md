@@ -1,25 +1,25 @@
-# Why Hoyo Buddy?
+# Hoyo Buddy 有哪些特点？
 
-## Introduction
+## 介绍
 
-There are numerous Hoyoverse-related Discord bots on the market, so why choose Hoyo Buddy? What makes Hoyo Buddy stand out from the others, including the ones you might already be using?
+市面上有许多与 Hoyoverse 相关的 Discord 机器人，那么为什么要选择 Hoyo Buddy？Hoyo Buddy 有什么 ***与众不同*** 之处，使其胜过其他你可能已在使用的机器人？
 
-## It Combines Everything
+## 整合
 
-Hoyo Buddy is designed from the ground up to support all (current and future) Hoyoverse games. With Hoyo Buddy's multi-account system, you only need one bot to manage all your accounts and access all features. Additionally, if you have multiple accounts for the same game, you can access them all with a single command.
+Hoyo Buddy 从设计之初便计划要支持所有（目前和未来）的 Hoyoverse 游戏。通过 Hoyo Buddy 的多账户系统，你只需要一个机器人来管理所有账户并使用所有功能。此外，如果你在一个游戏有多个不同账户，你只需使用一个指令即可访问它们。
 
-## It's Free
+## 免费
 
-Hoyo Buddy is completely free. We understand the frustration when developers lock fundamental features (like custom art for character build cards) behind a paywall, essentially forcing you to pay. That's why we never lock any features behind a paywall. Everything on Hoyo Buddy is free—there are no "premium" features or perks.
+Hoyo Buddy 是完全免费的。我们理解当开发者将基本功能（如角色卡片的自定义图片）设为付费功能时，迫使你付费时的沮丧。这就是为什么我们从不将任何功能设为付费功能。Hoyo Buddy 上的所有功能都是免费的，没有「高级」功能或特权。
 
-## It's Easy to Use
+## 简易
 
-The user interface (UI) and user experience (UX) of our commands have been thoroughly tested to ensure they are intuitive. Additionally, the bot is easy to start with, as we have polished our account setup process, so all the necessary steps are explained clearly to help you start enjoying Hoyo Buddy's features as fast as possible.
+所有指令的用户界面（UI）和用户体验（UX）都经过充分测试，以确保它们足够直观。此外，Hoyo Buddy 十分易于上手，因为我们完善了账户的设置过程，所有必要的步骤都解释得很清楚，帮助你尽快开始享受 Hoyo Buddy 的功能。
 
-## It's Visually Appealing
+## 美观
 
-Hoyo Buddy's designs are beautiful. An aesthetic design can make your day, and when you share your cards with friends, you want them to look impressive, not dull or bland. At Hoyo Buddy, we understand this, which is why we strive to create the best designs for the bot's commands. Plus, to reduce eye strain, Hoyo Buddy includes a dark theme switch for all its designs. With Hoyo Buddy, you can enjoy the perfect combination of beauty, speed, and user-friendly features.
+Hoyo Buddy 的设计非常漂亮。一个美观的设计可以让你的心情变好，当你与朋友分享你的卡片时，你希望它们看起来令人印象深刻，而不是枯燥或乏味。在 Hoyo Buddy，我们理解这一点，这就是为什么我们努力为机器人的指令界面制作最佳的设计。此外，为了减少眼睛疲劳，Hoyo Buddy 的所有设计都包括一个深色主题开关。使用 Hoyo Buddy，你可以享受美观、速度和用户友好功能的完美结合。
 
-## It's Open-Sourced
+## 开源
 
-Hoyo Buddy's entire codebase is open-sourced on GitHub, and you are currently viewing this article in Hoyo Buddy's repository. Being open-sourced means you can see exactly how the bot handles your data. This transparency is crucial for Hoyoverse Discord bots because they interact with your account data. Unlike many other bots on the market, the open-sourced nature of Hoyo Buddy makes it possible to view how the bot is utilizing your data, in turn reducing security concerns.
+Hoyo Buddy 的所有代码在 GitHub 上都是开源的，事实上，你目前正在 Hoyo Buddy 的代码库中查看这篇文章。开源意味着你可以确切地看到机器人如何处理你的数据。这种透明度对于 Hoyoverse Discord 机器人至关重要，因为它们会与你的账户资料进行互动。与市场上许多其他机器人不同，Hoyo Buddy 的开源性使得你可以查看机器人如何利用你的数据，从而减少安全隐患。

@@ -1,0 +1,26 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.mainSidebar.category.About": {
+    "message": "About",
+    "description": "The label for category About in sidebar mainSidebar"
+  },
+  "sidebar.mainSidebar.category.Security": {
+    "message": "Security",
+    "description": "The label for category Security in sidebar mainSidebar"
+  },
+  "sidebar.mainSidebar.doc.Usage in Discord Servers": {
+    "message": "Usage in Discord Servers",
+    "description": "The label for the doc item Usage in Discord Servers in sidebar mainSidebar, linking to the doc dc-server-ban"
+  },
+  "sidebar.mainSidebar.doc.Account got Hacked": {
+    "message": "Account got Hacked",
+    "description": "The label for the doc item Account got Hacked in sidebar mainSidebar, linking to the doc account-hacked"
+  },
+  "sidebar.mainSidebar.doc.Too Many Requests Error": {
+    "message": "Too Many Requests Error",
+    "description": "The label for the doc item Too Many Requests Error in sidebar mainSidebar, linking to the doc too-many-requests"
+  }
+}

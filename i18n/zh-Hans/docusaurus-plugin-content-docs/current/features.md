@@ -1,23 +1,23 @@
-# Features
+# 功能
 
-Hoyo Buddy integrates features from all Hoyoverse games, supporting both HoYoLAB and Miyoushe.
+Hoyo Buddy 整合了来自 Hoyoverse 所有游戏的功能，支持 HoYoLAB 和米游社。
 
-| Command | Description | Genshin Impact | Honkai: Star Rail | Zenless Zone Zero | Honkai Impact 3rd | Tears of Themis |
+| 指令 | 描述 | 原神 | 崩坏: 星穹铁道 | 绝区零 | 崩坏 3rd | 未知事件簿 |
 |---|---|---|---|---|---|---|
-| /profile | Generate character build cards and team cards. | ✅ | ✅ | ✅ | ❌ | ❌ |
-| /mimo | Automatic Traveling Mimo task completion and reward buying. | ✅ | ✅ | ✅ | ❌ | ❌ |
-| /notes | View real-time notes and set reminders. | ✅ | ✅ | ✅ | ✅ | ❌ |
-| /redeem | Automatic and manual gift code redemption. | ✅ | ✅ | ✅ | ❌ | ✅ |
-| /check-in | Automatic HoYoLAB/Miyoushe daily reward check-in. | ✅ | ✅ | ✅ | ✅ | ✅ |
-| /characters | View and filter all owned characters.  | ✅ | ✅ | ✅ | ✅ | ❌ |
-| /challenge | View statistics/overview of end-game content. | ✅ | ✅ | ✅ | ❌ | ❌ |
-| /stats | View account statistics.  | ✅ | ✅ | ✅ | ✅ | ❌ |
-| /search | Search anything game-related, including unreleased content. | ✅ | ✅ | ✅ | ❌ | ❌ |
-| /gacha-log | Import, view, and analyze your gacha records. | ✅ | ✅ | ✅ | ❌ | ❌ |
-| /events | View on-going in-game events and banners. | ✅ | ✅ | ✅ | ❌ | ❌ |
-| /exploration | View area exploration statistics. | ✅ | ❌ | ❌ | ❌ | ❌ |
-| /lb view | View leaderboards. | ✅ | ✅ | ✅ | ❌ | ❌ |
-| /lb akasha | View character damage leaderboard. | ✅ | ❌ | ❌ | ❌ | ❌ |
-| /farm reminder | Set reminders for farming materials for a character/weapon. | ✅ | ❌ | ❌ | ❌ | ❌ |
-| /farm view | View farmable domain materials in different weekdays. | ✅ | ❌ | ❌ | ❌ | ❌ |
-| /web-events | View on-going web events and get notified for new ones. | ✅ | ✅ | ✅ | ✅ | ✅ |
+| /profile | 生成角色和队伍面板卡片 | ✅ | ✅ | ✅ | ❌ | ❌ |
+| /mimo | 自动旅行 Mimo 任务完成和奖励购买 | ✅ | ✅ | ✅ | ❌ | ❌ |
+| /notes | 查看实时便笺和设置通知 | ✅ | ✅ | ✅ | ✅ | ❌ |
+| /redeem | 自动/手动兑换礼包码 | ✅ | ✅ | ✅ | ❌ | ✅ |
+| /check-in | 自动 HoYoLAB/米游社每日签到奖励领取 | ✅ | ✅ | ✅ | ✅ | ✅ |
+| /characters | 查看及筛选已拥有的角色  | ✅ | ✅ | ✅ | ✅ | ❌ |
+| /challenge | 查看游戏后期内容的信息及总览 | ✅ | ✅ | ✅ | ❌ | ❌ |
+| /stats | 查看账户信息  | ✅ | ✅ | ✅ | ✅ | ❌ |
+| /search | 查询任何游戏相关的信息，包含尚未发布的内容 | ✅ | ✅ | ✅ | ❌ | ❌ |
+| /gacha-log | 导入、查看及分析你的抽卡记录 | ✅ | ✅ | ✅ | ❌ | ❌ |
+| /events | 查看正在进行的游戏活动及卡池 | ✅ | ✅ | ✅ | ❌ | ❌ |
+| /exploration | 查看区域探索度信息 | ✅ | ❌ | ❌ | ❌ | ❌ |
+| /lb view | 查看排行榜 | ✅ | ✅ | ✅ | ❌ | ❌ |
+| /lb akasha | 查看角色伤害排行榜 | ✅ | ❌ | ❌ | ❌ | ❌ |
+| /farm reminder | 设置角色/武器刷本通知 | ✅ | ❌ | ❌ | ❌ | ❌ |
+| /farm view | 查看不同星期能刷取的副本材料 | ✅ | ❌ | ❌ | ❌ | ❌ |
+| /web-events | 查看正在进行的网页活动并设置通知 | ✅ | ✅ | ✅ | ✅ | ✅ |

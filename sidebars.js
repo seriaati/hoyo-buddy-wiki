@@ -20,11 +20,50 @@ const sidebars = {
     'intro',
     'Before-Start',
     'Getting-Started',
-    'Why-Hoyo-Buddy',
     'FAQ',
-    'features',
-    'Account-Security',
-    'Login-Workflow',
+    {
+      type: 'doc',
+      id: 'dc-server-ban',
+      label: 'Usage in Discord Servers'
+    },
+    {
+      type: 'category',
+      label: 'About',
+      items: [
+        {
+          type: 'doc',
+          id: 'features',
+        },
+        {
+          type: 'doc',
+          id: 'Why-Hoyo-Buddy',
+        }
+      ]
+    },
+    {
+      type: 'category',
+      label: 'Security',
+      items: [
+        {
+          type: 'doc',
+          id: 'Account-Security',
+        },
+        {
+          type: 'doc',
+          id: 'account-hacked',
+          label: 'Account got Hacked'
+        },
+        {
+          type: 'doc',
+          id: 'too-many-requests',
+          label: 'Too Many Requests Error'
+        },
+        {
+          type: 'doc',
+          id: 'Login-Workflow',
+        }
+      ]
+    },
     'changelog',
   ],
 

@@ -1,4 +1,4 @@
-# Home
+# 首页
 
-Welcome to the Hoyo Buddy wiki!  
-If you have any questions, feel free to join our [Discord server](https://link.seria.moe/hb-dc).
+欢迎来到 Hoyo Buddy 的官方文档！  
+如果你有任何疑问，请在我们的 [Discord 服务器](https://link.seria.moe/hb-dc)寻求帮助。
