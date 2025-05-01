@@ -20,11 +20,47 @@ const sidebars = {
     'intro',
     'Before-Start',
     'Getting-Started',
-    'Why-Hoyo-Buddy',
     'FAQ',
-    'features',
-    'Account-Security',
-    'Login-Workflow',
+    {
+      type: 'category',
+      label: 'About',
+      items: [
+        {
+          type: 'doc',
+          id: 'features',
+        },
+        {
+          type: 'doc',
+          id: 'Why-Hoyo-Buddy',
+        }
+      ]
+    },
+    {
+      type: 'category',
+      label: 'Security',
+      items: [
+        {
+          type: 'doc',
+          id: 'Account-Security',
+        },
+        {
+          type: 'doc',
+          id: 'account-hacked',
+        },
+        {
+          type: 'doc',
+          id: 'too-many-requests',
+        },
+        {
+          type: 'doc',
+          id: 'dc-server-ban',
+        },
+        {
+          type: 'doc',
+          id: 'Login-Workflow',
+        }
+      ]
+    },
     'changelog',
   ],
 
