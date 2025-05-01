@@ -1,5 +1,23 @@
 # Changelogs
 
+## v1.16.3
+
+### New Features
+
+- (`/profile zzz`) Added Vivian & Hugo's card data.
+- Added Portuguese (Brazil) translation.
+- Added Japanese translation.
+
+### Improvements
+
+- (`/profile zzz`) Adjusted the image positions of some characters.
+- (`/profile zzz`) Improved image layers for card templates.
+
+### Bug Fixes
+
+- (`/notes`) Fixed parametric transformer notifier not working.
+- (`/gacha-log upload`) Fixed wrong item rarity for some ZZZ import methods.
+
 ## v1.16.2
 
 ### New Features
