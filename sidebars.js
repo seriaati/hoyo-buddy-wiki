@@ -21,6 +21,7 @@ const sidebars = {
     'Before-Start',
     'Getting-Started',
     'FAQ',
+    'dc-server-ban',
     {
       type: 'category',
       label: 'About',
@@ -46,14 +47,12 @@ const sidebars = {
         {
           type: 'doc',
           id: 'account-hacked',
+          label: 'Account got Hacked'
         },
         {
           type: 'doc',
           id: 'too-many-requests',
-        },
-        {
-          type: 'doc',
-          id: 'dc-server-ban',
+          label: 'Too Many Requests Error'
         },
         {
           type: 'doc',

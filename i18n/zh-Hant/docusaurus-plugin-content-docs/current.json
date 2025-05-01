@@ -10,5 +10,13 @@
   "sidebar.mainSidebar.category.Security": {
     "message": "帳戶安全",
     "description": "The label for category Security in sidebar mainSidebar"
+  },
+  "sidebar.mainSidebar.doc.Account got Hacked": {
+    "message": "帳戶被駭",
+    "description": "The label for the doc item Account got Hacked in sidebar mainSidebar, linking to the doc account-hacked"
+  },
+  "sidebar.mainSidebar.doc.Too Many Requests Error": {
+    "message": "請求次數過多錯誤",
+    "description": "The label for the doc item Too Many Requests Error in sidebar mainSidebar, linking to the doc too-many-requests"
   }
 }
