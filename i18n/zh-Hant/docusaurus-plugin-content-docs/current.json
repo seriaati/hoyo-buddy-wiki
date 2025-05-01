@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.mainSidebar.category.About": {
+    "message": "關於",
+    "description": "The label for category About in sidebar mainSidebar"
+  },
+  "sidebar.mainSidebar.category.Security": {
+    "message": "帳戶安全",
+    "description": "The label for category Security in sidebar mainSidebar"
+  }
+}
