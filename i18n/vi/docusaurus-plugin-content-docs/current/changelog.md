@@ -1,5 +1,27 @@
 # Nhật ký thay đổi
 
+## v1.16.4
+
+### Tính năng mới
+
+- (`/profile genshin`) Hỗ trợ Nhà Lữ Hành không nguyên tố.
+- Thêm phông chữ Hindi.
+
+### Cải tiến
+
+- (`profile`) Loại bỏ dữ liệu nhân vật từ bộ nhớ đệm.
+- Thêm hạn chế cho bộ lọc nhật ký Gacha
+
+### Sửa lỗi
+
+- (`/events`) Sữa lỗi không tìm thấy banner thông báo.
+- (`/challenge genshin theater`) Sữa lỗi không hiển thị dử liệu Nhà Hát Giả Tưởng.
+- (`/profile`) Sữa lỗi tương thích liên quan đến Build trên Enka Network.
+- (`/mimo`) Sửa lỗi người dùng Miyoushe có thể truy cập lệnh.
+- (`/notes`) Bỏ qua lỗi bảo trì khi kiểm tra ghi chú thời gian thực.
+- (`/lb view`) Loại bỏ bảng xếp hạng thành tựu cho Honkai Impact 3
+- (`/farm reminder`) Đã sửa lỗi tên mục là "..."
+
 ## v1.16.3
 
 ### Tính năng mới
