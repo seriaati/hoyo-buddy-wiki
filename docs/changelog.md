@@ -1,5 +1,27 @@
 # Changelogs
 
+## v1.16.4
+
+### New Features
+
+- (`/profile genshin`) Support no element traveler.
+- Add Hindi fonts.
+
+### Improvements
+
+- (`/profile`) Removed character data cache
+- Added constraints to gacha-log filters.
+
+### Bug Fixes
+
+- (`/events`) Fixed not finding banner announcements
+- (`/challenge genshin theater`) Fixed Imaginarium Theater data not showing.
+- (`/profile`) Fixed compatibility issues with Enka Network builds.
+- (`/mimo`) Fixed Miyoushe users being able to access the command.
+- (`/notes`) Ignore game maintenance errors when doing real-time notes check.
+- (`/lb view`) Removed Honkai Impact 3rd achievement leaderboard.
+- (`/farm reminder`) Fixed item names being "..."
+
 ## v1.16.3
 
 ### New Features
