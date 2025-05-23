@@ -16,14 +16,10 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 
 Xem video hướng dẫn lấy URL Nhật Ký. (Tiếng Anh)
 
-[![How to get Gacha Log Link on iOS](https://img.youtube.com/vi/WfBpraUq41c/0.jpg)](https://www.youtube.com/watch?v=WfBpraUq41c)
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WfBpraUq41c" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Người Chơi Android
 
 Xem video hướng dẫn lấy URL Nhật Ký. (Tiếng Anh)
-
-[![How to get Gacha Log Link on Android](https://img.youtube.com/vi/CeQQoFKLwPY/0.jpg)](https://youtu.be/CeQQoFKLwPY)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CeQQoFKLwPY" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
