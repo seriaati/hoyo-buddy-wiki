@@ -22,4 +22,4 @@ Follow this video tutorial to see how to obtain the Gacha Log Link
 
 Follow this video tutorial to see how to obtain the Gacha Log Link
 
-<iframe width="560" height="100" src="https://www.youtube.com/embed/CeQQoFKLwPY" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CeQQoFKLwPY" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
