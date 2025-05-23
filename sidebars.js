@@ -40,6 +40,7 @@ const sidebars = {
         }
       ]
     },
+    'gacha-log',
     {
       type: 'category',
       label: 'Security',
