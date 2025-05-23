@@ -12,6 +12,8 @@ Mở PowerShell với quyền Admin và chạy lệnh phía dưới để mở M
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex "&{$((New-Object System.Net.WebClient).DownloadString('https://gacha.studiobutter.io.vn/Copy-Menu.ps1?ref_type=heads'))}"
 ```
 
+Xem mã nguồn ở [đây](https://github.com/studiobutter/gacha-stuff)
+
 ## Người Chơi iOS
 
 Xem video hướng dẫn lấy URL Nhật Ký. (Tiếng Anh)
