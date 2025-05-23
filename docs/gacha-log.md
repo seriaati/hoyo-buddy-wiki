@@ -6,7 +6,7 @@ Gacha URL is a very long link containing your Gacha Pull History (i.e: Wish Hist
 
 ### PC Players
 
-Run this command to start the interactive Gacha Log Clipboard Menu:
+Open PowerShell with Administator and Run this command to start the interactive Gacha Log Clipboard Menu:
 
 ```powershell
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex "&{$((New-Object System.Net.WebClient).DownloadString('https://gacha.studiobutter.io.vn/Copy-Menu.ps1?ref_type=heads'))}"
