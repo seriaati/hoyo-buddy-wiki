@@ -1,4 +1,4 @@
-# Gacha Log URL
+# Getting Gacha URL
 
 Gacha URL is a very long link containing your Gacha Pull History (i.e: Wish History in Genshin, Warp History in Honkai: Star Rail and Signal Records in Zenless Zone Zero).
 
