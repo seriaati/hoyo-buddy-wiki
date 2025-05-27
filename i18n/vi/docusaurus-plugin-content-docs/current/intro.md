@@ -1,4 +1,12 @@
 # Home
 
-Chào mừng đến Hoyo Buddy wiki!  
-Nếu bạn có câu hỏi gì, vui lòng tham gia [máy chủ Discord](https://link.seria.moe/hb-dc) của chúng tôi.
+![Banner](../../../../src/assets/images/branding/vi_banner.png)
+
+Hoyo Buddy is a feature rich, easy to use, and beautifully designed Discord bot made for Hoyoverse gamers.
+
+- [Try it out](./Getting-Started.md)
+- [Official website](https://hb.seria.moe/)
+- [Is Hoyo Buddy safe?](./Account-Security.md)
+- [Why Hoyo Buddy?](./Why-Hoyo-Buddy.md)
+- [Discord server](https://link.seria.moe/hb-dc)
+- [Features](./features.md)
