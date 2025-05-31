@@ -9,7 +9,7 @@ URL Nhật ký Gacha là một đường dẫn dài chứa lịch sử nhật k�
 Mở PowerShell và chạy lệnh phía dưới để mở Menu Tương Tác Bản Ghi Nhật Ký Gacha:
 
 ```powershell
-Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex "&{$((New-Object System.Net.WebClient).DownloadString('https://gacha.studiobutter.io.vn/Copy-Menu.ps1?ref_type=heads'))}"
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex "&{$((New-Object System.Net.WebClient).DownloadString('https://gacha.studiobutter.io.vn/start.ps1?ref_type=heads'))}"
 ```
 
 Xem mã nguồn ở [đây](https://github.com/studiobutter/gacha-stuff)
