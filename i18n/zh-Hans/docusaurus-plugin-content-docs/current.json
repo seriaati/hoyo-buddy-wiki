@@ -22,5 +22,9 @@
   "sidebar.mainSidebar.doc.Usage in Discord Servers": {
     "message": "在 Discord 服务器中的使用",
     "description": "The label for the doc item Usage in Discord Servers in sidebar mainSidebar, linking to the doc dc-server-ban"
+  },
+  "sidebar.mainSidebar.doc.Gacha Log URL": {
+    "message": "Gacha Log URL",
+    "description": "The label for the doc item Gacha Log URL in sidebar mainSidebar, linking to the doc gacha-log"
   }
 }

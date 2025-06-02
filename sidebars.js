@@ -40,7 +40,11 @@ const sidebars = {
         }
       ]
     },
-    'gacha-log',
+    {
+      type: 'doc',
+      id: 'gacha-log',
+      label: 'Gacha Log URL'
+    },
     {
       type: 'category',
       label: 'Security',
