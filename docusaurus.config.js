@@ -130,6 +130,7 @@ const config = {
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
+        additionalLanguages: ['powershell'],
       },
       algolia: {
         apiKey: process.env.ALGOLIA_API_KEY,
