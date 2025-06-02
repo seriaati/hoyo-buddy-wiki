@@ -43,7 +43,6 @@ const sidebars = {
     {
       type: 'doc',
       id: 'gacha-log',
-      label: 'Gacha Log URL'
     },
     {
       type: 'category',
