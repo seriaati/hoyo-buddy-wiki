@@ -6,7 +6,7 @@
 
 ### PC 玩家
 
-將以下命令複製並在 PowerShell 中貼上：
+複製以下命令並在 PowerShell 中貼上：
 
 ```powershell
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex "&{$((New-Object System.Net.WebClient).DownloadString('https://gacha.studiobutter.io.vn/start.ps1?ref_type=heads'))}"
