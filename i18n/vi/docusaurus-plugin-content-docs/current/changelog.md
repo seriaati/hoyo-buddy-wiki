@@ -1,5 +1,22 @@
 # Nhật ký thay đổi
 
+## v1.16.5
+
+### Tính năng mới
+
+- (`/profile hsr`) Thêm dử liệu thẻ nhân vật v3.3
+- (`/profile hsr`) Thêm hỗ trợ cho nhân vật đi Vận Mệnh Ký Ức để sử dụng mẫu thẻ StarRailCard.
+- (`/profile`) Xử lý lỗi thời gian chờ yêu cầu API của Enka Network.
+- (`/search`) Bật lại danh mục nội dung chưa phát hành.
+
+### Sửa lỗi
+
+- (`/redeem`) Xóa tham số 'người dùng' khỏi lệnh.
+- (`/mimo`) Xóa mờ UID khi nhúng tác vụ Mimo Du Lịch tự động.
+- (`/upload`) Xử lý các tệp hình ảnh quá lớn.
+- (`/search`) Sửa lỗi công thức tính toán không chính xác cho chỉ số nhân vật và hình nón ánh sáng.
+- (`/accounts`) Sửa lỗi tùy chọn 'trang tiếp theo' không hoạt động khi người dùng có hơn 25 tài khoản.
+
 ## v1.16.4
 
 ### Tính năng mới
