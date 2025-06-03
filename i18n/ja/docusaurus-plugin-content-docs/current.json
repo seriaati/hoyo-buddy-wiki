@@ -22,5 +22,9 @@
   "sidebar.mainSidebar.doc.Too Many Requests Error": {
     "message": "Too Many Requests Error",
     "description": "The label for the doc item Too Many Requests Error in sidebar mainSidebar, linking to the doc too-many-requests"
+  },
+  "sidebar.mainSidebar.doc.Gacha Log URL": {
+    "message": "Gacha Log URL",
+    "description": "The label for the doc item Gacha Log URL in sidebar mainSidebar, linking to the doc gacha-log"
   }
 }

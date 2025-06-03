@@ -41,6 +41,10 @@ const sidebars = {
       ]
     },
     {
+      type: 'doc',
+      id: 'gacha-log',
+    },
+    {
       type: 'category',
       label: 'Security',
       items: [

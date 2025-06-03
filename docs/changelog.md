@@ -1,5 +1,22 @@
 # Changelogs
 
+## v1.16.5
+
+### New Features
+
+- (`/profile hsr`) Add v3.3 new characters card data.
+- (`/profile hsr`) Add support for Remembrance path characters to use StarRailCard templates.
+- (`/profile`) Handle Enka Network API request timeout error.
+- (`/search`) Enable unreleased content category.
+
+### Bug Fixes
+
+- (`/redeem`) Remove 'user' parameter from the command.
+- (`/mimo`) Remove UID blur in auto mimo task embeds.
+- (`/upload`) Handle image files that are too large.
+- (`/search`) Fix incorrect calculation formula for character & light cone stats.
+- (`/accounts`) Fix 'next page' option not working when user has more than 25 accounts.
+
 ## v1.16.4
 
 ### New Features
