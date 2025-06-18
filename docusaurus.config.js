@@ -4,7 +4,7 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
 
 if (process.env.NODE_ENV !== 'production') {
   require('dotenv').config();
@@ -51,8 +51,15 @@ const config = {
         label: 'Tiếng Việt',
         direction: 'ltr',
         htmlLang: 'vi',
-        calendar : 'gregorian',
+        calendar: 'gregorian',
         path: 'vi',
+      },
+      'es': {
+        label: 'Español',
+        direction: 'ltr',
+        htmlLang: 'es',
+        calendar: 'gregorian',
+        path: 'es',
       },
       'zh-Hans': {
         label: '简体中文',
@@ -68,6 +75,7 @@ const config = {
         calendar: 'gregorian',
         path: 'zh-Hant',
       },
+
     }
   },
 
