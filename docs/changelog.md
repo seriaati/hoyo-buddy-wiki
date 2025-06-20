@@ -1,5 +1,23 @@
 # Changelogs
 
+## v1.16.6
+
+### New Features
+
+- (`/profile zzz) Add ZZZ 2.0 new characters card data.
+- (`/profile zzz`) Add support for Rupture agents and Sheer Force stat.
+- (`/gacha-log import`) Handle authkey exceptions.
+- Add anniversary dismissible.
+
+### Improvements
+
+- (`/profile zzz`) Remove spaces in background agent names.
+
+### Bug Fixes
+
+- (`/characters genshin`) Handle no-element characters.
+- (`/challenge genshin theater`) Handle invalid character IDs.
+
 ## v1.16.5
 
 ### New Features
