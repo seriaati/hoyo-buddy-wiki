@@ -4,7 +4,7 @@
 
 ### New Features
 
-- (`/profile zzz) Add ZZZ 2.0 new characters card data.
+- (`/profile zzz`) Add ZZZ 2.0 new characters card data.
 - (`/profile zzz`) Add support for Rupture agents and Sheer Force stat.
 - (`/gacha-log import`) Handle authkey exceptions.
 - Add anniversary dismissible.
