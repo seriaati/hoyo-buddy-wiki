@@ -1,5 +1,23 @@
 # Nhật ký thay đổi
 
+## v1.16.6
+
+### Tính năng mới
+
+- (`/profile zzz`) Hỗ trợ dữ liẹu nhân vật ZZZ v2.0.
+- (`/profile zzz`) Thêm hỗ trợ cho Người Đại Diên Mệnh Phá và dữ liệu Lục Quán Xuyến.
+- (`/gacha-log import`) Xử lý các ngoại lệ authkey.
+- Thêm ngày kỷ niệm có thể bỏ qua.
+
+### Cải tiến
+
+- (`/profile zzz`) Bỏ khoảng cách trong tên Người Đại Diện trong nền.
+
+### Sửa lỗi
+
+- (`/characters genshin`) Xử lý nhân vật không có nguyên tố.
+- (`/challenge genshin theater`) Xử lý ID không hợp lệ của các nhân vật.
+
 ## v1.16.5
 
 ### Tính năng mới

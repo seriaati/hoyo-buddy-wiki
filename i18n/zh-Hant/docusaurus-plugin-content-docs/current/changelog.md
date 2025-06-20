@@ -1,5 +1,27 @@
 # 更新日誌
 
+## v1.16.6
+
+### 新功能
+
+- (`/profile zzz`) 新增 ZZZ 2.0 新角色卡片資料。
+
+- (`/profile zzz`) 新增對命破代理人和貫穿力數值的支援。
+
+- (`/gacha-log import`) 處理 authkey 例外狀況。
+
+- 新增可關閉的週年慶公告。
+
+### 優化
+
+- (`/profile zzz`) 移除背景代理人名稱中的空格。
+
+### 問題修復
+
+- (`/characters genshin`) 處理無屬性角色的問題。
+
+- (`/challenge genshin theater`) 處理無效角色 ID 的問題。
+
 ## v1.16.5
 
 ### 新功能
