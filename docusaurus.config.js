@@ -54,13 +54,13 @@ const config = {
         calendar: 'gregorian',
         path: 'vi',
       },
-      'es': {
-        label: 'Español',
-        direction: 'ltr',
-        htmlLang: 'es',
-        calendar: 'gregorian',
-        path: 'es',
-      },
+//      'es': {
+//        label: 'Español',
+//        direction: 'ltr',
+//        htmlLang: 'es',
+//        calendar: 'gregorian',
+//        path: 'es',
+//      },
       'zh-Hans': {
         label: '简体中文',
         direction: 'ltr',
