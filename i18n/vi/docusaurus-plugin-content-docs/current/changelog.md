@@ -1,5 +1,29 @@
 # Nhật ký thay đổi
 
+## v1.16.7
+
+### Tính năng mới
+
+- Thêm hỗ trợ Tiếng Ả Rập
+- (`/challenge genshin`) Thêm tính năng tạo thẻ Ảo Cảnh Hiểm Ác
+- (`/profile zzz`) Thêm từ viết tắt cho "Tự Tích Thiểm Năng" cho mẫu thẻ 4.
+
+### Cải tiến
+
+- (`/accounts`) Hiển thị một trang khi lấy tài khoản.
+- (`/accounts`) Update APK file URL for Miyoushe logins.
+- (`/accounts`) Cập nhật đường dẫn URL cho đăng nhập qua Miyoushe.
+- (`/accounts`) Thêm trường nhập dữ liệu cho aaid khi thêm tài khoản Miyoushe.
+- Tạo hình ảnh nhanh hơn bằng cách sử dụng nhiều lõi CPU.
+- Vị trí văn bản trong hình ảnh chính xác hơn.
+
+### Sửa lỗi
+
+- (`/profile zzz`) Sửa vị trí hình ảnh của Yixuan cho mẫu thẻ 1.
+- (`/profile zzz`) Sửa lỗi thuộc tính "Xuyên Giáp" không được dịch ở mẫu thẻ 4.
+- (`/search`) Vô hiệu hóa mục La Hoàn Thâm Cảnh.
+- (`/search`) Sửa lỗi không có lựa chọn tự động hoàn thành cho danh mục đĩa.
+
 ## v1.16.6
 
 ### Tính năng mới

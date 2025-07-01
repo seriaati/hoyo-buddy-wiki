@@ -38,7 +38,7 @@ const config = {
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'vi', 'zh-Hant', 'zh-Hans'],
-    // locales: ['en', 'vi', 'zh-Hant', 'zh-Hans', 'es'], 
+    // locales: ['en', 'vi', 'zh-Hant', 'zh-Hans', 'es'], // Uncomment if you want to add Spanish support
     path: 'i18n',
     localeConfigs: {
       en: {
@@ -55,6 +55,7 @@ const config = {
         calendar: 'gregorian',
         path: 'vi',
       },
+      // Uncomment the following lines if you want to add Spanish support
 //      'es': {
 //        label: 'Español',
 //        direction: 'ltr',
