@@ -12,19 +12,19 @@
 
 ## 安全特性
 
-- **服务器保护**：服务器使用的密码需要数百年才能破解。登录日志显示没有可疑的成功登录。
+- **服务器保护**：服务器使用的密码需要数百年才能破解。登录日志显示没有可疑的成功登录。 Login logs show no suspicious successful logins.
 
 - **内存保护**：你的电子邮箱和密码只暂时保存在内存中，这使得从在线服务器窃取几乎是不可能的。
 
-- **强加密**：你的凭证在发送到 Hoyoverse 前使用 RSA 加密。这每次都会产生不同的加密结果，使得反向破解是不可能的。
+- **强加密**：你的凭证在发送到 Hoyoverse 前使用 RSA 加密。这每次都会产生不同的加密结果，使得反向破解是不可能的。 This creates different encryption results each time, making it impossible to reverse.
 
-- **安全连接**：所有数据传输都通过 HTTPS 进行，这意味着所有内容都被加密。即使有人截取请求，他们也无法看到其中的内容。
+- **安全连接**：所有数据传输都通过 HTTPS 进行，这意味着所有内容都被加密。即使有人截取请求，他们也无法看到其中的内容。 Even if someone intercepts the request, they can't see what's inside.
 
-- **无永久存储**：你的电子邮箱和密码不会存储在数据库中。获取 cookies 后它们会被删除。只有加密的 cookies 被存储。
+- **无永久存储**：你的电子邮箱和密码不会存储在数据库中。获取 cookies 后它们会被删除。只有加密的 cookies 被存储。 They are deleted after getting your cookies. Only the encrypted cookies are stored.
 
 - **数据库安全**：数据库受到密码保护，这个密码需要数百年才能破解。
 
-- **有限的 Cookie 使用**：单独的 cookies 不足以窃取你的账户。它们只能用于 HoYoLAB，不能用于可以更改账户的账户中心。
+- **有限的 Cookie 使用**：单独的 cookies 不足以窃取你的账户。它们只能用于 HoYoLAB，不能用于可以更改账户的账户中心。 They can only be used for HoYoLAB, not the account center where changes to your account can be made.
 
 ## 账户实际如何被窃取
 
