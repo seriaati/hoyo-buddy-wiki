@@ -2,7 +2,7 @@
 
 ## 发生了什么
 
-这个错误通常是暂时性的。请等待 30 分钟后再试。如果错误持续出现，你的账户可能被「软锁定」（有用户报告说他们的账户在 5 天后自动解锁）。
+This error is usually temporary. Wait 30 minutes and try again. 这个错误通常是暂时性的。请等待 30 分钟后再试。如果错误持续出现，你的账户可能被「软锁定」（有用户报告说他们的账户在 5 天后自动解锁）。
 
 ## 重要提醒
 
@@ -15,8 +15,8 @@
 
 1. 联系客服（见下方电子邮件模板）
 2. 尝试这些 Hoyo Buddy 的解决方法：
-   - 使用 DevTools 方法（在电子邮箱和密码选项旁边）
-   - 尝试使用电子邮箱代替用户名登录（或反之）
+  - 使用 DevTools 方法（在电子邮箱和密码选项旁边）
+  - 尝试使用电子邮箱代替用户名登录（或反之）
 
 ### 如果你未登录在游戏中
 
@@ -45,11 +45,11 @@
 
 ### 使用电子邮箱代替用户名（或反之）
 
-一些用户发现，在登录时切换用户名和电子邮箱可以绕过错误信息。如果你一直使用用户名登录，请尝试使用电子邮箱（反之亦然）。
+一些用户发现，在登录时切换用户名和电子邮箱可以绕过错误信息。如果你一直使用用户名登录，请尝试使用电子邮箱（反之亦然）。 If you've been using your username, try your email instead (and vice versa).
 
 ### 使用 DevTools 方法
 
-如果你有 PC 或笔记本电脑，可以使用 DevTools 登录方法（按钮在电子邮箱和密码选项旁边）。注意：使用此方法你将无法使用兑换码功能。
+If you have a PC or laptop, you can use the DevTools login method (button is next to email & password option). Note: You won't be able to use code redemption features with this method.
 
 ## 联系客服
 
