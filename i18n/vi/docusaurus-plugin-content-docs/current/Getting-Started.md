@@ -28,15 +28,13 @@ Nếu bạn không có tài khoản Hoyoverse (bạn đăng nhập bằng dịch
 
 ![Slash Command Screen](../../../../src/assets/images/392196104-6960be6c-8b51-49fd-93ae-bad4dad6822b.png)
 
-Đọc thêm: [Hoyo Buddy có an toàn không?](./Account-Security.md)
+### Đọc thêm: [Hoyo Buddy có an toàn không?](./Account-Security.md)
 
-### Sau khi thiết lập
+Sau khi thiết lập
 
 Bạn có thể chuyển đổi các tính năng như tự động kiểm tra hàng ngày và tự động đổi mã cho từng tài khoản bằng cách sử dụng `/accounts`.
 Nút chuyển đổi "Đặt tài khoản thành công khai" kiểm soát xem tài khoản của bạn có hiển thị với người khác khi họ chọn bạn làm người dùng lệnh hay không.
 
-Bạn có thể sử dụng lệnh `/settings` để kiểm soát chủ đề của hình ảnh do Hoyo Buddy tạo ra (chủ đề sáng hoặc tối) và ngôn ngữ của nội dung được Hoyo Buddy hiển thị.
+## Bạn có thể sử dụng lệnh `/settings` để kiểm soát chủ đề của hình ảnh do Hoyo Buddy tạo ra (chủ đề sáng hoặc tối) và ngôn ngữ của nội dung được Hoyo Buddy hiển thị.
 
-## Báo cáo sự cố và đưa ra gợi ý
-
-Hãy tham gia [máy chủ Discord](https://link.seria.moe/hb-dc) của chúng tôi.
+Báo cáo sự cố và đưa ra gợi ý
