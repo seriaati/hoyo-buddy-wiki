@@ -2,7 +2,7 @@
 
 ## Chuyện gì đang xảy ra
 
-Lỗi này thường là tạm thời. Đợi 30 phút và thử lại. Nếu lỗi vẫn tiếp diễn, tài khoản của bạn có thể bị "khóa mềm" (một người dùng đã báo cáo rằng tài khoản của họ đã được mở khóa tự động sau 5 ngày).
+This error is usually temporary. Wait 30 minutes and try again. If the error continues, your account may be "soft-locked" (one user reported their account unlocked automatically after 5 days).
 
 ## Những điều quan trọng không nên làm
 
@@ -15,8 +15,8 @@ Lỗi này thường là tạm thời. Đợi 30 phút và thử lại. Nếu l�
 
 1. Liên hệ với dịch vụ khách hàng (xem mẫu email bên dưới)
 2. Hãy thử các giải pháp thay thế sau cho Hoyo Buddy:
-   - Sử dụng phương pháp DevTools (có sẵn bên cạnh tùy chọn email & mật khẩu)
-   - Hãy thử đăng nhập bằng email thay vì tên người dùng (hoặc ngược lại)
+  - Sử dụng phương pháp DevTools (có sẵn bên cạnh tùy chọn email & mật khẩu)
+  - Hãy thử đăng nhập bằng email thay vì tên người dùng (hoặc ngược lại)
 
 ### Nếu bạn không đăng nhập vào trò chơi của mình
 
@@ -45,11 +45,11 @@ Kiểm tra xem bạn có thể đăng nhập vào [Trung tâm tài khoản Hoyov
 
 ### Sử dụng Email thay vì Tên người dùng (hoặc Ngược lại)
 
-Một số người dùng thấy rằng việc chuyển đổi giữa tên người dùng và email để đăng nhập có thể bỏ qua thông báo lỗi. Nếu bạn đã sử dụng tên người dùng của mình, hãy thử email của bạn thay thế (và ngược lại).
+Some users found that switching between username and email for login can bypass the error message. If you've been using your username, try your email instead (and vice versa).
 
 ### Sử dụng Phương pháp DevTools
 
-Nếu bạn có PC hoặc máy tính xách tay, bạn có thể sử dụng phương pháp đăng nhập DevTools (nút nằm cạnh tùy chọn email & mật khẩu). Lưu ý: Bạn sẽ không thể sử dụng các tính năng đổi mã bằng phương pháp này.
+If you have a PC or laptop, you can use the DevTools login method (button is next to email & password option). Note: You won't be able to use code redemption features with this method.
 
 ## Liên hệ với CSKH
 

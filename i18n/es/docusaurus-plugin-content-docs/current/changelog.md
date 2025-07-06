@@ -1,5 +1,46 @@
 # Changelogs
 
+## v1.16.7
+
+### New Features
+
+- Add Arabic support.
+- (`/challenge genshin`) Add Stygian Onslaught card generation.
+- (`/profile zzz`) Add acronym for "Automatic Adrenaline Accumulation" for template 4.
+
+### Improvements
+
+- (`/accounts`) Show a page while fetching accounts.
+- (`/accounts`) Update APK file URL for Miyoushe logins.
+- (`/accounts`) Add input field for aaid when adding Miyoushe accounts.
+- Faster image generation by utilizing multiple CPU cores.
+- More precise text positions in images.
+
+### Bug Fixes
+
+- (`/profile zzz`) Fix Yixuan's image position in template 1.
+- (`/profile zzz`) Fix PEN stat not being translated in template 4.
+- (`/search`) Disable spiral abyss category.
+- (`/search`) Fix no autocomplete choices for drive disc category.
+
+## v1.16.6
+
+### New Features
+
+- (`/profile zzz`) Add ZZZ 2.0 new characters card data.
+- (`/profile zzz`) Add support for Rupture agents and Sheer Force stat.
+- (`/gacha-log import`) Handle authkey exceptions.
+- Add anniversary dismissible.
+
+### Improvements
+
+- (`/profile zzz`) Remove spaces in background agent names.
+
+### Bug Fixes
+
+- (`/characters genshin`) Handle no-element characters.
+- (`/challenge genshin theater`) Handle invalid character IDs.
+
 ## v1.16.5
 
 ### New Features
@@ -126,7 +167,7 @@ Various bug fixes and improvements.
 - (`/about`) Removed latest git changes.
 - (`/mimo`) Sort Traveling Mimo shop items from most expensive to least expensive when auto buying.
 - Improves localization for other languages.
-  
+
 ### Bug Fixes
 
 - (`/characters genshin`) Fixed KeyError caused by no-element travelers.

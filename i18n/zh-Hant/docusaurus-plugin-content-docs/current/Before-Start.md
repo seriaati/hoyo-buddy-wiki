@@ -2,9 +2,9 @@
 
 :::note
 
-如果你已擁有 Hoyoverse 帳號，你可以跳過此指南，直接前往 [開始使用](./Getting-Started.md)。  
+如果你已擁有 Hoyoverse 帳號，你可以跳過此指南，直接前往 [開始使用](./Getting-Started.md)。
 
-設定 Hoyoverse 帳號僅在你想使用電子郵件與密碼登入方式時需要。如果你希望使用 DevTools 登入，則可跳過此指南。[我應該選擇哪種登入方式？](./FAQ.md#我應該選擇哪種登入方式)
+Setting up a Hoyoverse account is only needed if you want to login with the email and password method. If you wish to login with DevTools, you can skip this guide. [Which login method should I use?](./FAQ.md#which-login-method-should-i-use)
 
 :::
 
@@ -12,31 +12,31 @@
 
 「第三方服務」是指 Google、Apple、Facebook、X 等平台。
 
-首先，進入 [HoYoverse 帳號中心](https://account.hoyoverse.com)。  
+首先，進入 [HoYoverse 帳號中心](https://account.hoyoverse.com)。
 
-點擊「登入」，然後選擇你用於遊戲登入的第三方提供商。  
+點擊「登入」，然後選擇你用於遊戲登入的第三方提供商。
 
 ![登入畫面](../../../../src/assets/images/hb-account/web/account-log-in.png)
 
-登入後，可能出現以下三種情況：  
+登入後，可能出現以下三種情況：
 
 ### 連結新帳號
 
 ![第三方帳號綁定](../../../../src/assets/images/hb-account/web/sign-up_google-link.png)
 
-這表示你使用的電子郵件尚未連結任何 Hoyoverse 帳號。輸入你想要的密碼並點擊「綁定」，這將創建一個新的 Hoyoverse 帳號，並將其與你使用的第三方登入綁定。
+這表示你使用的電子郵件尚未連結任何 Hoyoverse 帳號。輸入你想要的密碼並點擊「綁定」，這將創建一個新的 Hoyoverse 帳號，並將其與你使用的第三方登入綁定。 Enter a desired password and click "Link", this will create a new Hoyoverse account and bind it to the third-party login you used.
 
 之後，你就可以使用該電子郵件與密碼登入 Hoyo Buddy。
 
-### 綁定電子郵件
+### Link Email
 
 ![綁定電子郵件](../../../../src/assets/images/hb-account/web/link-email.png)
 
-這表示你使用第三方提供商登入時，Hoyoverse 已自動創建了一個帳號。點擊「綁定」。  
+這表示你使用第三方提供商登入時，Hoyoverse 已自動創建了一個帳號。點擊「綁定」。 Click "Link".
 
 ![密碼與安全性](../../../../src/assets/images/hb-account/web/password-and-security.png)
 
-在下一頁，於「密碼與安全性」部分點擊「管理」。  
+在下一頁，於「密碼與安全性」部分點擊「管理」。
 
 ![更新密碼](../../../../src/assets/images/hb-account/web/update-password.png)
 
@@ -44,11 +44,11 @@
 
 之後，你就可以使用該電子郵件與密碼登入 Hoyo Buddy。
 
-### 綁定至現有帳號
+### Link to an Existing Account
 
 ![綁定至現有帳號](../../../../src/assets/images/hb-account/web/link-existing.png)
 
-這表示已存在一個與你電子郵件相同的 Hoyoverse 帳號。輸入該 Hoyoverse 帳號的密碼並點擊「綁定」，即可將第三方登入綁定至該現有帳號。如果忘記密碼，點擊「有問題嗎？」 -> 「忘記密碼？」以重置。
+This means a Hoyoverse account with the same email already exists. Enter the password of this Hoyoverse account and click "Link" to bind the third-party login to the existing account. If you forgot the password, click "Having problems?" -> "Forgot Password?" to reset it.
 
 之後，你就可以使用該電子郵件與密碼登入 Hoyo Buddy。
 
@@ -56,7 +56,7 @@
 
 ![密碼與安全性](../../../../src/assets/images/hb-account/web/password-and-security.png)
 
-按照 [綁定電子郵件](#綁定電子郵件) 的步驟為你的帳號設置密碼。
+Follow the same steps as [Link Email](#link-email) to set a password for your account.
 
 ### 其他情況
 
@@ -73,16 +73,20 @@
 ### 如何進入用戶中心
 
 - **原神**: 派蒙菜單 -> 設定 -> 帳戶 -> 用戶中心
+
 - **崩壞：星穹鐵道**:
+
   - 登入畫面: 設定 -> 帳戶 -> 用戶中心 (如果你不想下載整個遊戲，建議使用此方法)
+
   - 遊戲內: 手機 -> 帳戶設定 -> 用戶中心
+
 - **絕區零**: 選單 -> 選項 -> 帳戶 -> 用戶中心
 
 ### 如何連結你的 Hoyoverse 帳號
 
 :::warning
 
-此方式會創建一個 Hoyoverse 帳號並將當前儲存於主機上的遊戲資料連結至該帳號。將資料連結至一個現有的 Hoyoverse 帳號是不可行的。
+This method will create a new HoYoverse account and link the current saved data on your console to that new account. Linking to an existing Hoyoverse account is not possible.
 
 :::
 
