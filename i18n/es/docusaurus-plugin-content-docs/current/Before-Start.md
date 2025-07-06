@@ -76,9 +76,9 @@ If your PlayStation or Xbox account is linked to a Hoyoverse account, you can sk
 
 - **Honkai: Star Rail**:
 
-  - *Login Screen*: Settings -> Account -> User Center (Recommended if you don't want to download the entire game)
+  - _Login Screen_: Settings -> Account -> User Center (Recommended if you don't want to download the entire game)
 
-  - *In-Game*: Phone -> Account Settings -> User Center
+  - _In-Game_: Phone -> Account Settings -> User Center
 
 - **Zenless Zone Zero**: Menu -> Options -> Account -> USER CENTER
 
