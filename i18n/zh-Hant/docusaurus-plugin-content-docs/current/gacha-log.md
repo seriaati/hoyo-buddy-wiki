@@ -1,12 +1,12 @@
 # 抽卡紀錄網址
 
-抽卡紀錄網址是一個非常長的網址，包含了你的抽卡歷史。
+抽卡紀錄網址是一個非常長的網址,包含了你的抽卡歷史。
 
 ## 如何獲取
 
 ### PC 玩家
 
-複製以下命令並在 PowerShell 中貼上：
+複製以下命令並在 PowerShell 中貼上:
 
 ```powershell
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex "&{$((New-Object System.Net.WebClient).DownloadString('https://gacha.studiobutter.io.vn/start.ps1?ref_type=heads'))}"
