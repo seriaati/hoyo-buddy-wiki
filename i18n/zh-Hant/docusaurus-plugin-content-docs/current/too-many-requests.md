@@ -2,7 +2,7 @@
 
 ## 發生了什麼
 
-這個錯誤通常是暫時性的。請等待 30 分鐘後再試。如果錯誤持續出現，你的帳戶可能被「軟鎖定」（有使用者報告說他們的帳戶在 5 天後自動解鎖）。
+This error is usually temporary. Wait 30 minutes and try again. If the error continues, your account may be "soft-locked" (one user reported their account unlocked automatically after 5 days).
 
 ## 重要提醒
 
@@ -15,8 +15,8 @@
 
 1. 聯繫客戶服務（見下方電子郵件模板）
 2. 嘗試這些 Hoyo Buddy 的解決方法：
-   - 使用 DevTools 方法（在電子郵件和密碼選項旁邊）
-   - 嘗試使用電子郵件代替使用者名登入（或反之）
+  - 使用 DevTools 方法（在電子郵件和密碼選項旁邊）
+  - 嘗試使用電子郵件代替使用者名登入（或反之）
 
 ### 如果你未登入在遊戲中
 
@@ -45,17 +45,17 @@
 
 ### 使用電子郵件代替使用者名（或反之）
 
-一些使用者發現，在登入時切換使用者名和電子郵件可以繞過錯誤信息。如果你一直使用使用者名登入，請嘗試使用電子郵件（反之亦然）。
+一些使用者發現，在登入時切換使用者名和電子郵件可以繞過錯誤信息。如果你一直使用使用者名登入，請嘗試使用電子郵件（反之亦然）。 If you've been using your username, try your email instead (and vice versa).
 
 ### 使用 DevTools 方法
 
-如果你有 PC 或筆記本電腦，可以使用 DevTools 登入方法（按鈕在電子郵件和密碼選項旁邊）。注意：使用此方法你將無法使用兌換碼功能。
+If you have a PC or laptop, you can use the DevTools login method (button is next to email & password option). Note: You won't be able to use code redemption features with this method.
 
 ## 聯繫客戶服務
 
 電子郵件：[hoyolab@hoyoverse.com](mailto:hoyolab@hoyoverse.com)
 
-建議信息內容：
+Suggested message:
 
 ```txt
 我無法使用我的電子郵件和密碼登入 HoYoLAB。我收到「請求過多，請刷新頁面並稍後再試」的錯誤提示（見附件截圖）。我已經等待了 8 小時以上，仍然看到這個錯誤。請幫助解鎖我的帳戶。
