@@ -10,7 +10,7 @@ Việc bạn muốn cung cấp Cookie của bạn là do quyết định của *
 
 Hoyo Buddy sử dụng cookie HoYoLAB của bạn để truy cập thông tin tài khoản của bạn. Bằng cách lấy cookie của bạn, Hoyo Buddy có thể mô phỏng các yêu cầu gửi đến HoYoLAB bằng danh tính của bạn, do đó truy cập thông tin như ghi chú thời gian thực và nhiều thông tin khác. HoYoLAB xác định người yêu cầu dựa trên cookie và Hoyo Buddy sử dụng cookie của bạn để thông báo cho HoYoLAB rằng người yêu cầu là bạn.
 
-### Cookies là gì?
+## Cookies là gì?
 
 Cookie 🍪 là những phần dữ liệu nhỏ mà các trang web lưu trữ trên máy tính hoặc thiết bị của bạn khi bạn truy cập vào trang web đó. Chúng không phải là phần mềm, không thể mang vi-rút và không phải là phần mềm gián điệp. Thay vào đó, chúng giống như một ghi chú mà một trang web để lại cho trình duyệt của bạn để ghi nhớ một số thông tin nhất định về bạn hoặc lượt truy cập của bạn.
 
