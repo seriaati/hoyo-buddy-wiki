@@ -48,7 +48,7 @@ Tôi sẽ không cung cấp bất kỳ hỗ trợ nào cho việc tự host, nh�
 
 Để tiết kiệm tài nguyên, các thành phần UI (giao diện người dùng) sẽ hết hạn sau 10 phút. Để tránh nhầm lẫn, các thành phần UI sẽ bị vô hiệu hóa khi chúng hết hạn.
 
-## Lỗi "Quá nhiều yêu cầu" khi thêm tài khoản
+# Lỗi "Quá nhiều yêu cầu" khi thêm tài khoản
 
 Xem [trang này](./too-many-requests.md) để biết thêm thông tin.
 
