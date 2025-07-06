@@ -12,11 +12,11 @@ Khi bạn liên kết tài khoản bằng email & mật khẩu:
 
 ## Tính năng bảo mật
 
-- **Server Protection**: The server uses a password that would take centuries to crack. Login logs show no suspicious successful logins.
+- Máy chủ Bảo Vệ: Máy chủ sử dụng mật khẩu mất hàng thế kỷ mới có thể bẻ khóa. Nhật ký đăng nhập không hiển thị bất kỳ lần đăng nhập thành công đáng ngờ nào.
 
 - **Bảo vệ bộ nhớ**: Email và mật khẩu của bạn chỉ được lưu tạm thời trong bộ nhớ, khiến chúng gần như không thể bị đánh cắp từ máy chủ trực tuyến.
 
-- **Strong Encryption**: Your credentials are encrypted with RSA before being sent to Hoyoverse. This creates different encryption results each time, making it impossible to reverse.
+- **Mã hóa cao cấp**: Thông tin xác thực của bạn được mã hóa bằng RSA trước khi gửi đến Hoyoverse. This creates different encryption results each time, making it impossible to reverse.
 
 - **Secure Connections**: All data transfers happen via HTTPS, meaning everything is encrypted. Even if someone intercepts the request, they can't see what's inside.
 
