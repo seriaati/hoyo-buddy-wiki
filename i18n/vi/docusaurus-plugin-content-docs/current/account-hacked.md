@@ -12,19 +12,19 @@ Khi bạn liên kết tài khoản bằng email & mật khẩu:
 
 ## Tính năng bảo mật
 
-- **Máy chủ Bảo Vệ**: Máy chủ sử dụng mật khẩu mất hàng thế kỷ mới có thể bẻ khóa. Nhật ký đăng nhập không hiển thị bất kỳ lần đăng nhập thành công đáng ngờ nào.
+- **Server Protection**: The server uses a password that would take centuries to crack. Login logs show no suspicious successful logins.
 
 - **Bảo vệ bộ nhớ**: Email và mật khẩu của bạn chỉ được lưu tạm thời trong bộ nhớ, khiến chúng gần như không thể bị đánh cắp từ máy chủ trực tuyến.
 
-- **Mã hóa cao cấp**: Thông tin xác thực của bạn được mã hóa bằng RSA trước khi gửi đến Hoyoverse. Điều này tạo ra các kết quả mã hóa khác nhau mỗi lần, khiến việc đảo ngược trở nên không thể.
+- **Strong Encryption**: Your credentials are encrypted with RSA before being sent to Hoyoverse. This creates different encryption results each time, making it impossible to reverse.
 
-- **Kết nối an toàn**: Mọi dữ liệu được truyền qua HTTPS, nghĩa là mọi thứ đều được mã hóa. Ngay cả khi ai đó chặn yêu cầu, họ cũng không thể thấy được những gì bên trong.
+- **Secure Connections**: All data transfers happen via HTTPS, meaning everything is encrypted. Even if someone intercepts the request, they can't see what's inside.
 
-- **Không có lưu trữ vĩnh viễn**: Email và mật khẩu của bạn KHÔNG được lưu trữ trong cơ sở dữ liệu. Chúng sẽ bị xóa sau khi nhận được cookie của bạn. Chỉ có cookie được mã hóa mới được lưu trữ.
+- **No Permanent Storage**: Your email & password are NOT stored in the database. They are deleted after getting your cookies. Only the encrypted cookies are stored.
 
 - **Bảo mật cơ sở dữ liệu**: Cơ sở dữ liệu được bảo vệ bằng mật khẩu mà phải mất hàng thế kỷ mới có thể giải mã được.
 
-- **Sử dụng Cookie có giới hạn**: Chỉ riêng cookie không đủ để đánh cắp tài khoản của bạn. Chúng chỉ có thể được sử dụng cho HoYoLAB, không phải trung tâm tài khoản nơi có thể thực hiện thay đổi cho tài khoản của bạn.
+- **Limited Cookie Usage**: Cookies alone are not enough to steal your account. They can only be used for HoYoLAB, not the account center where changes to your account can be made.
 
 ## Tài khoản thực sự bị đánh cắp như thế nào
 
