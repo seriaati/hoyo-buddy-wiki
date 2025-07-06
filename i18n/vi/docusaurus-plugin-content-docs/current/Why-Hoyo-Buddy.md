@@ -2,24 +2,24 @@
 
 ## Giới thiệu
 
-Có rất nhiều bot Discord liên quan đến Hoyoverse trên thị trường, vậy tại sao lại chọn Hoyo Buddy? Điều gì khiến Hoyo Buddy nổi bật hơn những bot khác, bao gồm cả những bot mà bạn có thể đã sử dụng?
+There are numerous Hoyoverse-related Discord bots on the market, so why choose Hoyo Buddy? What makes Hoyo Buddy stand out from the others, including the ones you might already be using?
 
 ## Kết hợp mọi thứ
 
-Hoyo Buddy được thiết kế từ đầu để hỗ trợ tất cả các trò chơi Hoyoverse (hiện tại và tương lai). Với hệ thống nhiều tài khoản của Hoyo Buddy, bạn chỉ cần một bot để quản lý tất cả các tài khoản của mình và truy cập tất cả các tính năng. Ngoài ra, nếu bạn có nhiều tài khoản cho cùng một trò chơi, bạn có thể truy cập tất cả chúng bằng một lệnh duy nhất.
+Hoyo Buddy is designed from the ground up to support all (current and future) Hoyoverse games. With Hoyo Buddy's multi-account system, you only need one bot to manage all your accounts and access all features. Additionally, if you have multiple accounts for the same game, you can access them all with a single command.
 
 ## Miễn phí
 
-Hoyo Buddy hoàn toàn miễn phí. Chúng tôi hiểu sự thất vọng khi các nhà phát triển khóa các tính năng cơ bản (như ảnh nghệ thuật tùy chỉnh cho thẻ build nhân vật) sau một bức tường trả phí, về cơ bản là buộc bạn phải trả phí. Đó là lý do tại sao chúng tôi không bao giờ khóa bất kỳ tính năng nào sau một bức tường trả phí. Mọi thứ trên Hoyo Buddy đều miễn phí — không có tính năng hoặc đặc quyền "cao cấp" nào.
+Hoyo Buddy is completely free. We understand the frustration when developers lock fundamental features (like custom art for character build cards) behind a paywall, essentially forcing you to pay. That's why we never lock any features behind a paywall. Everything on Hoyo Buddy is free — there are no "premium" features or perks.
 
 ## Dễ sử dụng
 
-Giao diện người dùng (UI) và trải nghiệm người dùng (UX) của các lệnh của chúng tôi đã được kiểm tra kỹ lưỡng để đảm bảo chúng trực quan. Ngoài ra, bot rất dễ bắt đầu vì chúng tôi đã hoàn thiện quy trình thiết lập tài khoản của mình, do đó, tất cả các bước cần thiết đều được giải thích rõ ràng để giúp bạn bắt đầu tận hưởng các tính năng của Hoyo Buddy nhanh nhất có thể.
+The user interface (UI) and user experience (UX) of our commands have been thoroughly tested to ensure they are intuitive. Additionally, the bot is easy to start with, as we have polished our account setup process, so all the necessary steps are explained clearly to help you start enjoying Hoyo Buddy's features as fast as possible.
 
 ## Thu hút về mặt thị giác
 
-Thiết kế của Hoyo Buddy rất đẹp. Một thiết kế thẩm mỹ có thể làm bừng sáng ngày của bạn và khi bạn chia sẻ thẻ của mình với bạn bè, bạn muốn chúng trông ấn tượng, không nhàm chán hay đơn điệu. Tại Hoyo Buddy, chúng tôi hiểu điều này, đó là lý do tại sao chúng tôi cố gắng tạo ra những thiết kế tốt nhất cho các lệnh của bot. Thêm vào đó, để giảm mỏi mắt, Hoyo Buddy bao gồm một công tắc chủ đề tối cho tất cả các thiết kế của mình. Với Hoyo Buddy, bạn có thể tận hưởng sự kết hợp hoàn hảo giữa vẻ đẹp, tốc độ và các tính năng thân thiện với người dùng.
+Hoyo Buddy's designs are beautiful. An aesthetic design can make your day, and when you share your cards with friends, you want them to look impressive, not dull or bland. At Hoyo Buddy, we understand this, which is why we strive to create the best designs for the bot's commands. Plus, to reduce eye strain, Hoyo Buddy includes a dark theme switch for all its designs. With Hoyo Buddy, you can enjoy the perfect combination of beauty, speed, and user-friendly features.
 
 ## Mã nguồn mở
 
-Toàn bộ cơ sở mã của Hoyo Buddy đều là mã nguồn mở trên GitHub và hiện tại bạn đang xem bài viết này trong kho lưu trữ của Hoyo Buddy. Mã nguồn mở có nghĩa là bạn có thể thấy chính xác cách bot xử lý dữ liệu của bạn. Tính minh bạch này rất quan trọng đối với các bot Hoyoverse Discord vì chúng tương tác với dữ liệu tài khoản của bạn. Không giống như nhiều bot khác trên thị trường, bản chất mã nguồn mở của Hoyo Buddy giúp bạn có thể xem cách bot sử dụng dữ liệu của bạn, do đó giảm bớt các mối lo ngại về bảo mật.
+Hoyo Buddy's entire codebase is open-sourced on GitHub, and you are currently viewing this article in Hoyo Buddy's repository. Being open-sourced means you can see exactly how the bot handles your data. This transparency is crucial for Hoyoverse Discord bots because they interact with your account data. Unlike many other bots on the market, the open-sourced nature of Hoyo Buddy makes it possible to view how the bot is utilizing your data, in turn reducing security concerns.
