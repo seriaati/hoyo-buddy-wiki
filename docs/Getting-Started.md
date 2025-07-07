@@ -12,7 +12,7 @@ Read more: [Is Hoyo Buddy safe?](./Account-Security.md)
 
 ## Trying out Hoyo Buddy
 
-1. Click on [this link](https://discord.com/oauth2/authorize?client_id=1000045812522430626).
+1. Click on [this link](https://one.hb.seria.moe/install).
 
 2. Select the option you want.
 
