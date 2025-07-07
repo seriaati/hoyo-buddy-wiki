@@ -20,27 +20,27 @@ Similarly, when you visit HoYoLAB, it gives your browser a "cookie." This cookie
 
 ## What Permissions do Cookies Have?
 
-| Permission                                                                                           | Have? |
-| ---------------------------------------------------------------------------------------------------- | ----- |
-| Login to your game account                                                                           | ❌     |
-| Change your account's password                                                                       | ❌     |
-| Access sensitive information (email, mobile number, etc.)         | ❌     |
-| Make posts/comments/replies on HoYoLAB with your identity                                            | ✅     |
-| Access real-time notes, character stats, and other non-sensitive information in the battle chronicle | ✅     |
+| Permission | Have? |
+|---|---|
+| Login to your game account | ❌ |
+| Change your account's password | ❌ |
+| Access sensitive information (email, mobile number, etc.) | ❌ |
+| Make posts/comments/replies on HoYoLAB with your identity | ✅ |
+| Access real-time notes, character stats, and other non-sensitive information in the battle chronicle | ✅ |
 
 ## Frequently Asked Questions
 
-| Question                                           | Answer | Notes                                                                                           |
-| -------------------------------------------------- | ------ | ----------------------------------------------------------------------------------------------- |
-| Is my email and password being stored?             | ❌      | [See code](https://github.com/seriaati/hoyo-buddy/blob/main/hoyo_buddy/web_app/pages/finish.py) |
-| Can you login to my game account?                  | ❌      | [Not possible](#can-you-login-to-my-game-account)                                               |
-| Can you change my account's password?              | ❌      | [Not possible](#can-you-change-my-accounts-password)                                            |
-| Can you steal my account?                          | ❌      | [Not possible](#can-you-stealsell-my-account)                                                   |
-| Can you sell my account?                           | ❌      | [Not possible](#can-you-stealsell-my-account)                                                   |
-| Can I get banned for using Hoyo Buddy?             | ❔      | [Read more](#can-i-get-banned-for-using-hoyo-buddy)                                             |
-| Do Cookies expire?                                 | ✅      | After 1 year                                                                                    |
-| Is Cookies invalidated after I change my password? | ✅      | Immediately                                                                                     |
-| Can you make posts on HoYoLAB with my identity?    | ✅      | [Read more](#accessing-hoyolab-community-features-with-cookies)                                 |
+| Question | Answer | Notes |
+|---|---|---|
+| Is my email and password being stored? | ❌ | [See code](https://github.com/seriaati/hoyo-buddy/blob/main/hoyo_buddy/web_app/pages/finish.py) |
+| Can you login to my game account? | ❌ | [Not possible](#can-you-login-to-my-game-account) |
+| Can you change my account's password? | ❌ | [Not possible](#can-you-change-my-accounts-password) |
+| Can you steal my account? | ❌ | [Not possible](#can-you-stealsell-my-account) |
+| Can you sell my account? | ❌ | [Not possible](#can-you-stealsell-my-account) |
+| Can I get banned for using Hoyo Buddy? | ❔ | [Read more](#can-i-get-banned-for-using-hoyo-buddy) |
+| Do Cookies expire? | ✅ | After 1 year |
+| Is Cookies invalidated after I change my password? | ✅ | Immediately |
+| Can you make posts on HoYoLAB with my identity? | ✅ | [Read more](#accessing-hoyolab-community-features-with-cookies) |
 
 ### Can I get banned for using Hoyo Buddy?
 

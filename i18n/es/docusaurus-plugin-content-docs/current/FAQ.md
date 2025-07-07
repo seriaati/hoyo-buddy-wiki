@@ -1,5 +1,4 @@
 <!-- markdownlint-disable MD026 MD040 MD047 -->
-
 # Frequently Asked Questions
 
 ## Something is not working!
@@ -12,10 +11,10 @@ Please read the [Account Security](./Account-Security.md) page.
 
 ## Which login method should I use?
 
-| Method                               | Login with mobile | Login with PC | Login with console       | Auto & manual code redemption | Notes                                               |
-| ------------------------------------ | ----------------- | ------------- | ------------------------ | ------------------------------------------------- | --------------------------------------------------- |
-| Email & password | ✅                 | ✅             | ✅[\*](./Before-Start.md) | ✅                                                 | Easier                                              |
-| DevTools                             | ❌                 | ✅             | ❌                        | ❌                                                 | ... |
+| Method | Login with mobile | Login with PC | Login with console | Auto & manual code redemption | Notes
+|---|---|---|---|---|---
+| Email & password | ✅ | ✅ | ✅[*](./Before-Start.md) | ✅ | Easier
+| DevTools | ❌ | ✅ | ❌ | ❌ | ...
 
 :::note
 

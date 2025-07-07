@@ -4,7 +4,7 @@
 
 Nếu bạn đã có tài khoản Hoyoverse, bạn có thể bỏ qua hướng dẫn này và đi đến [Bắt đầu](./Getting-Started.md).
 
-Setting up a Hoyoverse account is only needed if you want to login with the email and password method. If you wish to login with DevTools, you can skip this guide. [Which login method should I use?](./FAQ.md#which-login-method-should-i-use)
+Chỉ cần thiết lập tài khoản Hoyoverse nếu bạn muốn đăng nhập bằng phương pháp email và mật khẩu. Nếu bạn muốn đăng nhập bằng DevTools, bạn có thể bỏ qua hướng dẫn này. [Tôi nên sử dụng phương pháp đăng nhập nào?](./FAQ.md#đăng-nhập-bằng-tên-người-dùng-thay-vì-email)
 
 :::
 
@@ -24,7 +24,7 @@ Sau khi đăng nhập, 3 điều có thể xảy ra:
 
 ![Liên kết tài khoản của bên thứ ba](../../../../src/assets/images/hb-account/web/sign-up_google-link.png)
 
-This means that the email you used to login is not linked to any Hoyoverse account. Enter a desired password and click "Link", this will create a new Hoyoverse account and bind it to the third-party login you used.
+Điều này có nghĩa là email bạn dùng để đăng nhập không được liên kết với bất kỳ tài khoản Hoyoverse nào. Nhập mật khẩu mong muốn và nhấp vào "Liên kết", thao tác này sẽ tạo một tài khoản Hoyoverse mới và liên kết với thông tin đăng nhập của bên thứ ba mà bạn đã sử dụng.
 
 Sau đó, bạn có thể sử dụng email và mật khẩu này để đăng nhập vào Hoyo Buddy.
 
@@ -32,7 +32,7 @@ Sau đó, bạn có thể sử dụng email và mật khẩu này để đăng n
 
 ![Liên kết Email](../../../../src/assets/images/hb-account/web/link-email.png)
 
-This means that a Hoyoverse account was created automatically when you logged in with the third-party provider. Click "Link".
+Điều này có nghĩa là tài khoản Hoyoverse đã được tạo tự động khi bạn đăng nhập bằng nhà cung cấp bên thứ ba. Nhấp vào "Liên kết".
 
 ![Mật khẩu và Bảo mật](../../../../src/assets/images/hb-account/web/password-and-security.png)
 
@@ -48,49 +48,43 @@ Sau đó, bạn có thể sử dụng email và mật khẩu này để đăng n
 
 ![Liên kết đến Tài khoản Hiện có](../../../../src/assets/images/hb-account/web/link-existing.png)
 
-This means a Hoyoverse account with the same email already exists. Enter the password of this Hoyoverse account and click "Link" to bind the third-party login to the existing account. If you forgot the password, click "Having problems?" -> "Forgot Password?" to reset it.
+Điều này có nghĩa là đã có một tài khoản Hoyoverse có cùng email. Nhập mật khẩu của tài khoản Hoyoverse này và nhấp vào "Liên kết" để liên kết thông tin đăng nhập của bên thứ ba với tài khoản hiện có. Nếu bạn quên mật khẩu, hãy nhấp vào "Có vấn đề gì không?" -> "Quên mật khẩu?" để đặt lại mật khẩu.
 
 Sau đó, bạn có thể sử dụng email và mật khẩu này để đăng nhập vào Hoyo Buddy.
 
-### Trường hợp khác
+## Trường hợp khác
 
 Nếu bạn gặp phải những tình huống không được liệt kê ở trên, vui lòng tìm trợ giúp trong [máy chủ Discord](https://link.seria.moe/hb-dc).
 
-Follow the same steps as [Link Email](#link-email) to set a password for your account.
-
-### Other Scenarios
-
-Nếu tài khoản PlayStation hoặc Xbox của bạn được liên kết với tài khoản Hoyoverse, bạn có thể bỏ qua hướng dẫn này và đi tới [Bắt đầu](./Getting-Started.md).
-
-## I am a Console Player
+## Tôi chới trên máy chơi game (PlayStation và Xbox)
 
 :::note
 
-If your PlayStation or Xbox account is linked to a Hoyoverse account, you can skip this guide and go to [Getting Started](./Getting-Started.md).
+Nếu tài khoản PlayStation hoặc Xbox của bạn được liên kết với tài khoản Hoyoverse, bạn có thể bỏ qua hướng dẫn này và đi tới [Bắt đầu](./Getting-Started.md).
 
 :::
 
-### How to Access the User Center
+### Làm sao để truy cập Trung Tâm Người Dùng
 
-- **Genshin Impact**: Paimon Menu -> Settings -> Account -> User Center
+- **Genshin Impact**: Paimon Menu -> Cài Đặt -> Tài Khoản -> Trung Tâm Người Dùng
 
 - **Honkai: Star Rail**:
 
-  - _Login Screen_: Settings -> Account -> User Center (Recommended if you don't want to download the entire game)
+  - *Màn hình đăng nhập*: Cài Đặt -> Tài Khoản -> Trung Tâm Người Dùng (Khuyến khích nếu bạn không muốn tải nguyên tài nguyên trò chơi)
 
-  - _In-Game_: Phone -> Account Settings -> User Center
+  - *Trong Game*: Điện Thoại -> Thiết Lập Tài Khoản -> Trung Tâm Người Dùng
 
-- **Zenless Zone Zero**: Menu -> Options -> Account -> USER CENTER
+- **Zenless Zone Zero**: Menu -> Cài Đặt -> Tài Khoản -> Trung Tâm Người Dùng
 
-### How to Link Your Hoyoverse Account
+### Làm sao để liên kết tài khoản Hoyoverse
 
 :::warning
 
-This method will create a new HoYoverse account and link the current saved data on your console to that new account. Linking to an existing Hoyoverse account is not possible.
+Phương pháp này sẽ tạo một tài khoản HoYoverse mới và liên kết dữ liệu đã lưu hiện tại trên bảng điều khiển của bạn với tài khoản mới đó. Không thể liên kết với tài khoản Hoyoverse hiện có.
 
 :::
 
-1. Launch the Hoyoverse game that you want to link to your Hoyoverse account.
-2. Open the [User Center](#how-to-access-the-user-center) in the game.
-3. Select "Link Account" or a similar option.
-4. Follow the on-screen instructions to link your Hoyoverse account.
+1. Mở trò chơi Hoyoverse bạn muốn liên kết tài khoản Hoyoverse của bạn
+2. Mở [Trung Tâm Người Dùng](#làm-sao-để-truy-cập-trung-tâm-người-dùng) trong trò chơi.
+3. Chọn "liên kết tài khoản" hoặc mục nào tương tự.
+4. Làm theo hướng dẫn trên màn hình để liên kêt tài khoản Hoyoverse của bạn

@@ -2,22 +2,22 @@
 
 Hoyo Buddy 整合了來自 Hoyoverse 所有遊戲的功能，支援 HoYoLAB 和米遊社。
 
-| 指令             | 敘述                                                                          | Genshin Impact | Honkai: Star Rail | Zenless Zone Zero | Honkai Impact 3rd | Tears of Themis |
-| -------------- | --------------------------------------------------------------------------- | -------------- | --------------------------------- | ----------------- | ----------------- | --------------- |
-| /profile       | 生成角色和隊伍面板卡片                                                                 | ✅              | ✅                                 | ✅                 | ❌                 | ❌               |
-| /mimo          | 自動旅行 Mimo 任務完成和獎勵購買                                                         | ✅              | ✅                                 | ✅                 | ❌                 | ❌               |
-| /notes         | View real-time notes and set reminders.                     | ✅              | ✅                                 | ✅                 | ✅                 | ❌               |
-| /redeem        | 自動/手動兌換禮物碼                                                                  | ✅              | ✅                                 | ✅                 | ❌                 | ✅               |
-| /check-in      | 自動 HoYoLAB/米遊社每日簽到獎勵領取                                                      | ✅              | ✅                                 | ✅                 | ✅                 | ✅               |
-| /characters    | View and filter all owned characters.                       | ✅              | ✅                                 | ✅                 | ✅                 | ❌               |
-| /challenge     | View statistics/overview of end-game content.               | ✅              | ✅                                 | ✅                 | ❌                 | ❌               |
-| /stats         | View account statistics.                                    | ✅              | ✅                                 | ✅                 | ✅                 | ❌               |
-| /search        | Search anything game-related, including unreleased content. | ✅              | ✅                                 | ✅                 | ❌                 | ❌               |
-| /gacha-log     | Import, view, and analyze your gacha records.               | ✅              | ✅                                 | ✅                 | ❌                 | ❌               |
-| /events        | View on-going in-game events and banners.                   | ✅              | ✅                                 | ✅                 | ❌                 | ❌               |
-| /exploration   | 查看區域探索度資訊                                                                   | ✅              | ❌                                 | ❌                 | ❌                 | ❌               |
-| /lb view       | 查看排行榜                                                                       | ✅              | ✅                                 | ✅                 | ❌                 | ❌               |
-| /lb akasha     | 查看角色傷害排行榜                                                                   | ✅              | ❌                                 | ❌                 | ❌                 | ❌               |
-| /farm reminder | Set reminders for farming materials for a character/weapon. | ✅              | ❌                                 | ❌                 | ❌                 | ❌               |
-| /farm view     | View farmable domain materials in different weekdays.       | ✅              | ❌                                 | ❌                 | ❌                 | ❌               |
-| /web-events    | View on-going web events and get notified for new ones.     | ✅              | ✅                                 | ✅                 | ✅                 | ✅               |
+| 指令 | 敘述 | 原神 | 崩壞: 星穹鐵道 | 絕區零 | 崩壞 3rd | 未知事件簿 |
+|---|---|---|---|---|---|---|
+| /profile | 生成角色和隊伍面板卡片 | ✅ | ✅ | ✅ | ❌ | ❌ |
+| /mimo | 自動旅行 Mimo 任務完成和獎勵購買 | ✅ | ✅ | ✅ | ❌ | ❌ |
+| /notes | 查看即時便籤和設置通知 | ✅ | ✅ | ✅ | ✅ | ❌ |
+| /redeem | 自動/手動兌換禮物碼 | ✅ | ✅ | ✅ | ❌ | ✅ |
+| /check-in | 自動 HoYoLAB/米遊社每日簽到獎勵領取 | ✅ | ✅ | ✅ | ✅ | ✅ |
+| /characters | 查看及篩選已擁有的角色  | ✅ | ✅ | ✅ | ✅ | ❌ |
+| /challenge | 查看遊戲後期內容的資訊及總覽 | ✅ | ✅ | ✅ | ❌ | ❌ |
+| /stats | 查看帳戶資訊  | ✅ | ✅ | ✅ | ✅ | ❌ |
+| /search | 查詢任何遊戲相關的資訊，包含尚未釋出的內容 | ✅ | ✅ | ✅ | ❌ | ❌ |
+| /gacha-log | 匯入、查看及分析你的抽卡紀錄 | ✅ | ✅ | ✅ | ❌ | ❌ |
+| /events | 查看正在進行的遊戲活動及卡池 | ✅ | ✅ | ✅ | ❌ | ❌ |
+| /exploration | 查看區域探索度資訊 | ✅ | ❌ | ❌ | ❌ | ❌ |
+| /lb view | 查看排行榜 | ✅ | ✅ | ✅ | ❌ | ❌ |
+| /lb akasha | 查看角色傷害排行榜 | ✅ | ❌ | ❌ | ❌ | ❌ |
+| /farm reminder | 設置角色/武器刷本通知 | ✅ | ❌ | ❌ | ❌ | ❌ |
+| /farm view | 查看不同星期能刷取的副本材料 | ✅ | ❌ | ❌ | ❌ | ❌ |
+| /web-events | 查看正在進行的網頁活動並設置通知 | ✅ | ✅ | ✅ | ✅ | ✅ |

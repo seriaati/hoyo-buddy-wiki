@@ -15,8 +15,8 @@ This error is usually temporary. Wait 30 minutes and try again. If the error con
 
 1. Contact customer service (see email template below)
 2. Try these workarounds for Hoyo Buddy:
-  - Use DevTools method (available next to email & password option)
-  - Try logging in with email instead of username (or vice versa)
+   - Use DevTools method (available next to email & password option)
+   - Try logging in with email instead of username (or vice versa)
 
 ### If You're Not Logged Into Your Games
 

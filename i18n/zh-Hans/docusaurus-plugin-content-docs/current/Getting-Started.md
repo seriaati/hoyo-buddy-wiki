@@ -1,6 +1,8 @@
 # 开始使用
 
-你可以在不将 Hoyo Buddy 邀请至任何 Discord 服务器的情况下使用它 如果你需要帮助设置 Hoyo Buddy，请加入我们的[Discord 服务器](https://link.seria.moe/hb-dc)。
+你可以在不将 Hoyo Buddy 邀请至任何 Discord 服务器的情况下使用它
+
+如果你需要帮助设置 Hoyo Buddy，请加入我们的[Discord 服务器](https://link.seria.moe/hb-dc)。
 
 :::note
 
@@ -14,28 +16,19 @@
 
 1. 点击[此链接](https://discord.com/oauth2/authorize?client_id=1000045812522430626).
 
-2. Select the option you want.
+2. 选择你想要的选项。  
+![image](../../../../src/assets/images/HB_Add-app_zh_Hant.png)
 
-<p></p>
-
-![Discord Add App Screen](../src/assets/images/378049955-0c3d09cb-a72a-44bf-b02a-a33869c90ba1.png)
-
-<p></p>
-
-3. 回到 Discord 并输入 `/`, 接着选择 Hoyo Buddy 的图标 (红色和蓝色的三角形). 你现在将能看到 Hoyo Buddy 的所有指令, 选择任意指令来执行它.
-
-<p></p>
-
-![Slash Command Screen](../src/assets/images/392196104-6960be6c-8b51-49fd-93ae-bad4dad6822b.png)
+3. 回到 Discord 并输入 `/`, 接着选择 Hoyo Buddy 的图标 (红色和蓝色的三角形). 你现在将能看到 Hoyo Buddy 的所有指令, 选择任意指令来执行它.  
+![image](../../../../src/assets/images/392196104-6960be6c-8b51-49fd-93ae-bad4dad6822b.png)
 
 ### 设置完成后
 
-你可以使用 `/accounts` 切换个别账户的功能，例如自动每日签到和自动兑换码功能。\
+你可以使用 `/accounts` 切换个别账户的功能，例如自动每日签到和自动兑换码功能。  
 「将账户设为公开」的切换功能可控制当其他人选择你作为指令使用者时，他们是否能看到你的账户。
-The "Set account as public" toggle controls whether your account is visible to others when they select you as the command user.
 
 你可以使用 `/settings` 指令控制 Hoyo Buddy 生成图片的主题（浅色或深色主题），以及 Hoyo Buddy 显示内容的语言。
 
-## 报告问题与提供建议
+### 报告问题与提供建议
 
 请加入我们的[Discord 服务器](https://link.seria.moe/hb-dc)。
