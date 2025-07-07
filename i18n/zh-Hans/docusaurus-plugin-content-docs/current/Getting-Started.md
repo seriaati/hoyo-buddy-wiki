@@ -12,7 +12,7 @@
 
 ## 使用 Hoyo Buddy
 
-1. 点击[此链接](https://discord.com/oauth2/authorize?client_id=1000045812522430626).
+1. Click on [this link](https://one.hb.seria.moe/install).
 
 2. Select the option you want.
 
