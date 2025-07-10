@@ -12,7 +12,7 @@ Hoyo Buddy utiliza tus cookies de HoYoLAB para acceder a la información de tu c
 
 ## ¿Qué son las Cookies?
 
-Las cookies 🍪 son pequeños fragmentos de datos que los sitios webs almacenan en tu computadora o dispositivo cuando los visitas. No son programas, no pueden contener virus ni son archivos espía. Más bien, funcionan como una nota que el sitio web le deja a tu navegador para recordar ciertos detalles sobre ti o tu visita
+Las cookies 🍪 son pequeños fragmentos de datos que los sitios web almacenan en tu computadora o dispositivo cuando los visitas. No son programas, no pueden contener virus ni son archivos espía. Más bien, funcionan como una nota que el sitio web le deja a tu navegador para recordar ciertos detalles sobre ti o tu visita
 
 Imagina que entras en una tienda y el vendedor te da una calcomanía. Esa calcomanía podría tener información como los productos que miraste, cuánto tiempo estuviste o tus preferencias. Luego, cuando volvés a la tienda, el vendedor mira tu calcomanía y puede personalizar tu experiencia según la información que contiene.
 

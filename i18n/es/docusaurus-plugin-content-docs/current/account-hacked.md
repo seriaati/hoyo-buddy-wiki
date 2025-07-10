@@ -1,6 +1,6 @@
 # Cuentas hackeadas: explicación de por qué Hoyo Buddy no fue el responsable
 
-## Como funciona Hoyo Buddy
+## Cómo funciona Hoyo Buddy
 
 Cuando vinculas tu cuenta usando correo y contraseña:
 

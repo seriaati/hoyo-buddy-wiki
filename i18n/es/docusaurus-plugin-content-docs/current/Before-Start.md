@@ -2,7 +2,7 @@
 
 :::note
 
-Si ya tienes una cuenta de Hoyoverse, peudes saltarte esta guía y ve a [Primeros Pasos](./Getting-Started.md).
+Si ya tienes una cuenta de Hoyoverse, puedes saltarte esta guía y ve a [Primeros Pasos](./Getting-Started.md).
 
 Configurar una cuenta de Hoyoverse solo es necesario si desea iniciar sesión con el método de correo y contraseña. Si deseas iniciar sesión con DevTools, puedes saltarte esta guía. [¿Qué método de inicio de sesión debería usar?](./FAQ.md#qué-método-de-inicio-de-sesión-debo-usar)
 
