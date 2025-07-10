@@ -142,9 +142,9 @@ const config = {
         additionalLanguages: ['powershell'],
       },
       algolia: {
-        apiKey: process.env.ALGOLIA_API_KEY,
-        indexName: process.env.ALGOLIA_INDEX_NAME,
-        appId: process.env.ALGOLIA_APP_ID, // Optional, if you have an Algolia App ID
+        apiKey: process.env.ALGOLIA_API_KEY || 'something',
+        indexName: process.env.ALGOLIA_INDEX_NAME || 'hb-seria',
+        appId: process.env.ALGOLIA_APP_ID || 'something', // Optional, if you have an Algolia App ID
         contextualSearch: true,
         searchParameters: {}, // Optional, if you want to pass additional search parameters
       }
