@@ -16,13 +16,13 @@ Primero, ve a [Centro de Cuenta de Hoyoverse](https://account.hoyoverse.com).
 
 Haz clic en "Iniciar sesión" y elige el proveedor de terceros que usas para iniciar sesión en tu juego.
 
-![Login Screen](../src/assets/images/hb-account/web/account-log-in.png)
+![Login Screen](../../../../src/assets/images/hb-account/web/account-log-in.png)
 
 Después de iniciar sesión, pueden pasar 3 cosas:
 
 ### Vincula una nueva cuenta
 
-![Third-party Account Linking](../src/assets/images/hb-account/web/sign-up_google-link.png)
+![Third-party Account Linking](../../../../src/assets/images/hb-account/web/sign-up_google-link.png)
 
 Esto significa que el correo electrónico que haz usado para iniciar sesión no está vinculado a ninguna cuenta de Hoyoverse. Introduce una contraseña deseada y haz clic en "Vincular", esto creará una nueva cuenta de Hoyoverse y la vinculara al inicio de sesión de terceros que usaste
 
@@ -30,15 +30,15 @@ Puedes usar este correo y contraseña para iniciar sesión en Hoyo Buddy.
 
 ### Vincular correo
 
-![Link Email](../src/assets/images/hb-account/web/link-email.png)
+![Link Email](../../../../src/assets/images/hb-account/web/link-email.png)
 
 Esto significa que una cuenta de Hoyoverse se creó automáticamente cuando iniciaste sesión con el servicio de terceros. Haz clic en "vincular"
 
-![Password and Security](../src/assets/images/hb-account/web/password-and-security.png)
+![Password and Security](../../../../src/assets/images/hb-account/web/password-and-security.png)
 
 En la siguiente pantalla, haz clic en "Gestión" en la sección "Contraseña y seguridad"
 
-![Update Password](../src/assets/images/hb-account/web/update-password.png)
+![Update Password](../../../../src/assets/images/hb-account/web/update-password.png)
 
 Haz clic en "Actualizar" y sigue las instrucciones para establecer una contraseña para tu cuenta
 
@@ -46,7 +46,7 @@ Puedes usar este correo y contraseña para iniciar sesión en Hoyo Buddy.
 
 ### Vincular una cuenta existente
 
-![Link to Existing Account](../src/assets/images/hb-account/web/link-existing.png)
+![Link to Existing Account](../../../../src/assets/images/hb-account/web/link-existing.png)
 
 Esto significa que una cuenta de Hoyoverse con el mismo correo y existe. Introduce la contraseña de esta cuenta de Hoyoverse y haz clic en "Vincular" para unir el inicio de sesión de terceros en la cuenta existente. Si olvidaste la contraseña, haz clic en "A ocurrido un problema" -> "¿Olvidaste tu contraseña?" para restablecer.
 
@@ -54,7 +54,7 @@ Puedes usar este correo y contraseña para iniciar sesión en Hoyo Buddy.
 
 ### Última actualización de contraseña es "-"
 
-![Password and Security](../src/assets/images/hb-account/web/password-and-security.png)
+![Password and Security](../../../../src/assets/images/hb-account/web/password-and-security.png)
 
 Sigue los pasos de [Vincular correo](#vincular-correo) para establecer una contraseña para tu cuenta.
 
