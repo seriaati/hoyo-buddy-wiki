@@ -1,12 +1,11 @@
-# Home
+# Inicio
 
 ![Banner](../src/assets/images/branding/en_banner.png)
 
-Hoyo Buddy is a feature rich, easy to use, and beautifully designed Discord bot made for Hoyoverse gamers.
+Hoyo Buddy es unn bot de Discord con muchas funciones, fácil de usar y bellamente diseñado, hecho para jugadores de Hoyoverse.
 
-- [Try it out](./Getting-Started.md)
-- [Official website](https://hb.seria.moe/)
-- [Is Hoyo Buddy safe?](./Account-Security.md)
-- [Why Hoyo Buddy?](./Why-Hoyo-Buddy.md)
-- [Discord server](https://link.seria.moe/hb-dc)
-- [Features](./features.md)
+- [Pruébalo](./Getting-Started.md)
+- [Sitio web oficial](https://hb.seria.moe/)
+- [¿Es seguro Hoyo Buddy?](./Account-Security.md)
+- [¿Por qué Hoyo Buddy?](./Why-Hoyo-Buddy.md)
+- [Servidor de Discord](https://link.seria.moe/hb-dc)

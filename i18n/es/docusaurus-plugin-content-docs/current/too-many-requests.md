@@ -1,65 +1,65 @@
-# Fixing "Too Many Requests" Error When Adding Accounts
+# Solución al error "Demasiadas Solicitudes" al agregar cuentas
 
-## What's Happening
+## ¿Qué está pasando?
 
-This error is usually temporary. Wait 30 minutes and try again. If the error continues, your account may be "soft-locked" (one user reported their account unlocked automatically after 5 days).
+Este error suele ser temporal. Espera 30 minutos y vuelve a intentarlo. Si el error continúa, tu cuenta podría estar "soft-locked/levemente bloqueada" (un usuario reportó que su cuenta se desbloqueó automáticamente después de 5 días).
 
-## Important Don'ts
+## ¿Qué NO hacer?
 
-1. DO NOT reset your password - this makes the problem worse
-2. STOP trying to login with email/username and password (on HoYoLAB, Hoyo Buddy, or in-game)
+1. NO restablezcas tu contraseña: esto empeora el problema.
+2. DEJA de intentar iniciar sesión con correo/usuario y contraseña (en HoYoLAB, Hoyo Buddy o en el juego).
 
-## Solutions Based on Your Situation
+## Soluciones según tu situación
 
-### If You're Still Logged Into Your Games (Genshin, ZZZ, etc.)
+### Si todavía puedes acceder a tus juegos (Genshin, ZZZ, etc.)
 
-1. Contact customer service (see email template below)
-2. Try these workarounds for Hoyo Buddy:
-   - Use DevTools method (available next to email & password option)
-   - Try logging in with email instead of username (or vice versa)
+1. Contacta al soporte al cliente (ver plantilla de correo abajo).
+2. Prueba estas alternativas para Hoyo Buddy:
+   - Usa el método DevTools (disponible junto a la opción de correo y contraseña).
+   - Intenta iniciar sesión con tu correo en vez de tu usuario (o viceversa).
 
-### If You're Not Logged Into Your Games
+### Si NO puedes acceder a tus juegos
 
-#### If Your Account Is Linked to Social Media (Google, X, etc.)
+#### Si tu cuenta está vinculada a redes sociales (Google, X, etc.)
 
-1. Login to your games using the linked social media
-2. Contact customer service
-3. Try the workarounds above for Hoyo Buddy
+1. Inicia sesión en tus juegos usando la red social vinculada.
+2. Contacta al soporte al cliente.
+3. Prueba las alternativas anteriores para Hoyo Buddy.
 
-#### If Your Account Is Not Linked to Social Media
+#### Si tu cuenta NO está vinculada a redes sociales
 
-Check if you can log in to the [Hoyoverse Account Center](https://account.hoyoverse.com/):
+Verifica si puedes iniciar sesión en el [Centro de Cuentas de Hoyoverse](https://account.hoyoverse.com/):
 
-- If YES:
-  1. Link your account to a social media platform
-  2. Login to your games using that social media
-  3. Contact customer service
-  4. Try the workarounds for Hoyo Buddy
+- Si SÍ:
+  1. Vincula tu cuenta a una red social.
+  2. Inicia sesión en tus juegos usando esa red social.
+  3. Contacta al soporte al cliente.
+  4. Prueba las alternativas para Hoyo Buddy.
 
-- If NO:
-  1. Try logging in with email instead of username (or vice versa)
-  2. If that doesn't work, contact customer service and wait for their response
-  3. Unfortunately, you won't be able to access your game account until this is resolved
+- Si NO:
+  1. Intenta iniciar sesión con tu correo en vez de tu usuario (o viceversa).
+  2. Si eso no funciona, contacta al soporte al cliente y espera su respuesta.
+  3. Lamentablemente, no podrás acceder a tu cuenta del juego hasta que esto se resuelva.
 
-## Workaround Details
+## Detalles de las alternativas
 
-### Using Email Instead of Username (or Vice Versa)
+### Usar correo en vez de usuario (o viceversa)
 
-Some users found that switching between username and email for login can bypass the error message. If you've been using your username, try your email instead (and vice versa).
+Algunos usuarios han logrado evitar el error cambiando entre usuario y correo al iniciar sesión. Si normalmente usas tu usuario, prueba con tu correo (y viceversa).
 
-### Using DevTools Method
+### Usar el método DevTools
 
-If you have a PC or laptop, you can use the DevTools login method (button is next to email & password option). Note: You won't be able to use code redemption features with this method.
+Si tienes una PC o laptop, puedes usar el método de inicio de sesión DevTools (el botón está junto a la opción de correo y contraseña). Nota: No podrás usar las funciones de canjeo de códigos con este método.
 
-## Contacting Customer Service
+## Contactar al soporte al cliente
 
-Email: [hoyolab@hoyoverse.com](mailto:hoyolab@hoyoverse.com)
+Correo: [hoyolab@hoyoverse.com](mailto:hoyolab@hoyoverse.com)
 
-Suggested message:
+Mensaje sugerido:
 
 ```txt
-I am unable to login to HoYoLAB with my email and password. I get a "Too Many Requests, Please Refresh the Page and try Again Later" error (see attached screenshot). I've waited over 8 hours and still see this error. Please help unlock my account.
+No puedo iniciar sesión en HoYoLAB con mi correo y contraseña. Recibo el error "Too Many Requests, Please Refresh the Page and try Again Later" (ver captura adjunta). He esperado más de 8 horas y sigo viendo este error. Por favor, ayuden me a desbloquear mi cuenta.
 
-My email is: [your email]
-[attach a screenshot showing the error]
+Mi correo es: [tu correo]
+[adjunta una captura de pantalla mostrando el error]
 ```

@@ -1,25 +1,25 @@
-# Why Hoyo Buddy?
+# ¿Por qué Hoyo Buddy?
 
-## Introduction
+## Introducción
 
-There are numerous Hoyoverse-related Discord bots on the market, so why choose Hoyo Buddy? What makes Hoyo Buddy stand out from the others, including the ones you might already be using?
+Existen muchos bots de Discord relacionados con Hoyoverse, entonces ¿por qué elegir Hoyo Buddy? ¿Qué hace que Hoyo Buddy destaque frente a los demás, incluso los que ya podrías estar usando?
 
-## It Combines Everything
+## Lo tiene todo en uno
 
-Hoyo Buddy is designed from the ground up to support all (current and future) Hoyoverse games. With Hoyo Buddy's multi-account system, you only need one bot to manage all your accounts and access all features. Additionally, if you have multiple accounts for the same game, you can access them all with a single command.
+Hoyo Buddy está diseñado desde cero para soportar todos los juegos de Hoyoverse (actuales y futuros). Con el sistema multi-cuenta de Hoyo Buddy, solo necesitas un bot para gestionar todas tus cuentas y acceder a todas las funciones. Además, si tienes varias cuentas del mismo juego, puedes acceder a todas con un solo comando.
 
-## It's Free
+## Es gratis
 
-Hoyo Buddy is completely free. We understand the frustration when developers lock fundamental features (like custom art for character build cards) behind a paywall, essentially forcing you to pay. That's why we never lock any features behind a paywall. Everything on Hoyo Buddy is free — there are no "premium" features or perks.
+Hoyo Buddy es completamente gratis. Entendemos la frustración cuando los desarrolladores bloquean funciones fundamentales (como arte personalizado para tarjetas de builds) detrás de un muro de pago, obligándote a pagar. Por eso, nunca bloqueamos ninguna función tras un pago. Todo en Hoyo Buddy es gratis: no hay funciones ni ventajas "premium".
 
-## It's Easy to Use
+## Es fácil de usar
 
-The user interface (UI) and user experience (UX) of our commands have been thoroughly tested to ensure they are intuitive. Additionally, the bot is easy to start with, as we have polished our account setup process, so all the necessary steps are explained clearly to help you start enjoying Hoyo Buddy's features as fast as possible.
+La interfaz de usuario (UI) y la experiencia de usuario (UX) de nuestros comandos han sido probadas para que sean intuitivas. Además, el bot es fácil de comenzar a usar, ya que hemos pulido el proceso de configuración de cuentas para que todos los pasos necesarios estén explicados claramente y puedas disfrutar de las funciones de Hoyo Buddy lo más rápido posible.
 
-## It's Visually Appealing
+## Es visualmente atractivo
 
-Hoyo Buddy's designs are beautiful. An aesthetic design can make your day, and when you share your cards with friends, you want them to look impressive, not dull or bland. At Hoyo Buddy, we understand this, which is why we strive to create the best designs for the bot's commands. Plus, to reduce eye strain, Hoyo Buddy includes a dark theme switch for all its designs. With Hoyo Buddy, you can enjoy the perfect combination of beauty, speed, and user-friendly features.
+Los diseños de Hoyo Buddy son bonitos. Un diseño estético puede alegrarte el día, y cuando compartes tus tarjetas con amigos, quieres que se vean impresionantes, no aburridas. En Hoyo Buddy lo entendemos, por eso nos esforzamos en crear los mejores diseños para los comandos del bot. Además, para reducir la fatiga visual, Hoyo Buddy incluye un modo oscuro para todos sus diseños. Con Hoyo Buddy, puedes disfrutar de la combinación perfecta de belleza, velocidad y funciones fáciles de usar.
 
-## It's Open-Sourced
+## Es de código abierto
 
-Hoyo Buddy's entire codebase is open-sourced on GitHub, and you are currently viewing this article in Hoyo Buddy's repository. Being open-sourced means you can see exactly how the bot handles your data. This transparency is crucial for Hoyoverse Discord bots because they interact with your account data. Unlike many other bots on the market, the open-sourced nature of Hoyo Buddy makes it possible to view how the bot is utilizing your data, in turn reducing security concerns.
+Todo el código de Hoyo Buddy es abierto y está disponible en GitHub, y actualmente estás viendo este artículo en el repositorio de Hoyo Buddy. Ser de código abierto significa que puedes ver exactamente cómo el bot maneja tus datos. Esta transparencia es fundamental para los bots de Discord de Hoyoverse, ya que interactúan con los datos de tu cuenta. A diferencia de muchos otros bots, el hecho de que Hoyo Buddy sea de código abierto te permite ver cómo el bot utiliza tus datos, lo que reduce las preocupaciones de seguridad.

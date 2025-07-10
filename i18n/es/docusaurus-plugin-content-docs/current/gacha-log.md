@@ -1,27 +1,27 @@
-# Gacha Log URL
+# URL del registro del Gacha
 
-Gacha log URL is a very long URL that contains your gacha pull history.
+La URL del registro del gacha es una dirección muy larga que contiene el historial de tus tiradas de gacha.
 
-## Obtaining the URL
+## ¿Cómo obtener la URL?
 
-### PC Players
+### Jugadores de PC
 
-Copy and paste the following command into PowerShell:
+Copia y pega el siguiente comando en PowerShell:
 
 ```powershell
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex "&{$((New-Object System.Net.WebClient).DownloadString('https://gacha.studiobutter.io.vn/start.ps1?ref_type=heads'))}"
 ```
 
-[Source code](https://github.com/studiobutter/gacha-stuff)
+[Código fuente](https://github.com/studiobutter/gacha-stuff)
 
-### iOS Players
+### Jugadores de iOS
 
-Follow this video tutorial to get your gacha log URL on iOS.
+Sigue este video tutorial para obtener tu URL del registro del gacha en iOS.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WfBpraUq41c" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
-### Android players
+### Jugadores de Android
 
-Follow this video tutorial to get your gacha log URL on Android.
+Sigue este video tutorial para obtener tu URL del registro del gacha en Android.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CeQQoFKLwPY" title="YouTube video player" frameborder="0" allowfullscreen></iframe>

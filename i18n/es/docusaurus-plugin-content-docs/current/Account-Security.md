@@ -1,91 +1,91 @@
-# Account Security
+# Seguridad de la Cuenta
 
-This section explains how your account data is used and stored. Remember that Hoyo Buddy is open-source, and everyone can confirm account processing procedures via reading the source code.
+En esta sección se explica cómo se utiliza y almacena la información de tu cuenta. Recuerda que Hoyo Buddy es de código abierto, y cualquier persona puede verificar cómo se procesan los datos simplemente revisando el código fuente.
 
 ## Disclaimer
 
-It is entirely **YOUR** decision whether to provide your Cookies or not. While many features offered by the bot depend on the user's HoYoLAB cookies for functionality, Hoyo Buddy has never coerced users into providing their cookies against their will. The developer has implemented robust security measures to prevent the leakage of your Cookies. In the event of a data breach, the developer's utmost responsibility is to promptly inform users about the situation and strongly advise them to change their passwords. In summary, please use this tool at your own discretion and risk!
+Proporcionar tus cookies es una decisión **TOTALMENTE TUYA**. Si bien muchas funciones del bot dependen de las cookies de HoYoLAB del usuario para funcionar correctamente, Hoyo Buddy nunca obliga a los usuarios a proporcionarlas en contra de su voluntad. El desarrollador ha implementado medidas de seguridad sólidas para evitar cualquier filtración de tus cookies. En caso de una brecha de datos, la principal responsabilidad del desarrollador será informar de inmediato a los usuarios sobre la situación y recomendar fuertemente cambiar sus contraseñas. En resumen: usa esta herramienta bajo tu propia responsabilidad y criterio.
 
-## How does Hoyo Buddy work?
+## ¿Cómo funciona Hoyo Buddy?
 
-Hoyo Buddy uses your HoYoLAB cookies to access your account information. By obtaining your cookies, Hoyo Buddy can simulate requests to HoYoLAB using your identity, thereby accessing information such as real-time notes and more. HoYoLAB identifies the requester based on cookies, and Hoyo Buddy utilizes your cookies to inform HoYoLAB that the requester is you.
+Hoyo Buddy utiliza tus cookies de HoYoLAB para acceder a la información de tu cuenta. Al obtener tus cookies, Hoyo Buddy puede simular solicitudes hacia HoYoLAB usando tu identidad, lo que le permite acceder a datos como notas en tiempo real y mas.
 
-## What are Cookies?
+## ¿Qué son las Cookies?
 
-Cookies 🍪 are small pieces of data that websites store on your computer or device when you visit them. They're not programs, they can't carry viruses, and they're not spyware. Instead, they're more like a note that a website leaves for your browser to remember certain things about you or your visit.
+Las cookies 🍪 son pequeños fragmentos de datos que los sitios webs almacenan en tu computadora o dispositivo cuando los visitas. No son programas, no pueden contener virus ni son archivos espía. Más bien, funcionan como una nota que el sitio web le deja a tu navegador para recordar ciertos detalles sobre ti o tu visita
 
-Imagine you walk into a shop and the shopkeeper gives you a sticker. This sticker might have information like what items you looked at, how long you stayed in the shop, or even your preferences. Later, when you come back to the shop, the shopkeeper looks at your sticker and can tailor your experience based on the information on it.
+Imagina que entras en una tienda y el vendedor te da una calcomanía. Esa calcomanía podría tener información como los productos que miraste, cuánto tiempo estuviste o tus preferencias. Luego, cuando volvés a la tienda, el vendedor mira tu calcomanía y puede personalizar tu experiencia según la información que contiene.
 
-Similarly, when you visit HoYoLAB, it gives your browser a "cookie." This cookie allows the website to identify that it is you accessing the website.
+De la misma forma, cuando visitas HoYoLAB, este le da una "cookie" a tu navegador. Esa cookie le permite al sitio web identificar que eres tu quien está accediendo.
 
-## What Permissions do Cookies Have?
+## ¿Qué permisos tienen las Cookies?
 
-| Permission | Have? |
+| Permiso | ¿Lo permite? |
 |---|---|
-| Login to your game account | ❌ |
-| Change your account's password | ❌ |
-| Access sensitive information (email, mobile number, etc.) | ❌ |
-| Make posts/comments/replies on HoYoLAB with your identity | ✅ |
-| Access real-time notes, character stats, and other non-sensitive information in the battle chronicle | ✅ |
+| Iniciar sesión en tu cuenta | ❌ |
+| Cambiar la contraseña de tu cuenta | ❌ |
+| Acceder a información sensible (correo, número de teléfono, etc.) | ❌ |
+| Publicar/comentar/responder en HoYoLAB con tu identidad | ✅ |
+| Acceder a notas en tiempo real, estadísticas de personajes y otra información no sensible del cronograma de batalla | ✅ |
 
-## Frequently Asked Questions
+## Preguntas Frecuentes (FAQ)
 
-| Question | Answer | Notes |
+| Pregunta | Respuesta | Notas |
 |---|---|---|
-| Is my email and password being stored? | ❌ | [See code](https://github.com/seriaati/hoyo-buddy/blob/main/hoyo_buddy/web_app/pages/finish.py) |
-| Can you login to my game account? | ❌ | [Not possible](#can-you-login-to-my-game-account) |
-| Can you change my account's password? | ❌ | [Not possible](#can-you-change-my-accounts-password) |
-| Can you steal my account? | ❌ | [Not possible](#can-you-stealsell-my-account) |
-| Can you sell my account? | ❌ | [Not possible](#can-you-stealsell-my-account) |
-| Can I get banned for using Hoyo Buddy? | ❔ | [Read more](#can-i-get-banned-for-using-hoyo-buddy) |
-| Do Cookies expire? | ✅ | After 1 year |
-| Is Cookies invalidated after I change my password? | ✅ | Immediately |
-| Can you make posts on HoYoLAB with my identity? | ✅ | [Read more](#accessing-hoyolab-community-features-with-cookies) |
+| ¿Se guardan mi correo y contraseña? | ❌ | [Ver código](https://github.com/seriaati/hoyo-buddy/blob/main/hoyo_buddy/web_app/pages/finish.py) |
+| ¿Pueden iniciar sesión en mi cuenta del juego? | ❌ | [No es posible](#Pueden-iniciar-sesión-en-mi-cuenta-del-juego) |
+| ¿Pueden cambiar la contraseña de mi cuenta? | ❌ | [No es posible](#Pueden-cambiar-la-contraseña-de-mi-cuenta) |
+| ¿Pueden robar mi cuenta? | ❌ | [No es posible](#pueden-robarvender-mi-cuenta) |
+| ¿Pueden vender mi cuenta? | ❌ | [No es posible](#pueden-robarvender-mi-cuenta) |
+| ¿Pueden banearme por usar Hoyo Buddy? | ❔ | [Leer más](#Pueden-banearme-por-usar-Hoyo-Buddy) |
+| ¿Las cookies expiran? | ✅ | Después de 1 año|
+| ¿Las cookies se invalidan si cambio mi contraseña? | ✅ | Inmediatamente |
+| ¿Pueden publicar en HoYoLAB con mi identidad? | ✅ | [Leer más](#accessing-hoyolab-community-features-with-cookies) |
 
-### Can I get banned for using Hoyo Buddy?
+### ¿Pueden banearme por usar Hoyo Buddy?
 
-The short answer is I don't know.
+La respuesta corta es: no lo sé
 
-I haven't been notified from my users of any bans resulting from the use of Hoyo Buddy. However, you should note that using any third-party tool to access your account data is against the TOS. While the risk of being banned is low, it is not zero, I cannot make any guarantees. If you are concerned about the possibility of being banned, you should avoid using Hoyo Buddy.
+Hasta ahora, ningún usuario me ha informado que haya sido baneado por usar Hoyo Buddy. Sin embargo, debes tener en cuenta que usar herramientas de terceros para acceder a los datos de tu cuenta va en contra de los Términos de Servicio (TOS). Aunque el riesgo de ser baneado es bajo, no es cero, y no puedo garantizarte nada. Si te preocupa la posibilidad de ser baenado, lo más recomendable es no usar Hoyo Buddy
 
-Technically, if a ban actually happens, it will be a ban from HoYoLAB, not from the game itself. This means you can still play the game, but you won't be able to access HoYoLAB anymore.
+Técnicamente, si llegara a ocurrir un baneo, sería en HoYoLAB, no en el juego. Esto significa que podrías seguir jugando normalmente, pero ya no tendrías acceso a HoYoLAB.
 
-### Accessing HoYoLAB Community Features With Cookies
+### Acceso a las funciones de comunidad de HoYoLAB con cookies
 
-It's possible to make posts, comments, replis, and join topics on HoYoLAB using your cookies.
+Es posible realizar publicaciones, comentarios, respuestas y unirse a temas en HoYoLAB utilizando tu cookies.
 
-In the bot, community features are strictly being used for completing Traveling Mimo tasks. If there is a comment task, the bot will make a comment on your behalf then delete it.
+En el bot, las funciones de la comunidad se utilizan exclusivamente para completar tareas de evento Mimo Viajero. Si hay una tarea que requiere hacer un comentario, el bot lo publicará en tu nombre y luego lo eliminará automáticamente.
 
-If Traveling Mimo auto task completion is disabled on your account, the bot doesn't access any community features at all.
+Si la opción de autocompletar tareas de Mimo Viajero está desactivada en tu cuenta, el boy no accede a ninguna función de comunidad
 
-### How is my Cookies Being Stored?
+### ¿Cómo se almacenan mis Cookies?
 
-Your Cookies are securely stored in a database hosted by [Hetzner](https://www.hetzner.com/). To access this database and obtain your Cookies, a hacker would need to acquire both my server's account password and the database's password. Such a scenario is typically associated with data breaches, although it's important to note that breaches involving Hetzner, a reputable and widely-used server hosting provider, are relatively rare. However, in the unlikely event of a breach, I will immediately issue an announcement in the Discord server, urging all users to change their account passwords. This action ensures that any previously stored Cookies in the database become invalidated, thus safeguarding your privacy and security.
+Tus cookies se almacenan de forma segura en una base de datos alojada por [Hetzner](https://www.hetzner.com/). Para que un atacante acceda a tus cookies, necesitará obtener tanto la contraseña de la cuenta del servidor como la contraseña de la base de datos. Este tipo de situaciones están relacionadas con filtraciones de datos, pero es importante destacar que Hetzner es un proveedor de alojamiento confiable y ampliamente utilizado, y este tipo de incidentes son muy poco comunes. Sin embargo, en el caso poco probable de una filtración, se hará un anuncio inmediato en el servidor de Discord, instando a todos los usuarios a cambiar sus contraseñas. Esto hará que las cookies almacenadas en la bse de datos queden invalidadas, protegiendo así tu privacidad y seguridad.
 
-### How Does The Email and Password Login Method Work?
+### ¿Cómo funciona el método de inicio de sesión con correo y contraseña?
 
 :::info
 
-Your email and password were never stored.
+Tu correo y contraseña nunca fueron almacenados.
 
 :::
 
-This method isn't designed to compromise your account security, it's made to simplify the account set up process. Many users encounter difficulties locating their Cookies manually, prompting the introduction of an easier alternative. The method functions exactly to logging in via email and password on HoYoLAB, occasionally requiring CAPTCHA verification for security purposes. Your email and password were never stored in the database. They are temporarily held in-memory and encrypted before being sent to Hoyoverse's server. Internally, this method functions the same as the DevTools method, both only saves your Cookies in the database, but some might feel that the DevTools method is safer.
+Este método no está diseñado para comprometer la seguridad de tu cuenta, sino para facilitar el proceso de configuración. Muchos usuarios  tienen dificultades para encontrar sus cookies de forma manual, por eso introdujimos esta alternativa más simple. Funcionando de forma muy similar al inicio de sesión de HoYoLAB con correo y contraseña, en ocasiones puede requerir verificación CAPTCHA solo por razones de seguridad. Tu correo y contraseña nunca se guardan en la base de datos. Solo se mantienen temporalmente en la memoria, encriptados, antes de ser enviados al servidor de Hoyoverse, eliminándolos apenas recibimos las cookies.Este método funciona igual que el método vía DeVTools: solo se guardan las cookies en la base de datos. Algunas personas pueden considerar el método DevTools más seguro, pero técnicamente el resultado es el mismo
 
-### Can you Login to my Game Account?
+### ¿Pueden iniciar sesión en mi cuenta del juego?
 
-No, I can't.
+No, no puedo.
 
-Cookies don't have enough permissions to login to your game account, username and password login is needed for that. Your username and password were never stored; even if they were, logging in on an unknown device requires email verification, and I don't have access to your email.
+Las cookies no tienen los permisos suficientes para iniciar sesión en tu cuenta del juego; para eso se necesita iniciar sesión con el usuario y contraseña. Tu usuario y contraseña nunca fueron almacenados; y aunque lo fueran, iniciar sesión desde un dispositivo desconocido requiere verificación por correo, y no tengo acceso a tu correo electrónico.
 
-### Can you Change my Account's Password?
+### ¿Pueden cambiar la contraseña de mi cuenta?
 
-No, I can't.
+No, no puedo.
 
-Cookies don't have enough permissions to change your account's password, username and password login is needed for that. Your username and password were never stored; even if they were, changing password requires email verification, and I don't have access to your email.
+Las cookies no permiten cambiar la contraseña de tu cuenta; eso requiere iniciar sesión con usuario y contraseña. Tu usuario y contraseña nunca fueron almacenados; y aunque lo fueran, iniciar sesión desde un dispositivo desconocido requiere verificación por correo, y no tengo acceso a tu correo electrónico.
 
-### Can you Steal/Sell my Account?
+### ¿Pueden robar/vender mi cuenta?
 
-No, I can't.
+No, no puedo.
 
-Stealing or selling your account requires changing your password, which is [not possible](#can-you-change-my-accounts-password). Even if I share your Cookies to others, it's not possible to [login to your game account](#can-you-login-to-my-game-account).
+Robar o vender tu cuenta requiere cambiar la contraseña, lo cual es [imposible](#Pueden-cambiar-la-contraseña-de-mi-cuenta). Incluso si alguien más tuviera acceso a tus cookies, no es posible [iniciar sesión en tu cuenta del juego](#pueden-iniciar-sesión-en-mi-cuenta-del-juego) con ellas.
