@@ -18,7 +18,7 @@ Lee más: [¿Es seguro Hoyo Buddy?](./Account-Security.md)
 
 <p></p>
 
-![Pantalla para agregar la aplicación a Discord](../src/assets/images/378049955-0c3d09cb-a72a-44bf-b02a-a33869c90ba1.png)
+![Pantalla para agregar la aplicación a Discord](../../../../src/assets/images/378049955-0c3d09cb-a72a-44bf-b02a-a33869c90ba1.png)
 
 <p></p>
 
@@ -26,7 +26,7 @@ Lee más: [¿Es seguro Hoyo Buddy?](./Account-Security.md)
 
 <p></p>
 
-![Pantalla de comandos Slash](../src/assets/images/392196104-6960be6c-8b51-49fd-93ae-bad4dad6822b.png)
+![Pantalla de comandos Slash](../../../../src/assets/images/392196104-6960be6c-8b51-49fd-93ae-bad4dad6822b.png)
 
 ### Después de la Configuración
 
