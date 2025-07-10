@@ -14,7 +14,7 @@
 
 ## 使用 Hoyo Buddy
 
-1. 點擊[此連結](https://discord.com/oauth2/authorize?client_id=1000045812522430626).
+1. 點擊[此連結](https://one.hb.seria.moe/install).
 
 2. 選擇你想要的選項。  
 ![image](../../../../src/assets/images/HB_Add-app_zh_Hant.png)

@@ -1,5 +1,29 @@
 # Nhật ký thay đổi
 
+## v1.16.7
+
+### Tính năng mới
+
+- Thêm hỗ trợ Tiếng Ả Rập
+- (`/challenge genshin`) Thêm tính năng tạo thẻ Ảo Cảnh Hiểm Ác
+- (`/profile zzz`) Thêm từ viết tắt cho "Tự Tích Thiểm Năng" cho mẫu thẻ 4.
+
+### Cải tiến
+
+- (`/accounts`) Hiển thị một trang khi lấy tài khoản.
+- (`/accounts`) Cập nhật đường dẫn file APK cho đăng nhập bằng Miyoushe.
+- (`/accounts`) Cập nhật đường dẫn URL cho đăng nhập qua Miyoushe.
+- (`/accounts`) Thêm trường nhập dữ liệu cho aaid khi thêm tài khoản Miyoushe.
+- Tạo hình ảnh nhanh hơn bằng cách sử dụng nhiều lõi CPU.
+- Vị trí văn bản trong hình ảnh chính xác hơn.
+
+### Sửa lỗi
+
+- (`/profile zzz`) Sửa vị trí hình ảnh của Yixuan cho mẫu thẻ 1.
+- (`/profile zzz`) Sửa lỗi thuộc tính "Xuyên Giáp" không được dịch ở mẫu thẻ 4.
+- (`/search`) Vô hiệu hóa mục La Hoàn Thâm Cảnh.
+- (`/search`) Sửa lỗi không có lựa chọn tự động hoàn thành cho danh mục đĩa.
+
 ## v1.16.6
 
 ### Tính năng mới
@@ -93,7 +117,7 @@
 - (`/gacha-log upload`) Thêm hỗ trợ nhập dữ liệu gacha từ trình khởi chạy [Starward](https://github.com/Scighost/Starward)
 - (`/redeem`) Thêm cài đặt thông báo
 - (`/accounts`) Thêm hướng dẫn để lấy aaid để thêm các tài khoản Miyoushe.
-- Thêm nút ẩn UIUI
+- Thêm nút ẩn UI
 
 ### Cải Tiến
 
@@ -160,7 +184,6 @@
 - (`/mimo`) Loại bỏ thẻ HTML trên tên nhiệm vụ.
 - (`/mimo`) Sửa lỗi sau khi mua một vật phẩm.
 - (`/profile`) Sửa lỗi cài đặt thẻ từ các trò chơi khác bị trùng lập.
-- (`/profile genshin`) Fixed extra talents being shown in team cards.
 - (`/profile genshin`) Sửa lỗi Thiên Phú bổ sung được hiển thị trong thẻ đội.
 - (`/profile genshin`) Sửa lỗi xác nhận cho nhân vật Mavuika.
 - (`/search`) Đã sửa lỗi bộ chọn tinh chỉnh W-Engine không cập nhật giá trị đã chọn.
@@ -171,11 +194,11 @@
 
 ### Tính năng mới
 
-- (`/mimo`) Thêm hỗ trợ cho Genshin Du Lịch Mimo (sự kiện đã kết thúc từ thời điểm viếtviết).
+- (`/mimo`) Thêm hỗ trợ cho Genshin Du Lịch Mimo (sự kiện đã kết thúc từ thời điểm viết).
 - (`/mimo`) Đã thêm tính năng rút thưởng tự động.
 - (`/challenge zzz`) Thêm hỗ trợ cho Tập Kích Nguy Cấp.
 - (`/profile hsr`) Thêm Mẫu thẻ 2.
-- (`/notes`) Thêm thông tin Tiến Độ Ủy Thác Treo Thưởng và Điểm Số Ridu Hàng Tuần cho ZZZZZZ
+- (`/notes`) Thêm thông tin Tiến Độ Ủy Thác Treo Thưởng và Điểm Số Ridu Hàng Tuần cho ZZZ
 
 ## Cải Tiến
 
@@ -201,8 +224,7 @@
 - (`/mimo`) Tự động hoàn thành tác vụ yêu cầu theo dõi một đề mục.
 - (`/mimo`) Thêm tính năng rút thưởng.
 - (`/mimo`) Thêm cài đặt thông báo.
-- (`/profile zzz`) Added an image setting to use Mindscape 3 arts for build cards.
-- (`/profile zzz`) Thêm cài đặt hình ảnh để sử dùng ảnh Phim Ý Cảnh cho thẻ nhân vật.
+- (`/profile zzz`) Thêm cài đặt hình ảnh để sử dùng ảnh Phim Ý Cảnh 3 cho thẻ nhân vật.
 - (`/profile zzz`) Thêm dử liệu nhân vật Harusama và Miyabi
 - (`/search`) Ẩn mục "nội dung chưa phát hành" trong một số máy chủ.
 
@@ -212,7 +234,6 @@
 - (`/mimo`) Hiển thị tên các tác vụ đã hoàn thành trong thông báo.
 - (`/mimo`) Cải thiện hiệu suất của các tác vụ tự động.
 - (`/challenge zzz shiyu`) Cập nhật bố cục của thẻ.
-- (`/challenge zzz shiyu`) Avoid fetching agent data twice.
 - (`/challenge zzz shiyu`) Tranh lấy dữ liệu người đại diện hai lần.
 - Hiển thị liên kết mời máy chủ Discord trong phần chân trang bị lỗi.
 - Bỏ đặt trạng thái tải mục khi có lỗi.
@@ -232,7 +253,7 @@
 - (`/mimo`) Xử lý các trường hợp Mimo Du Lịch không có sẵn cho trò chơi.
 - (`/profile zzz`) Sửa lỗi điểm nổi bật của chỉ số phụ không được thêm vào thẻ.
 - (`/profile zzz`) Sửa lỗi người đại diện được xác định là được lưu trong bộ nhớ đệm trong khi thực tế không được lưu.
-- (`/characters zzz`) Sữa lỗi đếm sai số lượng người đại diệndiện.
+- (`/characters zzz`) Sữa lỗi đếm sai số lượng người đại diện.
 - (`/gacha-log upload`) Đã khắc phục sự cố khi nhập Nhật ký Gacha từ zzz.rng.moe.
 - (`/redeem`) Sửa lỗi tài khoản Miyoushe được hiển thị trong tự động điền.
 - (`/build genshin`) Xử lý tỷ lệ sử dụng bị thiếu đối với một số ký tự.
@@ -256,9 +277,9 @@
 ### Sửa lỗi
 
 - (`/build genshin`) Sửa một số vấn đề về UI.
-- (`/events`) Sửa một số vấn đề làm cho lệnh không thể truy cập đượcđược.
+- (`/events`) Sửa một số vấn đề làm cho lệnh không thể truy cập được.
 - (`/gacha-log upload`) Sửa lỗi `ValidationError` với dữ liệu UIGF.
-- (`/gacha-log upload`) Sửa lỗi `KeyError` với UIGF phiên bản cũ hơnhơn 3.0.
+- (`/gacha-log upload`) Sửa lỗi `KeyError` với UIGF phiên bản cũ hơn 3.0.
 - (`/search`) Sửa các lựa chọn tự động hoàn thành trùng lặp.
 
 ## v1.15.3
@@ -285,10 +306,10 @@ Lỗi code trong phiên bản trước đã xẩy ra lỗi "nhiều yêu cầu q
 - Sửa lỗi cách thức hết thời gian chờ quá ngắn.
 - Xử lý lỗi `KeyError` trong điểm cuối chuyển hướng máy chủ web.
 - (`/profile`) Xử lý lỗi `EnkaAPIError` khi lấy dữ liệu từ Enka Network API.
-- (`/profile`)  Xử lý lỗi Enka Network API hết thời gian chờ cổng kết nối một cách nhẹ nhàng.
+- (`/profile`) Xử lý lỗi Enka Network API hết thời gian chờ cổng kết nối một cách nhẹ nhàng.
 - (`/profile`) Sửa lỗi `BadRequestError` khi tạo ảnh AI.
 - (`/profile`) Sửa lỗi `BadRequestError` khi tải ảnh lên.
 
 ## v1.15.2 và trước đó
 
-Previous changelogs were written in the #updates channel in our [Discord server](https://link.seria.moe/hb-dc).
+Các nhật ký thay đổi trước đó đã được viết trong kênh #updates trong [Máy chủ Discord](https://link.seria.moe/hb-dc) của chúng tôi.

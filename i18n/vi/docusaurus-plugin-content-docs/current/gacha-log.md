@@ -18,10 +18,14 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 
 Xem video hướng dẫn lấy URL Nhật Ký. (Tiếng Anh)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WfBpraUq41c" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/WfBpraUq41c" title="YouTube video player" allowfullscreen></iframe>
+</div>
 
 ### Người Chơi Android
 
 Xem video hướng dẫn lấy URL Nhật Ký. (Tiếng Anh)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CeQQoFKLwPY" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/CeQQoFKLwPY" title="YouTube video player" allowfullscreen></iframe>
+</div>

@@ -12,7 +12,7 @@ Nếu bạn không có tài khoản Hoyoverse (bạn đăng nhập bằng dịch
 
 ## Thử ngay Hoyo Buddy
 
-1. Nhấp vào [liên kết này](https://discord.com/oauth2/authorize?client_id=1000045812522430626).
+1. Nhấp vào [liên kết này](https://one.hb.seria.moe/install).
 
 2. Chọn tùy chọn bạn muốn.
 

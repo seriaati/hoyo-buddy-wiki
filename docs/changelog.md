@@ -1,5 +1,28 @@
 # Changelogs
 
+## v1.16.7
+
+### New Features
+
+- Add Arabic support.
+- (`/challenge genshin`) Add Stygian Onslaught card generation.
+- (`/profile zzz`) Add acronym for "Automatic Adrenaline Accumulation" for template 4.
+
+### Improvements
+
+- (`/accounts`) Show a page while fetching accounts.
+- (`/accounts`) Update APK file URL for Miyoushe logins.
+- (`/accounts`) Add input field for aaid when adding Miyoushe accounts.
+- Faster image generation by utilizing multiple CPU cores.
+- More precise text positions in images.
+
+### Bug Fixes
+
+- (`/profile zzz`) Fix Yixuan's image position in template 1.
+- (`/profile zzz`) Fix PEN stat not being translated in template 4.
+- (`/search`) Disable spiral abyss category.
+- (`/search`) Fix no autocomplete choices for drive disc category.
+
 ## v1.16.6
 
 ### New Features
