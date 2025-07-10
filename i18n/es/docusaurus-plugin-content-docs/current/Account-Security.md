@@ -33,14 +33,14 @@ De la misma forma, cuando visitas HoYoLAB, este le da una "cookie" a tu navegado
 | Pregunta | Respuesta | Notas |
 |---|---|---|
 | ¿Se guardan mi correo y contraseña? | ❌ | [Ver código](https://github.com/seriaati/hoyo-buddy/blob/main/hoyo_buddy/web_app/pages/finish.py) |
-| ¿Pueden iniciar sesión en mi cuenta del juego? | ❌ | [No es posible](#Pueden-iniciar-sesión-en-mi-cuenta-del-juego) |
-| ¿Pueden cambiar la contraseña de mi cuenta? | ❌ | [No es posible](#Pueden-cambiar-la-contraseña-de-mi-cuenta) |
+| ¿Pueden iniciar sesión en mi cuenta del juego? | ❌ | [No es posible](#pueden-iniciar-sesión-en-mi-cuenta-del-juego) |
+| ¿Pueden cambiar la contraseña de mi cuenta? | ❌ | [No es posible](#pueden-cambiar-la-contraseña-de-mi-cuenta) |
 | ¿Pueden robar mi cuenta? | ❌ | [No es posible](#pueden-robarvender-mi-cuenta) |
 | ¿Pueden vender mi cuenta? | ❌ | [No es posible](#pueden-robarvender-mi-cuenta) |
-| ¿Pueden banearme por usar Hoyo Buddy? | ❔ | [Leer más](#Pueden-banearme-por-usar-Hoyo-Buddy) |
+| ¿Pueden banearme por usar Hoyo Buddy? | ❔ | [Leer más](#pueden-banearme-por-usar-hoyo-buddy) |
 | ¿Las cookies expiran? | ✅ | Después de 1 año|
 | ¿Las cookies se invalidan si cambio mi contraseña? | ✅ | Inmediatamente |
-| ¿Pueden publicar en HoYoLAB con mi identidad? | ✅ | [Leer más](#accessing-hoyolab-community-features-with-cookies) |
+| ¿Pueden publicar en HoYoLAB con mi identidad? | ✅ | [Leer más](#acceso-a-las-funciones-de-comunidad-de-hoyolab-con-cookies) |
 
 ### ¿Pueden banearme por usar Hoyo Buddy?
 
@@ -88,4 +88,4 @@ Las cookies no permiten cambiar la contraseña de tu cuenta; eso requiere inicia
 
 No, no puedo.
 
-Robar o vender tu cuenta requiere cambiar la contraseña, lo cual es [imposible](#Pueden-cambiar-la-contraseña-de-mi-cuenta). Incluso si alguien más tuviera acceso a tus cookies, no es posible [iniciar sesión en tu cuenta del juego](#pueden-iniciar-sesión-en-mi-cuenta-del-juego) con ellas.
+Robar o vender tu cuenta requiere cambiar la contraseña, lo cual es [imposible](#pueden-cambiar-la-contraseña-de-mi-cuenta). Incluso si alguien más tuviera acceso a tus cookies, no es posible [iniciar sesión en tu cuenta del juego](#pueden-iniciar-sesión-en-mi-cuenta-del-juego) con ellas.

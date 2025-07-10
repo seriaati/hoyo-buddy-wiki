@@ -48,7 +48,7 @@ No brindaré asistencia para el autoalojamiento, pero si tienes suficientes cono
 
 Para ahorrar recursos, los elementos de la interfaz de usuario expiran después de 10 minutos. Para evitar confusiones, los elementos se deshabilitan cuando expiran.
 
-# Error de "Demasiadas Solicitudes" al agregar cuentas
+## Error de "Demasiadas Solicitudes" al agregar cuentas
 
 Consulta [esta página](./too-many-requests.md) para más información.
 
@@ -63,7 +63,7 @@ Hoyoverse utiliza una cookie especial llamada `cookie_token` para el canjeo de c
 Asegúrate de iniciar sesión con las mismas credenciales que usas en el juego.
 
 - [Uso métodos de inicio de sesión de terceros (Google, Facebook, etc.)](./Before-Start.md#iniciar-sesión-con-servicios-de-terceros)
-- [Soy jugador de consola](./Before-Start.md#i-am-a-console-player)
+- [Soy jugador de consola](./Before-Start.md#soy-un-jugador-de-consola
 
 ### Método DevTools
 
