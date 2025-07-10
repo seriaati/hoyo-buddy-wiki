@@ -37,8 +37,8 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'vi', 'zh-Hant', 'zh-Hans'],
-    // locales: ['en', 'vi', 'zh-Hant', 'zh-Hans', 'es'], 
+    // locales: ['en', 'vi', 'zh-Hant', 'zh-Hans'],
+    locales: ['en', 'vi', 'zh-Hant', 'zh-Hans', 'es'], 
     path: 'i18n',
     localeConfigs: {
       en: {
@@ -55,13 +55,13 @@ const config = {
         calendar: 'gregorian',
         path: 'vi',
       },
-//      'es': {
-//        label: 'Español',
-//        direction: 'ltr',
-//        htmlLang: 'es',
-//        calendar: 'gregorian',
-//        path: 'es',
-//      },
+      'es': {
+        label: 'Español',
+        direction: 'ltr',
+        htmlLang: 'es',
+        calendar: 'gregorian',
+        path: 'es',
+      },
       'zh-Hans': {
         label: '简体中文',
         direction: 'ltr',
