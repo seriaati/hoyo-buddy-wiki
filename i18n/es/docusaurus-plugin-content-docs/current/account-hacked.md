@@ -1,6 +1,6 @@
 # Cuentas hackeadas: explicación de por qué Hoyo Buddy no fue el responsable
 
-## Cómo funciona Hoyo Buddy
+## ¿Cómo funciona Hoyo Buddy?
 
 Cuando vinculas tu cuenta usando correo y contraseña:
 
@@ -16,7 +16,7 @@ Cuando vinculas tu cuenta usando correo y contraseña:
 
 - **Memoria protegida**: Tu correo y contraseña solo se mantienen en la memoria de forma temporal, lo que hace casi imposible que se roben desde un servidor en línea.
 
-- **Fuerte encriptación**: Tus credenciales se encriptan con RSA antes de enviarse a Hoyoverse. Esto genera resultados diferentes cada vez que se envían los datos, haciendo imposible revertir el proceso. 
+- **Fuerte encriptación**: Tus credenciales se encriptan con RSA antes de enviarse a Hoyoverse. Esto genera resultados diferentes cada vez que se envían los datos, haciendo imposible revertir el proceso.
 
 - **Conexiones seguras**: Todas las transferencias de datos se realizan mediante HTTPS, lo que significa que todo está encriptado. Incluso si alguien intercepta la solicitud, no podrá ver lo que contiene.
 
