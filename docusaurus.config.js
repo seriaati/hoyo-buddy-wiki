@@ -141,13 +141,19 @@ const config = {
         darkTheme: prismThemes.dracula,
         additionalLanguages: ['powershell'],
       },
-      algolia: {
-        apiKey: process.env.ALGOLIA_API_KEY || 'something',
-        indexName: process.env.ALGOLIA_INDEX_NAME || 'hb-seria',
-        appId: process.env.ALGOLIA_APP_ID || 'something', // Optional, if you have an Algolia App ID
-        contextualSearch: true,
-        searchParameters: {}, // Optional, if you want to pass additional search parameters
-      }
+      algolia: (() => {
+        const { ALGOLIA_API_KEY, ALGOLIA_INDEX_NAME, ALGOLIA_APP_ID } = process.env;
+        if (!ALGOLIA_API_KEY || !ALGOLIA_INDEX_NAME || !ALGOLIA_APP_ID) {
+          throw new Error('Algolia environment variables are missing. Please set ALGOLIA_API_KEY, ALGOLIA_INDEX_NAME, and ALGOLIA_APP_ID.');
+        }
+        return {
+          apiKey: ALGOLIA_API_KEY,
+          indexName: ALGOLIA_INDEX_NAME,
+          appId: ALGOLIA_APP_ID,
+          contextualSearch: true,
+          searchParameters: {},
+        };
+      })()
     }),
 };
 
