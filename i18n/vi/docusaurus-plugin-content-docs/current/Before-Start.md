@@ -4,7 +4,7 @@
 
 Nếu bạn đã có tài khoản Hoyoverse, bạn có thể bỏ qua hướng dẫn này và đi đến [Bắt đầu](./Getting-Started.md).
 
-Chỉ cần thiết lập tài khoản Hoyoverse nếu bạn muốn đăng nhập bằng phương pháp email và mật khẩu. Nếu bạn muốn đăng nhập bằng DevTools, bạn có thể bỏ qua hướng dẫn này. [Tôi nên sử dụng phương pháp đăng nhập nào?](./FAQ.md#đăng-nhập-bằng-tên-người-dùng-thay-vì-email)
+Chỉ cần thiết lập tài khoản Hoyoverse nếu bạn muốn đăng nhập bằng phương pháp email và mật khẩu. Nếu bạn muốn đăng nhập bằng DevTools, bạn có thể bỏ qua hướng dẫn này. [Tôi nên sử dụng phương pháp đăng nhập nào?](./FAQ.md#phương-pháp-email-và-mật-khẩu)
 
 :::
 

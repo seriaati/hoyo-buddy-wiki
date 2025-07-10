@@ -1,80 +1,80 @@
 <!-- markdownlint-disable MD026 MD040 MD047 -->
-# Frequently Asked Questions
+# Preguntas Frecuentes
 
-## Something is not working!
+## ¡Algo no está funcionando!
 
-If there is an issue with Hoyo Buddy, you can tag @seria_ati in the [Discord server](https://link.seria.moe/hb-dc) or [directly message](https://discord.com/users/410036441129943050) me about it.
+Si tienes algún problema con Hoyo Buddy, puedes mencionar a @seria_ati en el [servidor de Discord](https://link.seria.moe/hb-dc) o [enviarme un mensaje directo](https://discord.com/users/410036441129943050).
 
-## Is Hoyo Buddy safe to use?
+## ¿Es seguro usar Hoyo Buddy?
 
-Please read the [Account Security](./Account-Security.md) page.
+Por favor, lee la página de [Seguridad de la Cuenta](./Account-Security.md).
 
-## Which login method should I use?
+## ¿Qué método de inicio de sesión debo usar?
 
-| Method | Login with mobile | Login with PC | Login with console | Auto & manual code redemption | Notes
+| Método | Iniciar sesión en móvil | Iniciar sesión en PC | Iniciar sesión en consola | Canjeo de códigos automático y manual | Notas
 |---|---|---|---|---|---
-| Email & password | ✅ | ✅ | ✅[*](./Before-Start.md) | ✅ | Easier
+| Correo y contraseña | ✅ | ✅ | ✅[*](./Before-Start.md) | ✅ | Más fácil
 | DevTools | ❌ | ✅ | ❌ | ❌ | ...
 
 :::note
 
-Email & password refer to **Hoyoverse account's** email and password, not Google, Apple, etc. accounts.
+Correo y contraseña se refieren a los datos de la **cuenta de Hoyoverse**, no a cuentas de Google, Apple, etc.
 
 :::
 
-Read more:
+Leer más:
 
-- [Is Hoyo Buddy safe?](./Account-Security.md)
-- [How does the email & password login method work?](./Account-Security.md#how-does-the-email-and-password-login-method-work)
-- [Why are code redemption features exclusive to users logged in with email & password?](#why-are-code-redemption-features-exclusive-to-users-logged-in-with-email--password)
+- [¿Es seguro Hoyo Buddy?](./Account-Security.md)
+- [¿Cómo funciona el método de inicio de sesión con correo y contraseña?](./Account-Security.md#cómo-funciona-el-método-de-inicio-de-sesión-con-correo-y-contraseña)
+- [¿Por qué las funciones de canjeo de códigos son exclusivas para usuarios que inician sesión con correo y contraseña?](#por-qué-las-funciones-de-canjeo-de-códigos-son-exclusivas-para-usuarios-que-inician-sesión-con-correo-y-contraseña)
 
-## Some texts are still being shown as English, even though I've selected other languages in /settings
+## Algunos textos siguen apareciendo en inglés, aunque seleccioné otro idioma en /settings
 
-This is because the translation for the texts you're seeing are not ready yet, Hoyo Buddy only has a small group of volunteers to translate the texts, and we all have our personal life to enjoy with. So, if you want to speed up this process, you're very welcomed to join the translation team! If you're interested, read the [contribution guidelines](https://github.com/seriaati/hoyo-buddy/blob/main/CONTRIBUTING.md) for more information.
+Esto ocurre porque la traducción de esos textos aún no está lista. Hoyo Buddy solo cuenta con un pequeño grupo de voluntarios para traducir, y todos tenemos nuestra vida personal. Si quieres ayudar a acelerar este proceso, ¡eres bienvenido a unirte al equipo de traducción! Si te interesa, revisa la [guía de contribución](https://github.com/seriaati/hoyo-buddy/blob/main/CONTRIBUTING.md) para más información.
 
-## How is my data being used?
+## ¿Cómo se utiliza mi información?
 
-Your data is never shared with third parties; for more information, please read the [privacy policy](https://github.com/seriaati/hoyo-buddy/blob/main/PRIVACY.md) page.
+Tus datos nunca se comparten con terceros; para más información, por favor lee la [política de privacidad](https://github.com/seriaati/hoyo-buddy/blob/main/PRIVACY.md).
 
-## Is Hoyo Buddy open source?
+## ¿Hoyo Buddy es de código abierto?
 
-Yes, Hoyo Buddy is open source. You can find the source code on [GitHub](https://github.com/seriaati/hoyo-buddy/) , please comply with the [license](https://github.com/seriaati/hoyo-buddy/blob/main/LICENSE) when using the code.
+Sí, Hoyo Buddy es de código abierto. Puedes encontrar el código fuente en [GitHub](https://github.com/seriaati/hoyo-buddy/), por favor respeta la [licencia](https://github.com/seriaati/hoyo-buddy/blob/main/LICENSE) al usar el código.
 
-### Can I self-host Hoyo Buddy?
+### ¿Puedo alojar Hoyo Buddy por mi cuenta?
 
-I won't provide any assistance to self-hosting, but with enough technical skills, it's possible to set up your own instance of Hoyo Buddy. However, due to copyright purposes, I have locked the assets that Hoyo Buddy uses in a private repository, this means that all image generation features on your instance will not work (except the 3rd party card templates in /profile).
+No brindaré asistencia para el autoalojamiento, pero si tienes suficientes conocimientos técnicos, es posible configurar tu propia instancia de Hoyo Buddy. Sin embargo, por motivos de derechos de autor, los recursos que utiliza Hoyo Buddy están en un repositorio privado, lo que significa que las funciones de generación de imágenes no funcionarán en tu instancia (excepto las plantillas de tarjetas de terceros en /profile).
 
-## Why are the buttons/selects disabled?
+## ¿Por qué los botones/selecciones están deshabilitados?
 
-To save resources, UI (user interface) elements expire after 10 minutes. To avoid confusion, UI elements are disabled when they expire.
+Para ahorrar recursos, los elementos de la interfaz de usuario expiran después de 10 minutos. Para evitar confusiones, los elementos se deshabilitan cuando expiran.
 
-# "Too Many Requests" Error When Adding Accounts
+## Error de "Demasiadas Solicitudes" al agregar cuentas
 
-See [this page](./too-many-requests.md) for more information.
+Consulta [esta página](./too-many-requests.md) para más información.
 
-## Why are code redemption features exclusive to users logged in with email & password?
+## ¿Por qué las funciones de canjeo de códigos son exclusivas para usuarios que inician sesión con correo y contraseña?
 
-Hoyoverse uses a special cookie called `cookie_token` for code redemption that expires very quickly. `cookie_token` is only used in code redemption, so that's why other features still work. When users login with their email & password, a special cookie called `stoken` is received, which can be used to refresh `cookie_token`, hence why the feature exclusiveness.
+Hoyoverse utiliza una cookie especial llamada `cookie_token` para el canjeo de códigos, que expira muy rápido. `cookie_token` solo se usa para el canjeo de códigos, por eso otras funciones siguen funcionando. Cuando los usuarios inician sesión con su correo electrónico y contraseña, se recibe una cookie especial llamada `stoken`, que puede usarse para renovar el `cookie_token`, de ahí la exclusividad de la función.
 
-## I don't see my game accounts after logging in
+## No veo mis cuentas de juego después de iniciar sesión
 
-### Email & password method
+### Método de correo y contraseña
 
-Make sure you're logged in with the same credentials you used in-game.
+Asegúrate de iniciar sesión con las mismas credenciales que usas en el juego.
 
-- [I use 3rd-party login methods (Google, Facebook, etc.)](./Before-Start.md#i-login-with-3rd-party-services)
-- [I am a console player](./Before-Start.md#i-am-a-console-player)
+- [Uso métodos de inicio de sesión de terceros (Google, Facebook, etc.)](./Before-Start.md#iniciar-sesión-con-servicios-de-terceros)
+- [Soy jugador de consola](./Before-Start.md#soy-un-jugador-de-consola
 
-### DevTools method
+### Método DevTools
 
-Make sure you're logged in with the same credentials you used in-game on HoYoLAB. For example, if you use a Google account [a@gmail.com](mailto:a@gmail.com) to login Genshin Impact, then use the [a@gmail.com](mailto:a@gmail.com) Google account to login HoYoLAB.
+Asegúrate de iniciar sesión en HoYoLab con las mismas credenciales que usas en el juego. Por ejemplo, si usas una cuenta de Google [a@gmail.com](mailto:a@gmail.com) para iniciar sesión en Genshin Impact, entonces usa esa misma cuenta de Google [a@gmail.com](mailto:a@gmail.com) para iniciar sesión en HoYoLAB.
 
-If you see duplicated Cookie entries, try using an incognito window to login.
+Si ves entradas duplicadas de Cookies, intenta iniciar sesión en una ventana de incógnito.
 
-## Why do I see "Interaction Failed" error?
+## ¿Por qué veo el error "Fallo en la interacción"?
 
-Most of the time this is caused by bot restarts (to apply code updates), and you just need to re-type the command again. However, if this keeps on happening, that means something is broken and you should report it in the [Discord server](https://link.seria.moe/hb-dc).
+La mayoría de las veces esto ocurre por reinicios del bot (para aplicar actualizaciones de código), solo necesitas volver a escribir el comando. Sin embargo, si esto sigue ocurriendo, significa que algo está roto y deberías reportarlo en el [servidor de Discord](https://link.seria.moe/hb-dc).
 
-## My Account Was Hacked After I Added It to Hoyo Buddy
+## Mi cuenta fue hackeada después de agregarla a Hoyo Buddy
 
-See [this page](./account-hacked.md) for more information.
+Consulta [esta página](./account-hacked.md) para más información.

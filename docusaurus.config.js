@@ -37,8 +37,8 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'vi', 'zh-Hant', 'zh-Hans'],
-    // locales: ['en', 'vi', 'zh-Hant', 'zh-Hans', 'es'], // Uncomment if you want to add Spanish support
+    // locales: ['en', 'vi', 'zh-Hant', 'zh-Hans'],
+    locales: ['en', 'vi', 'zh-Hant', 'zh-Hans', 'es'], 
     path: 'i18n',
     localeConfigs: {
       en: {
@@ -55,14 +55,13 @@ const config = {
         calendar: 'gregorian',
         path: 'vi',
       },
-      // Uncomment the following lines if you want to add Spanish support
-//      'es': {
-//        label: 'Español',
-//        direction: 'ltr',
-//        htmlLang: 'es',
-//        calendar: 'gregorian',
-//        path: 'es',
-//      },
+      'es': {
+        label: 'Español',
+        direction: 'ltr',
+        htmlLang: 'es',
+        calendar: 'gregorian',
+        path: 'es',
+      },
       'zh-Hans': {
         label: '简体中文',
         direction: 'ltr',
@@ -143,9 +142,9 @@ const config = {
         additionalLanguages: ['powershell'],
       },
       algolia: {
-        apiKey: process.env.ALGOLIA_API_KEY,
-        indexName: process.env.ALGOLIA_INDEX_NAME,
-        appId: process.env.ALGOLIA_APP_ID, // Optional, if you have an Algolia App ID
+        apiKey: process.env.ALGOLIA_API_KEY || 'something',
+        indexName: process.env.ALGOLIA_INDEX_NAME || 'hb-seria',
+        appId: process.env.ALGOLIA_APP_ID || 'something', // Optional, if you have an Algolia App ID
         contextualSearch: true,
         searchParameters: {}, // Optional, if you want to pass additional search parameters
       }

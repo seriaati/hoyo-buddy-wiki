@@ -48,7 +48,7 @@ I won't provide any assistance to self-hosting, but with enough technical skills
 
 To save resources, UI (user interface) elements expire after 10 minutes. To avoid confusion, UI elements are disabled when they expire.
 
-# "Too Many Requests" Error When Adding Accounts
+## "Too Many Requests" Error When Adding Accounts
 
 See [this page](./too-many-requests.md) for more information.
 

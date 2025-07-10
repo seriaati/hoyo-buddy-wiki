@@ -1,10 +1,10 @@
-# Account Login Workflow
+# Flujo de Inicio de Sesión de Cuenta
 
-This page is for development purposes only.
+Esta página es solo para propósitos de desarrollo.
 
-[Link](https://excalidraw.com/#json=yaVxeJhtQEzD6zsBT_kZg,_Tr2y72VxUOmDTkJ1CozmA)
+[Enlace](https://excalidraw.com/#json=yaVxeJhtQEzD6zsBT_kZg,_Tr2y72VxUOmDTkJ1CozmA)
 
 <!-- markdownlint-disable MD033 -->
 <p></p>
 
-![Account Login Workflow Graph](../src/assets/images/Workflow.png)
+![Gráfico del Flujo de Inicio de Sesión de Cuenta](../../../../src/assets/images/Workflow.png)

@@ -1,96 +1,96 @@
-# Account Pre-Setup Guide
+# Guía de pre-configuración de cuenta
 
 :::note
 
-If you already have a Hoyoverse account, you can skip this guide and go to [Getting Started](./Getting-Started.md).
+Si ya tienes una cuenta de Hoyoverse, peudes saltarte esta guía y ve a [Primeros Pasos](./Getting-Started.md).
 
-Setting up a Hoyoverse account is only needed if you want to login with the email and password method. If you wish to login with DevTools, you can skip this guide. [Which login method should I use?](./FAQ.md#which-login-method-should-i-use)
+Configurar una cuenta de Hoyoverse solo es necesario si desea iniciar sesión con el método de correo y contraseña. Si deseas iniciar sesión con DevTools, puedes saltarte esta guía. [¿Qué método de inicio de sesión debería usar?](./FAQ.md#qué-método-de-inicio-de-sesión-debo-usar)
 
 :::
 
-## I Login With 3rd-Party Services
+## Iniciar sesión con servicios de terceros
 
-"3rd-party services" refer to Google, Apple, Facebook, X, etc.
+"Servicios de terceros" se refiere a Google, Apple, Facebook, X, etc.
 
-First, go to [HoYoverse Account Center](https://account.hoyoverse.com).
+Primero, ve a [Centro de Cuenta de Hoyoverse](https://account.hoyoverse.com).
 
-Click "Log In" and choose the third-party provider you use to login to your game.
+Haz clic en "Iniciar sesión" y elige el proveedor de terceros que usas para iniciar sesión en tu juego.
 
-![Login Screen](../src/assets/images/hb-account/web/account-log-in.png)
+![Login Screen](../../../../src/assets/images/hb-account/web/account-log-in.png)
 
-After logging in, 3 things can happen:
+Después de iniciar sesión, pueden pasar 3 cosas:
 
-### Link a New Account
+### Vincula una nueva cuenta
 
-![Third-party Account Linking](../src/assets/images/hb-account/web/sign-up_google-link.png)
+![Third-party Account Linking](../../../../src/assets/images/hb-account/web/sign-up_google-link.png)
 
-This means that the email you used to login is not linked to any Hoyoverse account. Enter a desired password and click "Link", this will create a new Hoyoverse account and bind it to the third-party login you used.
+Esto significa que el correo electrónico que haz usado para iniciar sesión no está vinculado a ninguna cuenta de Hoyoverse. Introduce una contraseña deseada y haz clic en "Vincular", esto creará una nueva cuenta de Hoyoverse y la vinculara al inicio de sesión de terceros que usaste
 
-You can then use this email and password to login to Hoyo Buddy.
+Puedes usar este correo y contraseña para iniciar sesión en Hoyo Buddy.
 
-### Link Email
+### Vincular correo
 
-![Link Email](../src/assets/images/hb-account/web/link-email.png)
+![Link Email](../../../../src/assets/images/hb-account/web/link-email.png)
 
-This means that a Hoyoverse account was created automatically when you logged in with the third-party provider. Click "Link".
+Esto significa que una cuenta de Hoyoverse se creó automáticamente cuando iniciaste sesión con el servicio de terceros. Haz clic en "vincular"
 
-![Password and Security](../src/assets/images/hb-account/web/password-and-security.png)
+![Password and Security](../../../../src/assets/images/hb-account/web/password-and-security.png)
 
-On the next screen, click "Manage" in the "Password and Security" section.
+En la siguiente pantalla, haz clic en "Gestión" en la sección "Contraseña y seguridad"
 
-![Update Password](../src/assets/images/hb-account/web/update-password.png)
+![Update Password](../../../../src/assets/images/hb-account/web/update-password.png)
 
-Click on "Update" and follow the instructions to set a password for your account.
+Haz clic en "Actualizar" y sigue las instrucciones para establecer una contraseña para tu cuenta
 
-You can then use this email and password to login to Hoyo Buddy.
+Puedes usar este correo y contraseña para iniciar sesión en Hoyo Buddy.
 
-### Link to an Existing Account
+### Vincular una cuenta existente
 
-![Link to Existing Account](../src/assets/images/hb-account/web/link-existing.png)
+![Link to Existing Account](../../../../src/assets/images/hb-account/web/link-existing.png)
 
-This means a Hoyoverse account with the same email already exists. Enter the password of this Hoyoverse account and click "Link" to bind the third-party login to the existing account. If you forgot the password, click "Having problems?" -> "Forgot Password?" to reset it.
+Esto significa que una cuenta de Hoyoverse con el mismo correo y existe. Introduce la contraseña de esta cuenta de Hoyoverse y haz clic en "Vincular" para unir el inicio de sesión de terceros en la cuenta existente. Si olvidaste la contraseña, haz clic en "A ocurrido un problema" -> "¿Olvidaste tu contraseña?" para restablecer.
 
-You can then use this email and password to login to Hoyo Buddy.
+Puedes usar este correo y contraseña para iniciar sesión en Hoyo Buddy.
 
-### Password Last Updated Date is "-"
+### Última actualización de contraseña es "-"
 
-![Password and Security](../src/assets/images/hb-account/web/password-and-security.png)
+![Password and Security](../../../../src/assets/images/hb-account/web/password-and-security.png)
 
-Follow the same steps as [Link Email](#link-email) to set a password for your account.
+Sigue los pasos de [Vincular correo](#vincular-correo) para establecer una contraseña para tu cuenta.
 
-### Other Scenarios
+### Otros escenarios
 
-If you encounter scenarios not listed above, please find help in the [Discord server](https://link.seria.moe/hb-dc).
+Si te encuentras con escenarios no mencionados anteriormente, por favor busca ayuda en el [servidor de Discord](https://link.seria.moe/hb-dc).
 
-## I am a Console Player
+## Soy un jugador de Consola
 
 :::note
 
-If your PlayStation or Xbox account is linked to a Hoyoverse account, you can skip this guide and go to [Getting Started](./Getting-Started.md).
+Si tu cuenta de PlayStation o Xbox está vinculada a una cuenta de Hoyoverse, puedes saltarte esta guía e ir a [Primeros Pasos](./Getting-Started.md).
 
 :::
 
-### How to Access the User Center
+### Cómo acceder al centro de usuario
 
-- **Genshin Impact**: Paimon Menu -> Settings -> Account -> User Center
+- **Genshin Impact**: Menú de Paimon -> Ajustes -> Cuenta -> Centro de usuario
 
 - **Honkai: Star Rail**:
 
-  - *Login Screen*: Settings -> Account -> User Center (Recommended if you don't want to download the entire game)
+  - *Pantalla de inicio de sesión*: Ajustes -> Cuenta -> Centro de usuario (Recomendado si no quieres descargar todo el juego)
 
-  - *In-Game*: Phone -> Account Settings -> User Center
+  - *En el juego*: Teléfono -> Ajustes de cuenta -> Centro de usuario
 
-- **Zenless Zone Zero**: Menu -> Options -> Account -> USER CENTER
+- **Zenless Zone Zero**: Menú -> Ajustes -> Cuenta -> Centro de usuario
 
-### How to Link Your Hoyoverse Account
+### Cómo vincular tu cuenta de Hoyoverse
 
 :::warning
 
-This method will create a new HoYoverse account and link the current saved data on your console to that new account. Linking to an existing Hoyoverse account is not possible.
+Este método creará una nueva cuenta de Hoyoverse y vinculará los datos actuales guardados en tu consola a esa nueva cuenta. Vincular una cuenta de Hoyoverse existente de no es posible.
 
 :::
 
-1. Launch the Hoyoverse game that you want to link to your Hoyoverse account.
-2. Open the [User Center](#how-to-access-the-user-center) in the game.
-3. Select "Link Account" or a similar option.
-4. Follow the on-screen instructions to link your Hoyoverse account.
+1. Inicia el juego que deseas vincular a tu cuenta de Hoyoverse.
+2. Abre el [Centro de usuario](#cómo-acceder-al-centro-de-usuario) en el juego.
+3. Selecciona "Vincular cuenta" o una opción similar.
+4. Sigue las instrucciones en pantalla para vincular tu cuenta de Hoyoverse.
