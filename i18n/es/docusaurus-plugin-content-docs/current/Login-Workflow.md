@@ -7,4 +7,4 @@ Esta página es solo para propósitos de desarrollo.
 <!-- markdownlint-disable MD033 -->
 <p></p>
 
-![Gráfico del Flujo de Inicio de Sesión de Cuenta](../src/assets/images/Workflow.png)
+![Gráfico del Flujo de Inicio de Sesión de Cuenta](../../../../src/assets/images/Workflow.png)
