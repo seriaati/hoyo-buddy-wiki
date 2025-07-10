@@ -1,31 +1,31 @@
-# Using Hoyo Buddy in Discord Servers
+# Usar Hoyo Buddy en servidores de Discord
 
-## What Can Get You Warned or Banned
+## ¿Qué puede causarte una advertencia o baneo?
 
-Some users have received warnings for discussing Hoyo Buddy or sharing its content in **Official Discord servers**.
+Algunos usuarios han recibido advertencias por hablar sobre Hoyo buddy o compartir contenido generado por el bot en **servidores oficiales de Discord**.
 
-At this time, only official servers are known to restrict Hoyo Buddy use. Other Discord servers may have different rules - check with server admins to be sure.
+Por el momento, solo se sabe que los servidores oficiales restringen el uso de Hoyo Buddy. Otros servidores de Discord pueden tener reglas diferentes - consulta con los administradores del servidor para asegurarte.
 
-These actions **will** trigger warnings in Official Discord servers:
+Estas acciones **sí** generan advertencias en los servidores oficiales:
 
-- Talking about Hoyo Buddy
-- Sharing content made by Hoyo Buddy:
-  - Definitely banned: Build cards and character summary cards
-  - Possibly banned: End game cards and other content
-- Using Hoyo Buddy in a server where it's not allowed
+- Hablar sobre Hoyo Buddy
+- Compartir contenido creado con Hoyo Buddy:
+  - Baneo definitivo: Tarjetas de builds y tarjetas de resumen de personajes
+  - Posible baneo: Tarjetas del End game y otros contenidos
+- Usar Hoyo Buddy en un servidor donde no esté permitido
 
-Remember: Multiple warnings can lead to a ban.
+Recuerda: recibir múltiples advertencias puede llevar a un baneo.
 
-## Why Official Servers Ban Hoyo Buddy
+## ¿Por qué los servidores oficiales banean Hoyo Buddy?
 
-The official reason is that Hoyo Buddy is a third-party service that violates Hoyoverse's Terms of Service. Hoyoverse considers it a security risk.
+La razón oficial es que Hoyo Buddy es un servicio de terceros que viola los Términos de Servicio de Hoyoverse, y por eso es considerado un riesgo de seguridad.
 
-Unofficially, Hoyoverse may see Hoyo Buddy as competition that makes HoYoLAB less relevant.
+Extraoficialmente, es posible que Hoyoverse vea a Hoyo Buddy como una competencia que resta relevancia a HoYoLAB.
 
-## What About Unofficial Discord Servers?
+## ¿Y qué pasa con los servidores no oficiales?
 
-We haven't seen unofficial Discord servers ban Hoyo Buddy yet. If any do, it's likely because they're following Hoyoverse's Terms of Service rules.
+Hasta ahora, no se ha visto que los servidores de Discord no oficiales baneen a Hoyo Buddy. Si alguno lo hace, posiblemente sea por seguir estrictamente las reglas de los Términos de Servicio de Hoyoverse.
 
-## Will This Affect My Game Account?
+## ¿Esto afecta mi cuenta del juego?
 
-Most likely not. Bans from official Discord servers should only affect your Discord access and shouldn't impact your game account in any way.
+Lo más probable es que no. Un baneo en un servidor oficial de Discord solo afecta tu acceso en Discord, y no debería impactar tu cuenta del juego de ninguna manera.

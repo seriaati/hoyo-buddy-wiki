@@ -26,12 +26,4 @@ Follow this video tutorial to get your gacha log URL on iOS.
 
 Follow this video tutorial to get your gacha log URL on Android.
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/CeQQoFKLwPY" title="YouTube video player" allowfullscreen></iframe>
-</div>
-
-### Xbox Console/Cloud Gaming Players
-
-- Console: Once you open the Gacha Log Page, Use the "Send this Page" button that can be found on the address bar to send the Gacha Log Page to your prefered device. Copy the URL on the receiver device and paste it in Hoyo Buddy using `/gacha-log import` (Microsoft Edge must be installed on your PC/Mobile device and must be logged into the same Microsoft Account as your Xbox Console)
-
-- Game Pass Cloud Gaming: Once you open the Gacha Log Page, Simply copy the URL and paste it in Hoyo Buddy using `/gacha-log import` (Mobile Devices may need to tap share -> Copy Link)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CeQQoFKLwPY" title="YouTube video player" frameborder="0" allowfullscreen></iframe>

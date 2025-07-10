@@ -1,52 +1,52 @@
-# Response to Account Being Hacked and Why it's Not Through Hoyo Buddy
+# Cuentas hackeadas: explicación de por qué Hoyo Buddy no fue el responsable
 
-## How Hoyo Buddy Works
+## ¿Cómo funciona Hoyo Buddy?
 
-When you link your account using email & password:
+Cuando vinculas tu cuenta usando correo y contraseña:
 
-1. You enter your email & password
-2. The bot encrypts both values (making them unreadable)
-3. It sends these encrypted credentials to Hoyoverse servers through HTTPS (secure connection)
-4. Hoyoverse server returns cookies (login data)
-5. These cookies are encrypted and stored in the database
+1. Ingresas tu correo y contraseña.
+2. El bot encripta ambos valores (haciéndolos ilegibles).
+3. Estas credenciales encriptadas se envían a los servidores de Hoyoverse mediante HTTPS (una conexión segura).
+4. El servidor de Hoyoverse devuelve cookies (datos de inicio de sesión).
+5. Estas cookies se encriptan y se guardan en la base de datos.
 
-## Security Features
+## Funciones de Seguridad
 
-- **Server Protection**: The server uses a password that would take centuries to crack. Login logs show no suspicious successful logins.
+- **Protección del servidor**: El servidor utiliza una contraseña que tardaría siglos en ser descifrada. Los registros de inicio de sesión no muestran accesos sospechosos exitosos.
 
-- **Memory Protection**: Your email & password are only held in memory temporarily, which makes them nearly impossible to steal from an online server.
+- **Memoria protegida**: Tu correo y contraseña solo se mantienen en la memoria de forma temporal, lo que hace casi imposible que se roben desde un servidor en línea.
 
-- **Strong Encryption**: Your credentials are encrypted with RSA before being sent to Hoyoverse. This creates different encryption results each time, making it impossible to reverse.
+- **Fuerte encriptación**: Tus credenciales se encriptan con RSA antes de enviarse a Hoyoverse. Esto genera resultados diferentes cada vez que se envían los datos, haciendo imposible revertir el proceso.
 
-- **Secure Connections**: All data transfers happen via HTTPS, meaning everything is encrypted. Even if someone intercepts the request, they can't see what's inside.
+- **Conexiones seguras**: Todas las transferencias de datos se realizan mediante HTTPS, lo que significa que todo está encriptado. Incluso si alguien intercepta la solicitud, no podrá ver lo que contiene.
 
-- **No Permanent Storage**: Your email & password are NOT stored in the database. They are deleted after getting your cookies. Only the encrypted cookies are stored.
+- **Almacenamiento temporal**: Tu correo y contraseña NO se guardan en la base de datos. Se eliminan una vez que se obtienen las cookies. Solo las cookies encriptadas se almacenan.
 
-- **Database Security**: The database is protected by a password that would take centuries to crack.
+- **Seguridad de la base de datos**: La base de datos está protegida con una contraseña que también tardaría siglos en ser descifrada.
 
-- **Limited Cookie Usage**: Cookies alone are not enough to steal your account. They can only be used for HoYoLAB, not the account center where changes to your account can be made.
+- **Uso limitado de cookies**: Las cookies por sí solas no son suficientes para robar tu cuenta. Solo se pueden usar para HoYoLAB, no para el centro de cuentas, donde se hacen cambios reales en tu cuenta.
 
-## How Accounts Actually Get Stolen
+## Cómo se roban realmente las cuentas
 
-To steal a Hoyoverse account, someone needs to:
+Para robar una cuenta de Hoyoverse, alguien necesita:
 
-1. Have your Hoyoverse email & password to log into the account center (cookies are NOT enough)
-2. Request to change your email address (which requires verification from your original email)
-3. Access your email account to get the verification code
-4. Change your account email to their own
-5. After this, they control your account because password resets go to their email
+1. Tener tu correo y contraseña de Hoyoverse para iniciar sesión en el centro de cuentas (las cookies NO son suficientes).
+2. Solicitar el cambio de dirección de correo (requiere verificación desde tu correo original).
+3. Acceder a tu correo para obtener el código de verificación
+4. Cambiar el correo de tu cuenta por el suyo.
+5. Después de eso, controlan tu cuenta, ya que los reseteos de contraseña llegarán a su correo.
 
-## What Probably Happened Instead
+## Lo que probablemente ocurrió
 
-1. Your Hoyoverse account had a weak password that was easy to guess or crack
-2. Your email account also had a weak password (or worse, used the same password)
-3. You're using an email service with limited security features (unlike services like Google that require additional verification)
-4. Your device might be infected with malware that stole your login information
+1. Tu cuenta de Hoyoverse tenía una contraseña débil, fácil de adivinar o descifrar.
+2. Tu cuenta de correo también tenía una contraseña débil (o peor, usaba la misma).
+3. Usas un servicio de correo con pocas funciones de seguridad (a diferencia de servicios como Google, que exigen verificaciones adicionales).
+4. Tu dispositivo podría estar infectado con malware que robó tu información de inicio de sesión.
 
-## What You Should Do Now
+## Qué deberías hacer ahora
 
-1. Change all your passwords immediately
-2. Check your email account for suspicious login activity
-3. Use unique and strong passwords for different services
-4. Enable two-factor authentication (2FA) wherever possible
-5. Scan your devices for malware
+1. Cambia toda tus contraseñas inmediatamente.
+2. Revisa tu cuenta de correo en busca de accesos sospechosos.
+3. Usa contraseñas únicas y fuertes para cada servicio.
+4. Activa la verificación en dos pasos (2FA) siempre que sea posible.
+5. Escanea tus dispositivos en busca de malware.

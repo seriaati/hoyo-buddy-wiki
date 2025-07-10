@@ -37,8 +37,8 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'vi', 'zh-Hant', 'zh-Hans'],
-    // locales: ['en', 'vi', 'zh-Hant', 'zh-Hans', 'es'], // Uncomment if you want to add Spanish support
+    // locales: ['en', 'vi', 'zh-Hant', 'zh-Hans'],
+    locales: ['en', 'vi', 'zh-Hant', 'zh-Hans', 'es'], 
     path: 'i18n',
     localeConfigs: {
       en: {
@@ -55,14 +55,13 @@ const config = {
         calendar: 'gregorian',
         path: 'vi',
       },
-      // Uncomment the following lines if you want to add Spanish support
-//      'es': {
-//        label: 'Español',
-//        direction: 'ltr',
-//        htmlLang: 'es',
-//        calendar: 'gregorian',
-//        path: 'es',
-//      },
+      'es': {
+        label: 'Español',
+        direction: 'ltr',
+        htmlLang: 'es',
+        calendar: 'gregorian',
+        path: 'es',
+      },
       'zh-Hans': {
         label: '简体中文',
         direction: 'ltr',
@@ -142,13 +141,19 @@ const config = {
         darkTheme: prismThemes.dracula,
         additionalLanguages: ['powershell'],
       },
-      algolia: {
-        apiKey: process.env.ALGOLIA_API_KEY,
-        indexName: process.env.ALGOLIA_INDEX_NAME,
-        appId: process.env.ALGOLIA_APP_ID, // Optional, if you have an Algolia App ID
-        contextualSearch: true,
-        searchParameters: {}, // Optional, if you want to pass additional search parameters
-      }
+      algolia: (() => {
+        const { ALGOLIA_API_KEY, ALGOLIA_INDEX_NAME, ALGOLIA_APP_ID } = process.env;
+        if (!ALGOLIA_API_KEY || !ALGOLIA_INDEX_NAME || !ALGOLIA_APP_ID) {
+          throw new Error('Algolia environment variables are missing. Please set ALGOLIA_API_KEY, ALGOLIA_INDEX_NAME, and ALGOLIA_APP_ID.');
+        }
+        return {
+          apiKey: ALGOLIA_API_KEY,
+          indexName: ALGOLIA_INDEX_NAME,
+          appId: ALGOLIA_APP_ID,
+          contextualSearch: true,
+          searchParameters: {},
+        };
+      })()
     }),
 };
 
