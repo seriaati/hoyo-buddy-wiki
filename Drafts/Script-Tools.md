@@ -8,4 +8,4 @@ Sometimes when you extract the link from the Cache file, it doesn't always get t
 
 ## 2. Language Selection Reset
 
-Remember the option to remember your chosen language? This tool will remove your remembered choice and allows you to choose a different language the next time you run the script.
+Resets your remembered language selection, you can pick a new one on the script's next run.
