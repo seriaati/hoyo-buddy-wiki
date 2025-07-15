@@ -69,7 +69,6 @@
 - (`/characters genshin`) Soporte para personajes sin elemento.
 - (`/challenge genshin theater`) Manejo de IDs de personajes no válidos.
 
-
 ## v1.16.5
 
 ### Nuevas Funciones
