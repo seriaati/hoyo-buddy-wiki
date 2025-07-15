@@ -4,9 +4,29 @@
 
 ### New Features
 
+- (`/challenge zzz shiyu`) Add clear time.
+- (`/challenge hsr`) Hide quick clears.
+- (`/challenge hsr`) Add "Show UID" option.
+- (`/gacha-log`) Support HSR collaboration banners.
+- (`/profile zzz`) Add support for new characters: Alice and Yuzuha.
+- (`/profile zzz`) Add support for agent outfits.
+- The bot won't be offline during code updates now.
+
 ### Improvements
 
+- (`/profile hsr`) Improve text position for template 2.
+- (`/events`) Improve color contrast in light mode.
+- (`/gacha-log view`) Change web app link when banner type is changed.
+- (`/search`) HSR character story is now shown in a clearer way.
+- Improve image generation performance with better caching.
+- Save images as webp instead of png to reduce file size.
+
 ### Bug Fixes
+
+- (`/redeem`) Fix lowercase codes not counting as redeemed.
+- (`/characters genshin`) Fix text position issues.
+- (`/characters genshin`) Fix images of some characters being in different styles.
+- (`/profile hsr`) Fix font issues in light cone names in template 2.
 
 ## v1.16.7
 

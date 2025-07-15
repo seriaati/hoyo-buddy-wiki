@@ -4,9 +4,29 @@
 
 ### 新功能
 
+- (`/challenge zzz shiyu`) 添加通关时间。
+- (`/challenge hsr`) 隐藏快速通关。
+- (`/challenge hsr`) 添加「显示 UID」选项。
+- (`/gacha-log`) 支持星穹铁道联动卡池。
+- (`/profile zzz`) 添加对新角色的支持：Alice 和 Yuzuha。
+- (`/profile zzz`) 添加对代理人服装的支持。
+- 机器人在代码更新期间不会再离线。
+
 ### 优化
 
-### 问题修复
+- (`/profile hsr`) 改善样式 2 的文字位置。
+- (`/events`) 改善亮色模式的色彩对比度。
+- (`/gacha-log view`) 当更改卡池类型时更改网页应用程序链接。
+- (`/search`) 星穹铁道角色故事现在以更清晰的方式显示。
+- 通过更好的缓存改善图片生成性能。
+- 保存图片为 webp 格式而非 png 以减少文件大小。
+
+### 错误修复
+
+- (`/redeem`) 修复小写兑换码未计算为已兑换的问题。
+- (`/characters genshin`) 修复文字位置问题。
+- (`/characters genshin`) 修复某些角色图片样式不同的问题。
+- (`/profile hsr`) 修复样式 2 中光锥名称的字体问题。
 
 ## v1.16.7
 
