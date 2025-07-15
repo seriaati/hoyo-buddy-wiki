@@ -4,7 +4,7 @@ This section explains the available tools this script has:
 
 ## 1. Cache Files Removal
 
-Sometimes when you extract the link from the Cache file, it doesn't always get the correct one asides from taking some space (which is little), this tool help removing redundant cache files created by the game Chromium web engine in certain web areas like Notice Board, Survey and Gacha Log as well cached images.
+Removes cache files created by the game's browser, this includes the notice board, survey, gacha logs, and images. This will not break your game, and the resources will be fetched next time you visit these pages.
 
 ## 2. Language Selection Reset
 
