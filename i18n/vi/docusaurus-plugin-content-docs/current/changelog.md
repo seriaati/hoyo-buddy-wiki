@@ -1,5 +1,13 @@
 # Nhật ký thay đổi
 
+## v1.16.8
+
+### Tính năng mới
+
+### Cải tiến
+
+### Sửa lỗi
+
 ## v1.16.7
 
 ### Tính năng mới
