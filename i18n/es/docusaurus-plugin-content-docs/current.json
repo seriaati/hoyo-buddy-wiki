@@ -26,5 +26,9 @@
   "sidebar.mainSidebar.category.Gacha Log": {
     "message": "Registro de Gachapón",
     "description": "The label for category Gacha Log in sidebar mainSidebar"
+  },
+  "sidebar.mainSidebar.doc.Frequently Asked Questions": {
+    "message": "Frequently Asked Questions",
+    "description": "The label for the doc item Frequently Asked Questions in sidebar mainSidebar, linking to the doc FAQ"
   }
 }
