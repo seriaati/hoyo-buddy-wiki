@@ -1,4 +1,4 @@
-# Gacha Log URL
+# Getting the Log URL
 
 Gacha log URL is a very long URL that contains your gacha pull history.
 

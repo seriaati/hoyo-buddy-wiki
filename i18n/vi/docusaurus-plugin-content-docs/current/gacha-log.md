@@ -1,4 +1,4 @@
-# URL Nhật ký Gacha
+# Lấy URL Nhật ký
 
 URL Nhật ký Gacha là một đường dẫn dài chứa lịch sử nhật ký Gacha của bạn.
 

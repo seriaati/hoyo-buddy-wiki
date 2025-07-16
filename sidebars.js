@@ -41,8 +41,18 @@ const sidebars = {
       ]
     },
     {
-      type: 'doc',
-      id: 'gacha-log',
+      type: 'category',
+      label: 'Gacha Log',
+      items: [
+        {
+          type: 'doc',
+          id: 'gacha-log',
+        },
+        {
+          type: 'doc',
+          id: 'tools',
+        }
+      ]
     },
     {
       type: 'category',
