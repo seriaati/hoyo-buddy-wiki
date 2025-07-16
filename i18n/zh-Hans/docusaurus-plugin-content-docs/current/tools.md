@@ -1,11 +1,11 @@
-# Tools
+# 工具
 
-This section explains the available tools this script has:
+本章节说明此脚本可用的工具：
 
-## 1. Cache Files Removal
+## 1. 缓存文件清除
 
-Removes cache files created by the game's browser, this includes the notice board, survey, gacha logs, and images. This will not break your game, and the resources will be fetched next time you visit these pages.
+移除游戏浏览器创建的缓存文件，包括公告板、问卷调查、抽卡记录和图片。这不会破坏你的游戏，这些资源会在你下次访问这些页面时重新获取。
 
-## 2. Language Selection Reset
+## 2. 语言选择重置
 
-Resets your remembered language selection, you can pick a new one on the script's next run.
+重置你记住的语言选择，你可以在脚本下次运行时选择新的语言。
