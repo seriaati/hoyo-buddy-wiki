@@ -20,7 +20,11 @@ const sidebars = {
     'intro',
     'Getting-Started',
     'Before-Start',
-    'FAQ',
+    {
+      type: 'doc',
+      id: 'FAQ',
+      label: 'Frequently Asked Questions'
+    },
     {
       type: 'doc',
       id: 'dc-server-ban',
