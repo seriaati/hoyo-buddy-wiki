@@ -1,4 +1,4 @@
-# Herramientas
+# Herramientas - PC
 
 Esta sección explica las herramientas disponibles que ofrece este script:
 
