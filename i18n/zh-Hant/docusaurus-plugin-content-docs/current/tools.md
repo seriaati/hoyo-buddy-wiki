@@ -1,11 +1,11 @@
-# Tools
+# 工具
 
-This section explains the available tools this script has:
+本章節說明此腳本可用的工具：
 
-## 1. Cache Files Removal
+## 1. 快取檔案清除
 
-Removes cache files created by the game's browser, this includes the notice board, survey, gacha logs, and images. This will not break your game, and the resources will be fetched next time you visit these pages.
+移除遊戲瀏覽器創建的快取檔案，包括公告板、問卷調查、抽卡紀錄和圖片。這不會破壞你的遊戲，這些資源會在你下次造訪這些頁面時重新獲取。
 
-## 2. Language Selection Reset
+## 2. 語言選擇重置
 
-Resets your remembered language selection, you can pick a new one on the script's next run.
+重置你記住的語言選擇，你可以在腳本下次運行時選擇新的語言。
