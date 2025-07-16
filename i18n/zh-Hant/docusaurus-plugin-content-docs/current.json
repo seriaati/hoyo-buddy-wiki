@@ -24,7 +24,7 @@
     "description": "The label for the doc item Usage in Discord Servers in sidebar mainSidebar, linking to the doc dc-server-ban"
   },
   "sidebar.mainSidebar.category.Gacha Log": {
-    "message": "抽卡紀錄網址",
+    "message": "抽卡紀錄獲取腳本",
     "description": "The label for category Gacha Log in sidebar mainSidebar"
   }
 }
