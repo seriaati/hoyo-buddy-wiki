@@ -1,11 +1,12 @@
-# Tools
+# Herramientas
 
-This section explains the available tools this script has:
+Esta sección explica las herramientas disponibles que ofrece este script:
 
-## 1. Cache Files Removal
+## 1. Eliminación de archivos de caché
 
-Removes cache files created by the game's browser, this includes the notice board, survey, gacha logs, and images. This will not break your game, and the resources will be fetched next time you visit these pages.
+Elimina los archivos de caché creados por el navegador del juego. Esto incluye el tablón de anuncios, encuestas, registros del gachapón e imágenes.  
+Esto **no afectará** el funcionamiento del juego; los recursos se volverán a descargar la próxima vez que visites esas páginas.
 
-## 2. Language Selection Reset
+## 2. Restablecer idioma seleccionado
 
-Resets your remembered language selection, you can pick a new one on the script's next run.
+Restablece el idioma previamente seleccionado. Podrás elegir un nuevo idioma la próxima vez que ejecutes el script.
