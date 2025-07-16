@@ -26,5 +26,9 @@
   "sidebar.mainSidebar.category.Gacha Log": {
     "message": "抽卡紀錄獲取腳本",
     "description": "The label for category Gacha Log in sidebar mainSidebar"
+  },
+  "sidebar.mainSidebar.doc.Frequently Asked Questions": {
+    "message": "常見問題",
+    "description": "The label for the doc item Frequently Asked Questions in sidebar mainSidebar, linking to the doc FAQ"
   }
 }
