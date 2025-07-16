@@ -1,11 +1,11 @@
-# Tools
+# Công cụ - PC
 
-This section explains the available tools this script has:
+Phần này giải thích các công cụ có sẵn trong tập lệnh này:
 
-## 1. Cache Files Removal
+## 1. Công cụ dọn tệp bộ nhớ đệm
 
-Removes cache files created by the game's browser, this includes the notice board, survey, gacha logs, and images. This will not break your game, and the resources will be fetched next time you visit these pages.
+Xóa các tệp bộ nhớ đệm do trình duyệt trò chơi tạo ra, bao gồm bảng thông báo, khảo sát, nhật ký gacha và hình ảnh. Thao tác này sẽ không làm hỏng trò chơi của bạn và tài nguyên sẽ được tải về khi bạn truy cập các trang này lần sau.
 
-## 2. Language Selection Reset
+## 2. Thiết lập lại lựa chọn ngôn ngữ
 
-Resets your remembered language selection, you can pick a new one on the script's next run.
+Đặt lại lựa chọn ngôn ngữ đã nhớ, bạn có thể chọn ngôn ngữ mới trong lần chạy tập lệnh tiếp theo.
