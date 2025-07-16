@@ -1,5 +1,33 @@
 # 更新日誌
 
+## v1.16.8
+
+### 新功能
+
+- (`/challenge zzz shiyu`) 新增通關時間。
+- (`/challenge hsr`) 隱藏快速通關。
+- (`/challenge hsr`) 新增「顯示 UID」選項。
+- (`/gacha-log`) 支援星穹鐵道聯動卡池。
+- (`/profile zzz`) 新增對新角色的支援：Alice 和 Yuzuha。
+- (`/profile zzz`) 新增對代理人服裝的支援。
+- 機器人在程式碼更新期間不會再離線。
+
+### 優化
+
+- (`/profile hsr`) 改善樣式 2 的文字位置。
+- (`/events`) 改善亮色模式的色彩對比度。
+- (`/gacha-log view`) 當更改卡池類型時更改網頁應用程式連結。
+- (`/search`) 星穹鐵道角色故事現在以更清晰的方式顯示。
+- 透過更好的快取改善圖片生成效能。
+- 儲存圖片為 webp 格式而非 png 以減少檔案大小。
+
+### 錯誤修復
+
+- (`/redeem`) 修復小寫兌換碼未計算為已兌換的問題。
+- (`/characters genshin`) 修復文字位置問題。
+- (`/characters genshin`) 修復某些角色圖片樣式不同的問題。
+- (`/profile hsr`) 修復樣式 2 中光錐名稱的字體問題。
+
 ## v1.16.7
 
 ### 新功能

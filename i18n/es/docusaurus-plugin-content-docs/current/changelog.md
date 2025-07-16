@@ -1,5 +1,74 @@
 # Cambios
 
+## v1.16.8
+
+### Nuevas funciones
+
+- (`/challenge zzz shiyu`) Se agregó el tiempo de finalización.
+- (`/challenge hsr`) Se ocultaron los registros rápidos.
+- (`/challenge hsr`) Se añadió la opción "Mostrar UID".
+- (`/gacha-log`) Soporte para banners de colaboración en HSR.
+- (`/profile zzz`) Se añadieron los nuevos personajes: Alice y Yuzuha.
+- (`/profile zzz`) Se añadió soporte para skins de agentes.
+- El bot ya no se desconectará durante las actualizaciones de código.
+
+### Mejoras
+
+- (`/profile hsr`) Se mejoró la posición del texto en la plantilla 2.
+- (`/events`) Mejor contraste de colores en el modo claro.
+- (`/gacha-log view`) Se actualiza el enlace de la app web al cambiar el tipo de banner.
+- (`/search`) La historia de personajes de HSR ahora se muestra de forma más clara.
+- Mejora en el rendimiento de generación de imágenes mediante mejor caché.
+- Las imágenes ahora se guardan como WebP en lugar de PNG para reducir el tamaño del archivo.
+
+### Corrección de errores
+
+- (`/redeem`) Se corrigió un error que no contaba los códigos en minúsculas como canjeados.
+- (`/characters genshin`) Se corrigió la posición del texto.
+- (`/characters genshin`) Se corrigieron estilos inconsistentes en imágenes de algunos personajes.
+- (`/profile hsr`) Se corrigieron problemas de fuente en los nombres de los conos de luz en la plantilla 2.
+
+## v1.16.7
+
+### Nuevas funciones
+
+- Se añadió soporte para idioma árabe.
+- (`/challenge genshin`) Se añadió la generación de tarjetas de Conflagración estigia.
+- (`/profile zzz`) Se añadió acrónimo para "Acumulación automática de adrenalina" en la plantilla 4.
+
+### Mejoras
+
+- (`/accounts`) Se muestra una página mientras se cargan las cuentas.
+- (`/accounts`) Se actualizó la URL del archivo APK para inicios de sesión en Miyoushe.
+- (`/accounts`) Se añadió un campo de entrada para el AAID al agregar cuentas de Miyoushe.
+- Generación de imágenes más rápida usando múltiples núcleos del CPU.
+- Posiciones de texto más precisas en las imágenes.
+
+### Corrección de errores
+
+- (`/profile zzz`) Se corrigió la posición de la imagen de Yixuan en la plantilla 1.
+- (`/profile zzz`) Se corrigió la traducción del atributo PEN en la plantilla 4.
+- (`/search`) Se deshabilitó la categoría del Abismo Espiral.
+- (`/search`) Se corrigió la falta de opciones de autocompletado para la categoría de discos de impulso.
+
+## v1.16.6
+
+### Nuevas funciones
+
+- (`/profile zzz`) Se añadieron datos de tarjetas de los nuevos personajes de ZZZ 2.0.
+- (`/profile zzz`) Se añadió soporte para agentes de Ruptura y el atributo Fuerza Bruta.
+- (`/gacha-log import`) Manejo de excepciones con authkey.
+- Se añadió aviso descartable por aniversario.
+
+### Mejoras
+
+- (`/profile zzz`) Se eliminaron los espacios en los nombres de agentes de fondo.
+
+### Corrección de errores
+
+- (`/characters genshin`) Soporte para personajes sin elemento.
+- (`/challenge genshin theater`) Manejo de IDs de personajes no válidos.
+
 ## v1.16.5
 
 ### Nuevas Funciones
@@ -27,7 +96,7 @@
 ### Mejoras
 
 - (`/profile`) Eliminada la caché de datos de personajes.
-- Añadidas restricciones a los filtros de gacha-log.
+- Añadidas restricciones a los filtros de registro del Gacha.
 
 ### Corrección de Errores
 

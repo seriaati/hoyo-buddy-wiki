@@ -1,5 +1,33 @@
 # Nhật ký thay đổi
 
+## v1.16.8
+
+### Tính năng mới
+
+- (`/challenge zzz shiyu`) Thêm thời gian hoàn thành.
+- (`/challenge hsr`) Ẩn Màn Hoàn Thành Nhanh.
+- (`/challenge hsr`) Thêm lựa chọn "Hiển thị UID".
+- (`/gacha-log`) Hổ trợ banner hợp tác HSR
+- (`/profile zzz`) Thêm hỗ trợ nhân vật mới: Alice và Yuzuha.
+- (`/profile zzz`) Thêm hỗ trợ cho trang phục nhân vật.
+- Bot sẽ không ngoại tuyến khi cập nhật mã nguồn.
+
+### Cải tiến
+
+- (`/profile hsr`) Cải thiện vị trí chữ cho Mẩu thẻ 2.
+- (`/events`) Cải thiện độ tương phản màu sắc trong chế độ sáng.
+- (`/gacha-log view`) Thay đổi đường dẫn ứng dụng web khi đổi loại banner.
+- (`/search`) Câu chuyên nhân vật HSR giờ hiển thị một cách gọn gàng hơn.
+- Cải thiện hiệu suất tính năng tạo ảnh bằng bộ nhớ đệm tốt hơn.
+- Lưu ảnh dưới dạng webp thay vì png để giảm kích thước của tập tin.
+
+### Sửa lỗi
+
+- (`/redeem`) Sửa lỗi mã viết thường không tính là đã đổi.
+- (`/characters genshin`) Sửa một vài vấn đề về vị trí chữ.
+- (`/characters genshin`) Sữa ảnh của một số nhân vật được hiển đưới phong cách khác
+- (`/profile hsr`) Sửa một số lỗi phong chứ trong tên của nón ánh sáng trong mẫu thẻ 2
+
 ## v1.16.7
 
 ### Tính năng mới
