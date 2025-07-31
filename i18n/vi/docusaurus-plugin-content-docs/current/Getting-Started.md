@@ -15,14 +15,12 @@ Nếu bạn không có tài khoản Hoyoverse (bạn đăng nhập bằng dịch
 1. Nhấp vào [liên kết này](https://one.hb.seria.moe/install).
 
 2. Chọn tùy chọn bạn muốn.
-
-<p></p>
-
-![Discord Add App Screen](../../../../src/assets/images/HB_Add-app_vi.png)
-
-<p></p>
+    1. Thêm vào ứng dụng của tôi: Bạn có thể dùng bot này mọi nơi, kể cả DM, Group Chat và máy chủ không có Hoyo Buddy
+    2. Thêm vào máy chủ: Bạn và thành viên khác trong máy chủ có thể sử dụng Hoyo Buddy trong máy chủ đó.
 
 3. Vào Discord và nhập `/`, sau đó chọn biểu tượng Hoyo Buddy (hình tam giác màu xanh và đỏ). Bây giờ bạn sẽ thấy tất cả các lệnh có sẵn của Hoyo Buddy, hãy chọn bất kỳ lệnh nào để chạy.
+    1. Nếu bạn chọn "Thêm vào ứng dụng của tôi", đi tới bất kỳ nơi mà bạn soạn tin nhắn.
+    2. Nếu bạn chọn "Thêm vào máy chủ", đi vào máy chủ mà bạn đã thêm Hoyo Buddy để sài.
 
 <p></p>
 
