@@ -12,15 +12,17 @@
 
 進一步了解：[Hoyo Buddy 是否安全？](./Account-Security.md)
 
-## 使用 Hoyo Buddy
+## 試用 Hoyo Buddy
 
-1. 點擊[此連結](https://one.hb.seria.moe/install).
+1. 點擊[此連結](https://one.hb.seria.moe/install)。
 
-2. 選擇你想要的選項。  
-![image](../../../../src/assets/images/HB_Add-app_zh_Hant.png)
+2. 選擇你想要的選項：
+   1. 新增到我的應用程式中：你可以在任何地方使用此應用程式，包括私訊、群組聊天和沒有 Hoyo Buddy 的伺服器。
+   2. 新增到伺服器：你和該伺服器的其他成員都可以在該伺服器中使用 Hoyo Buddy。
 
-3. 回到 Discord 並輸入 `/`, 接著選擇 Hoyo Buddy 的圖標 (紅色和藍色的三角形). 你現在將能看到 Hoyo Buddy 的所有指令, 選擇任意指令來執行它.  
-![image](../../../../src/assets/images/392196104-6960be6c-8b51-49fd-93ae-bad4dad6822b.png)
+3. 輸入 `/`（斜線）並選擇 Hoyo Buddy 的圖示（藍色和紅色三角形）。現在你可以看到 Hoyo Buddy 的所有指令，選擇任何指令來執行它。
+   1. 如果你選擇了「新增到我的應用程式中」，請前往 Discord 中任何你可以發送訊息的地方。
+   2. 如果你選擇了「新增到伺服器」，請前往你新增 Hoyo Buddy 的伺服器。
 
 ### 設置完成後
 
