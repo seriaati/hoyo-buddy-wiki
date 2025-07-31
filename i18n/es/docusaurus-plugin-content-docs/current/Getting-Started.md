@@ -10,19 +10,17 @@ Si no tienes una cuenta de Hoyoverse (inicias sesión con servicios de terceros 
 
 Lee más: [¿Es seguro Hoyo Buddy?](./Account-Security.md)
 
-## Probando Hoyo Buddy
+## Prueba de Hoyo Buddy
 
-1. Click on [this link](https://discord.com/oauth2/authorize?client_id=1000045812522430626).
+1. Haz clic en [este enlace](https://one.hb.seria.moe/install).
 
-2. Selecciona la opción que prefieras.
+2. Selecciona la opción que prefieras:
+   1. **Agregar a mis apps**: Puedes usar esta app en cualquier lugar, incluyendo mensajes directos, chats grupales y servidores que no tengan a Hoyo Buddy.
+   2. **Agregar a un servidor**: Tú y otros miembros del servidor podrán usar Hoyo Buddy en ese servidor.
 
-<p></p>
-
-![Pantalla para agregar la aplicación a Discord](../../../../src/assets/images/378049955-0c3d09cb-a72a-44bf-b02a-a33869c90ba1.png)
-
-<p></p>
-
-3. Ve a Discord y escribe `/`, luego selecciona el ícono de Hoyo Buddy (triángulos azul y rojo). Ahora puedes ver todos los comandos de Hoyo Buddy, selecciona cualquier comando para ejecutarlo.
+3. Escribe `/` (barra) y selecciona el ícono de Hoyo Buddy (triángulos azul y rojo). Ahora puedes ver todos los comandos de Hoyo Buddy; selecciona cualquier comando para ejecutarlo.
+   1. Si elegiste "Agregar a mis apps", ve a cualquier lugar en Discord donde puedas enviar mensajes.
+   2. Si elegiste "Agregar a un servidor", ve al servidor al que añadiste Hoyo Buddy.
 
 <p></p>
 
@@ -30,11 +28,11 @@ Lee más: [¿Es seguro Hoyo Buddy?](./Account-Security.md)
 
 ### Después de la Configuración
 
-Puedes activar o desactivar funciones como el login diario automático y el canjeo automático de códigos para cada cuenta usando `/accounts`.
+Puedes activar o desactivar funciones como el login diario automático y el canje automático de códigos para cuentas individuales usando el comando `/accounts`.  
 La opción "Hacer mi cuenta pública" controla si tu cuenta es visible para otros cuando te seleccionan como usuario del comando.
 
-Puedes usar el comando `/settings` para controlar el tema de las imágenes generadas por Hoyo Buddy (tema claro u oscuro), y el idioma del contenido mostrado por Hoyo Buddy.
+También puedes usar el comando `/settings` para controlar el tema (claro u oscuro) de las imágenes generadas por Hoyo Buddy, y el idioma del contenido mostrado por Hoyo Buddy.
 
 ## Reportar Problemas y Sugerencias
 
-Por favor, únete a nuestro [servidor de Discord](https://link.seria.moe/hb-dc)
+Por favor, únete a nuestro [servidor de Discord](https://link.seria.moe/hb-dc).
