@@ -14,15 +14,13 @@ Read more: [Is Hoyo Buddy safe?](./Account-Security.md)
 
 1. Click on [this link](https://one.hb.seria.moe/install).
 
-2. Select the option you want.
+2. Select the option you want:
+   1. Add to my apps: You can use this app everywhere, including DMs, group chats, and servers that don't have Hoyo Buddy.
+   2. Add to server: You and other members of the server can use Hoyo Buddy in that server.
 
-<p></p>
-
-![Discord Add App Screen](../src/assets/images/378049955-0c3d09cb-a72a-44bf-b02a-a33869c90ba1.png)
-
-<p></p>
-
-3. Go to Discord and type `/`, then select Hoyo Buddy's icon (blue and red triangles). You can now see all of Hoyo Buddy's commands, select any command to run it.
+3. Type `/` (slash) and select Hoyo Buddy's icon (blue and red triangles). You can now see all of Hoyo Buddy's commands, select any command to run it.
+   1. If you chose "Add to my apps", go to anywhere in Discord that you can send messages.
+   2. If you chose "Add to server", go to the server you added Hoyo Buddy to.
 
 <p></p>
 
