@@ -1,5 +1,26 @@
 # 更新日誌
 
+## v1.16.9
+
+### 新功能
+
+- (`/profile zzz`) 新增對 Enka Network 的支援。
+- (`/about`) 為指令新增更多連結。
+- 新增 `/changelog`、`/invite` 和 `/help` 指令。
+- 新增對簡體中文和西班牙語的文檔支援。
+- 新增[狀態頁面](https://status.seria.moe/?category=Hoyo%20Buddy)以查看機器人狀態。
+
+### 優化
+
+- (`/settings`) 此指令現在會以臨時訊息回應。
+
+### 問題修復
+
+- (`/accounts`) 修復帳戶登入問題。
+- (`/gacha-log manage`) 修復 ZZZ 匯出時物品稀有度錯誤的問題。
+- (`/gacha-log view`) 修復 HSR 聯動卡池角色和光錐的物品名稱顯示為「???」的問題。
+- (`/profile genshin`) 修復數據來源為 HoYoLAB 時不顯示玩家嵌入內容的問題。
+
 ## v1.16.8
 
 ### 新功能

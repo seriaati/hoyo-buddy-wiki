@@ -1,5 +1,26 @@
 # Changelogs
 
+## v1.16.9
+
+### New Features
+
+- (`/profile zzz`) Add support for Enka Network.
+- (`/about`) Add more links to the command.
+- Add `/changelog`, `/invite`, and `/help` commands.
+- Add documentation support for Simplified Chinese and Spanish.
+- Add [status page](https://status.seria.moe/?category=Hoyo%20Buddy) to check the bot's status.
+
+### Improvements
+
+- (`/settings`) This command now responds with ephemeral messages.
+
+### Bug Fixes
+
+- (`/accounts`) Fix account login issues.
+- (`/gacha-log manage`) Fix wrong item rarity for ZZZ export.
+- (`/gacha-log view`) Fix item name being "???" for HSR collaboration banner characters and light cones.
+- (`/profile genshin`) Fix no player embed being shown when data source is HoYoLAB.
+
 ## v1.16.8
 
 ### New Features
