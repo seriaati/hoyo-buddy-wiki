@@ -21,7 +21,6 @@
 - (`/gacha-log view`) Se corrigió el nombre de los objetos que aparecían como "???" en personajes y conos de luz del banner de colaboración de HSR.
 - (`/profile genshin`) Se solucionó el problema donde no se mostraba el embed del jugador cuando la fuente de datos era HoYoLAB.
 
-
 ## v1.16.8
 
 ### Nuevas funciones
