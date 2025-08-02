@@ -72,13 +72,11 @@ Cookie của bạn được lưu trữ an toàn trong cơ sở dữ liệu do [H
 
 ### Phương pháp đăng nhập bằng email và mật khẩu hoạt động như thế nào?
 
-:::info
-
-Email và mật khẩu của bạn không bao giờ được lưu trữ.
-
-:::
-
-Trước tiên, điều quan trọng cần nhấn mạnh là phương pháp này không được thiết kế để xâm phạm tính bảo mật tài khoản của bạn. Thay vào đó, nó được triển khai để đơn giản hóa quy trình thiết lập tài khoản trong Hoyo Buddy. Nhiều người dùng gặp khó khăn khi định vị Cookie theo cách thủ công, thúc đẩy việc giới thiệu một giải pháp thay thế dễ dàng hơn. Phương pháp này hoạt động chính xác như đăng nhập qua email và mật khẩu trên HoYoLAB, đôi khi yêu cầu xác minh CAPTCHA vì mục đích bảo mật. Điều quan trọng cần lưu ý là email và mật khẩu của bạn không bao giờ được lưu trữ trong cơ sở dữ liệu. Thay vào đó, chúng được lưu tạm thời trong bộ nhớ và được mã hóa trước khi được truyền đến máy chủ của Hoyoverse. Phương pháp này tăng cường bảo mật bằng cách giảm thiểu việc tiết lộ thông tin đăng nhập nhạy cảm; bạn có thể xác minh quy trình minh bạch này bằng cách kiểm tra mã nguồn.
+1. Bạn nhập email và mật khẩu
+2. Bot mã hóa hai giá trị (làm cho chúng không đọc được)
+3. Bot gửi các thông tin xác thực được mã hóa này đến máy chủ Hoyoverse thông qua HTTPS (kết nối an toàn)
+4. Máy chủ Hoyoverse gửi về cookie (dử liệu đăng nhập)
+5. Những cookie dó được mã hóa và lưu vào trong cơ sở dử liệu
 
 ### Bạn có thể đăng nhập vào tài khoản trò chơi của tôi không?
 
