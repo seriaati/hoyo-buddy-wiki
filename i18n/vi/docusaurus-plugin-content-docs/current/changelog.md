@@ -1,5 +1,26 @@
 # Nhật ký thay đổi
 
+## v1.16.9
+
+### Tính năng mới
+
+- (`/profile zzz`) Thêm hỗ trợ cho Enka Network.
+- (`/about`) Thêm links vào trong lệnh.
+- Thêm lệnh `/changelog`, `/invite` và `/help`.
+- Thêm hỗ trợ cho Wiki với ngôn ngữ Trung Quốc Giản Thể và Tây Ban Nha.
+- Thêm [trang trạng thái](https://status.seria.moe/?category=Hoyo%20Buddy) để kiểm tra trạng thái bot.
+
+### Cải tiến
+
+- (`/settings`) Lệnh này bây giờ chỉ bạn có thể thấy thôi.
+
+### Sửa lỗi
+
+- (`/accounts`) Sửa lỗi về vấn để đăng nhập
+- (`/gacha-log manage`) Sửa lỗi vật sai hạng cho tính năng xuất của ZZZZ
+- (`/gacha-log view`) Sửa lỗi tên vật là "???" cho banner Hợp Tác Nhân Vật và Nón Ánh Sáng của HSR.
+- (`/profile genshin`) Sửa lỗi tin nhắn nhúng không có người chơi được hiển thị khi nguồn dữ liệu chính là HoYoLAB
+
 ## v1.16.8
 
 ### Tính năng mới

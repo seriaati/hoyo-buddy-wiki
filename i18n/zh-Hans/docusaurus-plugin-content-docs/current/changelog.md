@@ -1,5 +1,26 @@
 # 更新日志
 
+## v1.16.9
+
+### 新功能
+
+- (`/profile zzz`) 添加了对Enka Network的支持。
+- (`/about`) 为此命令添加了更多链接。
+- 新增了`/changelog`、`/invite`、`/help`命令。
+- 添加了简体中文和西班牙语的文档支持。
+- 添加了可检查该机器人状态的[状态页](https://status.seria.moe/?catagory=Hoyo%20Buddy)。
+
+### 改进
+
+- (`/settings`) 此命令现在以短暂消息回应。
+
+### Bug修复
+
+- (`/accounts`) 修复了账号登录问题。
+- (`/gacha-log manage`) 修复了绝区零导出时物品稀有度错误问题。
+- (`/gacha-log view`) 修复了物品名字为“？？？”问题。
+- (`/profile genshin`) 修复了当数据源为HoYoLab时玩家预览不显示的问题。
+
 ## v1.16.8
 
 ### 新功能
