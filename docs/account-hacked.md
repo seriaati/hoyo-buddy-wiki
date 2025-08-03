@@ -1,32 +1,10 @@
-# Response to Account Being Hacked and Why it's Not Through Hoyo Buddy
+# Account got Hacked
 
-## How Hoyo Buddy Works
+This section explains how someone can hack your Hoyoverse account.
 
-When you link your account using email & password:
+See [Account Security](./Account-Security.md) for information on how Hoyo Buddy works and how your data is stored securely.
 
-1. You enter your email & password
-2. The bot encrypts both values (making them unreadable)
-3. It sends these encrypted credentials to Hoyoverse servers through HTTPS (secure connection)
-4. Hoyoverse server returns cookies (login data)
-5. These cookies are encrypted and stored in the database
-
-## Security Features
-
-- **Server Protection**: The server uses a password that would take centuries to crack. Login logs show no suspicious successful logins.
-
-- **Memory Protection**: Your email & password are only held in memory temporarily, which makes them nearly impossible to steal from an online server.
-
-- **Strong Encryption**: Your credentials are encrypted with RSA before being sent to Hoyoverse. This creates different encryption results each time, making it impossible to reverse.
-
-- **Secure Connections**: All data transfers happen via HTTPS, meaning everything is encrypted. Even if someone intercepts the request, they can't see what's inside.
-
-- **No Permanent Storage**: Your email & password are NOT stored in the database. They are deleted after getting your cookies. Only the encrypted cookies are stored.
-
-- **Database Security**: The database is protected by a password that would take centuries to crack.
-
-- **Limited Cookie Usage**: Cookies alone are not enough to steal your account. They can only be used for HoYoLAB, not the account center where changes to your account can be made.
-
-## How Accounts Actually Get Stolen
+## How Accounts Get Stolen
 
 To steal a Hoyoverse account, someone needs to:
 
@@ -36,7 +14,7 @@ To steal a Hoyoverse account, someone needs to:
 4. Change your account email to their own
 5. After this, they control your account because password resets go to their email
 
-## What Probably Happened Instead
+## What Probably Happened
 
 1. Your Hoyoverse account had a weak password that was easy to guess or crack
 2. Your email account also had a weak password (or worse, used the same password)

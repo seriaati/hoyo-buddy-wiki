@@ -8,15 +8,7 @@ Việc bạn muốn cung cấp Cookie của bạn là do quyết định của *
 
 ## Hoyo Buddy hoạt động như thế nào?
 
-Hoyo Buddy sử dụng cookie HoYoLAB của bạn để truy cập thông tin tài khoản của bạn. Bằng cách lấy cookie của bạn, Hoyo Buddy có thể mô phỏng các yêu cầu gửi đến HoYoLAB bằng danh tính của bạn, do đó truy cập thông tin như ghi chú thời gian thực và nhiều thông tin khác. HoYoLAB xác định người yêu cầu dựa trên cookie và Hoyo Buddy sử dụng cookie của bạn để thông báo cho HoYoLAB rằng người yêu cầu là bạn.
-
-### Cookies là gì?
-
-Cookie 🍪 là những phần dữ liệu nhỏ mà các trang web lưu trữ trên máy tính hoặc thiết bị của bạn khi bạn truy cập vào trang web đó. Chúng không phải là phần mềm, không thể mang vi-rút và không phải là phần mềm gián điệp. Thay vào đó, chúng giống như một ghi chú mà một trang web để lại cho trình duyệt của bạn để ghi nhớ một số thông tin nhất định về bạn hoặc lượt truy cập của bạn.
-
-Hãy tưởng tượng bạn bước vào một cửa hàng và người bán hàng đưa cho bạn một nhãn dán. Nhãn dán này có thể có thông tin như những mặt hàng bạn đã xem, bạn ở trong cửa hàng bao lâu hoặc thậm chí là sở thích của bạn. Sau đó, khi bạn quay lại cửa hàng, người bán hàng sẽ xem nhãn dán của bạn và có thể tùy chỉnh trải nghiệm của bạn dựa trên thông tin trên đó.
-
-Tương tự như vậy, khi bạn truy cập HoYoLAB, nó sẽ cung cấp cho trình duyệt của bạn một "cookie". Cookie này cho phép trang web xác định rằng chính bạn là người đang truy cập trang web.
+HoYoLAB xác định người yêu cầu dựa trên cookie, và Hoyo Buddy sử dụng cookie của bạn để thông báo cho HoYoLAB rằng người yêu cầu chính là bạn. Bằng cách thu thập cookie của bạn, Hoyo Buddy có thể mô phỏng các yêu cầu gửi đến HoYoLAB bằng danh tính của bạn, từ đó truy cập thông tin như ghi chú thời gian thực và nhiều thông tin khác.
 
 ## Cookie có những quyền truy cập gì?
 
@@ -27,6 +19,22 @@ Tương tự như vậy, khi bạn truy cập HoYoLAB, nó sẽ cung cấp cho t
 | Truy cập vào thông tin cá nhân (email, số điện thoại, v.v.) | ❌ |
 | Tạo bài đăng/bình luận/trả lời bình luận trên HoYoLAB bằng danh tính của bạn | ✅ |
 | Truy cập ghi chú thời gian thực, thống kê dữ liệu nhân vật, và thông tin không nhạy cảm khác trong chiến tích | ✅ |
+
+## Tính năng bảo mật
+
+- **Máy chủ Bảo Vệ**: Máy chủ sử dụng mật khẩu mất hàng thế kỷ mới có thể bẻ khóa. Nhật ký đăng nhập không hiển thị bất kỳ lần đăng nhập thành công đáng ngờ nào.
+
+- **Bảo vệ bộ nhớ**: Email và mật khẩu của bạn chỉ được lưu tạm thời trong bộ nhớ, khiến chúng gần như không thể bị đánh cắp từ máy chủ trực tuyến.
+
+- **Mã hóa cao cấp**: Thông tin xác thực của bạn được mã hóa bằng RSA trước khi gửi đến Hoyoverse. Điều này tạo ra các kết quả mã hóa khác nhau mỗi lần, khiến việc đảo ngược trở nên không thể.
+
+- **Kết nối an toàn**: Mọi dữ liệu được truyền qua HTTPS, nghĩa là mọi thứ đều được mã hóa. Ngay cả khi ai đó chặn yêu cầu, họ cũng không thể thấy được những gì bên trong.
+
+- **Không có lưu trữ vĩnh viễn**: Email và mật khẩu của bạn KHÔNG được lưu trữ trong cơ sở dữ liệu. Chúng sẽ bị xóa sau khi nhận được cookie của bạn. Chỉ có cookie được mã hóa mới được lưu trữ.
+
+- **Bảo mật cơ sở dữ liệu**: Cơ sở dữ liệu được bảo vệ bằng mật khẩu mà phải mất hàng thế kỷ mới có thể giải mã được.
+
+- **Sử dụng Cookie có giới hạn**: Chỉ riêng cookie không đủ để đánh cắp tài khoản của bạn. Chúng chỉ có thể được sử dụng cho HoYoLAB, không phải trung tâm tài khoản nơi có thể thực hiện thay đổi cho tài khoản của bạn.
 
 ## Câu hỏi thường gặp
 
@@ -64,13 +72,11 @@ Cookie của bạn được lưu trữ an toàn trong cơ sở dữ liệu do [H
 
 ### Phương pháp đăng nhập bằng email và mật khẩu hoạt động như thế nào?
 
-:::info
-
-Email và mật khẩu của bạn không bao giờ được lưu trữ.
-
-:::
-
-Trước tiên, điều quan trọng cần nhấn mạnh là phương pháp này không được thiết kế để xâm phạm tính bảo mật tài khoản của bạn. Thay vào đó, nó được triển khai để đơn giản hóa quy trình thiết lập tài khoản trong Hoyo Buddy. Nhiều người dùng gặp khó khăn khi định vị Cookie theo cách thủ công, thúc đẩy việc giới thiệu một giải pháp thay thế dễ dàng hơn. Phương pháp này hoạt động chính xác như đăng nhập qua email và mật khẩu trên HoYoLAB, đôi khi yêu cầu xác minh CAPTCHA vì mục đích bảo mật. Điều quan trọng cần lưu ý là email và mật khẩu của bạn không bao giờ được lưu trữ trong cơ sở dữ liệu. Thay vào đó, chúng được lưu tạm thời trong bộ nhớ và được mã hóa trước khi được truyền đến máy chủ của Hoyoverse. Phương pháp này tăng cường bảo mật bằng cách giảm thiểu việc tiết lộ thông tin đăng nhập nhạy cảm; bạn có thể xác minh quy trình minh bạch này bằng cách kiểm tra mã nguồn.
+1. Bạn nhập email và mật khẩu
+2. Bot mã hóa hai giá trị (làm cho chúng không đọc được)
+3. Bot gửi các thông tin xác thực được mã hóa này đến máy chủ Hoyoverse thông qua HTTPS (kết nối an toàn)
+4. Máy chủ Hoyoverse gửi về cookie (dử liệu đăng nhập)
+5. Những cookie dó được mã hóa và lưu vào trong cơ sở dử liệu
 
 ### Bạn có thể đăng nhập vào tài khoản trò chơi của tôi không?
 
