@@ -1,32 +1,8 @@
-# Phản hồi về việc tài khoản bị can thiệp và tại sao không phải do Hoyo Buddy
+# Tài khoản đã bị can thiệp
 
-## Hoyo Buddy hoạt động như thế nào?
+Mục này giải thích làm sao ai đó có thể can thiệp vào tài khoản Hoyoverse của bạn.
 
-Khi bạn liên kết tài khoản bằng email & mật khẩu:
-
-1. Bạn nhập email & mật khẩu
-2. Bot mã hóa cả hai giá trị (làm cho chúng không thể đọc được)
-3. Nó gửi các thông tin xác thực được mã hóa này đến máy chủ Hoyoverse thông qua HTTPS (kết nối an toàn)
-4. Máy chủ Hoyoverse trả về cookie (dữ liệu đăng nhập)
-5. Những cookie này được mã hóa và lưu trữ trong cơ sở dữ liệu
-
-## Tính năng bảo mật
-
-- **Máy chủ Bảo Vệ**: Máy chủ sử dụng mật khẩu mất hàng thế kỷ mới có thể bẻ khóa. Nhật ký đăng nhập không hiển thị bất kỳ lần đăng nhập thành công đáng ngờ nào.
-
-- **Bảo vệ bộ nhớ**: Email và mật khẩu của bạn chỉ được lưu tạm thời trong bộ nhớ, khiến chúng gần như không thể bị đánh cắp từ máy chủ trực tuyến.
-
-- **Mã hóa cao cấp**: Thông tin xác thực của bạn được mã hóa bằng RSA trước khi gửi đến Hoyoverse. Điều này tạo ra các kết quả mã hóa khác nhau mỗi lần, khiến việc đảo ngược trở nên không thể.
-
-- **Kết nối an toàn**: Mọi dữ liệu được truyền qua HTTPS, nghĩa là mọi thứ đều được mã hóa. Ngay cả khi ai đó chặn yêu cầu, họ cũng không thể thấy được những gì bên trong.
-
-- **Không có lưu trữ vĩnh viễn**: Email và mật khẩu của bạn KHÔNG được lưu trữ trong cơ sở dữ liệu. Chúng sẽ bị xóa sau khi nhận được cookie của bạn. Chỉ có cookie được mã hóa mới được lưu trữ.
-
-- **Bảo mật cơ sở dữ liệu**: Cơ sở dữ liệu được bảo vệ bằng mật khẩu mà phải mất hàng thế kỷ mới có thể giải mã được.
-
-- **Sử dụng Cookie có giới hạn**: Chỉ riêng cookie không đủ để đánh cắp tài khoản của bạn. Chúng chỉ có thể được sử dụng cho HoYoLAB, không phải trung tâm tài khoản nơi có thể thực hiện thay đổi cho tài khoản của bạn.
-
-## Tài khoản thực sự bị đánh cắp như thế nào
+## Làm sao Tài khoản thực sự bị đánh cắp
 
 Để đánh cắp tài khoản Hoyoverse, ai đó cần phải:
 
@@ -36,7 +12,7 @@ Khi bạn liên kết tài khoản bằng email & mật khẩu:
 4. Đổi email tài khoản của bạn thành email của họ
 5. Sau đó, họ kiểm soát tài khoản của bạn vì việc đặt lại mật khẩu sẽ được chuyển đến email của họ
 
-## Điều gì có thể xảy ra thay vào đó
+## Điều gì có thể xảy ra
 
 1. Tài khoản Hoyoverse của bạn có mật khẩu yếu, dễ đoán hoặc bẻ khóa
 2. Tài khoản email của bạn cũng có mật khẩu yếu (hoặc tệ hơn, sử dụng cùng một mật khẩu)

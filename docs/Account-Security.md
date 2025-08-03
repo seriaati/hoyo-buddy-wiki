@@ -8,15 +8,7 @@ It is entirely **YOUR** decision whether to provide your Cookies or not. While m
 
 ## How does Hoyo Buddy work?
 
-Hoyo Buddy uses your HoYoLAB cookies to access your account information. By obtaining your cookies, Hoyo Buddy can simulate requests to HoYoLAB using your identity, thereby accessing information such as real-time notes and more. HoYoLAB identifies the requester based on cookies, and Hoyo Buddy utilizes your cookies to inform HoYoLAB that the requester is you.
-
-## What are Cookies?
-
-Cookies 🍪 are small pieces of data that websites store on your computer or device when you visit them. They're not programs, they can't carry viruses, and they're not spyware. Instead, they're more like a note that a website leaves for your browser to remember certain things about you or your visit.
-
-Imagine you walk into a shop and the shopkeeper gives you a sticker. This sticker might have information like what items you looked at, how long you stayed in the shop, or even your preferences. Later, when you come back to the shop, the shopkeeper looks at your sticker and can tailor your experience based on the information on it.
-
-Similarly, when you visit HoYoLAB, it gives your browser a "cookie." This cookie allows the website to identify that it is you accessing the website.
+HoYoLAB identifies the requester based on cookies, and Hoyo Buddy utilizes your cookies to inform HoYoLAB that the requester is you. By obtaining your cookies, Hoyo Buddy can simulate requests to HoYoLAB using your identity, thereby accessing information such as real-time notes and more.
 
 ## What Permissions do Cookies Have?
 
@@ -27,6 +19,22 @@ Similarly, when you visit HoYoLAB, it gives your browser a "cookie." This cookie
 | Access sensitive information (email, mobile number, etc.) | ❌ |
 | Make posts/comments/replies on HoYoLAB with your identity | ✅ |
 | Access real-time notes, character stats, and other non-sensitive information in the battle chronicle | ✅ |
+
+## Security Features
+
+- **Server Protection**: The server uses a password that would take centuries to crack.
+
+- **Memory Protection**: Your email & password are only held in memory temporarily, which makes them nearly impossible to steal from an online server.
+
+- **Strong Encryption**: Your credentials are encrypted with RSA before being sent to Hoyoverse. This creates different encryption results each time, making it impossible to reverse.
+
+- **Secure Connections**: All data transfers happen via HTTPS, meaning everything is encrypted. Even if someone intercepts the request, they can't see what's inside.
+
+- **No Permanent Storage**: Your email & password are NOT stored in the database. They are deleted after getting your cookies. Only the encrypted cookies are stored.
+
+- **Database Security**: The database is protected by a password that would take centuries to crack.
+
+- **Limited Cookie Usage**: Cookies alone are not enough to steal your account. They can only be used for HoYoLAB, not the account center where changes to your account can be made.
 
 ## Frequently Asked Questions
 
@@ -64,13 +72,11 @@ Your Cookies are securely stored in a database hosted by [Hetzner](https://www.h
 
 ### How Does The Email and Password Login Method Work?
 
-:::info
-
-Your email and password were never stored.
-
-:::
-
-This method isn't designed to compromise your account security, it's made to simplify the account set up process. Many users encounter difficulties locating their Cookies manually, prompting the introduction of an easier alternative. The method functions exactly to logging in via email and password on HoYoLAB, occasionally requiring CAPTCHA verification for security purposes. Your email and password were never stored in the database. They are temporarily held in-memory and encrypted before being sent to Hoyoverse's server. Internally, this method functions the same as the DevTools method, both only saves your Cookies in the database, but some might feel that the DevTools method is safer.
+1. You enter your email & password
+2. The bot encrypts both values (making them unreadable)
+3. It sends these encrypted credentials to Hoyoverse servers through HTTPS (secure connection)
+4. Hoyoverse server returns cookies (login data)
+5. These cookies are encrypted and stored in the database
 
 ### Can you Login to my Game Account?
 

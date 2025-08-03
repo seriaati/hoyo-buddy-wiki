@@ -75,10 +75,6 @@ const sidebars = {
           type: 'doc',
           id: 'too-many-requests',
           label: 'Too Many Requests Error'
-        },
-        {
-          type: 'doc',
-          id: 'Login-Workflow',
         }
       ]
     },
