@@ -1,4 +1,4 @@
-# Sửa lỗi "Quá nhiều yêu cầu" khi thêm tài khoản
+# Lỗi Quá Nhiều Yêu Cầu
 
 ## Chuyện gì đang xảy ra
 

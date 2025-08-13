@@ -1,4 +1,4 @@
-# Using Hoyo Buddy in Discord Servers
+# Usage in Discord Servers
 
 ## What Can Get You Warned or Banned
 

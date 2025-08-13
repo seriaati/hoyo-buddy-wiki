@@ -1,4 +1,4 @@
-# Usar Hoyo Buddy en servidores de Discord
+# Usar en Servidores de Discord
 
 ## ¿Qué puede causarte una advertencia o baneo?
 

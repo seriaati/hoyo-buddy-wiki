@@ -11,18 +11,6 @@
     "message": "Seguridad",
     "description": "The label for category Security in sidebar mainSidebar"
   },
-  "sidebar.mainSidebar.doc.Usage in Discord Servers": {
-    "message": "Usar en Servidores de Discord",
-    "description": "The label for the doc item Usage in Discord Servers in sidebar mainSidebar, linking to the doc dc-server-ban"
-  },
-  "sidebar.mainSidebar.doc.Account got Hacked": {
-    "message": "Cuenta hackeada",
-    "description": "The label for the doc item Account got Hacked in sidebar mainSidebar, linking to the doc account-hacked"
-  },
-  "sidebar.mainSidebar.doc.Too Many Requests Error": {
-    "message": "Error de demasiadas solicitudes",
-    "description": "The label for the doc item Too Many Requests Error in sidebar mainSidebar, linking to the doc too-many-requests"
-  },
   "sidebar.mainSidebar.category.Gacha Log": {
     "message": "Registro de Gachapón",
     "description": "The label for category Gacha Log in sidebar mainSidebar"

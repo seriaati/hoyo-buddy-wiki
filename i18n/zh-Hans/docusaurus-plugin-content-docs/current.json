@@ -11,18 +11,6 @@
     "message": "账户安全",
     "description": "The label for category Security in sidebar mainSidebar"
   },
-  "sidebar.mainSidebar.doc.Account got Hacked": {
-    "message": "账户被黑",
-    "description": "The label for the doc item Account got Hacked in sidebar mainSidebar, linking to the doc account-hacked"
-  },
-  "sidebar.mainSidebar.doc.Too Many Requests Error": {
-    "message": "请求次数过多错误",
-    "description": "The label for the doc item Too Many Requests Error in sidebar mainSidebar, linking to the doc too-many-requests"
-  },
-  "sidebar.mainSidebar.doc.Usage in Discord Servers": {
-    "message": "在 Discord 服务器中的使用",
-    "description": "The label for the doc item Usage in Discord Servers in sidebar mainSidebar, linking to the doc dc-server-ban"
-  },
   "sidebar.mainSidebar.category.Gacha Log": {
     "message": "抽卡记录获取脚本",
     "description": "The label for category Gacha Log in sidebar mainSidebar"

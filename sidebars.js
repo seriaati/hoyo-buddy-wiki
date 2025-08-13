@@ -15,84 +15,39 @@
  @type {import('@docusaurus/plugin-content-docs').SidebarsConfig}
  */
 const sidebars = {
-  // By default, Docusaurus generates a sidebar from the docs folder structure
   mainSidebar: [
     'intro',
     'Getting-Started',
     'Before-Start',
-    {
-      type: 'doc',
-      id: 'FAQ',
-      label: 'Frequently Asked Questions'
-    },
-    {
-      type: 'doc',
-      id: 'dc-server-ban',
-      label: 'Usage in Discord Servers'
-    },
+    'FAQ',
+    'dc-server-ban',
     {
       type: 'category',
       label: 'About',
       items: [
-        {
-          type: 'doc',
-          id: 'features',
-        },
-        {
-          type: 'doc',
-          id: 'Why-Hoyo-Buddy',
-        }
+        'features',
+        'Why-Hoyo-Buddy'
       ]
     },
     {
       type: 'category',
       label: 'Gacha Log',
       items: [
-        {
-          type: 'doc',
-          id: 'gacha-log',
-        },
-        {
-          type: 'doc',
-          id: 'tools',
-        }
+        'gacha-log',
+        'tools'
       ]
     },
     {
       type: 'category',
       label: 'Security',
       items: [
-        {
-          type: 'doc',
-          id: 'Account-Security',
-        },
-        {
-          type: 'doc',
-          id: 'account-hacked',
-          label: 'Account got Hacked'
-        },
-        {
-          type: 'doc',
-          id: 'too-many-requests',
-          label: 'Too Many Requests Error'
-        }
+        'Account-Security',
+        'account-hacked',
+        'too-many-requests'
       ]
     },
     'changelog',
   ],
-
-  // But you can create a sidebar manually
-  /*
-  tutorialSidebar: [
-    'intro',
-    'hello',
-    {
-      type: 'category',
-      label: 'Tutorial',
-      items: ['tutorial-basics/create-a-document'],
-    },
-  ],
-   */
 };
 
 export default sidebars;
