@@ -1,4 +1,4 @@
-# Sử dụng Hoyo Buddy trong máy chủ Discord
+# Sử dụng trong Máy chủ Discord
 
 ## Những gì có thể khiến bạn bị cảnh báo hoặc bị cấm khỏi máy chủ
 

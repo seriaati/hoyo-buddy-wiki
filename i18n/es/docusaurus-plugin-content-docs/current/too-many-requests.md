@@ -1,4 +1,4 @@
-# Solución al error "Demasiadas Solicitudes" al agregar cuentas
+# Error de demasiadas solicitudes
 
 ## ¿Qué está pasando?
 

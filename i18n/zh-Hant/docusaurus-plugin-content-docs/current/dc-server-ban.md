@@ -1,4 +1,4 @@
-# 在 Discord 伺服器中使用 Hoyo Buddy
+# 在 Discord 伺服器中使用
 
 ## 什麼行為會導致警告或封禁
 

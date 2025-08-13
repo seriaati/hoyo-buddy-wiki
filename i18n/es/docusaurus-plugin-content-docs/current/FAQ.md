@@ -25,7 +25,7 @@ Correo y contraseña se refieren a los datos de la **cuenta de Hoyoverse**, no a
 Leer más:
 
 - [¿Es seguro Hoyo Buddy?](./Account-Security.md)
-- [¿Cómo funciona el método de inicio de sesión con correo y contraseña?](./Account-Security.md#cómo-funciona-el-método-de-inicio-de-sesión-con-correo-y-contraseña)
+- [¿Cómo funciona el método de inicio de sesión con correo y contraseña?](./Account-Security.md#cómo-funciona-el-inicio-de-sesión-con-correo-y-contraseña)
 - [¿Por qué las funciones de canjeo de códigos son exclusivas para usuarios que inician sesión con correo y contraseña?](#por-qué-las-funciones-de-canjeo-de-códigos-son-exclusivas-para-usuarios-que-inician-sesión-con-correo-y-contraseña)
 
 ## Algunos textos siguen apareciendo en inglés, aunque seleccioné otro idioma en /settings

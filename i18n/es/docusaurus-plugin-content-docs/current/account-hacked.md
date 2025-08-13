@@ -1,4 +1,4 @@
-# Me hackearon la cuenta
+# Cuenta hackeada
 
 Esta sección explica cómo alguien puede hackear tu cuenta de Hoyoverse.
 

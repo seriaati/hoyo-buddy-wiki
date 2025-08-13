@@ -1,4 +1,4 @@
-# Tài khoản đã bị can thiệp
+# Tài khoản Bị Hacked
 
 Mục này giải thích làm sao ai đó có thể can thiệp vào tài khoản Hoyoverse của bạn.
 

@@ -1,4 +1,4 @@
-# Fixing "Too Many Requests" Error When Adding Accounts
+# "Too Many Requests" Error
 
 ## What's Happening
 
