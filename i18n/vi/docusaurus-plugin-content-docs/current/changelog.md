@@ -1,5 +1,26 @@
 # Nhật ký thay đổi
 
+## v1.16.10
+
+### Tính năng mới
+
+- (`/profile hsr`) Hỗ trợ các nhân vật mới: Hysilens & Cerydra.
+- (`/gacha-log upload`) Hiển thị lỗi khi tài khoản game và dữ liệu nhập từ game khác nhau.
+
+### Cải tiến
+
+- (`/gacha-log import`) Cải thiện hiệu năng nhập dữ liệu
+- Lưu trữ dữ liệu thường dùng như cài đặt và cài đặt thẻ để cải thiện hiệu suất.
+- Che đi 5 số trong UID thay vì 3.
+
+### Sửa lỗi
+
+- (`/profile zzz`) Sửa lỗi thiếu hình ảnh trang phục cho thẻ đội hình.
+- (`/profile zzz`) Sửa lỗi thiếu dữ liệu cho Trang Phục Mùa Hè của Alice
+- (`/profile zzz`) Sửa lỗi gây ra bởi dữ liệu trang phục
+- (`/profile zzz`) Sửa lỗi các build trên Enka Network thỉnh thoảng không hiện lên.
+- (`/search`) Sửa lỗi "nội dung chưa phát hành" được hiển thị trong tìm kiếm tự động hoàn thành bình thường
+
 ## v1.16.9
 
 ### Tính năng mới
