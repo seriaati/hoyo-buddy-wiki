@@ -1,26 +1,5 @@
 # Changelogs
 
-## v1.16.10
-
-### New Features
-
-- (`/profile hsr`) Support new characters: Hysilens & Cerydra.
-- (`/gacha-log upload`) Show error when account game and imported game are different.
-
-### Improvements
-
-- (`/gacha-log import`) Improve import performance.
-- Cache frequently used data like settings and card settings to improve performance.
-- Blur 5 digits of UID instead of 3.
-
-### Bug Fixes
-
-- (`/profile zzz`) Fix missing costume images for team cards.
-- (`/profile zzz`) Fix missing data for Alice's summer costume.
-- (`/profile zzz`) Fix error caused by costume data.
-- (`/profile zzz`) Fix Enka Network builds not being shown sometimes.
-- (`/search`) Fix unreleased content being shown in normal search autocomplete.
-
 ## v1.16.9
 
 ### New Features
