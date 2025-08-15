@@ -1,30 +1,5 @@
 # Cambios
 
-## v1.16.10
-
-### Nuevas Funciones
-
-- (`/profile hsr`) Soporte para nuevos personajes: Hysilens y Céridra.
-- (`/gacha-log upload`) Se mostrará error cuando la cuenta de juego y el juego importado sean diferentes.
-
-### Mejoras
-
-- (`/gacha-log import`) Mejorado el rendimiento de importación.
-- Se almacenará en caché datos de uso frecuente como configuraciones y ajustes de tarjetas para mejorar el rendimiento.
-- Se difuminará 5 dígitos del UID en lugar de 3.
-
-### Corrección de Errores
-
-- (`/profile zzz`) Se ha corregido las imágenes de skins faltantes para las tarjetas del equipo.
-- (`/profile zzz`) Se ha corregido datos faltantes para la skin de verano de Alice.
-- (`/profile zzz`) Se corregidó error causado por los datos de las skins.
-- (`/profile zzz`) Se ha corregido que a veces no se mostraban las configuraciones de Enka Network.
-- (`/search`) Corregido que contenido no publicado apareciera en la autocompletación de búsqueda normal.
-
-## v1.16.9
-
-### Nuevas Funciones
-
 ## v1.16.9
 
 ### Nuevas Funciones
