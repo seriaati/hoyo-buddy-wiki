@@ -1,5 +1,19 @@
 # 更新日誌
 
+## v1.16.11
+
+## 新功能
+
+- (`/search`) 新增冰開拓者。
+- (`/accounts`) 新增電子郵件登入的設備識別碼，讓你可以在 Hoyoverse 帳號中心查看 Hoyo Buddy 的設備。
+
+## Bug Fixes
+
+- (`/profile zzz`) 更新 enka.py 以符合新的 API 格式。
+- (`/profile`) 修復 Enka 結果總是以英文返回結果的問題。
+- (`/exploration`) 修復部落等級文字超出圖片邊界的問題。
+- 修復 en-GB 語言環境的翻譯問題。
+
 ## v1.16.10
 
 ## 新功能
