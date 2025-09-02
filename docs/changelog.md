@@ -1,5 +1,19 @@
 # Changelogs
 
+## v1.16.11
+
+## New Features
+
+- (`/search`) Add Ice Trailblazer.
+- (`/accounts`) Add device identifier for email logins, so you can see Hoyo Buddy's device on Hoyoverse account center.
+
+## Bug Fixes
+
+- (`/profile zzz`) Update enka.py to match new API format.
+- (`/profile`) Fix Enka results always returned in English.
+- (`/exploration`) Fix tribe level text overflow.
+- Fix translations issues with en-GB locale.
+
 ## v1.16.10
 
 ### New Features

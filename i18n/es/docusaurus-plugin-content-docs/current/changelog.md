@@ -1,5 +1,19 @@
 # Cambios
 
+## v1.16.11
+
+### Nuevas Funciones
+
+- (`/search`) Se agregó al Trazacaminos de hielo.  
+- (`/accounts`) Se añadió identificador de dispositivo para inicios de sesión con correo , lo que permite ver el dispositivo de Hoyo Buddy en el centro de cuentas de Hoyoverse.  
+
+### Corrección de Errores
+
+- (`/profile zzz`) Se actualizó **enka.py** para coincidir con el nuevo formato de la API.  
+- (`/profile`) Se corrigió el error que hacía que los resultados de Enka siempre se mostraran en inglés.  
+- (`/exploration`) Se corrigió el desbordamiento de texto en el nivel de tribu.  
+- Se corrigió el problemas de traducción con la configuración regional **en-GB**.
+
 ## v1.16.10
 
 ### Nuevas Funciones
