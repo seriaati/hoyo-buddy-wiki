@@ -11,7 +11,7 @@
 
 - (`/profile zzz`) Thêm enka.py để hợp với định dạng API mới.
 - (`/profile`) Sửa lỗi kết quả Enka luôn đưa ra bằng tiếng Anh.
-- (`/exploration`) Sửa lỗi tràn văn bản cho mức độ thám hiểm bộ lạc.
+- (`/exploration`) Sửa lỗi tràn văn bản cho Danh Vọng Bộ Tộc.
 - Sửa lỗi phiên dịch với ngôn ngữ en-GB.
 
 ## v1.16.10
