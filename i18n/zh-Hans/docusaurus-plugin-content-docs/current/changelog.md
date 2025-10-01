@@ -18,7 +18,7 @@
 - (`/profile`) 为 Enka Network 角色配置接口请求添加了错误处理。
 - (`/profile`) 为第三方卡片生成接口添加了错误处理。
 - (`/accounts`) 解决了 Discord OAuth2 接口错误问题。
-- (`/notes`) 在提醒设置界面中添加了对不同输入的描述。
+- (`/notes`) 在通知设置界面中添加了对不同输入的描述。
 - 由于 Discord 的一个漏洞，WEBP 图片无法复制，因此我们现在将信息图表改为以 PNG 格式发送。
 
 ## Bug修复
@@ -31,7 +31,7 @@
 - (`/challenge genshin stygian`) 修复了一些敌人的文本溢出问题。
 - (`/challenge zzz assault`) 修复了访问过去挑战的邦布图标的问题。
 - (`/gacha-log view`) 解决了无效输入卡池问题。
-- (`/challenge`) 修复了当下拉菜单长度超过25个时，下拉菜单下拉的问题。
+- (`/challenge`) 修复了选择挑战期数下拉菜单长度超过25个时出错的问题。
 
 ## v1.16.11
 
