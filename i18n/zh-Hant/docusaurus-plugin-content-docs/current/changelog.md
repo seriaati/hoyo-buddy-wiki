@@ -31,7 +31,7 @@
 - (`/challenge genshin stygian`) 修復部分敵人的文字超出邊界的問題。
 - (`/challenge zzz assault`) 修復過往挑戰中存取邦布圖示的問題。
 - (`/gacha-log view`) 處理無效的卡池類型輸入。
-- (`/challenge`) 修復當關卡階段超過 25 個時,挑戰階段下拉選單的問題。
+- (`/challenge`) 修復當關卡階段超過 25 個時,挑戰階段下拉選單出現問題的問題。
 
 ## v1.16.11
 
