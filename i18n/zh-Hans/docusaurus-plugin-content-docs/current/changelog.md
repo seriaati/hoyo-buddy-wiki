@@ -1,5 +1,38 @@
 # 更新日志
 
+## v1.16.12
+
+注：该版本的原神旅行 Mimo 由于被 HoYoLab 移除而关闭。该功能在原神旅行 Mimo 回归后重新启用。
+
+## 新功能
+
+- (`/profile`) 新增对《绝区零》和《崩坏：星穹铁道》新角色的支持。
+- (`/gacha-log import`) 使用我们的 [自用脚本](https://github.com/studiobutter/gacha-stuff) 导入抽卡日志。
+- (`/challenge zzz shiyu`) 最快通关时长更替为总通关时长。
+- (`/challenge genshin stygian`) 新增了敌人弱点和敌人优势的相关信息。
+- 添加了对挪德卡莱的支持。
+
+## 改善
+
+- (`/profile`) 为 Enka Network 接口请求添加了更强的错误处理。
+- (`/profile`) 为 Enka Network 角色配置接口请求添加了错误处理。
+- (`/profile`) 为第三方卡片生成接口添加了错误处理。
+- (`/accounts`) 解决了 Discord OAuth2 接口错误问题。
+- (`/notes`) 在提醒设置界面中添加了对不同输入的描述。
+- 由于 Discord 的一个漏洞，WEBP 图片无法复制，因此我们现在将信息图表改为以 PNG 格式发送。
+
+## Bug修复
+
+- (`/gacha-log view`) 修复了自选常驻角色未被计入大保底的问题。
+- (`/gacha-log view`) 修复了对于一些《绝区零》物品的错误稀有度问题。
+- (`/search`) 修复了在自动补全中出现《绝区零》未公开角色的问题。
+- (`/challenge zzz shiyu`) 解决了没有总通关时长的情况。
+- (`/upload`) 修复了图片上传问题。
+- (`/challenge genshin stygian`) 修复了一些敌人的文本溢出问题。
+- (`/challenge zzz assault`) 修复了访问过去挑战的邦布图标的问题。
+- (`/gacha-log view`) 解决了无效输入卡池问题。
+- (`/challenge`) 修复了当下拉菜单长度超过25个时，下拉菜单下拉的问题。
+
 ## v1.16.11
 
 ## 新功能
