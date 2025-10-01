@@ -1,5 +1,38 @@
 # Changelogs
 
+## v1.16.12
+
+Note: This version disables Traveling Mimo for Genshin Impact due to removal from HoYoLAB. The feature will be re-enabled once it is back.
+
+## New Features
+
+- (`/profile`) Add support for new HSR and ZZZ characters.
+- (`/gacha-log import`) Use our [own script](https://github.com/studiobutter/gacha-stuff) for importing gacha logs.
+- (`/challenge zzz shiyu`) Replace fastest clear time with total clear time.
+- (`/challenge genshin stygian`) Add enemy weakness and strength info.
+- Add support for Nod-Krai city.
+
+## Improvements
+
+- (`/profile`) Add more robust error handling for Enka Network API requests.
+- (`/profile`) Add error handling for Enka Network build API requests.
+- (`/profile`) Add error handling for third party card generation APIs.
+- (`/accounts`) Handle Discord OAuth2 API errors.
+- (`/notes`) Add descriptions for different inputs in the reminder settings modal.
+- Due to a Discord bug, WEBP images can't be copied, so we now send infographics as PNGs instead.
+
+## Bug Fixes
+
+- (`/gacha-log view`) Fix Custom Celestial Invitation characters not being counted as 50/50 losses.
+- (`/gacha-log view`) Fix wrong item rarity for some ZZZ items.
+- (`/search`) Fix unreleased ZZZ characters sometimes shown in autocomplete.
+- (`/challenge zzz shiyu`) Handle cases where there are no total clear time.
+- (`/upload`) Fix image upload issues.
+- (`/challenge genshin stygian`) Fix text overflow for some enemies.
+- (`/challenge zzz assault`) Fix issues with accessing bangboo icons for past challenges.
+- (`/gacha-log view`) Handle invalid banner type input.
+- (`/challenge`) Fix issues with challenge phase dropdown when there are more than 25 phases.
+
 ## v1.16.11
 
 ## New Features
