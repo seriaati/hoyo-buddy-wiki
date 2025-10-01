@@ -7,7 +7,7 @@
 ## 新功能
 
 - (`/profile`) 新增对《绝区零》和《崩坏：星穹铁道》新角色的支持。
-- (`/gacha-log import`) 使用我们的 [自用脚本](https://github.com/studiobutter/gacha-stuff) 导入抽卡日志。
+- (`/gacha-log import`) 使用我们的 [自製脚本](https://github.com/studiobutter/gacha-stuff) 导入抽卡日志。
 - (`/challenge zzz shiyu`) 最快通关时长更替为总通关时长。
 - (`/challenge genshin stygian`) 新增了敌人弱点和敌人优势的相关信息。
 - 添加了对挪德卡莱的支持。
