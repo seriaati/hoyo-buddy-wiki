@@ -1,5 +1,37 @@
 # Nhật ký thay đổi
 
+## v1.16.12
+
+Lưu Ý: Phiên bản này đã tạm thời vô hiệu hóa Du Lịch Mimo cho Genshin Impact do dich vụ gỡ bỏ bên HoYoLAB. Tính năng sẽ được kích hoạt lại khi dịch vụ được khôi phục.
+
+### Tính năng mới
+
+- (`/profile`) Thêm hỗ trợ cho các nhân vật mới trong ZZZ và HSR.
+- (`/gacha-log import`) Sử dụng [script riêng](https://github.com/studiobutter/gacha-stuff) để nhập nhật ký Gacha.
+- (`/challenge zzz shiyu`) Thay Thời Gian Hoàn Thành Nhanh Nhất cho Tổng Thời Gian Hoàn Thành.
+- (`/challenge genshin stygian`) Thêm điểm yêu của kẻ thù và thông tin sức mạnh.
+- Thêm hỗ trợ cho thành phố Nod-Krai.
+
+### Cải tiến
+
+- (`/profile`) Thêm khả năng xử lý lỗi mạnh mẽ hơn cho các yêu cầu API của Enka Network.
+- (`/profile`) Thêm xử lý lỗi cho các yêu cầu API đội hình Enka Network.
+- (`/profile`) Thêm xử lý lỗi cho API tạo thẻ của bên thứ ba.
+- (`/accounts`) Xử lý lỗi API Discord OAuth2
+- (`/notes`) Thêm mô tả cho các đầu vào khác nhau trong hộp thoại cài đặt lời nhắc.
+- Do lỗi Discord, hình ảnh WEBP không thể sao chép được, vì vậy hiện tại chúng tôi gửi đồ họa thông tin dưới dạng PNG.
+
+### Sửa lỗi
+
+- (`/gacha-log view`) Sửa lỗi các nhân vật trong Duyên Phận Tinh Tú không được coi là 50/50 thua (lệch).
+- (`/gacha-log view`) Sửa độ hiểm của vật phẩm không đúng cho một số vật phẩm trong ZZZ.
+- (`/search`) Sửa lỗi các nhân vật ZZZ chưa phát hành thỉnh thoảng được hiển thị trong tự động hoàn thành.
+- (`/upload`) Sửa vấn đề tải ảnh lên.
+- (`/challenge genshin stygian`) Sửa lỗi tràn văn bản cho một số kẻ thù.
+- (`/challenge zzz assault`) Sửa lỗi về truy cập icons bangboo cho những lần thử thách trước
+- (`/gacha-log view`) Xử lý nhập loại banner không hợp lệ.
+- (`/challenge`) Sửa lỗi vấn đề với menu thả xuống giai đoạn thử thách khi có hơn 25 thử thách.
+
 ## v1.16.11
 
 ### Tính năng mới
