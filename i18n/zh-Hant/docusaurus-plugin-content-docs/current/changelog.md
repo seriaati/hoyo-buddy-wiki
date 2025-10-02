@@ -1,5 +1,38 @@
 # 更新日誌
 
+## v1.16.12
+
+注意：此版本因原神旅行 Mimo 已從 HoYoLAB 移除而停用該功能。待功能重新上線後將再次啟用。
+
+## 新功能
+
+- (`/profile`) 新增對星穹鐵道與絕區零新角色的支援。
+- (`/gacha-log import`) 使用我們[自己的腳本](https://github.com/studiobutter/gacha-stuff)來匯入抽卡紀錄。
+- (`/challenge zzz shiyu`) 將最快通關時間替換為總通關時間。
+- (`/challenge genshin stygian`) 新增敵人弱點與強度資訊。
+- 新增對挪德卡萊地區的支援。
+
+## 優化
+
+- (`/profile`) 為 Enka Network API 請求新增更完善的錯誤處理。
+- (`/profile`) 為 Enka Network 面板 API 請求新增錯誤處理。
+- (`/profile`) 為第三方卡片生成 API 新增錯誤處理。
+- (`/accounts`) 處理 Discord OAuth2 API 錯誤。
+- (`/notes`) 為提醒設定模態中的不同輸入新增說明。
+- 由於 Discord 的錯誤，WEBP 圖片無法複製,因此我們現在改以 PNG 格式發送資訊圖表。
+
+## 問題修復
+
+- (`/gacha-log view`) 修復自選祈願角色未被計算為 50/50 失敗的問題。
+- (`/gacha-log view`) 修復部分絕區零物品稀有度錯誤的問題。
+- (`/search`) 修復未釋出的絕區零角色有時出現在自動完成中的問題。
+- (`/challenge zzz shiyu`) 處理沒有總通關時間的情況。
+- (`/upload`) 修復圖片上傳問題。
+- (`/challenge genshin stygian`) 修復部分敵人的文字超出邊界的問題。
+- (`/challenge zzz assault`) 修復過往挑戰中存取邦布圖示的問題。
+- (`/gacha-log view`) 處理無效的卡池類型輸入。
+- (`/challenge`) 修復當關卡階段超過 25 個時,挑戰階段下拉選單出現問題的問題。
+
 ## v1.16.11
 
 ## 新功能
