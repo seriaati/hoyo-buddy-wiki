@@ -7,7 +7,7 @@ Hoyo Buddy tích hợp các tính năng từ tất cả game của Hoyoverse, h�
 | /profile | Tạo thẻ xây dựng nhân vật và thẻ đội. | ✅ | ✅ | ✅ | ❌ | ❌ |
 | /mimo | Tự động hoàn thành nhiệm vụ Mimo Du Lịch và mua quà. | ✅ | ✅ | ✅ | ❌ | ❌ |
 | /notes | Xem ghi chú thời gian thực và tạo lời nhắc. | ✅ | ✅ | ✅ | ✅ | ❌ |
-| /redeem | Tự tay và tự động đổi mã quà. | ✅ | ✅ | ✅ | ❌ | ✅ |
+| /redeem | Tự tay và tự động đổi mã quà. | ✅ | ✅ | ✅ | ❌ | ✅ (chỉ thủ công) |
 | /check-in | Tự động nhận quà điểm danh HoYoLAB/Miyoushe. | ✅ | ✅ | ✅ | ✅ | ✅ |
 | /characters | Xem và lọc nhân vật bạn có.  | ✅ | ✅ | ✅ | ✅ | ❌ |
 | /challenge | Xem thống kê/tổng quát nội dung end-game. | ✅ | ✅ | ✅ | ❌ | ❌ |
