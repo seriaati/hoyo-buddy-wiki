@@ -7,7 +7,7 @@ Hoyo Buddy integrates features from all Hoyoverse games, supporting both HoYoLAB
 | /profile | Generate character build cards and team cards. | ✅ | ✅ | ✅ | ❌ | ❌ |
 | /mimo | Automatic Traveling Mimo task completion and reward buying. | ✅ | ✅ | ✅ | ❌ | ❌ |
 | /notes | View real-time notes and set reminders. | ✅ | ✅ | ✅ | ✅ | ❌ |
-| /redeem | Automatic and manual gift code redemption. | ✅ | ✅ | ✅ | ❌ | ✅ (manual only) |
+| /redeem | Automatic and manual gift code redemption. | ✅ | ✅ | ✅ | ❌ | ✅[*](#notes) |
 | /check-in | Automatic HoYoLAB/Miyoushe daily reward check-in. | ✅ | ✅ | ✅ | ✅ | ✅ |
 | /characters | View and filter all owned characters.  | ✅ | ✅ | ✅ | ✅ | ❌ |
 | /challenge | View statistics/overview of end-game content. | ✅ | ✅ | ✅ | ❌ | ❌ |
@@ -21,3 +21,7 @@ Hoyo Buddy integrates features from all Hoyoverse games, supporting both HoYoLAB
 | /farm reminder | Set reminders for farming materials for a character/weapon. | ✅ | ❌ | ❌ | ❌ | ❌ |
 | /farm view | View farmable domain materials in different weekdays. | ✅ | ❌ | ❌ | ❌ | ❌ |
 | /web-events | View on-going web events and get notified for new ones. | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+## Notes
+
+1. Tear of Themis only supports manual gift code redemption.
