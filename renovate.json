@@ -1,17 +1,26 @@
 {
-  "extends": ["config:base"],
+  "extends": [
+    "config:recommended"
+  ],
   "packageRules": [
     {
-      "matchDepTypes": ["devDependencies"],
+      "matchDepTypes": [
+        "devDependencies"
+      ],
       "automerge": true,
       "automergeType": "branch"
     },
     {
-      "matchUpdateTypes": ["minor", "patch"],
+      "matchUpdateTypes": [
+        "minor",
+        "patch"
+      ],
       "automerge": true
     }
   ],
-  "schedule": ["before 5am on monday"], 
+  "schedule": [
+    "before 5am on monday"
+  ],
   "prHourlyLimit": 5,
   "prConcurrentLimit": 10
 }
