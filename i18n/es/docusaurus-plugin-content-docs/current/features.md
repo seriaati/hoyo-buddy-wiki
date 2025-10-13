@@ -24,4 +24,4 @@ Hoyo Buddy integra funciones de todos los juegos de Hoyoverse, con soporte tanto
 
 ## Notas
 
-1. Tear of Themis solo soporta canje de codigo manual.
+1. Tear of Themis solo soporta el canje de codigo de forma manual.
