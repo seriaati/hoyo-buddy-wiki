@@ -19,7 +19,14 @@ const sidebars = {
     'intro',
     'Getting-Started',
     'Before-Start',
-    'FAQ',
+    {
+      type: 'category',
+      label: 'FAQ',
+      items: [
+        'FAQ',
+        'captcha-blank-page'
+      ]
+    },
     'dc-server-ban',
     {
       type: 'category',
