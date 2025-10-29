@@ -8,5 +8,5 @@
 https://geetest-server-test.seria.moe
 ```
 
-![demo1](../src/assets/images/firefox-demo1.png)
-![demo2](../src/assets/images/firefox-demo2.png)
+![demo1](/src/assets/images/firefox-demo1.png)
+![demo2](/src/assets/images/firefox-demo2.png)
