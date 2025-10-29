@@ -78,7 +78,3 @@ Most of the time this is caused by bot restarts (to apply code updates), and you
 ## My Account Was Hacked After I Added It to Hoyo Buddy
 
 See [this page](./account-hacked.md) for more information.
-
-## Captcha Page is Blank
-
-See [this page](./captcha-blank-page.md).

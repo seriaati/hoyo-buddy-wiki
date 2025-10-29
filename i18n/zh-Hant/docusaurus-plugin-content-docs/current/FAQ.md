@@ -77,7 +77,3 @@ Hoyoverse使用一種特殊的Cookie，名為`cookie_token`，用於兌換碼操
 ## 在將帳戶新增到 Hoyo Buddy 後, 我的遊戲帳戶被駭客竊取
 
 請參考[這個頁面](./account-hacked.md)以獲得更多資訊。
-
-## CAPTCHA 頁面是空白的
-
-請參考[這個頁面](./captcha-blank-page.md)。
