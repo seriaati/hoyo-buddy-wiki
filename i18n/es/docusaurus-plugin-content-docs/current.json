@@ -15,7 +15,11 @@
     "message": "Registro de Gachapón",
     "description": "The label for category Gacha Log in sidebar mainSidebar"
   },
-  "sidebar.mainSidebar.doc.Frequently Asked Questions": {
+  "sidebar.mainSidebar.category.FAQ": {
+    "message": "Preguntas Frecuentes",
+    "description": "The label for the doc item Frequently Asked Questions in sidebar mainSidebar, linking to the doc FAQ"
+  },
+  "sidebar.mainSidebar.doc.FAQ": {
     "message": "Preguntas Frecuentes",
     "description": "The label for the doc item Frequently Asked Questions in sidebar mainSidebar, linking to the doc FAQ"
   }
