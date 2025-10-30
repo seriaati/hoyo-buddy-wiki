@@ -21,6 +21,6 @@
   },
   "sidebar.mainSidebar.category.FAQ": {
     "message": "Câu hỏi Thường gặp",
-    "description": "The label for the doc item Frequently Asked Questions in sidebar mainSidebar, linking to the doc FAQ"
+    "description": "The label for category FAQ in sidebar mainSidebar"
   }
 }
