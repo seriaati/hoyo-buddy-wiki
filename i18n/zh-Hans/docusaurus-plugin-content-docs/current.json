@@ -15,7 +15,11 @@
     "message": "抽卡记录获取脚本",
     "description": "The label for category Gacha Log in sidebar mainSidebar"
   },
-  "sidebar.mainSidebar.doc.Frequently Asked Questions": {
+  "sidebar.mainSidebar.doc.FAQ": {
+    "message": "常见问题",
+    "description": "The label for the doc item Frequently Asked Questions in sidebar mainSidebar, linking to the doc FAQ"
+  },
+  "sidebar.mainSidebar.category.FAQ": {
     "message": "常见问题",
     "description": "The label for the doc item Frequently Asked Questions in sidebar mainSidebar, linking to the doc FAQ"
   }
