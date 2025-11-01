@@ -4,7 +4,7 @@
 
 ### Tính năng mới
 
-- (`/profile`) Hỗ trợ các nhân vật mới cho GI, HSR và ZZZ.
+- (`/profile`) Hỗ trợ các nhân vật mới cho HSR và ZZZ.
 - (`/challenge genshin theater`) Thêm hỗ trợ cho các Thử Thách Thánh Bài.
 - (`/profile hsr`) Thêm thuộc tính nón ánh sáng cho các nhân vật HoYoLAB/Miyoushe.
 - (`/challenge hsr anomaly`) Thêm hỗ trợ cho Trọng Tài Dị Tướng.
