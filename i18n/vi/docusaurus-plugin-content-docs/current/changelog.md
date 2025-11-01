@@ -1,5 +1,27 @@
 # Nhật ký thay đổi
 
+## v1.16.13
+
+### Tính năng mới
+
+- (`/profile`) Hỗ trợ các nhân vật mới cho GI, HSR và ZZZ.
+- (`/challenge genshin theater`) Thêm hỗ trợ cho các Thử Thách Thánh Bài.
+- (`/profile hsr`) Thêm thuộc tính nón ánh sáng cho các nhân vật HoYoLAB/Miyoushe.
+- (`/challenge hsr anomaly`) Thêm hỗ trợ cho Trọng Tài Dị Tướng.
+- (`/profile genshin`) Thêm hỗ trợ cho Người Mẫu Nam và Nữ.
+- (`/gacha-log`) Thêm hỗ trợ cho Thiên Tinh Kỳ Vực.
+- (`/settings`) Cải tiến giao diện người dùng cho lệnh cài đặt.
+
+### Cải tiến
+
+- (`/gacha-log view`) Cải tiến hiệu năng cho trình xem nhật ký Gacha.
+- Cải tiến hiệu năng cho tự động điểm danh, tự động đổi mã, và các tác vụ tự động cho Mimo Du lịch.
+- Cải thiện hiệu suất tổng thể của bot.
+
+### Sửa lỗi
+
+Có quá nhiều để liệt kê, vui lòng xem [toàn bộ nhật ký thay đổi (EN)](https://github.com/seriaati/hoyo-buddy/releases/tag/v1.16.13).
+
 ## v1.16.12
 
 Lưu Ý: Phiên bản này đã tạm thời vô hiệu hóa Du Lịch Mimo cho Genshin Impact do dich vụ gỡ bỏ bên HoYoLAB. Tính năng sẽ được kích hoạt lại khi dịch vụ được khôi phục.

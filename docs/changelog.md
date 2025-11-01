@@ -4,7 +4,7 @@
 
 ### New Features
 
-- (`/profile`) Add support for new HSR and ZZZ characters.
+- (`/profile`) Add support for new GI, HSR and ZZZ characters.
 - (`/challenge genshin theater`) Add support for Arcana Challenges.
 - (`/profile hsr`) Add light cone stats for HoYoLAB/Miyoushe characters.
 - (`/challenge hsr anomaly`) Add support for Anomaly Arbitration.
