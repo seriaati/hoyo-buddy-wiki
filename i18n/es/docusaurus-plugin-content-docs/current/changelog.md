@@ -5,7 +5,7 @@
 **Nota:** Esta versión desactiva *Mimo Viajero* para *Genshin Impact* debido a su eliminación de HoYoLAB.  
 La función volverá a habilitarse cuando esté disponible nuevamente.
 
-## Nuevas Funciones
+### Nuevas Funciones
 
 - (`/profile`) Se agregó compatibilidad con nuevos personajes de HSR y ZZZ.  
 - (`/gacha-log import`) Se utiliza nuestro [script propio](https://github.com/studiobutter/gacha-stuff) para importar registros de gacha.  
@@ -13,7 +13,7 @@ La función volverá a habilitarse cuando esté disponible nuevamente.
 - (`/challenge genshin stygian`) Se agregó información sobre debilidades y resistencias de enemigos.  
 - Se agregó compatibilidad con la zona Nod-Krai.
 
-## Mejoras
+### Mejoras
 
 - (`/profile`) Se mejoró el manejo de errores para solicitudes a la API de Enka Network.  
 - (`/profile`) Se agregó manejo de errores para solicitudes a la API de builds de Enka Network.  
@@ -22,7 +22,7 @@ La función volverá a habilitarse cuando esté disponible nuevamente.
 - (`/notes`) Se añadieron descripciones para los diferentes campos en la ventana de configuración de recordatorios.  
 - Debido a un bug de Discord, las imágenes en formato WEBP no se pueden copiar, por lo que ahora se envían infografías en formato PNG.
 
-## Corrección de Errores
+### Corrección de Errores
 
 - (`/gacha-log view`) Se corrigió que los personajes de *Invitación Estelar Personalizado* no se contaban como pérdidas de 50/50.  
 - (`/gacha-log view`) Se corrigió la rareza incorrecta para algunos objetos de ZZZ.  

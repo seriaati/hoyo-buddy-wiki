@@ -4,7 +4,7 @@
 
 注：该版本的原神旅行 Mimo 由于被 HoYoLab 移除而关闭。该功能在原神旅行 Mimo 回归后重新启用。
 
-## 新功能
+### 新功能
 
 - (`/profile`) 新增对《绝区零》和《崩坏：星穹铁道》新角色的支持。
 - (`/gacha-log import`) 使用我们的 [自製脚本](https://github.com/studiobutter/gacha-stuff) 导入抽卡日志。
@@ -12,7 +12,7 @@
 - (`/challenge genshin stygian`) 新增了敌人弱点和敌人优势的相关信息。
 - 添加了对挪德卡莱的支持。
 
-## 改善
+### 改善
 
 - (`/profile`) 为 Enka Network 接口请求添加了更强的错误处理。
 - (`/profile`) 为 Enka Network 角色配置接口请求添加了错误处理。
@@ -21,7 +21,7 @@
 - (`/notes`) 在通知设置界面中添加了对不同输入的描述。
 - 由于 Discord 的一个漏洞，WEBP 图片无法复制，因此我们现在将信息图表改为以 PNG 格式发送。
 
-## Bug修复
+### Bug修复
 
 - (`/gacha-log view`) 修复了自选常驻角色未被计入大保底的问题。
 - (`/gacha-log view`) 修复了对于一些《绝区零》物品的错误稀有度问题。
@@ -35,12 +35,12 @@
 
 ## v1.16.11
 
-## 新功能
+### 新功能
 
 - (`/search`) 添加了冰开拓者。
 - (`/accounts`) 为邮箱登录添加了设备标识符，便于在Hoyoverse账号中心查看到 Hoyo Buddy 的设备。
 
-## Bug 修复
+### Bug 修复
 
 - (`/profile zzz`) 更新了enka.py以匹配新的API格式。
 - (`/profile`) 修复了Enka结果始终以英文返回的问题。
