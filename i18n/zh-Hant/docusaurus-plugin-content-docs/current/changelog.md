@@ -1,10 +1,32 @@
 # 更新日誌
 
+## v1.16.13
+
+### 新功能
+
+- (`/profile`) 新增對新 HSR 和 ZZZ 角色的支援。
+- (`/challenge genshin theater`) 新增對月諭聖牌挑戰的支援。
+- (`/profile hsr`) 新增 HoYoLAB/米遊社角色的光錐數據。
+- (`/challenge hsr anomaly`) 新增對異相仲裁的支援。
+- (`/profile genshin`) 新增對奇偶(男)和奇偶(女)的支援。
+- (`/gacha-log`) 新增對千星奇域的支援。
+- (`/settings`) 改版設定指令的 UI。
+
+### 優化
+
+- (`/gacha-log view`) 改善抽卡紀錄檢視器的效能。
+- 改善自動簽到、自動兌換和自動旅行 Mimo 任務的效能。
+- 改善機器人的整體效能。
+
+### 問題修復
+
+修復了多個問題，詳情請參閱[完整更新日誌](https://github.com/seriaati/hoyo-buddy/releases/tag/v1.16.13)。
+
 ## v1.16.12
 
 注意：此版本因原神旅行 Mimo 已從 HoYoLAB 移除而停用該功能。待功能重新上線後將再次啟用。
 
-## 新功能
+### 新功能
 
 - (`/profile`) 新增對星穹鐵道與絕區零新角色的支援。
 - (`/gacha-log import`) 使用我們[自己的腳本](https://github.com/studiobutter/gacha-stuff)來匯入抽卡紀錄。
@@ -12,7 +34,7 @@
 - (`/challenge genshin stygian`) 新增敵人弱點與強度資訊。
 - 新增對挪德卡萊地區的支援。
 
-## 優化
+### 優化
 
 - (`/profile`) 為 Enka Network API 請求新增更完善的錯誤處理。
 - (`/profile`) 為 Enka Network 面板 API 請求新增錯誤處理。
@@ -21,7 +43,7 @@
 - (`/notes`) 為提醒設定模態中的不同輸入新增說明。
 - 由於 Discord 的錯誤，WEBP 圖片無法複製,因此我們現在改以 PNG 格式發送資訊圖表。
 
-## 問題修復
+### 問題修復
 
 - (`/gacha-log view`) 修復自選祈願角色未被計算為 50/50 失敗的問題。
 - (`/gacha-log view`) 修復部分絕區零物品稀有度錯誤的問題。
@@ -35,12 +57,12 @@
 
 ## v1.16.11
 
-## 新功能
+### 新功能
 
 - (`/search`) 新增冰開拓者。
 - (`/accounts`) 新增電子郵件登入的設備識別碼，讓你可以在 Hoyoverse 帳號中心查看 Hoyo Buddy 的設備。
 
-## Bug Fixes
+### 問題修復
 
 - (`/profile zzz`) 更新 enka.py 以符合新的 API 格式。
 - (`/profile`) 修復 Enka 結果總是以英文返回結果的問題。
@@ -49,18 +71,18 @@
 
 ## v1.16.10
 
-## 新功能
+### 新功能
 
 - (`/profile hsr`) 支援新角色：海瑟音與刻律德菈。
 - (`/gacha-log upload`) 當帳號遊戲與匯入遊戲不同時顯示錯誤。
 
-## 優化
+### 優化
 
 - (`/gacha-log import`) 改善匯入效能。
 - 快取經常使用的資料，如設定與卡片設定，以提升效能。
 - 模糊 UID 的 5 位數字而非 3 位。
 
-## 問題修復
+### 問題修復
 
 - (`/profile zzz`) 修復隊伍卡片缺少服裝圖片的問題。
 - (`/profile zzz`) 修復 Alice 夏日服裝資料缺失的問題。
