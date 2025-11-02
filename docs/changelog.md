@@ -1,10 +1,32 @@
 # Changelogs
 
+## v1.16.13
+
+### New Features
+
+- (`/profile`) Add support for new HSR and ZZZ characters.
+- (`/challenge genshin theater`) Add support for Arcana Challenges.
+- (`/profile hsr`) Add light cone stats for HoYoLAB/Miyoushe characters.
+- (`/challenge hsr anomaly`) Add support for Anomaly Arbitration.
+- (`/profile genshin`) Add support for Manekin and Manekina.
+- (`/gacha-log`) Add support for Miliastra Wonderland.
+- (`/settings`) Revamped settings command UI.
+
+### Improvements
+
+- (`/gacha-log view`) Improve performance of gacha log viewer.
+- Improve performance of auto check-in, auto redeem, and auto Traveling Mimo tasks.
+- Improve overall performance of the bot.
+
+### Bug Fixes
+
+Too many to list, see the [full changelog](https://github.com/seriaati/hoyo-buddy/releases/tag/v1.16.13).
+
 ## v1.16.12
 
 Note: This version disables Traveling Mimo for Genshin Impact due to removal from HoYoLAB. The feature will be re-enabled once it is back.
 
-## New Features
+### New Features
 
 - (`/profile`) Add support for new HSR and ZZZ characters.
 - (`/gacha-log import`) Use our [own script](https://github.com/studiobutter/gacha-stuff) for importing gacha logs.
@@ -12,7 +34,7 @@ Note: This version disables Traveling Mimo for Genshin Impact due to removal fro
 - (`/challenge genshin stygian`) Add enemy weakness and strength info.
 - Add support for Nod-Krai city.
 
-## Improvements
+### Improvements
 
 - (`/profile`) Add more robust error handling for Enka Network API requests.
 - (`/profile`) Add error handling for Enka Network build API requests.
@@ -21,7 +43,7 @@ Note: This version disables Traveling Mimo for Genshin Impact due to removal fro
 - (`/notes`) Add descriptions for different inputs in the reminder settings modal.
 - Due to a Discord bug, WEBP images can't be copied, so we now send infographics as PNGs instead.
 
-## Bug Fixes
+### Bug Fixes
 
 - (`/gacha-log view`) Fix Custom Celestial Invitation characters not being counted as 50/50 losses.
 - (`/gacha-log view`) Fix wrong item rarity for some ZZZ items.
@@ -35,12 +57,12 @@ Note: This version disables Traveling Mimo for Genshin Impact due to removal fro
 
 ## v1.16.11
 
-## New Features
+### New Features
 
 - (`/search`) Add Ice Trailblazer.
 - (`/accounts`) Add device identifier for email logins, so you can see Hoyo Buddy's device on Hoyoverse account center.
 
-## Bug Fixes
+### Bug Fixes
 
 - (`/profile zzz`) Update enka.py to match new API format.
 - (`/profile`) Fix Enka results always returned in English.

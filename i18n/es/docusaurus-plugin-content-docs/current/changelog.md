@@ -1,11 +1,33 @@
 # Cambios
 
+## v1.16.13
+
+### Nuevas Funciones
+
+- (`/profile`) Se agregó soporte para nuevos personajes de HSR y ZZZ.
+- (`/challenge genshin theater`) Se agregó soporte para los Desafíos de Lunar Arcanum.
+- (`/profile hsr`) Se agregaron estadísticas de "cono de luz" para personajes de HoYoLAB/Miyoushe.
+- (`/challenge hsr anomaly`) Se agregó soporte para Arbitraje atípico.
+- (`/profile genshin`) Se agregó soporte para Manekin y Manekina.
+- (`/gacha-log`) Se agregó soporte para Edén Miliastra.
+- (`/settings`) Interfaz de comando de configuración completamente renovada.
+
+### Mejoras
+
+- (`/gacha-log view`) Se ha mejorado el rendimiento del visor de registro del gachapon.
+- Se ha mejorado el rendimiento del login diario, auto canje y auto Mimo Viajero.
+- Se han hecho mejoras generales en el rendimiento del bot.
+
+### Correcciones de Errores
+
+Demasiados para listar aquí, ver el [registro de cambios completo](https://github.com/seriaati/hoyo-buddy/releases/tag/v1.16.13).
+
 ## v1.16.12
 
 **Nota:** Esta versión desactiva *Mimo Viajero* para *Genshin Impact* debido a su eliminación de HoYoLAB.  
 La función volverá a habilitarse cuando esté disponible nuevamente.
 
-## Nuevas Funciones
+### Nuevas Funciones
 
 - (`/profile`) Se agregó compatibilidad con nuevos personajes de HSR y ZZZ.  
 - (`/gacha-log import`) Se utiliza nuestro [script propio](https://github.com/studiobutter/gacha-stuff) para importar registros de gacha.  
@@ -13,7 +35,7 @@ La función volverá a habilitarse cuando esté disponible nuevamente.
 - (`/challenge genshin stygian`) Se agregó información sobre debilidades y resistencias de enemigos.  
 - Se agregó compatibilidad con la zona Nod-Krai.
 
-## Mejoras
+### Mejoras
 
 - (`/profile`) Se mejoró el manejo de errores para solicitudes a la API de Enka Network.  
 - (`/profile`) Se agregó manejo de errores para solicitudes a la API de builds de Enka Network.  
@@ -22,7 +44,7 @@ La función volverá a habilitarse cuando esté disponible nuevamente.
 - (`/notes`) Se añadieron descripciones para los diferentes campos en la ventana de configuración de recordatorios.  
 - Debido a un bug de Discord, las imágenes en formato WEBP no se pueden copiar, por lo que ahora se envían infografías en formato PNG.
 
-## Corrección de Errores
+### Corrección de Errores
 
 - (`/gacha-log view`) Se corrigió que los personajes de *Invitación Estelar Personalizado* no se contaban como pérdidas de 50/50.  
 - (`/gacha-log view`) Se corrigió la rareza incorrecta para algunos objetos de ZZZ.  
