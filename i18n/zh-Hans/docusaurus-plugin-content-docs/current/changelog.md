@@ -1,5 +1,27 @@
 # 更新日志
 
+## v1.16.13
+
+### 新功能
+
+- (`/profile`) 新增了对《崩坏：星穹铁道》和《绝区零》新角色的支持。
+- (`/challenge genshin theater`) 新增了对圣牌挑战的支持。
+- (`/profile hsr`) 对HoYoLAB/米游社角色新增了光锥词条显示。
+- (`/challenge hsr anomaly`) 新增了对异相仲裁的支持。
+- (`/profile genshin`) 新增了对奇偶 • 男性和奇偶 • 女性的支持。
+- (`/gacha-log`) 新增了对千星奇域抽卡记录的支持。
+- (`/settings`) 改进了设置命令的UI界面。
+
+### 改善
+
+- (`/gacha-log view`) 改善了抽卡日志查看器的性能。
+- 改善了自动签到、自动兑换、自动旅行Mimo任务的性能。
+- 改善了机器人的整体性能。
+
+### Bug 修复
+
+由于太多，请参阅[完整更新日志](https://github.com/seriaati/hoyo-buddy/releases/tag/v1.16.13)。
+
 ## v1.16.12
 
 注：该版本的原神旅行 Mimo 由于被 HoYoLab 移除而关闭。该功能在原神旅行 Mimo 回归后重新启用。

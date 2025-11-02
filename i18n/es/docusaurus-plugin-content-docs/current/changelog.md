@@ -1,5 +1,27 @@
 # Cambios
 
+## v1.16.13
+
+### Nuevas Funciones
+
+- (`/profile`) Se agregó soporte para nuevos personajes de HSR y ZZZ.
+- (`/challenge genshin theater`) Se agregó soporte para los Desafíos de Lunar Arcanum.
+- (`/profile hsr`) Se agregaron estadísticas de "cono de luz" para personajes de HoYoLAB/Miyoushe.
+- (`/challenge hsr anomaly`) Se agregó soporte para Arbitraje atípico.
+- (`/profile genshin`) Se agregó soporte para Manekin y Manekina.
+- (`/gacha-log`) Se agregó soporte para Edén Miliastra.
+- (`/settings`) Interfaz de comando de configuración completamente renovada.
+
+### Mejoras
+
+- (`/gacha-log view`) Se ha mejorado el rendimiento del visor de registro del gachapon.
+- Se ha mejorado el rendimiento del login diario, auto canje y auto Mimo Viajero.
+- Se han hecho mejoras generales en el rendimiento del bot.
+
+### Correcciones de Errores
+
+Demasiados para listar aquí, ver el [registro de cambios completo](https://github.com/seriaati/hoyo-buddy/releases/tag/v1.16.13).
+
 ## v1.16.12
 
 **Nota:** Esta versión desactiva *Mimo Viajero* para *Genshin Impact* debido a su eliminación de HoYoLAB.  
