@@ -1,5 +1,34 @@
 # 更新日誌
 
+## v1.16.14
+
+### 新功能
+
+- (`/profile`) 新增對 ZZZ 新角色的支援。
+- (`/exploration`) 新增新地區。
+- (`/events`) 新增對 ZZZ 的支援。
+
+### 優化
+
+- (`/characters`) 預設依等級排序角色。
+- (`/characters`) 為角色稀有度在卡片背景添加微光效果。
+- (`/about`) 使用者連結改用 Discord 協定 URL。
+- 新增假設定按鈕，引導使用者使用 `/settings`。
+
+### 問題修復
+
+- (`/challenge genshin`) 修復幽境危戰和幻想真境劇詩卡片的文字溢出問題。
+- (`/challenge genshin theater`) 修復語言為越南語時秘奧挑戰不顯示的問題。
+- (`/challenge hsr anomaly`) 修復賽季名稱文字溢出問題。
+- (`/settings`) 修復無法為旅行 Mimo 設定選擇帳戶的問題。
+- (`/settings`) 修復未定事件簿帳戶可以訪問提醒設定的問題。
+- (`/profile hsr`) 修復面板卡片中行跡位置的問題。
+- (`/profile hsr`) 修復特定角色缺少屬性圖示的問題。
+- (`/search`, `/profile zzz`) 修復艾蓮、11 號等角色在自動完成中缺失的問題。
+- (`/settings`) 修復點擊兌換通知開關時更改了錯誤設定的問題。
+- (`/profile zzz`) 修復麗娜的圖片在隊伍卡片中未置中的問題。
+- 將 UID 遮罩字元從「*」改為「x」以避免 Markdown 格式問題。
+
 ## v1.16.13
 
 ### 新功能
