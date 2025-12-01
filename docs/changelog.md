@@ -1,5 +1,34 @@
 # Changelogs
 
+## v1.16.14
+
+### New Features
+
+- (`/profile`) Add support for new ZZZ characters.
+- (`/exploration`) Add new regions.
+- (`/events`) Add support for ZZZ.
+
+### Improvements
+
+- (`/characters`) Sort characters by level by default.
+- (`/characters`) Add subtle glow of character rarities to card backgrounds.
+- (`/about`) Use Discord protocol URLs for users links.
+- Add fake settings buttons to guide users to use `/settings`.
+
+### Bug Fixes
+
+- (`/challenge genshin`) Fix text overflow for Stygian Onslaught and Imaginarium Theater cards.
+- (`/challenge genshin theater`) Fix Arcana Challenges not showing up when language is Vietnamese.
+- (`/challenge hsr anomaly`) Fix text overflow in season name.
+- (`/settings`) Fix not being able to select accounts for Traveling Mimo settings.
+- (`/settings`) Fix TOT accounts being able to access reminder settings.
+- (`/profile hsr`) Fix trace positions in build cards.
+- (`/profile hsr`) Fix missing stat icons for certain characters.
+- (`/search`, `/profile zzz`) Fix missing characters like Ellen, Soldier 11 in autocomplete.
+- (`/settings`) Fix wrong setting being changed when clicking on redeem notification toggles.
+- (`/profile zzz`) Fix Rina's image not aligned to the center in team cards.
+- Change UID masking character from '*' to 'x' to avoid markdown issues.
+
 ## v1.16.13
 
 ### New Features
