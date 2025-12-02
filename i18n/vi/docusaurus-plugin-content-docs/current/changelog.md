@@ -25,7 +25,7 @@
 - (`/profile hsr`) Sửa lỗi vị trí vết tích trong thẻ nhân vật.
 - (`/profile hsr`) Sửa lỗi thiếu biểu tượng thông kê cho một số nhân vật.
 - (`/search`, `/profile zzz`) Sửa lỗi thiếu nhân vật như Ellen, Chiến Binh 11 trong tự động hoàn thành.
-- (`/settings`) Fix wrong setting being changed when clicking on redeem notification toggles.
+- (`/settings`) Sửa lổi cài đặt sai bị thay đổi khi nhấp vào các nút công tắc thông báo đổi quà.
 - (`/profile zzz`) Sửa lỗi ảnh nhân vật Rina không được canh giữa trong thẻ đội.
 - Đổi ẩn UID bằng ký tự 'x' thay vì '*' để tránh lỗi markdown.
 
