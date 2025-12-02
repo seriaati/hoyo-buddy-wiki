@@ -1,5 +1,34 @@
 # Nhật ký thay đổi
 
+## v1.16.14
+
+### Tính năng mới
+
+- (`/profile`) Thêm hỗ trợ các nhân vật mới cho ZZZ.
+- (`/exploration`) Thêm các vùng mới.
+- (`/events`) Thêm hỗ trợ cho ZZZ.
+
+### Cải tiến
+
+- (`/characters`) Mặc định lọc nhân vật theo cấp.
+- (`/characters`) Thêm hiệu ứng phát sáng nhẹ của độ hiếm nhân vât cho nền thẻ nhân vật.
+- (`/about`) Sử dụng URL giao thức Discord cho liên kết người dùng.
+- Thêm nút cài đặt giả để diều hướng người dùng sử dụng `/settings`.
+
+### Sửa lỗi
+
+- (`/challenge genshin`) Sửa lỗi tràn văn bản cho thẻ Ảo Cảnh Hiểm Ác và thẻ Nhà Hát Giả Tưởng.
+- (`/challenge genshin theater`) Sửa lỗi Thử Thách Thánh Bài không hiển thị khi ngôn ngử là Tiếng Việt.
+- (`/challenge hsr anomaly`) Sửa lỗi tràn văn bản trong tên mùa.
+- (`/settings`) Sửa lỗi không thể chọn tài khoản cho cài đặt Du Lịch Mimo.
+- (`/settings`) Sửa lỗi tài khoản TOT có thể truy cập cài đặt nhắc nhở.
+- (`/profile hsr`) Sửa lỗi vị trí vết tích trong thẻ nhân vật.
+- (`/profile hsr`) Sửa lỗi thiếu biểu tượng thông kê cho một số nhân vật.
+- (`/search`, `/profile zzz`) Sửa lỗi thiếu nhân vật như Ellen, Chiến Binh 11 trong tự động hoàn thành.
+- (`/settings`) Fix wrong setting being changed when clicking on redeem notification toggles.
+- (`/profile zzz`) Sửa lỗi ảnh nhân vật Rina không được canh giữa trong thẻ đội.
+- Đổi ẩn UID bằng ký tự 'x' thay vì '*' để tránh lỗi markdown.
+
 ## v1.16.13
 
 ### Tính năng mới
