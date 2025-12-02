@@ -1,5 +1,34 @@
 # Cambios
 
+## v1.16.14
+
+### Nuevas Funciones
+
+- (`/profile`) Se agregó soporte para nuevos personajes de ZZZ.
+- (`/exploration`) Se agregaron nuevas regiones.
+- (`/events`) Se agregó soporte para ZZZ.
+
+### Mejoras
+
+- (`/characters`) Ahora los personajes se ordenan por nivel de forma predeterminada.
+- (`/characters`) Agregado un brillo sutil según la rareza del personaje en las tarjetas.
+- (`/about`) Se usan URLs de protocolo de Discord para los enlaces de usuario.
+- Agregados botones de configuración ficticios para guiar a los usuarios a usar `/settings`.
+
+### Correcciones de Errores
+
+- (`/challenge genshin`) Se corrigió el desbordamiento de texto en las tarjetas de Conflagración estigia y Teatro Imaginario.
+- (`/challenge genshin theater`) Se corrigió que los Desafíos de Arcana no aparecían cuando el idioma estaba en vietnamita.
+- (`/challenge hsr anomaly`) Se corrigió el desbordamiento de texto en el nombre de la temporada.
+- (`/settings`) Se corrigió que no se podían seleccionar cuentas para la configuración de Mimo Viajero.
+- (`/settings`) Se corrigió que las cuentas de TOT podían acceder a la configuración de recordatorios.
+- (`/profile hsr`) Se corrigió las posiciones de los "trace" en las tarjetas de construcción.
+- (`/profile hsr`) Se corrigió iconos de estadísticas faltantes para ciertos personajes.
+- (`/search`, `/profile zzz`) Se corrigió los personajes faltantes en el autocompletado, como Ellen y Soldier 11.
+- (`/settings`) Se corrigió la configuración incorrecta que se cambiaba al hacer clic en los interruptores de notificaciones de canje.
+- (`/profile zzz`) Se corrigió la imagen de Rina no estaba centrada en las tarjetas de equipo.
+- Cambiado el carácter de enmascarado de UID de '*' a 'x' para evitar problemas con markdown.
+
 ## v1.16.13
 
 ### Nuevas Funciones
