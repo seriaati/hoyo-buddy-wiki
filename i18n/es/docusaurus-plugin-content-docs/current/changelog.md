@@ -1,5 +1,28 @@
 # Cambios
 
+## v1.16.15
+
+### Nuevas funciones
+
+- (`/build zzz`) Se añadió soporte para builds y guías de Zenless Zone Zero.
+- (`/profile hsr`) Se añadieron datos de la tarjeta de La Dalia.
+- (`/mimo`) Se volvió a habilitar el soporte de Mimo Viajero para Genshin Impact.
+- (`/mimo`) Se añadió soporte para nuevos tipos de tareas de Mimo Viajero en Genshin Impact.
+- Se mejoró la detección de fuentes para manejar mejor árabe y otros scripts no latinos.
+
+### Mejoras
+
+- (`/profile hsr`) Se mejoró el color de la tarjeta de La Dalia.
+- Se implementaron actualizaciones sin tiempo de inactividad - el bot ya no se desconectará durante las actualizaciones de código.
+
+### Corrección de errores
+
+- (`/profile genshin`) Se corrigió KeyError al convertir personajes de Genshin Impact desde HoYoLAB.
+- (`/gacha-log view`) Se corrigieron los íconos de objetos faltantes para registros de gacha de HSR y ZZZ.
+- (`/gacha-log view`) Se corrigieron problemas de interfaz en dispositivos con pantallas pequeñas.
+- Se corrigió que los interruptores de alternancia no devolvieran correctamente `False` para opciones deshabilitadas.
+- Se corrigieron varios problemas internos de implementación y programación.
+
 ## v1.16.14
 
 ### Nuevas Funciones
