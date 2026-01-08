@@ -1,5 +1,28 @@
 # Changelogs
 
+## v1.16.15
+
+### New Features
+
+- (`/build zzz`) Added a command for showing character builds for ZZZ.
+- (`/profile hsr`) Added The Dahlia card data.
+- (`/mimo`) Re-enabled Genshin Impact support for Traveling Mimo.
+- (`/mimo`) Added support for new Genshin Impact Traveling Mimo task types.
+- Improved font detection to better handle Arabic and other non-Latin scripts.
+
+### Improvements
+
+- (`/profile hsr`) Improved The Dahlia's card color.
+- Implemented zero-downtime updates - the bot will no longer go offline during code updates.
+
+### Bug Fixes
+
+- (`/profile genshin`) Fixed KeyError when converting HoYoLAB Genshin Impact characters.
+- (`/gacha-log view`) Fixed missing item icons for HSR and ZZZ gacha logs.
+- (`/gacha-log view`) Fixed UI issues on small screen devices.
+- Fixed toggle switches not properly returning `False` for disabled options.
+- Fixed several internal deployment and scheduling issues.
+
 ## v1.16.14
 
 ### New Features
