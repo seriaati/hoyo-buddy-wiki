@@ -4,7 +4,7 @@
 
 ### Nuevas funciones
 
-- (`/build zzz`) Se añadió soporte para builds y guías de Zenless Zone Zero.
+- (`/build zzz`) Se añadió un comando para mostrar builds de personajes para ZZZ.
 - (`/profile hsr`) Se añadieron datos de la tarjeta de La Dalia.
 - (`/mimo`) Se volvió a habilitar el soporte de Mimo Viajero para Genshin Impact.
 - (`/mimo`) Se añadió soporte para nuevos tipos de tareas de Mimo Viajero en Genshin Impact.

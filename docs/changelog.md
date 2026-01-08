@@ -4,7 +4,7 @@
 
 ### New Features
 
-- (`/build zzz`) Added support for Zenless Zone Zero builds and guides.
+- (`/build zzz`) Added a command for showing character builds for ZZZ.
 - (`/profile hsr`) Added The Dahlia card data.
 - (`/mimo`) Re-enabled Genshin Impact support for Traveling Mimo.
 - (`/mimo`) Added support for new Genshin Impact Traveling Mimo task types.

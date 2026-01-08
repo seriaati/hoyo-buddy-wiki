@@ -4,7 +4,7 @@
 
 ### Tính năng mới
 
-- (`/build zzz`) Thêm hỗ trợ cho build và hướng dẫn Zenless Zone Zero.
+- (`/build zzz`) Thêm lệnh để hiển thị build nhân vật cho ZZZ.
 - (`/profile hsr`) Thêm dữ liệu thẻ Dahlia.
 - (`/mimo`) Bật lại hỗ trợ Mimo Du Lịch cho Genshin Impact.
 - (`/mimo`) Thêm hỗ trợ cho các loại nhiệm vụ Mimo Du Lịch mới của Genshin Impact.
