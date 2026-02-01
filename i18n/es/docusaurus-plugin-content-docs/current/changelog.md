@@ -4,10 +4,10 @@
 
 ### Nuevas Funciones
 
-- (`/profile zzz`) Se añadieron datos de tarjetas de personajes de ZZZ 2.5, incluyendo el traje de Jane Doe.
-- (`/profile hsr`) Se añadió soporte inicial para el tipo de camino Júbilo.
-- (`/gacha-log`) Se añadió soporte para nuevos tipos de banner de ZZZ (solo importación oficial).
-- (`/build zzz`) Se muestra el autor de la guía y la fecha de última actualización en el resumen.
+- (`/profile zzz`) En Zenless se añadieron mas datos para las tarjetas de personajes de la 2.5, incluyendo la skin de Jane Doe.
+- (`/profile hsr`) Se añadió soporte inicial para la vía de la Exultación.
+- (`/gacha-log`) Se añadió soporte para los nuevos tipos de banner de Zenless (solo oficiales).
+- (`/build zzz`) Se muestrará el autor de la guía y la fecha de última actualización en el resumen.
 
 ### Mejoras
 
@@ -16,7 +16,7 @@
 ### Corrección de Errores
 
 - (`/gacha-log upload`) Se corrigió que la importación de UIGF v4.1 no funcionara.
-- (`/notes`) Se permite establecer el tiempo de notificación de notas en 0 horas antes (es decir, notificar en el momento exacto).
+- (`/notes`) Se permite establecer el tiempo de notificación de las notas en "0 horas antes" (es decir, notificar en el momento exacto).
 - (`/mimo`) Se deshabilitó el sorteo automático para el Mimo Viajero de Genshin.
 - (`/mimo`) Se maneja el error -510001 al obtener las tareas del Mimo Viajero de Genshin.
 
