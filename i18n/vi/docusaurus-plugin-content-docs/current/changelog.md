@@ -1,5 +1,25 @@
 # Nhật ký thay đổi
 
+## v1.16.16
+
+### Tính năng mới
+
+- (`/profile zzz`) Thêm dữ liệu thẻ nhân vật ZZZ 2.5, bao gồm trang phục của Jane Doe.
+- (`/profile hsr`) Thêm hỗ trợ ban đầu cho loại Vận Mệnh Hoan Hỉ.
+- (`/gacha-log`) Thêm hỗ trợ cho các loại banner mới của ZZZ (chỉ nhập chính thức).
+- (`/build zzz`) Hiển thị tác giả hướng dẫn và ngày cập nhật cuối trong tổng quan.
+
+### Cải tiến
+
+- (`/build zzz`) Cải thiện khoảng cách và khả năng đọc của các phần hướng dẫn.
+
+### Sửa lỗi
+
+- (`/gacha-log upload`) Sửa lỗi nhập UIGF v4.1 không hoạt động.
+- (`/notes`) Cho phép đặt thời gian thông báo ghi chú thực tế lên 0 giờ trước (tức là thông báo chính xác vào lúc đó).
+- (`/mimo`) Vô hiệu hóa tính năng rút thăm tự động cho Genshin Du Lịch Mimo.
+- (`/mimo`) Xử lý lỗi -510001 khi lấy nhiệm vụ của Genshin Du Lịch Mimo.
+
 ## v1.16.15
 
 ### Tính năng mới
