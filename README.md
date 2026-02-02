@@ -1,5 +1,7 @@
 # Hoyo Buddy Wiki
 
+This is the documentation repo for [Hoyo Buddy](https://hb.seria.moe).
+
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
 Translators! Please access your language directories in `i18n\[Your_Lang]`.
