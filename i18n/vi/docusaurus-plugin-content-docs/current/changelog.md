@@ -25,7 +25,7 @@
 ### Tính năng mới
 
 - (`/build zzz`) Thêm lệnh để hiển thị build nhân vật cho ZZZ.
-- (`/profile hsr`) Thêm dữ liệu thẻ Dahlia.
+- (`/profile hsr`) Thêm dữ liệu thẻ The Dahlia.
 - (`/mimo`) Bật lại hỗ trợ Mimo Du Lịch cho Genshin Impact.
 - (`/mimo`) Thêm hỗ trợ cho các loại nhiệm vụ Mimo Du Lịch mới của Genshin Impact.
 - Cải thiện phát hiện phông chữ để xử lý tốt hơn tiếng Ả Rập và các chữ viết không phải La-tinh.
@@ -33,14 +33,14 @@
 ### Cải tiến
 
 - (`/profile hsr`) Cải thiện màu sắc thẻ của Dahlia.
-- Triển khai cập nhật không có thời gian chết - bot sẽ không còn offline trong quá trình cập nhật mã.
+- Triển khai cập nhật không gián đoạn – bot sẽ không còn bị offline trong quá trình cập nhật mã.
 
 ### Sửa lỗi
 
 - (`/profile genshin`) Sửa KeyError khi chuyển đổi nhân vật Genshin Impact từ HoYoLAB.
 - (`/gacha-log view`) Sửa lỗi thiếu biểu tượng vật phẩm cho nhật ký gacha HSR và ZZZ.
 - (`/gacha-log view`) Sửa lỗi giao diện trên các thiết bị màn hình nhỏ.
-- Sửa lỗi công tắc không trả về đúng `False` khi tắt.
+- Sửa lỗi công tắc không trả về đúng `False` (Sai) khi tắt.
 - Sửa một số vấn đề triển khai và lên lịch nội bộ.
 
 ## v1.16.14
