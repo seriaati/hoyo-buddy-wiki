@@ -1,5 +1,25 @@
 # Cambios
 
+## v1.16.16
+
+### Nuevas Funciones
+
+- (`/profile zzz`) En Zenless se añadieron mas datos para las tarjetas de personajes de la 2.5, incluyendo la skin de Jane Doe.
+- (`/profile hsr`) Se añadió soporte inicial para la vía de la Exultación.
+- (`/gacha-log`) Se añadió soporte para los nuevos tipos de banner de Zenless (solo oficiales).
+- (`/build zzz`) Se muestrará el autor de la guía y la fecha de última actualización en el resumen.
+
+### Mejoras
+
+- (`/build zzz`) Se mejoró el espaciado y legibilidad de las secciones de la guía.
+
+### Corrección de Errores
+
+- (`/gacha-log upload`) Se corrigió que la importación de UIGF v4.1 no funcionara.
+- (`/notes`) Se permite establecer el tiempo de notificación de las notas en "0 horas antes" (es decir, notificar en el momento exacto).
+- (`/mimo`) Se deshabilitó el sorteo automático para el Mimo Viajero de Genshin.
+- (`/mimo`) Se maneja el error -510001 al obtener las tareas del Mimo Viajero de Genshin.
+
 ## v1.16.15
 
 ### Nuevas funciones

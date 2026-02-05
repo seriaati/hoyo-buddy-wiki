@@ -1,5 +1,25 @@
 # Changelogs
 
+## v1.16.16
+
+### New Features
+
+- (`/profile zzz`) Add ZZZ 2.5 character card data, including Jane Doe's skin.
+- (`/profile hsr`) Add initial support for the Elation path type.
+- (`/gacha-log`) Add support for new ZZZ banner types (official import only).
+- (`/build zzz`) Show guide author and last updated date in the overview.
+
+### Improvements
+
+- (`/build zzz`) Improved spacing and readability of guide sections.
+
+### Bug Fixes
+
+- (`/gacha-log upload`) Fix UIGF v4.1 import not working.
+- (`/notes`) Allow setting reminder notify time to 0 hours before.
+- (`/mimo`) Disable auto draw for Genshin Traveling Mimo.
+- (`/mimo`) Handle -510001 error when fetching Genshin Mimo tasks.
+
 ## v1.16.15
 
 ### New Features
