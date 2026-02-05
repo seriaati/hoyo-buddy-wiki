@@ -1,11 +1,31 @@
 # Nhật ký thay đổi
 
+## v1.16.16
+
+### Tính năng mới
+
+- (`/profile zzz`) Thêm dữ liệu thẻ nhân vật ZZZ 2.5, bao gồm trang phục của Jane Doe.
+- (`/profile hsr`) Thêm hỗ trợ ban đầu cho loại Vận Mệnh Vui Vẻ.
+- (`/gacha-log`) Thêm hỗ trợ cho các loại banner mới của ZZZ (chỉ nhập chính thức).
+- (`/build zzz`) Hiển thị tác giả hướng dẫn và ngày cập nhật cuối trong tổng quan.
+
+### Cải tiến
+
+- (`/build zzz`) Cải thiện khoảng cách và khả năng đọc của các phần hướng dẫn.
+
+### Sửa lỗi
+
+- (`/gacha-log upload`) Sửa lỗi nhập UIGF v4.1 không hoạt động.
+- (`/notes`) Cho phép đặt thời gian thông báo ghi chú thực tế lên 0 giờ trước (tức là thông báo chính xác vào lúc đó).
+- (`/mimo`) Vô hiệu hóa tính năng rút thăm tự động cho Genshin Du Lịch Mimo.
+- (`/mimo`) Xử lý lỗi -510001 khi lấy nhiệm vụ của Genshin Du Lịch Mimo.
+
 ## v1.16.15
 
 ### Tính năng mới
 
 - (`/build zzz`) Thêm lệnh để hiển thị build nhân vật cho ZZZ.
-- (`/profile hsr`) Thêm dữ liệu thẻ Dahlia.
+- (`/profile hsr`) Thêm dữ liệu thẻ The Dahlia.
 - (`/mimo`) Bật lại hỗ trợ Mimo Du Lịch cho Genshin Impact.
 - (`/mimo`) Thêm hỗ trợ cho các loại nhiệm vụ Mimo Du Lịch mới của Genshin Impact.
 - Cải thiện phát hiện phông chữ để xử lý tốt hơn tiếng Ả Rập và các chữ viết không phải La-tinh.
@@ -13,14 +33,14 @@
 ### Cải tiến
 
 - (`/profile hsr`) Cải thiện màu sắc thẻ của Dahlia.
-- Triển khai cập nhật không có thời gian chết - bot sẽ không còn offline trong quá trình cập nhật mã.
+- Triển khai cập nhật không gián đoạn – bot sẽ không còn bị offline trong quá trình cập nhật mã.
 
 ### Sửa lỗi
 
 - (`/profile genshin`) Sửa KeyError khi chuyển đổi nhân vật Genshin Impact từ HoYoLAB.
 - (`/gacha-log view`) Sửa lỗi thiếu biểu tượng vật phẩm cho nhật ký gacha HSR và ZZZ.
 - (`/gacha-log view`) Sửa lỗi giao diện trên các thiết bị màn hình nhỏ.
-- Sửa lỗi công tắc không trả về đúng `False` khi tắt.
+- Sửa lỗi công tắc không trả về đúng `False` (Sai) khi tắt.
 - Sửa một số vấn đề triển khai và lên lịch nội bộ.
 
 ## v1.16.14
