@@ -5,7 +5,7 @@
 ### Tính năng mới
 
 - (`/profile zzz`) Thêm dữ liệu thẻ nhân vật ZZZ 2.5, bao gồm trang phục của Jane Doe.
-- (`/profile hsr`) Thêm hỗ trợ ban đầu cho loại Vận Mệnh Hoan Hỉ.
+- (`/profile hsr`) Thêm hỗ trợ ban đầu cho loại Vận Mệnh Vui Vẻ.
 - (`/gacha-log`) Thêm hỗ trợ cho các loại banner mới của ZZZ (chỉ nhập chính thức).
 - (`/build zzz`) Hiển thị tác giả hướng dẫn và ngày cập nhật cuối trong tổng quan.
 
