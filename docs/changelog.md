@@ -1,5 +1,22 @@
 # Changelogs
 
+## v1.16.17
+
+### New Features
+
+- (`/profile hsr`) Add support for new characters in HSR 4.0, including the new Elation path.
+- (`/challenge zzz shiyu`) Add support for Shiyu Defense v2.
+- (`/profile zzz`) Add card data for ZZZ 2.6 characters.
+
+### Bug Fixes
+
+- (`/challenge zzz shiyu`) Fix card rendering issues and handle errors when fetching Shiyu Defense data.
+- (`/characters hsr`) Fix filter breaking when path character counts are missing.
+- (`/events zzz`) Fix weapon object parsing.
+- (`/profile hsr`) Fix rank percentage formatting for top-ranked builds.
+- (`/notes`) Fix missing stamina reminder interval for Honkai Impact 3rd.
+- Fix localization newline issues in zh-CN and other languages.
+
 ## v1.16.16
 
 ### New Features
