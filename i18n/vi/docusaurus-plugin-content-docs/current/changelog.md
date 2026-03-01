@@ -1,5 +1,22 @@
 # Nhật ký thay đổi
 
+## v1.16.17
+
+### Tính năng mới
+
+- (`/profile hsr`) Thêm hỗ trợ cho các nhân vật mới trong Honkai: Star Rail 4.0, bao gồm Vận Mệnh Vui Vẻ mới.
+- (`/challenge zzz shiyu`) Thêm hỗ trợ cho Bảo Vệ Trụ Shiyu v2.
+- (`/profile zzz`) Thêm dữ liệu thẻ cho các nhân vật ZZZ 2.6.
+
+### Sửa lỗi
+
+- (`/challenge zzz shiyu`) Sửa lỗi render thẻ và xử lý lỗi khi tải dữ liệu Bảo Vệ Trụ Shiyu.
+- (`/characters hsr`) Sửa lỗi bộ lọc bị hỏng khi thiếu số lượng nhân vật theo vận mệnh.
+- (`/events zzz`) Sửa lỗi phân tích đối tượng vũ khí.
+- (`/profile hsr`) Sửa lỗi định dạng phần trăm xếp hạng cho các build hạng cao.
+- (`/notes`) Sửa lỗi thiếu khoảng thời gian nhắc nhở hồi thể lực cho Honkai Impact 3rd.
+- Sửa lỗi xuống dòng trong bản địa hóa ở zh-CN và các ngôn ngữ khác.
+
 ## v1.16.16
 
 ### Tính năng mới
