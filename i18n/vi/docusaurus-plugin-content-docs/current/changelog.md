@@ -14,8 +14,8 @@
 - (`/characters hsr`) Sửa lỗi bộ lọc bị hỏng khi thiếu số lượng nhân vật theo vận mệnh.
 - (`/events zzz`) Sửa lỗi phân tích đối tượng vũ khí.
 - (`/profile hsr`) Sửa lỗi định dạng phần trăm xếp hạng cho các build hạng cao.
-- (`/notes`) Sửa lỗi thiếu khoảng thời gian nhắc nhở hồi thể lực cho Honkai Impact 3rd.
-- Sửa lỗi xuống dòng trong bản địa hóa ở zh-CN và các ngôn ngữ khác.
+- (`/notes`) Sửa lỗi thiếu khoảng thời gian nhắc nhở Thể Lực cho Honkai Impact 3rd.
+- Sửa lỗi xuống dòng trong ngôn ngữ zh-CN và các ngôn ngữ khác.
 
 ## v1.16.16
 
