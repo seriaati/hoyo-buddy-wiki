@@ -5,15 +5,15 @@
 ### Nuevas Funciones
 
 - (`/profile hsr`) Se añadió soporte para los nuevos personajes de Honkai: Star Rail 4.0, incluyendo la nueva Vía de la Exultación.
-- (`/challenge zzz shiyu`) Se añadió soporte para Shiyu Defense v2.
-- (`/profile zzz`) Se añadieron datos de tarjetas para los personajes de ZZZ 2.6.
+- (`/challenge zzz shiyu`) Se añadió soporte para la Defensa Shiyu v2.
+- (`/profile zzz`) Se añadieron datos de tarjetas para los personajes de la 2.6 de Zenless.
 
 ### Corrección de Errores
 
-- (`/challenge zzz shiyu`) Se corrigieron problemas de renderizado de tarjetas y se añadió manejo de errores al obtener datos de Shiyu Defense.
+- (`/challenge zzz shiyu`) Se corrigieron problemas de renderizado de tarjetas y se añadió manejo de errores al obtener datos de Defensa Shiyu.
 - (`/characters hsr`) Se corrigió el filtro que fallaba cuando faltaban los recuentos de personajes por vía.
 - (`/events zzz`) Se corrigió el análisis del objeto de arma.
-- (`/profile hsr`) Se corrigió el formato del porcentaje de clasificación para los builds de mayor rango.
+- (`/profile hsr`) Se corrigió el formato del porcentaje de clasificación para las builds de mayor rango.
 - (`/notes`) Se corrigió la falta del intervalo de recordatorio de stamina para Honkai Impact 3rd.
 - Se corrigieron los problemas de saltos de línea en la localización de zh-CN y otros idiomas.
 
