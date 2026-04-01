@@ -1,5 +1,21 @@
 # Changelogs
 
+## v1.16.18
+
+### New Features
+
+- (`/profile`) Add support for new ZZZ 2.7 and HSR 4.1 characters.
+
+### Bug Fixes
+
+- (`/characters zzz`) Fix performance issue when there are many characters.
+- (`/events hsr`) Fix Anomaly Arbitration showing wrong name in dropdown.
+- (`/card-settings`) Fix invalid query error for ZZZ.
+- (`/notes`) Fix error when switching accounts in the UI.
+- (`/search`) Fix error when searching books in HSR.
+- (`/profile zzz`) Fix Aria's image appearing incorrectly in team cards.
+- (`/profile zzz`) Fix Pan Yinhu skin missing card data.
+
 ## v1.16.17a
 
 ### Improvements
