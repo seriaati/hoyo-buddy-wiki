@@ -1,5 +1,11 @@
 # Nhật ký thay đổi
 
+## v1.16.17a
+
+### Cải thiện
+
+- Cập nhật tin nhắn mẹo "Bạn có biết" - ngày 1 tháng 4 năm 2026
+
 ## v1.16.17
 
 ### Tính năng mới

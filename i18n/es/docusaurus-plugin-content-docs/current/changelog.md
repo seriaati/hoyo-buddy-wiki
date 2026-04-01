@@ -1,5 +1,11 @@
 # Cambios
 
+## v1.16.17a
+
+### Mejoras
+
+- Actualización del mensaje de consejos "¿Sabías que...?" - 1 de abril de 2026
+
 ## v1.16.17
 
 ### Nuevas Funciones

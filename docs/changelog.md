@@ -1,5 +1,11 @@
 # Changelogs
 
+## v1.16.17a
+
+### Improvements
+
+- Update to "Did you know" tip message - April 1st, 2026
+
 ## v1.16.17
 
 ### New Features
