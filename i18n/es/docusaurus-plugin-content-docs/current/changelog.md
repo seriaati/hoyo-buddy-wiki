@@ -1,5 +1,21 @@
 # Cambios
 
+## v1.16.18
+
+### Novedades
+
+- (`/profile`) Se añadió soporte para los nuevos personajes de ZZZ 2.7 y HSR 4.1.
+
+### Corrección de errores
+
+- (`/characters zzz`) Se corrigió un problema de rendimiento al cargar muchos personajes.
+- (`/events hsr`) Se corrigió un error por el cual "Arbitraje atípico" mostraba un nombre incorrecto en el menú desplegable.
+- (`/card-settings`) Se corrigió un error de consulta no válida para ZZZ.
+- (`/notes`) Se corrigió un error al cambiar de cuenta en la interfaz de usuario.
+- (`/search`) Se corrigió un error al buscar libros en HSR.
+- (`/profile zzz`) Se corrigió un error donde la imagen de Aria aparecía de forma incorrecta en las tarjetas de equipo.
+- (`/profile zzz`) Se corrigió la falta de datos en la tarjeta para la skin de Pan Yinhu.
+
 ## v1.16.17a
 
 ### Mejoras
