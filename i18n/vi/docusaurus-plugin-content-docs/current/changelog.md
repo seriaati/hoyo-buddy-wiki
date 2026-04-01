@@ -1,5 +1,21 @@
 # Nhật ký thay đổi
 
+## v1.16.18
+
+### Tính năng mới
+
+- (`/profile` ) Thêm hỗ trợ cho các nhân vật ZZZ 2.7 và HSR 4.1
+
+## Sửa lỗi
+
+- (`/characters zzz`) Sửa vấn đề hiệu năng khi có quá nhiều nhân vật.
+- (`/events hsr`) Sữa Trọng Tài Dị Tướng hiển thị sai tên trong menu thả xuống.
+- (`/card-settings`) Sửa lỗi truy vấn không hợp lệ cho ZZZ.
+- (`/notes`) Khắc phục lỗi khi chuyển đổi tài khoản trong giao diện người dùng.
+- (`/search`) Khắc phục lỗi khi tìm kiếm sách trong HSR.
+- (`/profile zzz`) Sửa ảnh nhân vật Ảia hiển thi không chính sác trong thẻ đội hình.
+- (`/profile zzz`) Sửa lỗi thiếu dử liệu thẻ skin nhân vận Pan Yinhu
+
 ## v1.16.17a
 
 ### Cải thiện
