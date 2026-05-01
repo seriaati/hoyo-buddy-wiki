@@ -1,5 +1,24 @@
 # Changelogs
 
+## v1.16.19
+
+### New Features
+
+- (`/challenge hsr anomaly`) Now fetches the 3 most recent runs.
+- (`/mimo`) Add support for completing Genshin video tasks.
+- (`/notes`) Add ZZZ Cloud Global option to open game buttons.
+- (`/profile hsr`) Show Trailblazer's path instead of element.
+
+### Improvements
+
+- (`/profile`) Add support for new HSR characters (Elation Trailblazers).
+- (`/challenge zzz shiyu`) Hide clear time text in newer card layouts.
+
+### Bug Fixes
+
+- (`/challenge hsr anomaly`) Fix icon position for empty character blocks.
+- (`/profile zzz`) Fix bad image positions or missing skin images for Aria and Nangong.
+
 ## v1.16.18
 
 ### New Features
