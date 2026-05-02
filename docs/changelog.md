@@ -17,7 +17,7 @@
 ### Bug Fixes
 
 - (`/challenge hsr anomaly`) Fix icon position for empty character blocks.
-- (`/profile zzz`) Fix bad image positions or missing skin images for Aria and Nangong.
+- (`/profile zzz`) Fix bad image positions or missing skin images for Aria and Nangong Yu.
 
 ## v1.16.18
 

@@ -4,6 +4,25 @@
 
 ### Tính năng mới
 
+- (`/challenge hsr anomaly`) Giờ lấy dữ liệu từ 3 lần chạy gần nhất.
+- (`/mimo`) Hỗ trợ hoàn thành các nhiệm vụ coi video bên Genshin.
+- (`/notes`) Hỗ trợ nút mở ZZZ Bản Cloud Quốc Tế.
+- (`/profile hsr`) Hiển thị Vạn Mệnh của Nhà Khai Phá thay vì yếu tố.
+
+### Cải thiện
+
+- (`/profile`) Thêm hỗ trợ cho các nhân vật HSR mới (Nhà Khai Phá - Vui Vẻ).
+- (`/challenge zzz shiyu`) Ẩn chữ Thời gian hoàn thành trong các thẻ bố cục mới.
+
+## Sửa lỗi
+
+- (`/challenge hsr anomaly`) Sửa vị trí icon cho các khối ký tự trống.
+- (`/profile zzz`) Sửa vị trí hiển thị hoặc thiếu hình ảnh skin cho nhân vật Aria và Nangong Yu.
+
+## v1.16.18
+
+### Tính năng mới
+
 - (`/profile` ) Thêm hỗ trợ cho các nhân vật ZZZ 2.7 và HSR 4.1
 
 ## Sửa lỗi
