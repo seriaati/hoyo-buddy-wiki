@@ -1,5 +1,24 @@
 # Cambios
 
+## v1.16.19
+
+### Nuevas Funciones
+
+- (`/challenge hsr anomaly`) Ahora se obtienen los 3 registros más recientes.
+- (`/mimo`) Se añadió soporte para completar las tareas de video de Genshin.
+- (`/notes`) Se añadió la opción de ZZZ Cloud Global a los botones para abrir el juego.
+- (`/profile hsr`) Ahora se muestra la Vía del Trazacaminos en lugar del elemento.
+
+### Mejoras
+
+- (`/profile`) Se añadió soporte para los nuevos personajes de HSR  y el Trazacaminos de la Exultación.
+- (`/challenge zzz shiyu`) Se ocultó el texto del tiempo de superación en los diseños de tarjeta más recientes.
+
+### Corrección de errores
+
+- (`/challenge hsr anomaly`) Se corrigió la posición del ícono para los bloques de personajes vacíos.
+- (`/profile zzz`) Se corrigieron las posiciones incorrectas de las imágenes o la falta de imágenes en las skins de Aria y Nangong Yu.
+
 ## v1.16.18
 
 ### Novedades
