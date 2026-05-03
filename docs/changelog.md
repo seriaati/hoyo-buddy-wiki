@@ -11,7 +11,7 @@
 
 ### Improvements
 
-- (`/profile`) Add support for new HSR characters (Elation Trailblazers).
+- (`/profile`) Add support for new HSR characters and Elation Trailblazers.
 - (`/challenge zzz shiyu`) Hide clear time text in newer card layouts.
 
 ### Bug Fixes
