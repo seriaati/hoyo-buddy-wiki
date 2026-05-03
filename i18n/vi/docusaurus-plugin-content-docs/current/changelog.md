@@ -11,7 +11,7 @@
 
 ### Cải thiện
 
-- (`/profile`) Thêm hỗ trợ cho các nhân vật HSR mới (Nhà Khai Phá - Vui Vẻ).
+- (`/profile`) Thêm hỗ trợ cho các nhân vật HSR mới và Nhà Khai Phá - Vui Vẻ.
 - (`/challenge zzz shiyu`) Ẩn chữ Thời gian hoàn thành trong các thẻ bố cục mới.
 
 ## Sửa lỗi
