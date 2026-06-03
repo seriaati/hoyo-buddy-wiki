@@ -1,5 +1,22 @@
 # Cambios
 
+## v1.16.20
+
+### Novedades
+
+* (`/profile zzz`) Se añadieron los datos de las tarjetas para los personajes de ZZZ 2.8.
+* (`/profile zzz`) Se añadieron los datos de la tarjeta para la skin de Miyabi.
+
+### Mejoras
+
+* (`/profile hsr`) Se mejoró la lógica de visualización de estadísticas en las tarjetas de builds, incluyendo las estadísticas de aumento de daño de Exultación.
+
+### Corrección de errores
+
+* (`/profile zzz`) Se corrigió la falta de imágenes del Cine mental en los nuevos personajes de ZZZ.
+* (`/profile`) Se mantuvo el orden de los personajes pasados como parámetros.
+* (`/gacha-log`) Se añadió una imagen provisional para los íconos faltantes de los objetos del gacha.
+
 ## v1.16.19
 
 ### Nuevas Funciones
