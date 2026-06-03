@@ -1,6 +1,23 @@
 # Nhật ký thay đổi
 
-## v1.16.18
+## v1.16.20
+
+### New Features
+
+- (`/profile zzz`) Thêm dữ liệu thẻ ZZZ v2.8.
+- (`/profile zzz`) Thểm dữ liệu skin Miyabi cho thẻ nhân vật.
+
+### Improvements
+
+- (`/profile hsr`) Cải thiện logic hiển thị chỉ số trong thẻ nhân vật, bao gồm cả chỉ số tăng sát thương khi sử dụng nhân vật Vui Vẻ.
+
+### Bug Fixes
+
+- (`/profile zzz`) Sửa một số nhân vật ZZZ thiếu Phim Ý Cảnh.
+- (`/profile`) Giữ nguyên thứ tự các ký tự được truyền làm tham số..
+- (`/gacha-log`) Hiển thị hình ảnh giữ chỗ cho các biểu tượng mục gacha bị thiếu.
+
+## v1.16.19
 
 ### Tính năng mới
 
