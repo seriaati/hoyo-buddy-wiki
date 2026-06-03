@@ -1,5 +1,22 @@
 # Changelogs
 
+## v1.16.20
+
+### New Features
+
+- (`/profile zzz`) Add ZZZ 2.8 character card data.
+- (`/profile zzz`) Add Miyabi skin card data.
+
+### Improvements
+
+- (`/profile hsr`) Improve stat display logic in build cards, including Elation damage boost stats.
+
+### Bug Fixes
+
+- (`/profile zzz`) Fix new ZZZ characters missing Mindscape images.
+- (`/profile`) Preserve the order of characters passed as parameters.
+- (`/gacha-log`) Show a placeholder image for missing gacha item icons.
+
 ## v1.16.19
 
 ### New Features
