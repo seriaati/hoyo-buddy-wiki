@@ -1,5 +1,35 @@
 # Changelogs
 
+## v1.16.21
+
+### New Features
+
+- (`/profile hsr`) Add HSR 4.3 character card data.
+- (`/profile zzz`) Add ZZZ 3.0 character card data.
+- (`/profile`) Add Enka style cards for HSR and ZZZ.
+- (`/profile zzz`) Add support for the Wind element.
+- (`/characters zzz`) Show W-engine and skill levels.
+
+### Improvements
+
+- (`/profile`) Speed up card rendering by caching resized images.
+- (`/characters`) Cache rendered pages for faster navigation.
+- (`/events`) Show a clear unsupported-feature message for games without an event calendar.
+
+### Bug Fixes
+
+- (`/challenge hsr`) Handle incomplete floor data in Apocalyptic Shadow, Memory of Chaos, and Pure Fiction without erroring.
+- (`/profile`) Fix Genshin Impact damage bonus stat incorrectly defaulting to Anemo.
+- (`/profile`) Fix Genshin Impact card errors caused by missing stats and costume art data.
+- (`/profile zzz`) Fix image positions for ZZZ 3.0 template 2 characters.
+- (`/card-settings`) Fix validation error when configuring the Genshin Traveler.
+- (`/card-settings`) Apply "apply to all" template and theme changes immediately.
+- (`/search`) Fix error when opening the Quotes or Stories pages for characters with no data.
+- (`/notes`) Show reminder text in mobile push notifications.
+- (`/redeem`) Improve handling of code redemption errors.
+- Fix disabling notifications not taking effect, which could cause unwanted auto-redeem DMs.
+- Fall back to your Discord client language when no language is set in settings.
+
 ## v1.16.20
 
 ### New Features
