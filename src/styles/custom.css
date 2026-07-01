@@ -1,3 +1,17 @@
+/* Nunito, self-hosted, used only for the site title next to the logo. */
+@import '@fontsource/nunito/700.css';
+
+/* Tighten the gap between the logo and the title text. */
+.site-title {
+  gap: 0.375rem;
+}
+
+/* Site title text (the "Hoyo Buddy" label beside the logo). */
+.site-title span {
+  font-family: 'Nunito', var(--sl-font-system, sans-serif);
+  font-weight: 700;
+}
+
 /* Brand accent (Hoyo Buddy pink #e8537a) mapped to Starlight's theme variables. */
 :root {
   --sl-color-accent-low: #4f1421;
