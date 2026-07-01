@@ -4,12 +4,14 @@ argument-hint: <version> (e.g. v1.16.20)
 allowed-tools: Bash(gh api:*), Bash(gh repo:*), Read, Edit
 ---
 
-Write the English release notes for Hoyo Buddy version **$1** and add them to `docs/changelog.md`.
+Write the English release notes for Hoyo Buddy version **$1** and add them to
+`src/content/docs/en/changelog.md`.
 
 Follow exactly this process:
 
-1. **Read the current changelog.** Read `docs/changelog.md` to learn the existing style, tone, and
-   formatting, and to find the previous released version (the most recent `## vX.Y.Z` heading).
+1. **Read the current changelog.** Read `src/content/docs/en/changelog.md` to learn the existing
+   style, tone, and formatting, and to find the previous released version (the most recent
+   `## vX.Y.Z` heading).
 
 2. **Fetch the version diff.** Get every commit between the previous version and **$1**:
    ```
@@ -24,7 +26,8 @@ Follow exactly this process:
    ```
 
 4. **Write the release notes in the style of the current ones.** Add a new `## $1` section at the top
-   of the changelog, just under the `# Changelogs` heading and before the previous version.
+   of the changelog body, just under the frontmatter (the `---` block) and before the previous
+   version's `## vX.Y.Z` section.
 
 ## Rules
 
