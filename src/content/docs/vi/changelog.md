@@ -2,18 +2,47 @@
 title: "Nhật ký thay đổi"
 ---
 
+## v1.16.21
+
+### Tính năng mới
+
+- (`/profile hsr`) Thêm đử liệu thẻ nhân vật HSR v4.3.
+- (`/profile zzz`) Thêm đử liệu thẻ nhân vật ZZZ v3.0.
+- (`/profile`) Thêm kiểu thẻ nhân vật Enka cho HSR và ZZZ.
+- (`/profile zzz`) Hỗ trợ nhân vật với thuộc tính Phong.
+- (`/characters zzz`) Hiển thị W-Engine và Trình độ kỹ năng.
+
+### Cải thiện
+
+- (`/profile`) Tăng tốc độ hiển thị thẻ bằng cách lưu trữ hình ảnh đã được thay đổi kích thước vào bộ nhớ cache.
+- (`/characters`) Lưu vào bộ nhớ cache các trang đã được hiển thị để điều hướng nhanh hơn.
+- (`/events`) Hiển thị thông báo rõ ràng về tính năng không được hỗ trợ đối với các trò chơi không có lịch sự kiện.
+- (`/notes`) Hiển thị văn bản nhắc nhở trong thông báo đẩy trên thiết bị di động.
+
+### Sửa lỗi
+
+- (`/challenge hsr`) Xử lý dữ liệu Ải không đầy đủ trong Trọng Tài Dị Tướng, Hòi Ức Hỗn Độn và Kể Chuyện Hư Cấu mà không gây lỗi.
+- (`/profile`) Sửa lỗi chỉ số cộng sát thương trong Genshin Impact mặc định sai là hệ Phong.
+- (`/profile`) Khắc phục lỗi thẻ bài Genshin Impact do thiếu dữ liệu chỉ số và hình ảnh trang phục.
+- (`/profile zzz`) Sửa vị trí hình ảnh của mẫu thẻ 2 cho các nhân vật ZZZ 3.0.
+- (`/card-settings`) Khắc phục lỗi xác thực khi cấu hình nhân vật nhà lữ hành cho Genshin.
+- (`/search`) Khắc phục lỗi khi mở trang Trích dẫn hoặc Truyện cho các nhân vật không có dữ liệu..
+- (`/redeem`) Cải thiện việc xử lý lỗi khi đổi mã..
+- Khắc phục lỗi tắt thông báo không có hiệu lực, điều này có thể dẫn đến việc tự động đổi tin nhắn trực tiếp không mong muốn.
+- Nếu không có ngôn ngữ nào được thiết lập trong cài đặt, Discord sẽ tự động chuyển về ngôn ngữ mặc định của ứng dụng.
+
 ## v1.16.20
 
-### New Features
+### Tính năng mới
 
 - (`/profile zzz`) Thêm dữ liệu thẻ ZZZ v2.8.
 - (`/profile zzz`) Thểm dữ liệu skin Miyabi cho thẻ nhân vật.
 
-### Improvements
+### Cải thiện
 
 - (`/profile hsr`) Cải thiện logic hiển thị chỉ số trong thẻ nhân vật, bao gồm cả chỉ số tăng sát thương khi sử dụng nhân vật Vui Vẻ.
 
-### Bug Fixes
+### Sửa lỗi
 
 - (`/profile zzz`) Sửa một số nhân vật ZZZ thiếu Phim Ý Cảnh.
 - (`/profile`) Giữ nguyên thứ tự các ký tự được truyền làm tham số..
@@ -33,7 +62,7 @@ title: "Nhật ký thay đổi"
 - (`/profile`) Thêm hỗ trợ cho các nhân vật HSR mới và Nhà Khai Phá - Vui Vẻ.
 - (`/challenge zzz shiyu`) Ẩn chữ Thời gian hoàn thành trong các thẻ bố cục mới.
 
-## Sửa lỗi
+### Sửa lỗi
 
 - (`/challenge hsr anomaly`) Sửa vị trí icon cho các khối ký tự trống.
 - (`/profile zzz`) Sửa vị trí hiển thị hoặc thiếu hình ảnh skin cho nhân vật Aria và Nangong Yu.
