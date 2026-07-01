@@ -2,7 +2,8 @@
 :root {
   --sl-color-accent-low: #4f1421;
   --sl-color-accent: #cb2f56;
-  --sl-color-accent-high: #f7c2d0;
+  /* Dark mode's link/accent text uses --sl-color-accent-high; use the brand pink for contrast. */
+  --sl-color-accent-high: #e8537a;
 }
 
 :root[data-theme='light'] {
