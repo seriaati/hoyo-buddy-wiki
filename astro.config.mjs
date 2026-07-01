@@ -2,7 +2,7 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
-const LOCALES = ['en', 'vi', 'es', 'zh-Hans', 'zh-Hant'];
+const LOCALES = ['en', 'vi', 'es', 'zh-cn', 'zh-tw'];
 
 // Old Docusaurus doc name -> new lowercase slug.
 const NAME_MAP = {
@@ -62,8 +62,8 @@ export default defineConfig({
         en: { label: 'English', lang: 'en' },
         vi: { label: 'Tiếng Việt', lang: 'vi' },
         es: { label: 'Español', lang: 'es' },
-        'zh-Hans': { label: '简体中文', lang: 'zh-CN' },
-        'zh-Hant': { label: '繁體中文', lang: 'zh-TW' },
+        'zh-cn': { label: '简体中文', lang: 'zh-CN' },
+        'zh-tw': { label: '繁體中文', lang: 'zh-TW' },
       },
 
       sidebar: [
