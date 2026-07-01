@@ -33,6 +33,21 @@ for (const locale of LOCALES) {
   }
 }
 
+// Redirect BCP 47 script-subtag variants to the actual locale folders:
+//   zh-Hant/* -> zh-tw/*   (Traditional Chinese)
+//   zh-Hans/* -> zh-cn/*   (Simplified Chinese)
+const ZH_ALIAS_MAP = { 'zh-Hant': 'zh-tw', 'zh-Hans': 'zh-cn' };
+for (const [alias, target] of Object.entries(ZH_ALIAS_MAP)) {
+  // Bare locale root
+  redirects[`/${alias}`] = `/${target}/intro/`;
+  redirects[`/${alias}/`] = `/${target}/intro/`;
+  // Every known page slug
+  for (const newSlug of Object.values(NAME_MAP)) {
+    redirects[`/${alias}/${newSlug}`] = `/${target}/${newSlug}/`;
+    redirects[`/${alias}/${newSlug}/`] = `/${target}/${newSlug}/`;
+  }
+}
+
 export default defineConfig({
   site: 'https://docs.hb.seria.moe',
 
