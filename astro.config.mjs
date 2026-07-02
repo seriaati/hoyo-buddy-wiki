@@ -26,6 +26,9 @@ const NAME_MAP = {
 // with the old mixed-case filenames) to the new /<locale>/<slug>/ URL.
 const redirects = { '/': '/en/intro/' };
 for (const locale of LOCALES) {
+  redirects[`/${locale}`] = `/${locale}/intro/`;
+  redirects[`/${locale}/`] = `/${locale}/intro/`;
+
   const oldPrefix = locale === 'en' ? '/docs' : `/${locale}/docs`;
   redirects[oldPrefix] = `/${locale}/intro/`;
   for (const [oldName, newSlug] of Object.entries(NAME_MAP)) {
