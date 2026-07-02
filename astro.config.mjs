@@ -1,6 +1,7 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import starlightLinksValidator from 'starlight-links-validator';
 
 const LOCALES = ['en', 'vi', 'es', 'zh-cn', 'zh-tw'];
 
@@ -58,6 +59,10 @@ export default defineConfig({
 
   integrations: [
     starlight({
+      // Fails the build on internal links to nonexistent pages or heading
+      // anchors. Relative ./page.md links are the site's normal style, so
+      // only broken targets are errors.
+      plugins: [starlightLinksValidator({ errorOnRelativeLinks: false })],
       title: 'Hoyo Buddy',
       logo: {
         src: './src/assets/logo.svg',
