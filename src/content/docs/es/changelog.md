@@ -2,6 +2,35 @@
 title: "Cambios"
 ---
 
+## v1.16.21
+
+### Nuevas Funciones
+
+* (`/profile hsr`) Se añadieron los datos de las tarjetas para los personajes de HSR 4.3.
+* (`/profile zzz`) Se añadieron los datos de las tarjetas para los personajes de ZZZ 3.0.
+* (`/profile`) Se añadieron las tarjetas estilo Enka para HSR y ZZZ.
+* (`/profile zzz`) Se añadió soporte para el elemento Viento.
+* (`/characters zzz`) Ahora se muestran los niveles del Amplificador y de las habilidades.
+
+### Mejoras
+
+* (`/profile`) Se aceleró el renderizado de las tarjetas al guardar en caché las imágenes redimensionadas.
+* (`/characters`) Se guardaron en caché las páginas renderizadas para una navegación más rápida.
+* (`/events`) Ahora se muestra un mensaje claro de "función no compatible" para los juegos que no tienen calendario de eventos.
+* (`/notes`) Ahora se muestra el texto del recordatorio en las notificaciones *push* de dispositivos móviles.
+
+### Corrección de errores
+
+* (`/challenge hsr`) Se mejoró el manejo de datos incompletos de pisos en Espejismo apocalíptico, Memoria del caos y Pura ficción para que no generen error.
+* (`/profile`) Se corrigió un error en Genshin Impact donde la estadística de bono de daño se asignaba incorrectamente a Anemo por defecto.
+* (`/profile`) Se corrigieron los errores en las tarjetas de Genshin Impact causados por la falta de estadísticas y datos de arte de las skins.
+* (`/profile zzz`) Se corrigieron las posiciones de las imágenes para los personajes de la plantilla 2 de ZZZ 3.0.
+* (`/card-settings`) Se corrigió un error de validación al configurar al Viajero de Genshin.
+* (`/search`) Se corrigió un error al abrir las páginas de Citas o Historias en personajes que no tienen datos.
+* (`/redeem`) Se mejoró el manejo de errores al canjear códigos.
+* Se corrigió un error por el cual la desactivación de notificaciones no surtía efecto, lo que podía causar que te llegaran mensajes directos no deseados de canje automático.
+* Ahora se usa el idioma de tu cliente de Discord por defecto cuando no tienes configurado ningún idioma en los ajustes.
+
 ## v1.16.20
 
 ### Novedades
