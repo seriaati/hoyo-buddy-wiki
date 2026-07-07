@@ -7,7 +7,7 @@ Nếu bạn sử dụng trình duyệt Firefox, bạn cần thêm ngoại lệ c
 Địa chỉ của trang web:
 
 ```plaintext
-https://geetest-server-test.seria.moe
+https://app.hb.seria.moe
 ```
 
 ![demo1](../../../assets/images/firefox-demo1-vi.png)

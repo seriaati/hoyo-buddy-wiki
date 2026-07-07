@@ -7,7 +7,7 @@ If you use a Firefox based browser, you need to add an exception for Hoyo Buddy 
 Website Address:
 
 ```plaintext
-https://geetest-server-test.seria.moe
+https://app.hb.seria.moe
 ```
 
 ![demo1](../../../assets/images/firefox-demo1.png)

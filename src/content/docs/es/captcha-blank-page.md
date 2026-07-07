@@ -7,7 +7,7 @@ Si usas un navegador basado en Firefox, necesitas agregar una excepción para Ho
 Dirección del sitio web:
 
 ```plaintext
-https://geetest-server-test.seria.moe
+https://app.hb.seria.moe
 ```
 
 ![demo1](../../../assets/images/firefox-demo1.png)

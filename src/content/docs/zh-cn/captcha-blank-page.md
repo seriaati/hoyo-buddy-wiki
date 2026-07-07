@@ -7,7 +7,7 @@ title: "CAPTCHA页为空白"
 网址：
 
 ```plaintext
-https://geetest-server-test.seria.moe
+https://app.hb.seria.moe
 ```
 
 ![demo1](../../../assets/images/firefox-demo1-zh.png)
