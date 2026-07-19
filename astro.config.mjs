@@ -64,6 +64,13 @@ export default defineConfig({
       // only broken targets are errors.
       plugins: [starlightLinksValidator({ errorOnRelativeLinks: false })],
       title: 'Hoyo Buddy',
+      // Fallback for pages where no description can be derived from the body
+      // (e.g. the changelog). Per-page descriptions come from src/routeData.ts.
+      description:
+        'Hoyo Buddy is a feature rich, easy to use, and beautifully designed Discord bot made for Hoyoverse gamers.',
+      // Adjusts link preview embeds (Open Graph tags): site name, banner
+      // image, and body-derived page descriptions.
+      routeMiddleware: './src/routeData.ts',
       logo: {
         src: './src/assets/logo.svg',
         alt: 'Hoyo Buddy Logo',
