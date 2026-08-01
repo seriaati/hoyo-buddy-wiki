@@ -2,6 +2,41 @@
 title: "Changelogs"
 ---
 
+## v1.16.22
+
+### New Features
+
+- (`/accompany`) Add new command to view HoYoLAB accompany characters, set yours, and enable auto check-in.
+- (`/profile genshin`) Add Enka style cards for Genshin Impact.
+- (`/profile hsr`) Add new HSR character card data, including Himeko SP.
+- (`/profile zzz`) Add ZZZ 3.1 character card data.
+- (`/profile zzz`) Add support for the Lumiflux element.
+- (`/card-settings`) Enable the substat roll display toggle for Enka style cards in Genshin and HSR.
+
+### Improvements
+
+- (`/card-settings`) Redesign image settings and merge them into card settings; the standalone image settings button in `/profile` is removed.
+- (`/card-settings`) Allow custom image settings on all templates, with a warning when the selected template doesn't support them.
+- (`/card-settings`) Show official art previews based on the actual card art.
+- (`/card-settings`) Remove Pixiv support for custom images, as the service it relied on no longer works.
+- (`/profile genshin`) Remove the hattvr template; existing settings are migrated to the Enka style template.
+- Improve character autocomplete speed and reliability for Genshin and HSR commands.
+
+### Bug Fixes
+
+- (`/profile`) Fix Traveler pre-selection when passed as a parameter.
+- (`/profile zzz`) Fix error for W-Engines without a sub-stat.
+- (`/profile zzz`) Fix wrong Velina skin ID.
+- (`/card-settings`) Fix crash caused by character ID collisions between games.
+- (`/card-settings`) Fix image selector not opening on the current image's page.
+- (`/characters zzz`) Fix crash when there are more than 25 faction filter options.
+- (`/characters genshin`) Fix error when submitting an empty filter selection.
+- (`/challenge`) Show history when the current phase has no data.
+- (`/challenge genshin`) Fix the Spiral Abyss damage info section disappearing when some ranks have no data.
+- (`/events`) Fix error when an event reward has an unknown rarity.
+- (`/search`) Fix autocomplete error for beta items.
+- Fix documentation links opening in the wrong language.
+
 ## v1.16.21
 
 ### New Features
