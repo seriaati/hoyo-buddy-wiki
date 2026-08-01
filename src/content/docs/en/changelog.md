@@ -7,6 +7,7 @@ title: "Changelogs"
 ### New Features
 
 - (`/accompany`) Add new command to view HoYoLAB accompany characters, set yours, and enable auto check-in.
+- (`/settings`) Add new settings related to auto accompany check-in feature.
 - (`/profile genshin`) Add Enka style cards for Genshin Impact.
 - (`/profile hsr`) Add new HSR character card data, including Himeko SP.
 - (`/profile zzz`) Add ZZZ 3.1 character card data.
