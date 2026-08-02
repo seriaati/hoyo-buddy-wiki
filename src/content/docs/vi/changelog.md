@@ -2,6 +2,42 @@
 title: "Nhật ký thay đổi"
 ---
 
+## v1.16.22
+
+### Tính năng mới
+
+- (`/accompany`) Thêm lệnh Ghé Thăm để xem nhân vật ghé thăm HoYoLAB, đặt nhân vật bạn yêu thích, và bật tự động check-in.
+- (`/settings`) Thêm các cài đặt mới liên quan tới ghé thăm nhân vật HoYoLAB và tự động check-in.
+- (`/profile genshin`) Thêm kiểu thẻ Enka cho Genshin Impact.
+- (`/profile hsr`) Thêm dử liệu cho nhân vật mới cho HSR, trong đó có Himeko SP.
+- (`/profile zzz`) Thêm dử liệu cho nhân vật mới cho ZZZ v3.1.
+- (`/profile zzz`) Thêm hỗ trợ cho nguyên tố Lưu Minh.
+- (`/card-settings`)  Thêm hỗ trợ hiển thị roll thuộc tính phụ cho loại thẻ Enka của Genshin và HSR.
+
+### Cải thiện
+
+- (`/card-settings`)  Thiết kế lại Cài đặt hình ảnh và gộp vào cài đặt thẻ; nút cài đặt thẻ riêng trong `/profile` đã bị xóa.
+- (`/card-settings`) Cho phép sử dụng hình ảnh riêng, với một cảnh báo khi chọn kiểu thẻ không hổ trợ chúng.
+- (`/card-settings`) Hiển thị bản xem trước ảnh vẻ chỉnh thức dựa trên ảnh vẻ thẻ thực tế.
+- (`/card-settings`) Đã loại bỏ sử dụng Pixiv cho ảnh tùy chỉnh, vì dịch vụ cung cắp tính năng không còn hoạt động.
+- (`/profile genshin`) Đã loại bỏ kiểu thẻ hattvr; các cài đặt hiện có đã được chuyển sang kiểu thẻ Enka.
+- Cải thiện tốc độ tự động hoàn thành và độ tin cậy cho lệnh Genshin và HSR.
+
+### Sửa lỗi
+
+- (`/profile`) Sửa lỗi Nhà Lữ Hành lựa chọn trước khi được chuyển dưới dạng thông số.
+- (`/profile zzz`) Sửa lỗi cho W-Engine không có thuộc tính phụ.
+- (`/profile zzz`) Sửa ID Skin sai của nhân vật Velina.
+- (`/card-settings`) Sửa lỗi làm hổng do ID nhân vật va chạm giữa các trò chơi.
+- (`/card-settings`) Sửa bộ chọn ảnh không mở trong trang ảnh hiện tại.
+- (`/characters zzz`) Sửa lỗi hỏng khi có hơn 25 tùy chọn lọc phe phái.
+- (`/characters genshin`) Sửa lỗi khi gửi lựa chọn bộ lọc trống.
+- (`/challenge`) Hiển thị lịch sử khi giai đoạn hiện tại không có dử liệu.
+- (`/challenge genshin`) Sửa lỗi phần thông tin sát thương của La Hoàn Thâm Cảnh biến mất khi một số cấp bậc không có dữ liệu.
+- (`/events`) Khắc phục lỗi khi phần thưởng sự kiện có độ hiếm không xác định.
+- (`/search`) Khắc phục lỗi tự động hoàn thành cho các mục phiên bản beta.
+- Sửa lỗi liên kết tài liệu mở sai ngôn ngữ..
+
 ## v1.16.21
 
 ### Tính năng mới
