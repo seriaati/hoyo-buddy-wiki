@@ -2,6 +2,42 @@
 title: "Cambios"
 ---
 
+## v1.16.22
+
+### Nuevas Funciones
+
+* (`/accompany`) Se añadió un nuevo comando para ver los personajes de compañía de HoYoLAB, configurar el tuyo y habilitar el check-in automático.
+* (`/settings`) Se añadieron nuevos ajustes relacionados con la función de check-in automático de compañía.
+* (`/profile genshin`) Se añadieron las tarjetas estilo Enka para Genshin Impact.
+* (`/profile hsr`) Se añadieron los datos de las tarjetas para los nuevos personajes de HSR, incluyendo a Himeko SP.
+* (`/profile zzz`) Se añadieron los datos de las tarjetas para los personajes de ZZZ 3.1.
+* (`/profile zzz`) Se añadió soporte para el elemento Lumiflujo.
+* (`/card-settings`) Se habilitó el interruptor para mostrar las tiradas de subestadísticas en las tarjetas estilo Enka de Genshin y HSR.
+
+### Mejoras
+
+* (`/card-settings`) Se rediseñaron los ajustes de imagen y se fusionaron con los ajustes de la tarjeta; se eliminó el botón independiente de ajustes de imagen en `/profile`.
+* (`/card-settings`) Se permitieron los ajustes de imagen personalizados en todas las plantillas, con una advertencia cuando la plantilla seleccionada no es compatible con ellos.
+* (`/card-settings`) Ahora se muestran vistas previas del arte oficial basadas en el arte real de la tarjeta.
+* (`/card-settings`) Se eliminó el soporte de Pixiv para imágenes personalizadas, ya que el servicio del que dependía dejó de funcionar.
+* (`/profile genshin`) Se eliminó la plantilla hattvr; los ajustes existentes se migraron a la plantilla estilo Enka.
+* Se mejoró la velocidad y confiabilidad del autocompletado de personajes para los comandos de Genshin y HSR.
+
+### Corrección de errores
+
+* (`/profile`) Se corrigió la preselección del Viajero cuando se pasa como parámetro.
+* (`/profile zzz`) Se corrigió un error en los Amplificadores que no tienen una subestadística.
+* (`/profile zzz`) Se corrigió el ID incorrecto de la skin de Velina.
+* (`/card-settings`) Se corrigió un cuelgue causado por la colisión de los ID de personajes entre los juegos.
+* (`/card-settings`) Se corrigió un error por el cual el selector de imágenes no se abría en la página de la imagen actual.
+* (`/characters zzz`) Se corrigió un cuelgue que ocurría cuando había más de 25 opciones en el filtro de facciones.
+* (`/characters genshin`) Se corrigió un error al enviar una selección de filtros vacía.
+* (`/challenge`) Ahora se muestra el historial cuando la fase actual no tiene datos.
+* (`/challenge genshin`) Se corrigió un error por el cual la sección de información de daño de la Espiral del Abismo desaparecía cuando algunos rangos no tenían datos.
+* (`/events`) Se corrigió un error que ocurría cuando la recompensa de un evento tenía una rareza desconocida.
+* (`/search`) Se corrigió un error de autocompletado en los objetos de la beta.
+* Se corrigió un error por el cual los enlaces de la documentación se abrían en un idioma equivocado.
+
 ## v1.16.21
 
 ### Nuevas Funciones
