@@ -77,6 +77,8 @@ export default defineConfig({
       },
       favicon: '/favicon.ico',
       customCss: ['./src/styles/custom.css'],
+      // Injects Vercel Web Analytics into every page's <head>.
+      components: { Head: './src/components/Head.astro' },
 
       // Built-in local search (Pagefind) is on by default — no Algolia.
 
