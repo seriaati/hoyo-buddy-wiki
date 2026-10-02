@@ -2,6 +2,27 @@
 title: "Changelogs"
 ---
 
+## v1.16.24
+
+### New Features
+
+- (`/lunar-arcana`) Add new command to view your Imaginarium Theater Lunar Arcana card collection, with duplicate counts and a per-card browse view. Not available for Miyoushe accounts.
+- (`/gacha-log import`) Add one-click import for Genshin HoYoLAB accounts, no URL needed.
+- (`/farm`) Add Snezhnaya.
+- (`/profile zzz`) Add ZZZ 3.2 character card data.
+- (`/profile zzz`) Add support for the Armorer specialty, including Laceration DMG on Armorer build cards.
+- (`/characters zzz`) Add Armorer to the specialty filter.
+- (`/profile hsr`) Add Pearl card data.
+
+### Improvements
+
+- (`/farm`) Replace the city buttons with a select menu.
+
+### Bug Fixes
+
+- (`/gacha-log import`) Fix ZZZ records imported from UIGF files without rarity data being saved with an invalid rarity.
+- (`/profile zzz`) Fix agent images sometimes missing for newly released agents.
+
 ## v1.16.23
 
 ### New Features

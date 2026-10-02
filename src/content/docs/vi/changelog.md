@@ -2,6 +2,27 @@
 title: "Nhật ký thay đổi"
 ---
 
+## v1.16.24
+
+### New Features
+
+- (`/lunar-arcana`) Thêm lệnh mới để xem bộ sưu tập thẻ Thánh Bài Ánh Trăng trong Nhà Hát Giả Tưởng, kèm số lượng thẻ trùng và giao diện xem từng thẻ. Không hỗ trợ tài khoản Miyoushe.
+- (`/gacha-log import`) Thêm nhập lịch sử cầu nguyện bằng một nút cho tài khoản Genshin HoYoLAB, không cần URL.
+- (`/farm`) Thêm Snezhnaya.
+- (`/profile zzz`) Thêm dữ liệu thẻ nhân vật ZZZ 3.2.
+- (`/profile zzz`) Hỗ trợ đặc tính Ngự Kích, bao gồm hiển thị Laceration DMG trên thẻ của nhân vật Ngự Kích.
+- (`/characters zzz`) Thêm Ngự Kích vào bộ lọc đặc tính.
+- (`/profile hsr`) Thêm dữ liệu thẻ nhân vật Pearl.
+
+### Improvements
+
+- (`/farm`) Thay các nút thành phố bằng menu lựa chọn.
+
+### Bug Fixes
+
+- (`/gacha-log import`) Sửa lỗi bản ghi ZZZ nhập từ tệp UIGF không có dữ liệu độ hiếm bị lưu với độ hiếm không hợp lệ.
+- (`/profile zzz`) Sửa lỗi đôi khi không hiển thị hình ảnh của các nhân vật mới ra mắt.
+
 ## v1.16.23
 
 ### New Features
