@@ -6,13 +6,13 @@ title: "Cambios"
 
 ### Nuevas Funciones
 
-- (`/lunar-arcana`) Se añadió un nuevo comando para ver tu colección de cartas Lunar Arcana del Teatro Imaginario, con el número de duplicados y una vista para explorar cada carta. No disponible para cuentas de Miyoushe.
+- (`/lunar-arcana`) Se añadió un nuevo comando para ver tu colección de cartas de Arcanos lunares del Teatro Fantasía, con el número de duplicados y una vista para explorar cada carta. No disponible para cuentas de Miyoushe.
 - (`/gacha-log import`) Se añadió la importación con un clic para cuentas de HoYoLAB de Genshin, sin necesidad de URL.
 - (`/farm`) Se añadió Snezhnaya.
 - (`/profile zzz`) Se añadieron los datos de las tarjetas de personajes de ZZZ 3.2.
-- (`/profile zzz`) Se añadió compatibilidad con la especialidad Armorer, incluido el Laceration DMG en las tarjetas de personajes Armorer.
-- (`/characters zzz`) Se añadió Armorer al filtro de especialidades.
-- (`/profile hsr`) Se añadieron los datos de la tarjeta de Pearl.
+- (`/profile zzz`) Se añadió compatibilidad con la especialidad Armero, incluido el daño de laceración en las tarjetas de personajes Armero.
+- (`/characters zzz`) Se añadió Armero al filtro de especialidades.
+- (`/profile hsr`) Se añadieron los datos de la tarjeta de Perla.
 
 ### Mejoras
 
@@ -251,7 +251,7 @@ title: "Cambios"
 
 ### Correcciones de Errores
 
-- (`/challenge genshin`) Se corrigió el desbordamiento de texto en las tarjetas de Conflagración estigia y Teatro Imaginario.
+- (`/challenge genshin`) Se corrigió el desbordamiento de texto en las tarjetas de Conflagración estigia y Teatro Fantasía.
 - (`/challenge genshin theater`) Se corrigió que los Desafíos de Arcana no aparecían cuando el idioma estaba en vietnamita.
 - (`/challenge hsr anomaly`) Se corrigió el desbordamiento de texto en el nombre de la temporada.
 - (`/settings`) Se corrigió que no se podían seleccionar cuentas para la configuración de Mimo Viajero.

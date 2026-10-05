@@ -10,7 +10,7 @@ title: "Nhật ký thay đổi"
 - (`/gacha-log import`) Thêm nhập lịch sử cầu nguyện bằng một nút cho tài khoản Genshin HoYoLAB, không cần URL.
 - (`/farm`) Thêm Snezhnaya.
 - (`/profile zzz`) Thêm dữ liệu thẻ nhân vật ZZZ 3.2.
-- (`/profile zzz`) Hỗ trợ đặc tính Ngự Kích, bao gồm hiển thị Laceration DMG trên thẻ của nhân vật Ngự Kích.
+- (`/profile zzz`) Hỗ trợ đặc tính Ngự Kích, bao gồm hiển thị DMG Nhuệ Bạo trên thẻ của nhân vật Ngự Kích.
 - (`/characters zzz`) Thêm Ngự Kích vào bộ lọc đặc tính.
 - (`/profile hsr`) Thêm dữ liệu thẻ nhân vật Pearl.
 
