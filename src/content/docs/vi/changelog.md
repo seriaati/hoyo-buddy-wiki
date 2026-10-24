@@ -2,6 +2,38 @@
 title: "Nhật ký thay đổi"
 ---
 
+## v1.17.0
+
+### Tính năng mới
+
+- (`/supporter`) Thêm lệnh mới để xem đặc quyền người ủng hộ và trạng thái ủng hộ của bạn.
+- (`/reminders`) Thêm lệnh mới để quản lý mọi lời nhắc ở cùng một nơi: Ghi Chép Thời Gian Thực, cày nguyên liệu và sự kiện web.
+- (`/profile`) Thêm thẻ nhân vật động dành cho người ủng hộ: mẫu thẻ 1 của ZZZ, mẫu thẻ 1 và 2 của HSR, và mẫu thẻ 1 của Genshin (dùng ảnh động từ lá bài Thất Thánh Triệu Hồi).
+- (`/profile`) Thêm bộ chọn trang phục nhân vật cho các mẫu thẻ vẽ nhân vật theo trang phục.
+- (`/card-settings`) Thêm nút bật/tắt ảnh động cho từng nhân vật, mặc định bật.
+- (`/card-settings`) Thêm mục cài đặt hàng loạt để áp dụng mẫu thẻ, chủ đề tối và tùy chọn ảnh động của nhân vật hiện tại cho tất cả nhân vật.
+- (`/settings`) Thêm tính năng tự động nhập nhật ký gacha cho người ủng hộ, nhập nhật ký gacha mới của Genshin và ZZZ mỗi 6 giờ. Thông báo nhập thành công mặc định tắt.
+- (`/exploration`) Thêm Nod-Krai, Snezhnaya, Windrest Peak và Temple of Space, kèm cấp độ khu định cư.
+- (`/profile zzz`) Thêm dữ liệu thẻ nhân vật Phoenix và Severian.
+
+### Cải thiện
+
+- Người chưa ủng hộ giờ có thể có tối đa 6 tài khoản, 5 ảnh tự chọn cho mỗi nhân vật và tạo 5 ảnh AI mỗi ngày (đặt lại lúc 00:00 UTC+8). Tài khoản và ảnh hiện có vẫn được giữ nguyên.
+- (`/settings`) Chuyển nhắc nhở Ghi Chép Thời Gian Thực sang `/reminders`.
+- (`/notes`) Thay nút Cài đặt bằng nút Lời nhắc, mở nhắc nhở Ghi Chép Thời Gian Thực của tài khoản đó.
+- (`/profile zzz`) Khi chọn chỉ số phụ HP/ATK/DEF, cả dạng cố định lẫn dạng % trên Đĩa đều được tô sáng.
+- Hiển thị các lệnh tạo ảnh như `/profile`, `/notes`, `/challenge`, `/characters` và `/exploration` theo bố cục Components V2 mới của Discord.
+- Xuất ảnh được tạo dưới dạng WEBP thay vì PNG.
+
+### Sửa lỗi
+
+- (`/profile`) Sửa lỗi thẻ được vẽ lại đôi khi vẫn hiển thị ảnh cũ.
+- (`/profile hsr`) Sửa lỗi không tải được biểu tượng nón ánh sáng và nhân vật.
+- (`/accounts`) Sửa lỗi gửi lại mã xác minh qua điện thoại cho tài khoản Miyoushe.
+- (`/settings`) Sửa lỗi thông báo không tìm thấy tài khoản liệt kê sai trò chơi.
+- Sửa lỗi nhắc nhở Ghi Chép Thời Gian Thực đôi khi ngừng hoạt động cho đến khi bot khởi động lại.
+- Sửa lỗi thông báo DM của tác vụ tự động đôi khi bị gửi trễ hàng giờ.
+
 ## v1.16.24
 
 ### New Features
