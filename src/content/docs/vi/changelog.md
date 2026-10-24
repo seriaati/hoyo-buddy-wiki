@@ -36,7 +36,7 @@ title: "Nhật ký thay đổi"
 
 ## v1.16.24
 
-### New Features
+### Tính năng mới
 
 - (`/lunar-arcana`) Thêm lệnh mới để xem bộ sưu tập thẻ Thánh Bài Ánh Trăng trong Nhà Hát Giả Tưởng, kèm số lượng thẻ trùng và giao diện xem từng thẻ. Không hỗ trợ tài khoản Miyoushe.
 - (`/gacha-log import`) Thêm nhập lịch sử cầu nguyện bằng một nút cho tài khoản Genshin HoYoLAB, không cần URL.
@@ -46,18 +46,18 @@ title: "Nhật ký thay đổi"
 - (`/characters zzz`) Thêm Ngự Kích vào bộ lọc đặc tính.
 - (`/profile hsr`) Thêm dữ liệu thẻ nhân vật Pearl.
 
-### Improvements
+### Cải thiện
 
 - (`/farm`) Thay các nút thành phố bằng menu lựa chọn.
 
-### Bug Fixes
+### Sửa lỗi
 
 - (`/gacha-log import`) Sửa lỗi bản ghi ZZZ nhập từ tệp UIGF không có dữ liệu độ hiếm bị lưu với độ hiếm không hợp lệ.
 - (`/profile zzz`) Sửa lỗi đôi khi không hiển thị hình ảnh của các nhân vật mới ra mắt.
 
 ## v1.16.23
 
-### New Features
+### Tính năng mới
 
 - (`/search hsr`) Thêm mục Kẻ Địch.
 - (`/challenge hsr`) Thêm Chế Độ Hướng Đến Biển Sao vào thẻ Hồi Ức Hỗn Độn, Kể Chuyện Hư Cấu, và Ảo Ảnh Tận Thế.
@@ -67,7 +67,7 @@ title: "Nhật ký thay đổi"
 - (`/accounts`) Thêm trạng thái và lần chạy tự động gần nhất cho tài khoản được chọn. 
 - (`/profile zzz`) Thêm dử liệu thẻ nhân vật Sigrid.
 
-### Improvements
+### Cải thiện
 
 - (`/search`) Tách thành các lệnh con `/search genshin` và `/search hsr`, tương tự như lệnh `/profile`..
 - (`/gacha-log import`) Chỉ lấy các bản ghi mới thay vì toàn bộ lịch sử trong mỗi lần nhập dữ liệu.
@@ -79,7 +79,7 @@ title: "Nhật ký thay đổi"
 - Ngừng gửi thông báo tin nhắn trực tiếp (DM) cho các tác vụ tự động đã được xếp hàng sau khi cài đặt tương ứng bị tắt, đồng thời hiển thị thời gian thực hiện hành động trên mỗi thông báo.
 - Gộp tối đa 10 thông báo tác vụ tự động vào một tin nhắn trực tiếp (DM) duy nhất và loại bỏ các thông báo về tác vụ thành công đã cũ hơn 12 giờ.
 
-### Bug Fixes
+### Sửa lỗi
 
 - (`/gacha-log view`) Khắc phục lỗi các nhân vật hạng S trong ZZZ quay được từ banner tăng tỷ lệ của chính họ lại bị tính là thua cơ chế 50/50.
 
