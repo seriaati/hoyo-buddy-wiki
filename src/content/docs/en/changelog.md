@@ -2,6 +2,38 @@
 title: "Changelogs"
 ---
 
+## v1.17.0
+
+### New Features
+
+- (`/supporter`) Add new command to view sponsor perks and your sponsor status.
+- (`/reminders`) Add new command to manage all reminders in one place: real-time notes, farm, and web event reminders.
+- (`/profile`) Add animated build cards for sponsors: ZZZ Template 1, HSR Templates 1 and 2, and Genshin Template 1 (using the animated Genius Invokation TCG card art).
+- (`/profile`) Add a character skin selector on templates that draw the character in their outfit.
+- (`/card-settings`) Add an animated image toggle per character, on by default.
+- (`/card-settings`) Add a bulk settings section to apply the current character's template, dark theme, and animated image options to all characters.
+- (`/settings`) Add auto gacha log import for sponsors, importing new Genshin and ZZZ gacha logs every 6 hours. Success notifications are off by default.
+- (`/exploration`) Add Nod-Krai, Snezhnaya, Windrest Peak, and Temple of Space, including settlement levels.
+- (`/profile zzz`) Add Phoenix and Severian card data.
+
+### Improvements
+
+- Non-sponsors can now have up to 6 accounts, 5 custom images per character, and generate 5 AI images per day (resets at 00:00 UTC+8). Existing accounts and images are kept.
+- (`/settings`) Move real-time notes reminders to `/reminders`.
+- (`/notes`) Replace the Settings button with a Reminders button that opens the account's notes reminders.
+- (`/profile zzz`) Highlight both flat and % HP/ATK/DEF substats on discs when either is selected.
+- Display image commands like `/profile`, `/notes`, `/challenge`, `/characters`, and `/exploration` in Discord's new Components V2 layout.
+- Export generated images as WEBP instead of PNG.
+
+### Bug Fixes
+
+- (`/profile`) Fix redrawn cards sometimes showing the previous image.
+- (`/profile hsr`) Fix light cone and character icons failing to load.
+- (`/accounts`) Fix resending the mobile verification code for Miyoushe accounts.
+- (`/settings`) Fix the no-account error listing the wrong games.
+- Fix real-time notes reminders sometimes stopping until the bot restarts.
+- Fix auto task DM notifications sometimes being delivered hours late.
+
 ## v1.16.24
 
 ### New Features

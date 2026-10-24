@@ -2,6 +2,38 @@
 title: "Cambios"
 ---
 
+## v1.17.0
+
+### Nuevas Funciones
+
+- (`/supporter`) Se añadió un nuevo comando para ver las ventajas de patrocinador y tu estado de patrocinador.
+- (`/reminders`) Se añadió un nuevo comando para gestionar todos los recordatorios en un solo lugar: notas en tiempo real, farmeo y eventos web.
+- (`/profile`) Se añadieron tarjetas de personajes animadas para patrocinadores: plantilla 1 de ZZZ, plantillas 1 y 2 de HSR y plantilla 1 de Genshin (con el arte animado de las cartas de Invocación de los Sabios).
+- (`/profile`) Se añadió un selector de skins de personajes en las plantillas que muestran al personaje con su atuendo.
+- (`/card-settings`) Se añadió un interruptor de imagen animada para cada personaje, activado por defecto.
+- (`/card-settings`) Se añadió una sección de configuración en masa para aplicar la plantilla, el tema oscuro y la opción de imagen animada del personaje actual a todos los personajes.
+- (`/settings`) Se añadió la importación automática de registros del gacha para patrocinadores, que importa los registros nuevos de Genshin y ZZZ cada 6 horas. Las notificaciones de importaciones exitosas están desactivadas por defecto.
+- (`/exploration`) Se añadieron Nod-Krai, Snezhnaya, Windrest Peak y Temple of Space, incluidos los niveles de los asentamientos.
+- (`/profile zzz`) Se añadieron los datos de las tarjetas de Phoenix y Severian.
+
+### Mejoras
+
+- Quienes no son patrocinadores ahora pueden tener hasta 6 cuentas y 5 imágenes personalizadas por personaje, y generar 5 imágenes con IA al día (el límite se reinicia a las 00:00 UTC+8). Las cuentas e imágenes existentes se conservan.
+- (`/settings`) Se trasladaron los recordatorios de notas en tiempo real a `/reminders`.
+- (`/notes`) Se reemplazó el botón de Configuración por un botón de Recordatorios que abre los recordatorios de notas de la cuenta.
+- (`/profile zzz`) Ahora se resaltan en los discos las subestadísticas de PV/ATQ/DEF tanto planas como porcentuales cuando se selecciona cualquiera de las dos.
+- Los comandos con imágenes, como `/profile`, `/notes`, `/challenge`, `/characters` y `/exploration`, ahora se muestran con el nuevo diseño Components V2 de Discord.
+- Las imágenes generadas ahora se exportan en WEBP en lugar de PNG.
+
+### Corrección de errores
+
+- (`/profile`) Se corrigió que las tarjetas redibujadas a veces mostraran la imagen anterior.
+- (`/profile hsr`) Se corrigió que los íconos de los conos de luz y de los personajes no se cargaran.
+- (`/accounts`) Se corrigió el reenvío del código de verificación por SMS para cuentas de Miyoushe.
+- (`/settings`) Se corrigió que el error de cuenta no encontrada mostrara los juegos equivocados.
+- Se corrigió que los recordatorios de notas en tiempo real a veces dejaran de funcionar hasta que se reiniciara el bot.
+- Se corrigió que las notificaciones por mensaje directo de las tareas automáticas a veces llegaran con horas de retraso.
+
 ## v1.16.24
 
 ### Nuevas Funciones
