@@ -12,7 +12,7 @@ Hoyo Buddy is designed from the ground up to support all (current and future) Ho
 
 ## It's Free
 
-Hoyo Buddy is completely free. We understand the frustration when developers lock fundamental features (like custom art for character build cards) behind a paywall, essentially forcing you to pay. That's why we never lock any features behind a paywall. Everything on Hoyo Buddy is free — there are no "premium" features or perks.
+Every command in Hoyo Buddy is free to use. We understand the frustration when developers lock fundamental features (like custom art for character build cards) behind a paywall, essentially forcing you to pay. That's why you never need to pay to use any of Hoyo Buddy's commands. Sponsors help keep the bot running and in development, and as a thank you they get extra perks on top, such as higher limits, top priority in auto tasks, and animated build cards. See [Sponsor perks](/en/features/#sponsor-perks) for the full list.
 
 ## It's Easy to Use
 

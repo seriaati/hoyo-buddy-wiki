@@ -12,7 +12,7 @@ Hoyo Buddy được thiết kế từ đầu để hỗ trợ tất cả các tr
 
 ## Miễn phí
 
-Hoyo Buddy hoàn toàn miễn phí. Chúng tôi hiểu sự thất vọng khi các nhà phát triển khóa các tính năng cơ bản (như ảnh nghệ thuật tùy chỉnh cho thẻ build nhân vật) sau một bức tường trả phí, về cơ bản là buộc bạn phải trả phí. Đó là lý do tại sao chúng tôi không bao giờ khóa bất kỳ tính năng nào sau một bức tường trả phí. Mọi thứ trên Hoyo Buddy đều miễn phí — không có tính năng hoặc đặc quyền "cao cấp" nào.
+Mọi lệnh của Hoyo Buddy đều miễn phí. Chúng tôi hiểu sự thất vọng khi các nhà phát triển khóa các tính năng cơ bản (như ảnh nghệ thuật tùy chỉnh cho thẻ build nhân vật) sau một bức tường trả phí, về cơ bản là buộc bạn phải trả phí. Đó là lý do tại sao bạn không bao giờ phải trả phí để sử dụng bất kỳ lệnh nào của Hoyo Buddy. Nhà tài trợ giúp bot tiếp tục hoạt động và phát triển, và để cảm ơn, họ nhận được thêm các đặc quyền như giới hạn cao hơn, ưu tiên cao nhất trong tác vụ tự động và thẻ build động. Xem [Đặc quyền nhà tài trợ](/vi/features/#đặc-quyền-nhà-tài-trợ) để biết danh sách đầy đủ.
 
 ## Dễ sử dụng
 

@@ -12,7 +12,7 @@ Hoyo Buddy está diseñado desde cero para soportar todos los juegos de Hoyovers
 
 ## Es gratis
 
-Hoyo Buddy es completamente gratis. Entendemos la frustración cuando los desarrolladores bloquean funciones fundamentales (como arte personalizado para tarjetas de builds) detrás de un muro de pago, obligándote a pagar. Por eso, nunca bloqueamos ninguna función tras un pago. Todo en Hoyo Buddy es gratis: no hay funciones ni ventajas "premium".
+Todos los comandos de Hoyo Buddy son gratis. Entendemos la frustración cuando los desarrolladores bloquean funciones fundamentales (como arte personalizado para tarjetas de builds) detrás de un muro de pago, obligándote a pagar. Por eso, nunca tendrás que pagar para usar ningún comando de Hoyo Buddy. Los patrocinadores ayudan a que el bot siga funcionando y en desarrollo, y como agradecimiento reciben ventajas adicionales, como límites más altos, máxima prioridad en las tareas automáticas y tarjetas de build animadas. Consulta [Ventajas de patrocinador](/es/features/#ventajas-de-patrocinador) para ver la lista completa.
 
 ## Es fácil de usar
 
