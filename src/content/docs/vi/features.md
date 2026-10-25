@@ -28,3 +28,18 @@ Hoyo Buddy tích hợp các tính năng từ tất cả game của Hoyoverse, h�
 | /farm reminder | Đặt lời nhắc cho nguyên liệu cày cho một nhân vật/vũ khí. | ✅ | ❌ | ❌ | ❌ | ❌ |
 | /farm view | Xem vật liệu cày được trong Bi Cảnh vào những ngaỳ khác nhau. | ✅ | ❌ | ❌ | ❌ | ❌ |
 | /web-events | Xem sự kiện web đang diễn ra và nhận thông báo có sự kiện mới. | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+## Đặc quyền nhà tài trợ
+
+Mọi lệnh ở trên đều miễn phí. [Nhà tài trợ](https://sponsor.seria.moe) giúp Hoyo Buddy tiếp tục hoạt động và phát triển, và để cảm ơn, họ nhận được các đặc quyền sau:
+
+- Ưu tiên cao nhất trong hàng đợi tác vụ tự động (điểm danh hằng ngày, đổi mã quà, Mimo Du Lịch, v.v.)
+- Không giới hạn số tài khoản (miễn phí: 6)
+- Không giới hạn ảnh tự chọn cho mỗi nhân vật (miễn phí: 5)
+- Không giới hạn số lần tạo ảnh AI (miễn phí: 5 mỗi ngày)
+- Thẻ build động cho các nhân vật có ảnh động
+- Tự động nhập nhật ký gacha mỗi 6 giờ (Genshin Impact và Zenless Zone Zero)
+- Tự động ghé thăm tối đa 10 nhân vật mỗi tài khoản (miễn phí: 1)
+- Vai trò Sponsor và quyền truy cập kênh dành riêng cho Sponsor trong máy chủ Discord
+
+Dùng `/sponsor` trên Discord để xem các đặc quyền này và trạng thái nhà tài trợ của bạn.

@@ -28,3 +28,18 @@ Hoyo Buddy integrates features from all Hoyoverse games, supporting both HoYoLAB
 | /farm reminder | Set reminders for farming materials for a character/weapon. | ✅ | ❌ | ❌ | ❌ | ❌ |
 | /farm view | View farmable domain materials in different weekdays. | ✅ | ❌ | ❌ | ❌ | ❌ |
 | /web-events | View on-going web events and get notified for new ones. | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+## Sponsor perks
+
+Every command above is free to use. [Sponsors](https://sponsor.seria.moe) help keep Hoyo Buddy running and in development, and get these perks as a thank you:
+
+- Top priority in auto task queues (daily check-in, code redemption, Traveling Mimo, etc.)
+- Unlimited accounts (free: 6)
+- Unlimited custom images per character (free: 5)
+- Unlimited AI image generation (free: 5 per day)
+- Animated build cards for characters with animated art
+- Automatic gacha log imports every 6 hours (Genshin Impact and Zenless Zone Zero)
+- Auto accompany up to 10 characters per account (free: 1)
+- Sponsor role and access to the sponsor-only channel in the Discord server
+
+Use `/sponsor` in Discord to view these perks and your sponsor status.
