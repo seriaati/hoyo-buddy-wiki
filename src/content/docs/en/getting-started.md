@@ -6,11 +6,11 @@ You can use Hoyo Buddy without inviting it into any Discord servers. If you need
 
 :::note
 
-If you don't have a Hoyoverse account (you login with 3rd party services like Google), or you are a console player, please check the [Account Pre-setup guide](./before-start.md).
+If you don't have a Hoyoverse account (you login with 3rd party services like Google), or you are a console player, please check the [Account Pre-setup guide](/en/before-start/).
 
 :::
 
-Read more: [Is Hoyo Buddy safe?](./account-security.md)
+Read more: [Is Hoyo Buddy safe?](/en/account-security/)
 
 ## Trying out Hoyo Buddy
 

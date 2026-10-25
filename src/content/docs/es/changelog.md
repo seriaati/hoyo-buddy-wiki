@@ -720,7 +720,7 @@ Varios arreglos y mejoras.
 ## v1.15.3
 
 El código defectuoso en versiones anteriores causó que algunos usuarios vieran el error de "demasiadas solicitudes" al iniciar sesión, por favor revisa
-[este artículo](./too-many-requests.md) para más información.
+[este artículo](/es/too-many-requests/) para más información.
 
 ### Nuevas Funciones
 

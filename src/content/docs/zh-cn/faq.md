@@ -8,13 +8,13 @@ title: "常见问题"
 
 ## 使用 Hoyo Buddy 是否安全？
 
-请参阅 [账号安全](./account-security.md) 页面以了解详情。
+请参阅 [账号安全](/zh-cn/account-security/) 页面以了解详情。
 
 ## 我应该选择哪种登录方式？
 
 | 登录方式 | 手机登录 | 电脑登录 | 主机登录 | 自动与手动兑换礼包码 | 备注 |
 |---|---|---|---|---|---|
-| 电子邮箱与密码登录 | ✅ | ✅ | ✅[*](./before-start.md) | ✅ | 较为简单 |
+| 电子邮箱与密码登录 | ✅ | ✅ | ✅[*](/zh-cn/before-start/) | ✅ | 较为简单 |
 | DevTools | ❌ | ✅ | ❌ | ❌ | ... |
 
 :::note
@@ -25,8 +25,8 @@ title: "常见问题"
 
 更多信息：
 
-- [使用 Hoyo Buddy 是否安全？](./account-security.md)
-- [电子邮箱与密码登录方式如何运作？](./account-security.md#电子邮箱和密码登录方式如何运作)
+- [使用 Hoyo Buddy 是否安全？](/zh-cn/account-security/)
+- [电子邮箱与密码登录方式如何运作？](/zh-cn/account-security/#电子邮箱和密码登录方式如何运作)
 - [为什么兑换码功能仅限使用电子邮箱与密码登录的用户？](#为什么兑换码功能仅限使用电子邮箱和密码登录的用户)
 
 ## 为什么部分文字仍显示为英文，即使我已选择其他语言？
@@ -51,7 +51,7 @@ title: "常见问题"
 
 ## 尝试使用电子邮箱和密码方法添加账户时出现「请求过多」错误
 
-请参考[这个页面](./too-many-requests.md)以获得更多信息。
+请参考[这个页面](/zh-cn/too-many-requests/)以获得更多信息。
 
 ## 为什么兑换码功能仅限使用电子邮箱和密码登录的用户？
 
@@ -63,8 +63,8 @@ Hoyoverse使用一种特殊的Cookie，名为`cookie_token`，用于兑换码操
 
 请确保你使用的登录账密与游戏中使用的相同。
 
-- [我使用第三方登录方式（Google、Facebook等）](./before-start.md#我使用第三方服务登录)
-- [我是主机玩家](./before-start.md#我是主机玩家)
+- [我使用第三方登录方式（Google、Facebook等）](/zh-cn/before-start/#我使用第三方服务登录)
+- [我是主机玩家](/zh-cn/before-start/#我是主机玩家)
 
 ### 开发者工具方法
 
@@ -78,4 +78,4 @@ Hoyoverse使用一种特殊的Cookie，名为`cookie_token`，用于兑换码操
 
 ## 在将账户添加到 Hoyo Buddy 后, 我的游戏账户被黑客窃取
 
-请参考[这个页面](./account-hacked.md)以获得更多信息。
+请参考[这个页面](/zh-cn/account-hacked/)以获得更多信息。

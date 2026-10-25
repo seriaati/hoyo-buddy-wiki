@@ -719,7 +719,7 @@ Various bug fixes and improvements.
 ## v1.15.3
 
 Bad code in the previous versions caused some users to see the "too many requests" error while logging in, please see
-[this article](./too-many-requests.md) for more information.
+[this article](/en/too-many-requests/) for more information.
 
 ### New Features
 

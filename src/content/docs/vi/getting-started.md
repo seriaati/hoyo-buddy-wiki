@@ -6,11 +6,11 @@ Bạn có thể sử dụng Hoyo Buddy mà không cần mời vào bất kỳ m�
 
 :::note
 
-Nếu bạn không có tài khoản Hoyoverse (bạn đăng nhập bằng dịch vụ của bên thứ 3 như Google) hoặc bạn là người chơi console, vui lòng kiểm tra [Hướng dẫn thiết lập trước tài khoản](./before-start.md).
+Nếu bạn không có tài khoản Hoyoverse (bạn đăng nhập bằng dịch vụ của bên thứ 3 như Google) hoặc bạn là người chơi console, vui lòng kiểm tra [Hướng dẫn thiết lập trước tài khoản](/vi/before-start/).
 
 :::
 
-Đọc thêm: [Hoyo Buddy có an toàn không?](./account-security.md)
+Đọc thêm: [Hoyo Buddy có an toàn không?](/vi/account-security/)
 
 ## Thử ngay Hoyo Buddy
 
@@ -28,7 +28,7 @@ Nếu bạn không có tài khoản Hoyoverse (bạn đăng nhập bằng dịch
 
 ![Slash Command Screen](../../../assets/images/392196104-6960be6c-8b51-49fd-93ae-bad4dad6822b.png)
 
-Đọc thêm: [Hoyo Buddy có an toàn không?](./account-security.md)
+Đọc thêm: [Hoyo Buddy có an toàn không?](/vi/account-security/)
 
 ### Sau khi thiết lập
 

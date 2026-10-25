@@ -10,13 +10,13 @@ Si tienes algún problema con Hoyo Buddy, puedes mencionar a @seria_ati en el [s
 
 ## ¿Es seguro usar Hoyo Buddy?
 
-Por favor, lee la página de [Seguridad de la Cuenta](./account-security.md).
+Por favor, lee la página de [Seguridad de la Cuenta](/es/account-security/).
 
 ## ¿Qué método de inicio de sesión debo usar?
 
 | Método | Iniciar sesión en móvil | Iniciar sesión en PC | Iniciar sesión en consola | Canjeo de códigos automático y manual | Notas
 |---|---|---|---|---|---
-| Correo y contraseña | ✅ | ✅ | ✅[*](./before-start.md) | ✅ | Más fácil
+| Correo y contraseña | ✅ | ✅ | ✅[*](/es/before-start/) | ✅ | Más fácil
 | DevTools | ❌ | ✅ | ❌ | ❌ | ...
 
 :::note
@@ -27,8 +27,8 @@ Correo y contraseña se refieren a los datos de la **cuenta de Hoyoverse**, no a
 
 Leer más:
 
-- [¿Es seguro Hoyo Buddy?](./account-security.md)
-- [¿Cómo funciona el método de inicio de sesión con correo y contraseña?](./account-security.md#cómo-funciona-el-inicio-de-sesión-con-correo-y-contraseña)
+- [¿Es seguro Hoyo Buddy?](/es/account-security/)
+- [¿Cómo funciona el método de inicio de sesión con correo y contraseña?](/es/account-security/#cómo-funciona-el-inicio-de-sesión-con-correo-y-contraseña)
 - [¿Por qué las funciones de canjeo de códigos son exclusivas para usuarios que inician sesión con correo y contraseña?](#por-qué-las-funciones-de-canjeo-de-códigos-son-exclusivas-para-usuarios-que-inician-sesión-con-correo-y-contraseña)
 
 ## Algunos textos siguen apareciendo en inglés, aunque seleccioné otro idioma en /settings
@@ -53,7 +53,7 @@ Para ahorrar recursos, los elementos de la interfaz de usuario expiran después 
 
 ## Error de "Demasiadas Solicitudes" al agregar cuentas
 
-Consulta [esta página](./too-many-requests.md) para más información.
+Consulta [esta página](/es/too-many-requests/) para más información.
 
 ## ¿Por qué las funciones de canjeo de códigos son exclusivas para usuarios que inician sesión con correo y contraseña?
 
@@ -65,8 +65,8 @@ Hoyoverse utiliza una cookie especial llamada `cookie_token` para el canjeo de c
 
 Asegúrate de iniciar sesión con las mismas credenciales que usas en el juego.
 
-- [Uso métodos de inicio de sesión de terceros (Google, Facebook, etc.)](./before-start.md#iniciar-sesión-con-servicios-de-terceros)
-- [Soy jugador de consola](./before-start.md#soy-un-jugador-de-consola
+- [Uso métodos de inicio de sesión de terceros (Google, Facebook, etc.)](/es/before-start/#iniciar-sesión-con-servicios-de-terceros)
+- [Soy jugador de consola](/es/before-start/#soy-un-jugador-de-consola)
 
 ### Método DevTools
 
@@ -80,4 +80,4 @@ La mayoría de las veces esto ocurre por reinicios del bot (para aplicar actuali
 
 ## Mi cuenta fue hackeada después de agregarla a Hoyo Buddy
 
-Consulta [esta página](./account-hacked.md) para más información.
+Consulta [esta página](/es/account-hacked/) para más información.

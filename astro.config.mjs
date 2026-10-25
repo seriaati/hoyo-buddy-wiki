@@ -60,9 +60,9 @@ export default defineConfig({
   integrations: [
     starlight({
       // Fails the build on internal links to nonexistent pages or heading
-      // anchors. Relative ./page.md links are the site's normal style, so
-      // only broken targets are errors.
-      plugins: [starlightLinksValidator({ errorOnRelativeLinks: false })],
+      // anchors. Relative links are errors too: Starlight emits ./page.md
+      // as-is, which 404s, so link with /<locale>/<slug>/ instead.
+      plugins: [starlightLinksValidator({ errorOnRelativeLinks: true })],
       title: 'Hoyo Buddy',
       // Fallback for pages where no description can be derived from the body
       // (e.g. the changelog). Per-page descriptions come from src/routeData.ts.

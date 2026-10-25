@@ -16,7 +16,7 @@ Tùy thuộc vào ý bạn khi nói đến "an toàn", vui lòng đọc trang b�
 
 | Phương thức | Đăng nhập bằng thiết bị di động | Đăng nhập bằng PC | Đăng nhập bằng máy chơi game | Đổi mã tự động & thủ công | Ghi chú
 |---|---|---|---|---|---
-| Email & mật khẩu | ✅ | ✅ | ✅[*](./before-start.md) | ✅ | Dễ hơn
+| Email & mật khẩu | ✅ | ✅ | ✅[*](/vi/before-start/) | ✅ | Dễ hơn
 | DevTools | ❌ | ✅ | ❌ | ❌ | ...
 
 :::note
@@ -27,8 +27,8 @@ Email & mật khẩu đề cập đến email và mật khẩu của **tài kho�
 
 Đọc thêm:
 
-- [Hoyo Buddy có an toàn không?](./account-security.md)
-- [Phương pháp đăng nhập bằng email và mật khẩu hoạt động như thế nào?](./account-security.md#phương-pháp-đăng-nhập-bằng-email-và-mật-khẩu-hoạt-động-như-thế-nào)
+- [Hoyo Buddy có an toàn không?](/vi/account-security/)
+- [Phương pháp đăng nhập bằng email và mật khẩu hoạt động như thế nào?](/vi/account-security/#phương-pháp-đăng-nhập-bằng-email-và-mật-khẩu-hoạt-động-như-thế-nào)
 - [Tại sao tính năng đổi mã chỉ dành riêng cho người dùng đã đăng nhập bằng email và mật khẩu?](#tại-sao-tính-năng-đổi-mã-chỉ-dành-riêng-cho-người-dùng-đăng-nhập-bằng-email-và-mật-khẩu)
 
 ## Một số văn bản vẫn được hiển thị là tiếng Anh, mặc dù tôi đã chọn ngôn ngữ khác thông qua /settings
@@ -53,7 +53,7 @@ Tôi sẽ không cung cấp bất kỳ hỗ trợ nào cho việc tự host, nh�
 
 ## Lỗi "Quá nhiều yêu cầu" khi thêm tài khoản
 
-Xem [trang này](./too-many-requests.md) để biết thêm thông tin.
+Xem [trang này](/vi/too-many-requests/) để biết thêm thông tin.
 
 ## Tại sao tính năng đổi mã chỉ dành riêng cho người dùng đăng nhập bằng email và mật khẩu?
 
@@ -65,8 +65,8 @@ Hoyoverse sử dụng một cookie đặc biệt gọi là `cookie_token` để 
 
 Đảm bảo bạn đã đăng nhập bằng cùng thông tin đăng nhập mà bạn đã sử dụng trong trò chơi.
 
-- [Tôi sử dụng phương pháp đăng nhập của bên thứ 3 (Google, Facebook, v.v.)](./before-start.md#tôi-dăng-nhập-bằng-dịch-vụ-bên-thứ-ba)
-- [Tôi là người chơi console](./before-start.md#tôi-chới-trên-máy-chơi-game-playstation-và-xbox)
+- [Tôi sử dụng phương pháp đăng nhập của bên thứ 3 (Google, Facebook, v.v.)](/vi/before-start/#tôi-dăng-nhập-bằng-dịch-vụ-bên-thứ-ba)
+- [Tôi là người chơi console](/vi/before-start/#tôi-chới-trên-máy-chơi-game-playstation-và-xbox)
 
 ### Phương pháp DevTools
 
@@ -80,4 +80,4 @@ Hầu hết thời gian lỗi này là do bot khởi động lại (để áp d�
 
 ## Tài khoản của tôi bị can thiệp (hacked) sau khi thêm vào Hoyo Buddy
 
-Xem [trang này](./account-hacked.md) để biết thêm thông tin.
+Xem [trang này](/vi/account-hacked/) để biết thêm thông tin.
