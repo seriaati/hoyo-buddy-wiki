@@ -11,3 +11,4 @@ Hoyo Buddy es un bot de Discord con muchas funciones, fácil de usar y bellament
 - [¿Es seguro Hoyo Buddy?](/es/account-security/)
 - [¿Por qué Hoyo Buddy?](/es/why-hoyo-buddy/)
 - [Servidor de Discord](https://link.seria.moe/hb-dc)
+- [Funciones](/es/features/)
