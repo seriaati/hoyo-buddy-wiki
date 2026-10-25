@@ -10,13 +10,13 @@ If there is an issue with Hoyo Buddy, you can tag @seria_ati in the [Discord ser
 
 ## Is Hoyo Buddy safe to use?
 
-Please read the [Account Security](./account-security.md) page.
+Please read the [Account Security](/en/account-security/) page.
 
 ## Which login method should I use?
 
 | Method | Login with mobile | Login with PC | Login with console | Auto & manual code redemption | Notes
 |---|---|---|---|---|---
-| Email & password | ✅ | ✅ | ✅[*](./before-start.md) | ✅ | Easier
+| Email & password | ✅ | ✅ | ✅[*](/en/before-start/) | ✅ | Easier
 | DevTools | ❌ | ✅ | ❌ | ❌ | ...
 
 :::note
@@ -27,8 +27,8 @@ Email & password refer to **Hoyoverse account's** email and password, not Google
 
 Read more:
 
-- [Is Hoyo Buddy safe?](./account-security.md)
-- [How does the email & password login method work?](./account-security.md#how-does-the-email-and-password-login-method-work)
+- [Is Hoyo Buddy safe?](/en/account-security/)
+- [How does the email & password login method work?](/en/account-security/#how-does-the-email-and-password-login-method-work)
 - [Why are code redemption features exclusive to users logged in with email & password?](#why-are-code-redemption-features-exclusive-to-users-logged-in-with-email--password)
 
 ## Some texts are still being shown as English, even though I've selected other languages in /settings
@@ -53,7 +53,7 @@ To save resources, UI (user interface) elements expire after 10 minutes. To avoi
 
 ## "Too Many Requests" Error When Adding Accounts
 
-See [this page](./too-many-requests.md) for more information.
+See [this page](/en/too-many-requests/) for more information.
 
 ## Why are code redemption features exclusive to users logged in with email & password?
 
@@ -65,8 +65,8 @@ Hoyoverse uses a special cookie called `cookie_token` for code redemption that e
 
 Make sure you're logged in with the same credentials you used in-game.
 
-- [I use 3rd-party login methods (Google, Facebook, etc.)](./before-start.md#i-login-with-3rd-party-services)
-- [I am a console player](./before-start.md#i-am-a-console-player)
+- [I use 3rd-party login methods (Google, Facebook, etc.)](/en/before-start/#i-login-with-3rd-party-services)
+- [I am a console player](/en/before-start/#i-am-a-console-player)
 
 ### DevTools method
 
@@ -80,4 +80,4 @@ Most of the time this is caused by bot restarts (to apply code updates), and you
 
 ## My Account Was Hacked After I Added It to Hoyo Buddy
 
-See [this page](./account-hacked.md) for more information.
+See [this page](/en/account-hacked/) for more information.

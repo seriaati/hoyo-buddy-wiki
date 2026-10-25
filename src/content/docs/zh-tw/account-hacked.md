@@ -4,7 +4,7 @@ title: "帳戶被駭"
 
 這一節解釋了駭客如何入侵你的 Hoyoverse 帳戶。
 
-請參閱 [帳戶安全](./account-security.md) 以了解 Hoyo Buddy 的工作原理以及你的數據如何被安全地存儲。
+請參閱 [帳戶安全](/zh-tw/account-security/) 以了解 Hoyo Buddy 的工作原理以及你的數據如何被安全地存儲。
 
 ## 帳戶實際如何被竊取
 

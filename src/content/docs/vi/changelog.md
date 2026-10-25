@@ -717,7 +717,7 @@ Lưu Ý: Phiên bản này đã tạm thời vô hiệu hóa Du Lịch Mimo cho 
 
 ## v1.15.3
 
-Lỗi code trong phiên bản trước đã xẩy ra lỗi "nhiều yêu cầu quá, vui lòng thử lại" khi người dùng đăng nhập, vui lòng xem [bài đăng này](./too-many-requests.md) để biết thêm thông tin.
+Lỗi code trong phiên bản trước đã xẩy ra lỗi "nhiều yêu cầu quá, vui lòng thử lại" khi người dùng đăng nhập, vui lòng xem [bài đăng này](/vi/too-many-requests/) để biết thêm thông tin.
 
 ### Tính năng mới
 

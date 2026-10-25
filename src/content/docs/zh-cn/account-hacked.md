@@ -4,7 +4,7 @@ title: "账户被黑"
 
 此部分解释了黑客如何入侵你的 Hoyoverse 账户。
 
-请参阅 [账户安全](./account-security.md) 以了解 Hoyo Buddy 的工作原理以及你的数据如何被安全地存储。
+请参阅 [账户安全](/zh-cn/account-security/) 以了解 Hoyo Buddy 的工作原理以及你的数据如何被安全地存储。
 
 ## 账户实际如何被窃取
 

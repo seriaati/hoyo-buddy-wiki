@@ -4,7 +4,7 @@ title: "Account got Hacked"
 
 This section explains how someone can hack your Hoyoverse account.
 
-See [Account Security](./account-security.md) for information on how Hoyo Buddy works and how your data is stored securely.
+See [Account Security](/en/account-security/) for information on how Hoyo Buddy works and how your data is stored securely.
 
 ## How Accounts Get Stolen
 

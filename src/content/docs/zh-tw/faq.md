@@ -8,13 +8,13 @@ title: "常見問題"
 
 ## 使用 Hoyo Buddy 是否安全？
 
-請參閱 [帳號安全](./account-security.md) 頁面以了解詳情。
+請參閱 [帳號安全](/zh-tw/account-security/) 頁面以了解詳情。
 
 ## 我應該選擇哪種登入方式？
 
 | 登入方式 | 手機登入 | 電腦登入 | 主機登入 | 自動與手動兌換禮物碼 | 備註 |
 |---|---|---|---|---|---|
-| 電子郵件與密碼登入 | ✅ | ✅ | ✅[*](./before-start.md) | ✅ | 較為簡單 |
+| 電子郵件與密碼登入 | ✅ | ✅ | ✅[*](/zh-tw/before-start/) | ✅ | 較為簡單 |
 | DevTools | ❌ | ✅ | ❌ | ❌ | ... |
 
 :::note
@@ -25,8 +25,8 @@ title: "常見問題"
 
 更多資訊：
 
-- [使用 Hoyo Buddy 是否安全？](./account-security.md)
-- [電子郵件與密碼登入方式如何運作？](./account-security.md#電子郵件和密碼登錄方式如何運作)
+- [使用 Hoyo Buddy 是否安全？](/zh-tw/account-security/)
+- [電子郵件與密碼登入方式如何運作？](/zh-tw/account-security/#電子郵件和密碼登錄方式如何運作)
 - [為什麼兌換碼功能僅限使用電子郵件與密碼登入的用戶？](#為什麼兌換碼功能僅限使用電子郵件和密碼登錄的用戶)
 
 ## 為什麼部分文字仍顯示為英文，即使我已選擇其他語言？
@@ -51,7 +51,7 @@ title: "常見問題"
 
 ## 嘗試使用電子郵件和密碼方法新增帳戶時出現「請求過多」錯誤
 
-請參考[這個頁面](./too-many-requests.md)以獲得更多資訊。
+請參考[這個頁面](/zh-tw/too-many-requests/)以獲得更多資訊。
 
 ## 為什麼兌換碼功能僅限使用電子郵件和密碼登錄的用戶？
 
@@ -63,8 +63,8 @@ Hoyoverse使用一種特殊的Cookie，名為`cookie_token`，用於兌換碼操
 
 請確保你使用的登錄帳密與遊戲中使用的相同。
 
-- [我使用第三方登錄方式（Google、Facebook等）](./before-start.md#我使用第三方服務登入)
-- [我是主機玩家](./before-start.md#我是主機玩家)
+- [我使用第三方登錄方式（Google、Facebook等）](/zh-tw/before-start/#我使用第三方服務登入)
+- [我是主機玩家](/zh-tw/before-start/#我是主機玩家)
 
 ### 開發者工具方法
 
@@ -78,4 +78,4 @@ Hoyoverse使用一種特殊的Cookie，名為`cookie_token`，用於兌換碼操
 
 ## 在將帳戶新增到 Hoyo Buddy 後, 我的遊戲帳戶被駭客竊取
 
-請參考[這個頁面](./account-hacked.md)以獲得更多資訊。
+請參考[這個頁面](/zh-tw/account-hacked/)以獲得更多資訊。

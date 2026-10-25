@@ -8,11 +8,11 @@ title: "開始使用"
 
 :::note
 
-如果你沒有 Hoyoverse 帳戶（你使用第三方服務，如 Google 登錄），或者你是主機玩家，請查看[帳戶前置作業指南](./before-start.md)。
+如果你沒有 Hoyoverse 帳戶（你使用第三方服務，如 Google 登錄），或者你是主機玩家，請查看[帳戶前置作業指南](/zh-tw/before-start/)。
 
 :::
 
-進一步了解：[Hoyo Buddy 是否安全？](./account-security.md)
+進一步了解：[Hoyo Buddy 是否安全？](/zh-tw/account-security/)
 
 ## 試用 Hoyo Buddy
 

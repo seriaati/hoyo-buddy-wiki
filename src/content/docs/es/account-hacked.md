@@ -4,7 +4,7 @@ title: "Cuenta hackeada"
 
 Esta sección explica cómo alguien puede hackear tu cuenta de Hoyoverse.
 
-Consulta [Seguridad de Cuenta](./account-security.md) para más información sobre cómo funciona Hoyo Buddy y cómo tus datos se almacenan de forma segura.
+Consulta [Seguridad de Cuenta](/es/account-security/) para más información sobre cómo funciona Hoyo Buddy y cómo tus datos se almacenan de forma segura.
 
 ## Cómo se roban las cuentas
 
