@@ -12,7 +12,7 @@ Hoyo Buddy tích hợp các tính năng từ tất cả game của Hoyoverse, h�
 | /mimo | Tự động hoàn thành nhiệm vụ Mimo Du Lịch và mua quà. | ✅ | ✅ | ✅ | ❌ | ❌ |
 | /notes | Xem ghi chú thời gian thực và tạo lời nhắc. | ✅ | ✅ | ✅ | ✅ | ❌ |
 | /reminders | Thiết lập lời nhắc ghi chú thời gian thực, cày nguyên liệu và sự kiện web. | ✅ | ✅ | ✅ | ✅ | ✅ |
-| /redeem | Tự tay và tự động đổi mã quà. | ✅ | ✅ | ✅ | ❌ | ❌ |
+| /redeem | Tự tay và tự động đổi mã quà. | ✅ | ✅ | ✅ | ❌ | ✅[*](#ghi-chú) |
 | /check-in | Tự động nhận quà điểm danh HoYoLAB/Miyoushe. | ✅ | ✅ | ✅ | ✅ | ✅ |
 | /accompany | Tự động ghé thăm nhân vật HoYoLAB mỗi ngày. | ✅ | ✅ | ✅ | ❌ | ❌ |
 | /characters | Xem và lọc nhân vật bạn có.  | ✅ | ✅ | ✅ | ✅ | ❌ |
@@ -28,6 +28,10 @@ Hoyo Buddy tích hợp các tính năng từ tất cả game của Hoyoverse, h�
 | /farm reminder | Đặt lời nhắc cho nguyên liệu cày cho một nhân vật/vũ khí. | ✅ | ❌ | ❌ | ❌ | ❌ |
 | /farm view | Xem vật liệu cày được trong Bi Cảnh vào những ngaỳ khác nhau. | ✅ | ❌ | ❌ | ❌ | ❌ |
 | /web-events | Xem sự kiện web đang diễn ra và nhận thông báo có sự kiện mới. | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+## Ghi chú
+
+1. Tears of Themis chỉ hỗ trợ đổi mã thủ công.
 
 ## Đặc quyền nhà tài trợ
 

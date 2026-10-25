@@ -12,7 +12,7 @@ Hoyo Buddy integra funciones de todos los juegos de Hoyoverse, con soporte tanto
 | /mimo | Completa automáticamente tareas de Mimo Viajero y compra recompensas. | ✅ | ✅ | ✅ | ❌ | ❌ |
 | /notes | Consulta notas en tiempo real y configura recordatorios. | ✅ | ✅ | ✅ | ✅ | ❌ |
 | /reminders | Configura recordatorios de notas en tiempo real, de farmeo y de eventos web. | ✅ | ✅ | ✅ | ✅ | ✅ |
-| /redeem | Canjeo automático y manual de códigos de regalo. | ✅ | ✅ | ✅ | ❌ | ❌ |
+| /redeem | Canjeo automático y manual de códigos de regalo. | ✅ | ✅ | ✅ | ❌ | ✅[*](#notas) |
 | /check-in | Recompensas diarias automáticas de HoYoLAB/Miyoushe. | ✅ | ✅ | ✅ | ✅ | ✅ |
 | /accompany | Acompañamiento automático diario de personajes de HoYoLAB. | ✅ | ✅ | ✅ | ❌ | ❌ |
 | /characters | Ver y filtrar todos los personajes que posees. | ✅ | ✅ | ✅ | ✅ | ❌ |
@@ -28,6 +28,10 @@ Hoyo Buddy integra funciones de todos los juegos de Hoyoverse, con soporte tanto
 | /farm reminder | Configura recordatorios para farmear materiales de personajes/armas. | ✅ | ❌ | ❌ | ❌ | ❌ |
 | /farm view | Consulta materiales de dominios disponibles según el día de la semana. | ✅ | ❌ | ❌ | ❌ | ❌ |
 | /web-events | Ver eventos web activos y recibir notificaciones de nuevos. | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+## Notas
+
+1. Tear of Themis solo soporta el canje de codigo de forma manual.
 
 ## Ventajas de patrocinador
 
