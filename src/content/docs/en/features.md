@@ -7,10 +7,14 @@ Hoyo Buddy integrates features from all Hoyoverse games, supporting both HoYoLAB
 | Command | Description | Genshin Impact | Honkai: Star Rail | Zenless Zone Zero | Honkai Impact 3rd | Tears of Themis |
 |---|---|---|---|---|---|---|
 | /profile | Generate character build cards and team cards. | ✅ | ✅ | ✅ | ❌ | ❌ |
+| /build | View character builds and guides. | ✅ | ❌ | ✅ | ❌ | ❌ |
+| /card-settings | Customize how your character build cards look. | ✅ | ✅ | ✅ | ❌ | ❌ |
 | /mimo | Automatic Traveling Mimo task completion and reward buying. | ✅ | ✅ | ✅ | ❌ | ❌ |
 | /notes | View real-time notes and set reminders. | ✅ | ✅ | ✅ | ✅ | ❌ |
-| /redeem | Automatic and manual gift code redemption. | ✅ | ✅ | ✅ | ❌ | ✅[*](#notes) |
+| /reminders | Set up real-time notes, farm, and web event reminders. | ✅ | ✅ | ✅ | ✅ | ✅ |
+| /redeem | Automatic and manual gift code redemption. | ✅ | ✅ | ✅ | ❌ | ❌ |
 | /check-in | Automatic HoYoLAB/Miyoushe daily reward check-in. | ✅ | ✅ | ✅ | ✅ | ✅ |
+| /accompany | Automatic HoYoLAB character accompany check-in. | ✅ | ✅ | ✅ | ❌ | ❌ |
 | /characters | View and filter all owned characters.  | ✅ | ✅ | ✅ | ✅ | ❌ |
 | /challenge | View statistics/overview of end-game content. | ✅ | ✅ | ✅ | ❌ | ❌ |
 | /stats | View account statistics.  | ✅ | ✅ | ✅ | ✅ | ❌ |
@@ -18,12 +22,9 @@ Hoyo Buddy integrates features from all Hoyoverse games, supporting both HoYoLAB
 | /gacha-log | Import, view, and analyze your gacha records. | ✅ | ✅ | ✅ | ❌ | ❌ |
 | /events | View on-going in-game events and banners. | ✅ | ✅ | ✅ | ❌ | ❌ |
 | /exploration | View area exploration statistics. | ✅ | ❌ | ❌ | ❌ | ❌ |
+| /lunar-arcana | View your Imaginarium Theater Lunar Arcana card collection. | ✅ | ❌ | ❌ | ❌ | ❌ |
 | /lb view | View leaderboards. | ✅ | ✅ | ✅ | ❌ | ❌ |
 | /lb akasha | View character damage leaderboard. | ✅ | ❌ | ❌ | ❌ | ❌ |
 | /farm reminder | Set reminders for farming materials for a character/weapon. | ✅ | ❌ | ❌ | ❌ | ❌ |
 | /farm view | View farmable domain materials in different weekdays. | ✅ | ❌ | ❌ | ❌ | ❌ |
 | /web-events | View on-going web events and get notified for new ones. | ✅ | ✅ | ✅ | ✅ | ✅ |
-
-## Notes
-
-1. Tear of Themis only supports manual gift code redemption.
