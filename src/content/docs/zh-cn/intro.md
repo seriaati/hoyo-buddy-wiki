@@ -6,9 +6,9 @@ title: "首页"
 
 Hoyo Buddy 是一款为 Hoyoverse 游戏玩家量身订做的 Discord 机器人, 功能丰富、易于使用且设计精美。
 
-- [开始使用](./getting-started.md)
+- [开始使用](/zh-cn/getting-started/)
 - [官方网站](https://hb.seria.moe/)
-- [Hoyo Buddy 安全吗？](./account-security.md)
-- [Hoyo Buddy 有哪些特点？](./why-hoyo-buddy.md)
+- [Hoyo Buddy 安全吗？](/zh-cn/account-security/)
+- [Hoyo Buddy 有哪些特点？](/zh-cn/why-hoyo-buddy/)
 - [Discord 服务器](https://link.seria.moe/hb-dc)
-- [功能列表](./features.md)
+- [功能列表](/zh-cn/features/)
