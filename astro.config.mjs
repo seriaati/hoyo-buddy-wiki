@@ -34,6 +34,11 @@ for (const locale of LOCALES) {
   redirects[oldPrefix] = `/${locale}/intro/`;
   for (const [oldName, newSlug] of Object.entries(NAME_MAP)) {
     redirects[`${oldPrefix}/${oldName}`] = `/${locale}/${newSlug}/`;
+    // Old mixed-case names under the new prefix (e.g. /en/FAQ), which the bot
+    // generated for a while.
+    if (oldName !== newSlug) {
+      redirects[`/${locale}/${oldName}`] = `/${locale}/${newSlug}/`;
+    }
   }
 }
 
@@ -45,6 +50,11 @@ for (const [alias, target] of Object.entries(ZH_ALIAS_MAP)) {
   // Bare locale root
   redirects[`/${alias}`] = `/${target}/intro/`;
   redirects[`/${alias}/`] = `/${target}/intro/`;
+  // Old Docusaurus URLs (/zh-Hant/docs/FAQ etc.)
+  redirects[`/${alias}/docs`] = `/${target}/intro/`;
+  for (const [oldName, newSlug] of Object.entries(NAME_MAP)) {
+    redirects[`/${alias}/docs/${oldName}`] = `/${target}/${newSlug}/`;
+  }
   // Every known page slug
   for (const newSlug of Object.values(NAME_MAP)) {
     redirects[`/${alias}/${newSlug}`] = `/${target}/${newSlug}/`;
