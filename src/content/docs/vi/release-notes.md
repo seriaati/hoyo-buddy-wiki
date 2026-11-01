@@ -218,7 +218,7 @@ Xem [danh sách thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy
 
 - (`/profile` ) Thêm hỗ trợ cho các nhân vật ZZZ 2.7 và HSR 4.1
 
-## Sửa lỗi
+### Sửa lỗi
 
 - (`/characters zzz`) Sửa vấn đề hiệu năng khi có quá nhiều nhân vật.
 - (`/events hsr`) Sữa Trọng Tài Dị Tướng hiển thị sai tên trong menu thả xuống.
@@ -741,11 +741,11 @@ Xem [danh sách thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy
 - (`/profile hsr`) Thêm Mẫu thẻ 2.
 - (`/notes`) Thêm thông tin Tiến Độ Ủy Thác Treo Thưởng và Điểm Số Ridu Hàng Tuần cho ZZZ
 
-## Cải Tiến
+### Cải Tiến
 
 - (`/check-in`) Giảm các yêu cầu API điểm danh trùng lặp.
 
-## Sửa Lỗi
+### Sửa Lỗi
 
 - (`/mimo`) Sửa lỗi gửi thông báo khi không có nhiệm vụ nào được hoàn thành và không có điểm nào được nhận.
 - (`/mimo`) Sửa lỗi cách xác định các vật phẩm có giá trị.

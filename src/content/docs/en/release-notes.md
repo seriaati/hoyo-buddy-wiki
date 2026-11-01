@@ -740,11 +740,11 @@ See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/v1
 - (`/profile hsr`) Added template 2.
 - (`/notes`) Added bounty commission and Ridu weekly points information for ZZZ.
 
-## Improvements
+### Improvements
 
 - (`/check-in`) Reduce duplicate check-in API requests.
 
-## Bug Fixes
+### Bug Fixes
 
 - (`/mimo`) Fixed notifications being sent when no tasks are completed and no points are claimed.
 - (`/mimo`) Fixed how valuable items are being determined.
