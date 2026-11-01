@@ -36,6 +36,13 @@ Follow exactly this process:
   dead-code cleanup, refactors, internal restructuring, or version bumps.
 - Group entries under the headings the release notes already use: `### New Features`, `### Improvements`,
   `### Bug Fixes`. Omit any heading that would have no entries.
+- Always end the version with a `### Changelog` section linking to the GitHub comparison with the
+  previous version:
+  ```
+  ### Changelog
+
+  See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/<previous_version>...$1) on GitHub.
+  ```
 - Prefix each entry with the relevant command in backticks when applicable, e.g.
   `- (`/profile zzz`) Add ZZZ 2.8 character card data.`
 - Combine multiple commits that belong to the same feature/area into a single entry.

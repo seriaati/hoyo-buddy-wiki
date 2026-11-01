@@ -34,6 +34,10 @@ title: "版本說明"
 - 修復即時便籤通知有時會停止運作，直到機器人重新啟動才恢復的問題。
 - 修復自動任務私訊通知有時延遲數小時才送達的問題。
 
+### 更新日誌
+
+在 GitHub 上查看[完整的變更列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.24...v1.17.0)。
+
 ## v1.16.24
 
 ### 新功能
@@ -54,6 +58,10 @@ title: "版本說明"
 
 - (`/gacha-log import`) 修復從未包含稀有度資料的 UIGF 檔案匯入絕區零紀錄時，稀有度被儲存為無效數值的問題。
 - (`/profile zzz`) 修復新代理人圖片有時無法顯示的問題。
+
+### 更新日誌
+
+在 GitHub 上查看[完整的變更列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.23...v1.16.24)。
 
 ## v1.16.23
 
@@ -82,6 +90,10 @@ title: "版本說明"
 ### 問題修復
 
 - (`/gacha-log view`) 修復絕區零 S 級角色在其自身 UP 卡池中抽出時被計算為 50/50 失敗的問題。
+
+### 更新日誌
+
+在 GitHub 上查看[完整的變更列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.22...v1.16.23)。
 
 ## v1.16.22
 
@@ -119,6 +131,10 @@ title: "版本說明"
 - (`/search`) 修復測試版物品自動完成的錯誤。
 - 修復說明文件連結開啟錯誤語言版本的問題。
 
+### 更新日誌
+
+在 GitHub 上查看[完整的變更列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.21...v1.16.22)。
+
 ## v1.16.21
 
 ### 新功能
@@ -148,6 +164,10 @@ title: "版本說明"
 - 修復停用通知後未生效、可能導致收到非預期的自動兌換私訊的問題。
 - 當設定中未設定語言時，改用你的 Discord 客戶端語言。
 
+### 更新日誌
+
+在 GitHub 上查看[完整的變更列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.20...v1.16.21)。
+
 ## v1.16.20
 
 ### 新功能
@@ -164,6 +184,10 @@ title: "版本說明"
 - (`/profile zzz`) 修復新絕區零角色缺少影畫圖片的問題。
 - (`/profile`) 保留以參數傳入的角色順序。
 - (`/gacha-log`) 為缺少的抽卡物品圖標顯示佔位圖片。
+
+### 更新日誌
+
+在 GitHub 上查看[完整的變更列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.19...v1.16.20)。
 
 ## v1.16.19
 
@@ -184,6 +208,10 @@ title: "版本說明"
 - (`/challenge hsr anomaly`) 修復空角色格的圖標位置。
 - (`/profile zzz`) 修復愛芮及南宮羽圖片位置錯誤和沒有顯示服裝的問題。
 
+### 更新日誌
+
+在 GitHub 上查看[完整的變更列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.18...v1.16.19)。
+
 ## v1.16.18
 
 ### 新功能
@@ -199,6 +227,10 @@ title: "版本說明"
 - (`/search`) 修復在崩壞：星穹鐵道中搜索書籍時的錯誤。
 - (`/profile zzz`) 修復愛芮的圖片在隊伍卡片中顯示不當的問題。
 - (`/profile zzz`) 修復潘引壺造型缺少卡片數據的問題。
+
+### 更新日誌
+
+在 GitHub 上查看[完整的變更列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.17...v1.16.18)。
 
 ## v1.16.17a
 
@@ -223,6 +255,10 @@ title: "版本說明"
 - (`/notes`) 修復崩壞3缺少體力提醒間隔的問題。
 - 修復 zh-CN 及其他語言的本地化換行問題。
 
+### 更新日誌
+
+在 GitHub 上查看[完整的變更列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.16...v1.16.17)。
+
 ## v1.16.16
 
 ### 新功能
@@ -242,6 +278,10 @@ title: "版本說明"
 - (`/notes`) 允許將即時便籤通知時間設置為提前 0 小時（即恰好到時通知）。
 - (`/mimo`) 禁用原神旅行 Mimo 的自動抽獎功能。
 - (`/mimo`) 處理獲取原神旅行 Mimo 任務時的 -510001 錯誤。
+
+### 更新日誌
+
+在 GitHub 上查看[完整的變更列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.15...v1.16.16)。
 
 ## v1.16.15
 
@@ -265,6 +305,10 @@ title: "版本說明"
 - (`/gacha-log view`) 修復小螢幕設備上的 UI 問題。
 - 修復開關切換按鈕未正確返回 `False` 的問題。
 - 修復多個內部部署和排程問題。
+
+### 更新日誌
+
+在 GitHub 上查看[完整的變更列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.14...v1.16.15)。
 
 ## v1.16.14
 
@@ -295,6 +339,10 @@ title: "版本說明"
 - (`/profile zzz`) 修復麗娜的圖片在隊伍卡片中未置中的問題。
 - 將 UID 遮罩字元從「*」改為「x」以避免 Markdown 格式問題。
 
+### 更新日誌
+
+在 GitHub 上查看[完整的變更列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.13...v1.16.14)。
+
 ## v1.16.13
 
 ### 新功能
@@ -315,7 +363,11 @@ title: "版本說明"
 
 ### 問題修復
 
-修復了多個問題，詳情請參閱[完整更新日誌](https://github.com/seriaati/hoyo-buddy/releases/tag/v1.16.13)。
+修復了多個問題，詳情請參閱下方的更新日誌。
+
+### 更新日誌
+
+在 GitHub 上查看[完整的變更列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.12...v1.16.13)。
 
 ## v1.16.12
 
@@ -350,6 +402,10 @@ title: "版本說明"
 - (`/gacha-log view`) 處理無效的卡池類型輸入。
 - (`/challenge`) 修復當關卡階段超過 25 個時,挑戰階段下拉選單出現問題的問題。
 
+### 更新日誌
+
+在 GitHub 上查看[完整的變更列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.11...v1.16.12)。
+
 ## v1.16.11
 
 ### 新功能
@@ -363,6 +419,10 @@ title: "版本說明"
 - (`/profile`) 修復 Enka 結果總是以英文返回結果的問題。
 - (`/exploration`) 修復部落等級文字超出圖片邊界的問題。
 - 修復 en-GB 語言環境的翻譯問題。
+
+### 更新日誌
+
+在 GitHub 上查看[完整的變更列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.10...v1.16.11)。
 
 ## v1.16.10
 
@@ -385,6 +445,10 @@ title: "版本說明"
 - (`/profile zzz`) 修復 Enka Network 面板有時不顯示的問題。
 - (`/search`) 修復一般搜尋自動完成中顯示未發布內容的問題。
 
+### 更新日誌
+
+在 GitHub 上查看[完整的變更列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.9...v1.16.10)。
+
 ## v1.16.9
 
 ### 新功能
@@ -405,6 +469,10 @@ title: "版本說明"
 - (`/gacha-log manage`) 修復 ZZZ 匯出時物品稀有度錯誤的問題。
 - (`/gacha-log view`) 修復 HSR 聯動卡池角色和光錐的物品名稱顯示為「???」的問題。
 - (`/profile genshin`) 修復數據來源為 HoYoLAB 時不顯示玩家嵌入內容的問題。
+
+### 更新日誌
+
+在 GitHub 上查看[完整的變更列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.8...v1.16.9)。
 
 ## v1.16.8
 
@@ -434,6 +502,10 @@ title: "版本說明"
 - (`/characters genshin`) 修復某些角色圖片樣式不同的問題。
 - (`/profile hsr`) 修復樣式 2 中光錐名稱的字體問題。
 
+### 更新日誌
+
+在 GitHub 上查看[完整的變更列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.7...v1.16.8)。
+
 ## v1.16.7
 
 ### 新功能
@@ -457,6 +529,10 @@ title: "版本說明"
 - (`/search`) 停用深境螺旋分類。
 - (`/search`) 修復驅動盤分類沒有自動完成選項的問題。
 
+### 更新日誌
+
+在 GitHub 上查看[完整的變更列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.6...v1.16.7)。
+
 ## v1.16.6
 
 ### 新功能
@@ -479,6 +555,10 @@ title: "版本說明"
 
 - (`/challenge genshin theater`) 處理無效角色 ID 的問題。
 
+### 更新日誌
+
+在 GitHub 上查看[完整的變更列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.5...v1.16.6)。
+
 ## v1.16.5
 
 ### 新功能
@@ -495,6 +575,10 @@ title: "版本說明"
 - (`/upload`) 處理過大的圖片檔案。
 - (`/search`) 修復角色和光錐屬性計算公式錯誤的問題。
 - (`/accounts`) 修復當使用者擁有超過 25 個帳戶時「下一頁」選項無法正常運作的問題。
+
+### 更新日誌
+
+在 GitHub 上查看[完整的變更列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.4...v1.16.5)。
 
 ## v1.16.4
 
@@ -518,6 +602,10 @@ title: "版本說明"
 - (`/lb view`) 移除崩壞3的成就排行榜。
 - (`/farm reminder`) 修復物品名稱顯示為"..."的問題。
 
+### 更新日誌
+
+在 GitHub 上查看[完整的變更列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.3...v1.16.4)。
+
 ## v1.16.3
 
 ### 新功能
@@ -536,6 +624,10 @@ title: "版本說明"
 - (`/notes`) 修復了質變儀通知無法正常運作的問題。
 - (`/gacha-log upload`) 修復了某些 ZZZ 匯入方法導致的錯誤物品稀有度。
 
+### 更新日誌
+
+在 GitHub 上查看[完整的變更列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.2...v1.16.3)。
+
 ## v1.16.2
 
 ### 新功能
@@ -546,6 +638,10 @@ title: "版本說明"
 
 - (`/profile zzz`) 修復波可娜的圖片在卡片樣式 2 中位置錯誤的問題。
 - (`/build genshin`) 修復用戶應用中聖遺物位置表情符號顯示錯誤的問題。
+
+### 更新日誌
+
+在 GitHub 上查看[完整的變更列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.1...v1.16.2)。
 
 ## v1.16.1
 
@@ -564,11 +660,13 @@ title: "版本說明"
 
 ### 問題修復
 
-修復了多個問題，詳情請查閱[完整更新日誌](https://github.com/seriaati/hoyo-buddy/releases/tag/v1.16.1)。
+修復了多個問題，詳情請查閱下方的更新日誌。
+
+### 更新日誌
+
+在 GitHub 上查看[完整的變更列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.0...v1.16.1)。
 
 ## v1.16.0  
-
-[給技術宅們](https://github.com/seriaati/hoyo-buddy/releases/tag/v1.16.0)  
 
 ### 新增功能  
 
@@ -590,6 +688,10 @@ title: "版本說明"
 ### 問題修復  
 
 修復了多個錯誤並進行了一些改進。  
+
+### 更新日誌
+
+在 GitHub 上查看[完整的變更列表](https://github.com/seriaati/hoyo-buddy/compare/v1.15.7...v1.16.0)。
 
 ## v1.15.7  
 
@@ -628,6 +730,10 @@ title: "版本說明"
 - (`/notes`) 修復《崩壞3》中的驗證錯誤。  
 - (`/challenge zzz assault`) 修復增益圖標未顯示的問題。  
 
+### 更新日誌
+
+在 GitHub 上查看[完整的變更列表](https://github.com/seriaati/hoyo-buddy/compare/v1.15.6...v1.15.7)。
+
 ## v1.15.6
 
 ### 新增功能
@@ -653,6 +759,10 @@ title: "版本說明"
 - (`/events`) 修復螺旋深淵進度錯誤的問題。
 - (`/gacha-log view`) 修復錯誤的「距離上一稀有度的抽取次數」。
 - 修復靜態圖片文件夾創建邏輯。
+
+### 更新日誌
+
+在 GitHub 上查看[完整的變更列表](https://github.com/seriaati/hoyo-buddy/compare/v1.15.5...v1.15.6)。
 
 ## v1.15.5  
 
@@ -700,6 +810,10 @@ title: "版本說明"
 - 修復 Hakushin API 的相關問題。  
 - 捕獲 `dm_user` 方法中的一般異常情況。  
 
+### 更新日誌
+
+在 GitHub 上查看[完整的變更列表](https://github.com/seriaati/hoyo-buddy/compare/v1.15.4...v1.15.5)。
+
 ## v1.15.4  
 
 ### 新增功能  
@@ -719,6 +833,10 @@ title: "版本說明"
 - (`/gacha-log upload`) 修復使用 UIGF 數據時的 `ValidationError` 問題。  
 - (`/gacha-log upload`) 修復 UIGF 版本低於 3.0 時的 `KeyError` 問題。  
 - (`/search`) 修復重複的自動完成選項問題。  
+
+### 更新日誌
+
+在 GitHub 上查看[完整的變更列表](https://github.com/seriaati/hoyo-buddy/compare/v1.15.3...v1.15.4)。
 
 ## v1.15.3  
 
@@ -747,6 +865,10 @@ title: "版本說明"
 - (`/profile`) 更優雅地處理 Enka Network API 網關超時錯誤。  
 - (`/profile`) 修復生成 AI 圖像時的 `BadRequestError` 問題。  
 - (`/upload`) 修復上傳圖片時的 `BadRequestError` 問題。  
+
+### 更新日誌
+
+在 GitHub 上查看[完整的變更列表](https://github.com/seriaati/hoyo-buddy/compare/v1.15.2...v1.15.3)。
 
 ## v1.15.2 及以下
 
