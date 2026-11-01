@@ -1,4 +1,4 @@
-# Cambios
+# Notas de la versión
 
 ## v
 

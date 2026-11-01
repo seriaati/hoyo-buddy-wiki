@@ -1,4 +1,4 @@
-# Changelogs
+# Release Notes
 
 ## v
 

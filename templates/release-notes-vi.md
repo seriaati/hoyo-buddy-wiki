@@ -1,4 +1,4 @@
-# Nhật ký thay đổi
+# Ghi chú phát hành
 
 ## v
 

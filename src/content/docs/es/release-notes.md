@@ -1,5 +1,5 @@
 ---
-title: "Cambios"
+title: "Notas de la versión"
 ---
 
 ## v1.17.0
@@ -748,4 +748,4 @@ El código defectuoso en versiones anteriores causó que algunos usuarios vieran
 
 ## v1.15.2 y anteriores
 
-Los changelogs anteriores fueron escritos en el canal #updates de
+Las notas de la versión anteriores se publicaron en el canal #updates de nuestro [servidor de Discord](https://link.seria.moe/hb-dc).

@@ -1,5 +1,5 @@
 ---
-title: "Changelogs"
+title: "Release Notes"
 ---
 
 ## v1.17.0
@@ -747,4 +747,4 @@ Bad code in the previous versions caused some users to see the "too many request
 
 ## v1.15.2 and below
 
-Previous changelogs were written in the #updates channel in our [Discord server](https://link.seria.moe/hb-dc).
+Previous release notes were written in the #updates channel in our [Discord server](https://link.seria.moe/hb-dc).

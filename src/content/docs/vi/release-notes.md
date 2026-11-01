@@ -1,5 +1,5 @@
 ---
-title: "Nhật ký thay đổi"
+title: "Ghi chú phát hành"
 ---
 
 ## v1.17.0
@@ -745,4 +745,4 @@ Lỗi code trong phiên bản trước đã xẩy ra lỗi "nhiều yêu cầu q
 
 ## v1.15.2 và trước đó
 
-Các nhật ký thay đổi trước đó đã được viết trong kênh #updates trong [Máy chủ Discord](https://link.seria.moe/hb-dc) của chúng tôi.
+Các ghi chú phát hành trước đó đã được viết trong kênh #updates trong [Máy chủ Discord](https://link.seria.moe/hb-dc) của chúng tôi.

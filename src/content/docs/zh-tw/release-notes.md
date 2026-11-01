@@ -1,5 +1,5 @@
 ---
-title: "更新日誌"
+title: "版本說明"
 ---
 
 ## v1.17.0
@@ -750,4 +750,4 @@ title: "更新日誌"
 
 ## v1.15.2 及以下
 
-先前版本的更新日誌寫在 [Discord 伺服器](https://link.seria.moe/hb-dc) 內的 #更新 頻道中。  
+先前版本的版本說明寫在 [Discord 伺服器](https://link.seria.moe/hb-dc) 內的 #更新 頻道中。  

@@ -1,5 +1,5 @@
 ---
-title: "更新日志"
+title: "版本说明"
 ---
 
 ## v1.17.0
@@ -750,4 +750,4 @@ title: "更新日志"
 
 ## v1.15.2 及以下
 
-先前版本的更新日志写在 [Discord 服务器](https://link.seria.moe/hb-dc) 内的 #更新 频道中。
+先前版本的版本说明写在 [Discord 服务器](https://link.seria.moe/hb-dc) 内的 #更新 频道中。

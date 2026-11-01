@@ -1,15 +1,15 @@
 ---
-description: Write changelog release notes for a Hoyo Buddy version
+description: Write release notes for a Hoyo Buddy version
 argument-hint: <version> (e.g. v1.16.20)
 allowed-tools: Bash(gh api:*), Bash(gh repo:*), Read, Edit
 ---
 
 Write the English release notes for Hoyo Buddy version **$1** and add them to
-`src/content/docs/en/changelog.md`.
+`src/content/docs/en/release-notes.md`.
 
 Follow exactly this process:
 
-1. **Read the current changelog.** Read `src/content/docs/en/changelog.md` to learn the existing
+1. **Read the current release notes.** Read `src/content/docs/en/release-notes.md` to learn the existing
    style, tone, and formatting, and to find the previous released version (the most recent
    `## vX.Y.Z` heading).
 
@@ -26,7 +26,7 @@ Follow exactly this process:
    ```
 
 4. **Write the release notes in the style of the current ones.** Add a new `## $1` section at the top
-   of the changelog body, just under the frontmatter (the `---` block) and before the previous
+   of the release notes body, just under the frontmatter (the `---` block) and before the previous
    version's `## vX.Y.Z` section.
 
 ## Rules
@@ -34,7 +34,7 @@ Follow exactly this process:
 - **Only write down user-facing changes.** Do NOT include purely technical or implementation changes:
   dependency & lockfile maintenance, localization/translation sync, CI / pre-commit updates,
   dead-code cleanup, refactors, internal restructuring, or version bumps.
-- Group entries under the headings the changelog already uses: `### New Features`, `### Improvements`,
+- Group entries under the headings the release notes already use: `### New Features`, `### Improvements`,
   `### Bug Fixes`. Omit any heading that would have no entries.
 - Prefix each entry with the relevant command in backticks when applicable, e.g.
   `- (`/profile zzz`) Add ZZZ 2.8 character card data.`
