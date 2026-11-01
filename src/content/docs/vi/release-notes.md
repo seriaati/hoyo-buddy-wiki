@@ -1,5 +1,5 @@
 ---
-title: "Nhật ký thay đổi"
+title: "Ghi chú phát hành"
 ---
 
 ## v1.17.0
@@ -34,6 +34,10 @@ title: "Nhật ký thay đổi"
 - Sửa lỗi nhắc nhở Ghi Chép Thời Gian Thực đôi khi ngừng hoạt động cho đến khi bot khởi động lại.
 - Sửa lỗi thông báo DM của tác vụ tự động đôi khi bị gửi trễ hàng giờ.
 
+### Nhật ký thay đổi
+
+Xem [danh sách thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy/compare/v1.16.24...v1.17.0) trên GitHub.
+
 ## v1.16.24
 
 ### Tính năng mới
@@ -54,6 +58,10 @@ title: "Nhật ký thay đổi"
 
 - (`/gacha-log import`) Sửa lỗi bản ghi ZZZ nhập từ tệp UIGF không có dữ liệu độ hiếm bị lưu với độ hiếm không hợp lệ.
 - (`/profile zzz`) Sửa lỗi đôi khi không hiển thị hình ảnh của các nhân vật mới ra mắt.
+
+### Nhật ký thay đổi
+
+Xem [danh sách thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy/compare/v1.16.23...v1.16.24) trên GitHub.
 
 ## v1.16.23
 
@@ -82,6 +90,10 @@ title: "Nhật ký thay đổi"
 ### Sửa lỗi
 
 - (`/gacha-log view`) Khắc phục lỗi các nhân vật hạng S trong ZZZ quay được từ banner tăng tỷ lệ của chính họ lại bị tính là thua cơ chế 50/50.
+
+### Nhật ký thay đổi
+
+Xem [danh sách thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy/compare/v1.16.22...v1.16.23) trên GitHub.
 
 ## v1.16.22
 
@@ -119,6 +131,10 @@ title: "Nhật ký thay đổi"
 - (`/search`) Khắc phục lỗi tự động hoàn thành cho các mục phiên bản beta.
 - Sửa lỗi liên kết tài liệu mở sai ngôn ngữ..
 
+### Nhật ký thay đổi
+
+Xem [danh sách thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy/compare/v1.16.21...v1.16.22) trên GitHub.
+
 ## v1.16.21
 
 ### Tính năng mới
@@ -148,6 +164,10 @@ title: "Nhật ký thay đổi"
 - Khắc phục lỗi tắt thông báo không có hiệu lực, điều này có thể dẫn đến việc tự động đổi tin nhắn trực tiếp không mong muốn.
 - Nếu không có ngôn ngữ nào được thiết lập trong cài đặt, Discord sẽ tự động chuyển về ngôn ngữ mặc định của ứng dụng.
 
+### Nhật ký thay đổi
+
+Xem [danh sách thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy/compare/v1.16.20...v1.16.21) trên GitHub.
+
 ## v1.16.20
 
 ### Tính năng mới
@@ -164,6 +184,10 @@ title: "Nhật ký thay đổi"
 - (`/profile zzz`) Sửa một số nhân vật ZZZ thiếu Phim Ý Cảnh.
 - (`/profile`) Giữ nguyên thứ tự các ký tự được truyền làm tham số..
 - (`/gacha-log`) Hiển thị hình ảnh giữ chỗ cho các biểu tượng mục gacha bị thiếu.
+
+### Nhật ký thay đổi
+
+Xem [danh sách thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy/compare/v1.16.19...v1.16.20) trên GitHub.
 
 ## v1.16.19
 
@@ -184,13 +208,17 @@ title: "Nhật ký thay đổi"
 - (`/challenge hsr anomaly`) Sửa vị trí icon cho các khối ký tự trống.
 - (`/profile zzz`) Sửa vị trí hiển thị hoặc thiếu hình ảnh skin cho nhân vật Aria và Nangong Yu.
 
+### Nhật ký thay đổi
+
+Xem [danh sách thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy/compare/v1.16.18...v1.16.19) trên GitHub.
+
 ## v1.16.18
 
 ### Tính năng mới
 
 - (`/profile` ) Thêm hỗ trợ cho các nhân vật ZZZ 2.7 và HSR 4.1
 
-## Sửa lỗi
+### Sửa lỗi
 
 - (`/characters zzz`) Sửa vấn đề hiệu năng khi có quá nhiều nhân vật.
 - (`/events hsr`) Sữa Trọng Tài Dị Tướng hiển thị sai tên trong menu thả xuống.
@@ -199,6 +227,10 @@ title: "Nhật ký thay đổi"
 - (`/search`) Khắc phục lỗi khi tìm kiếm sách trong HSR.
 - (`/profile zzz`) Sửa ảnh nhân vật Ảia hiển thi không chính sác trong thẻ đội hình.
 - (`/profile zzz`) Sửa lỗi thiếu dử liệu thẻ skin nhân vận Pan Yinhu
+
+### Nhật ký thay đổi
+
+Xem [danh sách thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy/compare/v1.16.17...v1.16.18) trên GitHub.
 
 ## v1.16.17a
 
@@ -223,6 +255,10 @@ title: "Nhật ký thay đổi"
 - (`/notes`) Sửa lỗi thiếu khoảng thời gian nhắc nhở Thể Lực cho Honkai Impact 3rd.
 - Sửa lỗi xuống dòng trong ngôn ngữ zh-CN và các ngôn ngữ khác.
 
+### Nhật ký thay đổi
+
+Xem [danh sách thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy/compare/v1.16.16...v1.16.17) trên GitHub.
+
 ## v1.16.16
 
 ### Tính năng mới
@@ -242,6 +278,10 @@ title: "Nhật ký thay đổi"
 - (`/notes`) Cho phép đặt thời gian thông báo ghi chú thực tế lên 0 giờ trước (tức là thông báo chính xác vào lúc đó).
 - (`/mimo`) Vô hiệu hóa tính năng rút thăm tự động cho Genshin Du Lịch Mimo.
 - (`/mimo`) Xử lý lỗi -510001 khi lấy nhiệm vụ của Genshin Du Lịch Mimo.
+
+### Nhật ký thay đổi
+
+Xem [danh sách thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy/compare/v1.16.15...v1.16.16) trên GitHub.
 
 ## v1.16.15
 
@@ -265,6 +305,10 @@ title: "Nhật ký thay đổi"
 - (`/gacha-log view`) Sửa lỗi giao diện trên các thiết bị màn hình nhỏ.
 - Sửa lỗi công tắc không trả về đúng `False` (Sai) khi tắt.
 - Sửa một số vấn đề triển khai và lên lịch nội bộ.
+
+### Nhật ký thay đổi
+
+Xem [danh sách thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy/compare/v1.16.14...v1.16.15) trên GitHub.
 
 ## v1.16.14
 
@@ -295,6 +339,10 @@ title: "Nhật ký thay đổi"
 - (`/profile zzz`) Sửa lỗi ảnh nhân vật Rina không được canh giữa trong thẻ đội.
 - Đổi ẩn UID bằng ký tự 'x' thay vì '*' để tránh lỗi markdown.
 
+### Nhật ký thay đổi
+
+Xem [danh sách thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy/compare/v1.16.13...v1.16.14) trên GitHub.
+
 ## v1.16.13
 
 ### Tính năng mới
@@ -315,7 +363,11 @@ title: "Nhật ký thay đổi"
 
 ### Sửa lỗi
 
-Có quá nhiều để liệt kê, vui lòng xem [toàn bộ nhật ký thay đổi (EN)](https://github.com/seriaati/hoyo-buddy/releases/tag/v1.16.13).
+Có quá nhiều để liệt kê, vui lòng xem nhật ký thay đổi bên dưới.
+
+### Nhật ký thay đổi
+
+Xem [danh sách thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy/compare/v1.16.12...v1.16.13) trên GitHub.
 
 ## v1.16.12
 
@@ -349,6 +401,10 @@ Lưu Ý: Phiên bản này đã tạm thời vô hiệu hóa Du Lịch Mimo cho 
 - (`/gacha-log view`) Xử lý nhập loại banner không hợp lệ.
 - (`/challenge`) Sửa lỗi vấn đề với menu thả xuống giai đoạn thử thách khi có hơn 25 thử thách.
 
+### Nhật ký thay đổi
+
+Xem [danh sách thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy/compare/v1.16.11...v1.16.12) trên GitHub.
+
 ## v1.16.11
 
 ### Tính năng mới
@@ -362,6 +418,10 @@ Lưu Ý: Phiên bản này đã tạm thời vô hiệu hóa Du Lịch Mimo cho 
 - (`/profile`) Sửa lỗi kết quả Enka luôn đưa ra bằng tiếng Anh.
 - (`/exploration`) Sửa lỗi tràn văn bản cho Danh Vọng Bộ Tộc.
 - Sửa lỗi phiên dịch với ngôn ngữ en-GB.
+
+### Nhật ký thay đổi
+
+Xem [danh sách thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy/compare/v1.16.10...v1.16.11) trên GitHub.
 
 ## v1.16.10
 
@@ -384,6 +444,10 @@ Lưu Ý: Phiên bản này đã tạm thời vô hiệu hóa Du Lịch Mimo cho 
 - (`/profile zzz`) Sửa lỗi các build trên Enka Network thỉnh thoảng không hiện lên.
 - (`/search`) Sửa lỗi "nội dung chưa phát hành" được hiển thị trong tìm kiếm tự động hoàn thành bình thường
 
+### Nhật ký thay đổi
+
+Xem [danh sách thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy/compare/v1.16.9...v1.16.10) trên GitHub.
+
 ## v1.16.9
 
 ### Tính năng mới
@@ -404,6 +468,10 @@ Lưu Ý: Phiên bản này đã tạm thời vô hiệu hóa Du Lịch Mimo cho 
 - (`/gacha-log manage`) Sửa lỗi vật sai hạng cho tính năng xuất của ZZZZ
 - (`/gacha-log view`) Sửa lỗi tên vật là "???" cho banner Hợp Tác Nhân Vật và Nón Ánh Sáng của HSR.
 - (`/profile genshin`) Sửa lỗi tin nhắn nhúng không có người chơi được hiển thị khi nguồn dữ liệu chính là HoYoLAB
+
+### Nhật ký thay đổi
+
+Xem [danh sách thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy/compare/v1.16.8...v1.16.9) trên GitHub.
 
 ## v1.16.8
 
@@ -433,6 +501,10 @@ Lưu Ý: Phiên bản này đã tạm thời vô hiệu hóa Du Lịch Mimo cho 
 - (`/characters genshin`) Sữa ảnh của một số nhân vật được hiển đưới phong cách khác
 - (`/profile hsr`) Sửa một số lỗi phong chứ trong tên của nón ánh sáng trong mẫu thẻ 2
 
+### Nhật ký thay đổi
+
+Xem [danh sách thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy/compare/v1.16.7...v1.16.8) trên GitHub.
+
 ## v1.16.7
 
 ### Tính năng mới
@@ -457,6 +529,10 @@ Lưu Ý: Phiên bản này đã tạm thời vô hiệu hóa Du Lịch Mimo cho 
 - (`/search`) Vô hiệu hóa mục La Hoàn Thâm Cảnh.
 - (`/search`) Sửa lỗi không có lựa chọn tự động hoàn thành cho danh mục đĩa.
 
+### Nhật ký thay đổi
+
+Xem [danh sách thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy/compare/v1.16.6...v1.16.7) trên GitHub.
+
 ## v1.16.6
 
 ### Tính năng mới
@@ -475,6 +551,10 @@ Lưu Ý: Phiên bản này đã tạm thời vô hiệu hóa Du Lịch Mimo cho 
 - (`/characters genshin`) Xử lý nhân vật không có nguyên tố.
 - (`/challenge genshin theater`) Xử lý ID không hợp lệ của các nhân vật.
 
+### Nhật ký thay đổi
+
+Xem [danh sách thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy/compare/v1.16.5...v1.16.6) trên GitHub.
+
 ## v1.16.5
 
 ### Tính năng mới
@@ -491,6 +571,10 @@ Lưu Ý: Phiên bản này đã tạm thời vô hiệu hóa Du Lịch Mimo cho 
 - (`/upload`) Xử lý các tệp hình ảnh quá lớn.
 - (`/search`) Sửa lỗi công thức tính toán không chính xác cho chỉ số nhân vật và hình nón ánh sáng.
 - (`/accounts`) Sửa lỗi tùy chọn 'trang tiếp theo' không hoạt động khi người dùng có hơn 25 tài khoản.
+
+### Nhật ký thay đổi
+
+Xem [danh sách thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy/compare/v1.16.4...v1.16.5) trên GitHub.
 
 ## v1.16.4
 
@@ -514,6 +598,10 @@ Lưu Ý: Phiên bản này đã tạm thời vô hiệu hóa Du Lịch Mimo cho 
 - (`/lb view`) Loại bỏ bảng xếp hạng thành tựu cho Honkai Impact 3
 - (`/farm reminder`) Đã sửa lỗi tên mục là "..."
 
+### Nhật ký thay đổi
+
+Xem [danh sách thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy/compare/v1.16.3...v1.16.4) trên GitHub.
+
 ## v1.16.3
 
 ### Tính năng mới
@@ -532,6 +620,10 @@ Lưu Ý: Phiên bản này đã tạm thời vô hiệu hóa Du Lịch Mimo cho 
 - (`/notes`) Đã sửa lỗi thông báo biến áp tham số không hoạt động.
 - (`/gacha-log upload`) Đã sửa lỗi độ hiếm của mục sai đối với một số phương thức nhập ZZZ.
 
+### Nhật ký thay đổi
+
+Xem [danh sách thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy/compare/v1.16.2...v1.16.3) trên GitHub.
+
 ## v1.16.2
 
 ### Tính năng mới
@@ -542,6 +634,10 @@ Lưu Ý: Phiên bản này đã tạm thời vô hiệu hóa Du Lịch Mimo cho 
 
 - (`/profile zzz`) Sửa vị trí thẻ hình của Pulchra trong Mẫu thẻ Hoyo Buddy 2.
 - (`/build genshin`) Sửa lỗi di vật vị trí emoji không được hiển thị đúng cách trong ứng dụng của tôi.
+
+### Nhật ký thay đổi
+
+Xem [danh sách thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy/compare/v1.16.1...v1.16.2) trên GitHub.
 
 ## v1.16.1
 
@@ -560,7 +656,11 @@ Lưu Ý: Phiên bản này đã tạm thời vô hiệu hóa Du Lịch Mimo cho 
 
 ### Sửa Lỗi
 
-Đã sửa nhiều lỗi khác nhau, hãy xem [nhật ký thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy/releases/tag/v1.16.1) để biết thêm chi tiết.
+Đã sửa nhiều lỗi khác nhau, hãy xem nhật ký thay đổi bên dưới để biết thêm chi tiết.
+
+### Nhật ký thay đổi
+
+Xem [danh sách thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy/compare/v1.16.0...v1.16.1) trên GitHub.
 
 ## v1.16.0
 
@@ -585,6 +685,10 @@ Lưu Ý: Phiên bản này đã tạm thời vô hiệu hóa Du Lịch Mimo cho 
 
 - Sửa nhiều lỗi và cải tiến.
 - Cải thiện phiên dịch Tiếng Việt.
+
+### Nhật ký thay đổi
+
+Xem [danh sách thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy/compare/v1.15.7...v1.16.0) trên GitHub.
 
 ## v1.15.7
 
@@ -623,6 +727,10 @@ Lưu Ý: Phiên bản này đã tạm thời vô hiệu hóa Du Lịch Mimo cho 
 - (`/notes`) Sửa lỗi xác nhận cho Honkai Impact 3.
 - (`/challenge zzz assault`) Đã sửa lỗi biểu tượng buff không được hiển thị.
 
+### Nhật ký thay đổi
+
+Xem [danh sách thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy/compare/v1.15.6...v1.15.7) trên GitHub.
+
 ## v1.15.6
 
 ### Tính năng mới
@@ -633,11 +741,11 @@ Lưu Ý: Phiên bản này đã tạm thời vô hiệu hóa Du Lịch Mimo cho 
 - (`/profile hsr`) Thêm Mẫu thẻ 2.
 - (`/notes`) Thêm thông tin Tiến Độ Ủy Thác Treo Thưởng và Điểm Số Ridu Hàng Tuần cho ZZZ
 
-## Cải Tiến
+### Cải Tiến
 
 - (`/check-in`) Giảm các yêu cầu API điểm danh trùng lặp.
 
-## Sửa Lỗi
+### Sửa Lỗi
 
 - (`/mimo`) Sửa lỗi gửi thông báo khi không có nhiệm vụ nào được hoàn thành và không có điểm nào được nhận.
 - (`/mimo`) Sửa lỗi cách xác định các vật phẩm có giá trị.
@@ -648,6 +756,10 @@ Lưu Ý: Phiên bản này đã tạm thời vô hiệu hóa Du Lịch Mimo cho 
 - (`/events`) Sửa lỗi tiến trình của La Hoàn Thâm Cảnh.
 - (`/gacha-log view`) Đã sửa lỗi số lần quay gacha từ độ hiếm cuối cùng.
 - Đã sửa lỗi logic tạo thư mục hình ảnh tĩnh.
+
+### Nhật ký thay đổi
+
+Xem [danh sách thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy/compare/v1.15.5...v1.15.6) trên GitHub.
 
 ## v1.15.5
 
@@ -695,6 +807,10 @@ Lưu Ý: Phiên bản này đã tạm thời vô hiệu hóa Du Lịch Mimo cho 
 - Đã khắc phục sự cố với API Hakushin.
 - Nắm bắt các ngoại lệ chung trong phương thức `dm_user`.
 
+### Nhật ký thay đổi
+
+Xem [danh sách thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy/compare/v1.15.4...v1.15.5) trên GitHub.
+
 ## v1.15.4
 
 ### Tính năng mới
@@ -714,6 +830,10 @@ Lưu Ý: Phiên bản này đã tạm thời vô hiệu hóa Du Lịch Mimo cho 
 - (`/gacha-log upload`) Sửa lỗi `ValidationError` với dữ liệu UIGF.
 - (`/gacha-log upload`) Sửa lỗi `KeyError` với UIGF phiên bản cũ hơn 3.0.
 - (`/search`) Sửa các lựa chọn tự động hoàn thành trùng lặp.
+
+### Nhật ký thay đổi
+
+Xem [danh sách thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy/compare/v1.15.3...v1.15.4) trên GitHub.
 
 ## v1.15.3
 
@@ -743,6 +863,10 @@ Lỗi code trong phiên bản trước đã xẩy ra lỗi "nhiều yêu cầu q
 - (`/profile`) Sửa lỗi `BadRequestError` khi tạo ảnh AI.
 - (`/profile`) Sửa lỗi `BadRequestError` khi tải ảnh lên.
 
+### Nhật ký thay đổi
+
+Xem [danh sách thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy/compare/v1.15.2...v1.15.3) trên GitHub.
+
 ## v1.15.2 và trước đó
 
-Các nhật ký thay đổi trước đó đã được viết trong kênh #updates trong [Máy chủ Discord](https://link.seria.moe/hb-dc) của chúng tôi.
+Các ghi chú phát hành trước đó đã được viết trong kênh #updates trong [Máy chủ Discord](https://link.seria.moe/hb-dc) của chúng tôi.

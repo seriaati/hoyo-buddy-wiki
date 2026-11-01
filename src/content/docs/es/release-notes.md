@@ -1,5 +1,5 @@
 ---
-title: "Cambios"
+title: "Notas de la versión"
 ---
 
 ## v1.17.0
@@ -34,6 +34,10 @@ title: "Cambios"
 - Se corrigió que los recordatorios de notas en tiempo real a veces dejaran de funcionar hasta que se reiniciara el bot.
 - Se corrigió que las notificaciones por mensaje directo de las tareas automáticas a veces llegaran con horas de retraso.
 
+### Registro de cambios
+
+Consulta la [lista completa de cambios](https://github.com/seriaati/hoyo-buddy/compare/v1.16.24...v1.17.0) en GitHub.
+
 ## v1.16.24
 
 ### Nuevas Funciones
@@ -54,6 +58,10 @@ title: "Cambios"
 
 - (`/gacha-log import`) Se corrigió que los registros de ZZZ importados desde archivos UIGF sin datos de rareza se guardaran con una rareza inválida.
 - (`/profile zzz`) Se corrigió que a veces faltaran las imágenes de los personajes recién lanzados.
+
+### Registro de cambios
+
+Consulta la [lista completa de cambios](https://github.com/seriaati/hoyo-buddy/compare/v1.16.23...v1.16.24) en GitHub.
 
 ## v1.16.23
 
@@ -82,6 +90,10 @@ title: "Cambios"
 ### Corrección de errores
 
 - (`/gacha-log view`) Se corrigió un error por el cual los rangos S de ZZZ obtenidos durante su propio banner promocional se contaban como derrotas en el 50/50.
+
+### Registro de cambios
+
+Consulta la [lista completa de cambios](https://github.com/seriaati/hoyo-buddy/compare/v1.16.22...v1.16.23) en GitHub.
 
 ## v1.16.22
 
@@ -119,6 +131,10 @@ title: "Cambios"
 * (`/search`) Se corrigió un error de autocompletado en los objetos de la beta.
 * Se corrigió un error por el cual los enlaces de la documentación se abrían en un idioma equivocado.
 
+### Registro de cambios
+
+Consulta la [lista completa de cambios](https://github.com/seriaati/hoyo-buddy/compare/v1.16.21...v1.16.22) en GitHub.
+
 ## v1.16.21
 
 ### Nuevas Funciones
@@ -148,6 +164,10 @@ title: "Cambios"
 * Se corrigió un error por el cual la desactivación de notificaciones no surtía efecto, lo que podía causar que te llegaran mensajes directos no deseados de canje automático.
 * Ahora se usa el idioma de tu cliente de Discord por defecto cuando no tienes configurado ningún idioma en los ajustes.
 
+### Registro de cambios
+
+Consulta la [lista completa de cambios](https://github.com/seriaati/hoyo-buddy/compare/v1.16.20...v1.16.21) en GitHub.
+
 ## v1.16.20
 
 ### Novedades
@@ -164,6 +184,10 @@ title: "Cambios"
 * (`/profile zzz`) Se corrigió la falta de imágenes del Cine mental en los nuevos personajes de ZZZ.
 * (`/profile`) Se mantuvo el orden de los personajes pasados como parámetros.
 * (`/gacha-log`) Se añadió una imagen provisional para los íconos faltantes de los objetos del gacha.
+
+### Registro de cambios
+
+Consulta la [lista completa de cambios](https://github.com/seriaati/hoyo-buddy/compare/v1.16.19...v1.16.20) en GitHub.
 
 ## v1.16.19
 
@@ -184,6 +208,10 @@ title: "Cambios"
 - (`/challenge hsr anomaly`) Se corrigió la posición del ícono para los bloques de personajes vacíos.
 - (`/profile zzz`) Se corrigieron las posiciones incorrectas de las imágenes o la falta de imágenes en las skins de Aria y Nangong Yu.
 
+### Registro de cambios
+
+Consulta la [lista completa de cambios](https://github.com/seriaati/hoyo-buddy/compare/v1.16.18...v1.16.19) en GitHub.
+
 ## v1.16.18
 
 ### Novedades
@@ -199,6 +227,10 @@ title: "Cambios"
 - (`/search`) Se corrigió un error al buscar libros en HSR.
 - (`/profile zzz`) Se corrigió un error donde la imagen de Aria aparecía de forma incorrecta en las tarjetas de equipo.
 - (`/profile zzz`) Se corrigió la falta de datos en la tarjeta para la skin de Pan Yinhu.
+
+### Registro de cambios
+
+Consulta la [lista completa de cambios](https://github.com/seriaati/hoyo-buddy/compare/v1.16.17...v1.16.18) en GitHub.
 
 ## v1.16.17a
 
@@ -223,6 +255,10 @@ title: "Cambios"
 - (`/notes`) Se corrigió la falta del intervalo de recordatorio de stamina para Honkai Impact 3rd.
 - Se corrigieron los problemas de saltos de línea en la localización de zh-CN y otros idiomas.
 
+### Registro de cambios
+
+Consulta la [lista completa de cambios](https://github.com/seriaati/hoyo-buddy/compare/v1.16.16...v1.16.17) en GitHub.
+
 ## v1.16.16
 
 ### Nuevas Funciones
@@ -242,6 +278,10 @@ title: "Cambios"
 - (`/notes`) Se permite establecer el tiempo de notificación de las notas en "0 horas antes" (es decir, notificar en el momento exacto).
 - (`/mimo`) Se deshabilitó el sorteo automático para el Mimo Viajero de Genshin.
 - (`/mimo`) Se maneja el error -510001 al obtener las tareas del Mimo Viajero de Genshin.
+
+### Registro de cambios
+
+Consulta la [lista completa de cambios](https://github.com/seriaati/hoyo-buddy/compare/v1.16.15...v1.16.16) en GitHub.
 
 ## v1.16.15
 
@@ -265,6 +305,10 @@ title: "Cambios"
 - (`/gacha-log view`) Se corrigieron problemas de interfaz en dispositivos con pantallas pequeñas.
 - Se corrigió que los interruptores de alternancia no devolvieran correctamente `False` para opciones deshabilitadas.
 - Se corrigieron varios problemas internos de implementación y programación.
+
+### Registro de cambios
+
+Consulta la [lista completa de cambios](https://github.com/seriaati/hoyo-buddy/compare/v1.16.14...v1.16.15) en GitHub.
 
 ## v1.16.14
 
@@ -295,6 +339,10 @@ title: "Cambios"
 - (`/profile zzz`) Se corrigió la imagen de Rina no estaba centrada en las tarjetas de equipo.
 - Cambiado el carácter de enmascarado de UID de '*' a 'x' para evitar problemas con markdown.
 
+### Registro de cambios
+
+Consulta la [lista completa de cambios](https://github.com/seriaati/hoyo-buddy/compare/v1.16.13...v1.16.14) en GitHub.
+
 ## v1.16.13
 
 ### Nuevas Funciones
@@ -315,7 +363,11 @@ title: "Cambios"
 
 ### Correcciones de Errores
 
-Demasiados para listar aquí, ver el [registro de cambios completo](https://github.com/seriaati/hoyo-buddy/releases/tag/v1.16.13).
+Demasiados para listar aquí, ver el registro de cambios más abajo.
+
+### Registro de cambios
+
+Consulta la [lista completa de cambios](https://github.com/seriaati/hoyo-buddy/compare/v1.16.12...v1.16.13) en GitHub.
 
 ## v1.16.12
 
@@ -351,6 +403,10 @@ La función volverá a habilitarse cuando esté disponible nuevamente.
 - (`/gacha-log view`) Se maneja correctamente la entrada de tipos de banner inválidos.  
 - (`/challenge`) Se corrigieron problemas con el menú desplegable de fases cuando hay más de 25 fases.
 
+### Registro de cambios
+
+Consulta la [lista completa de cambios](https://github.com/seriaati/hoyo-buddy/compare/v1.16.11...v1.16.12) en GitHub.
+
 ## v1.16.11
 
 ### Nuevas Funciones
@@ -364,6 +420,10 @@ La función volverá a habilitarse cuando esté disponible nuevamente.
 - (`/profile`) Se corrigió el error que hacía que los resultados de Enka siempre se mostraran en inglés.  
 - (`/exploration`) Se corrigió el desbordamiento de texto en el nivel de tribu.  
 - Se corrigió el problemas de traducción con la configuración regional **en-GB**.
+
+### Registro de cambios
+
+Consulta la [lista completa de cambios](https://github.com/seriaati/hoyo-buddy/compare/v1.16.10...v1.16.11) en GitHub.
 
 ## v1.16.10
 
@@ -386,6 +446,10 @@ La función volverá a habilitarse cuando esté disponible nuevamente.
 - (`/profile zzz`) Se corrigió que a veces no se mostraban las configuraciones de Enka Network.
 - (`/search`) Se corrigió que el contenido no publicado apareciera en el autocompletado de búsqueda normal.
 
+### Registro de cambios
+
+Consulta la [lista completa de cambios](https://github.com/seriaati/hoyo-buddy/compare/v1.16.9...v1.16.10) en GitHub.
+
 ## v1.16.9
 
 ### Nuevas Funciones
@@ -406,6 +470,10 @@ La función volverá a habilitarse cuando esté disponible nuevamente.
 - (`/gacha-log manage`) Se corrigió la rareza incorrecta de objetos al exportar desde ZZZ.
 - (`/gacha-log view`) Se corrigió el nombre de los objetos que aparecían como "???" en personajes y conos de luz del banner de colaboración de HSR.
 - (`/profile genshin`) Se solucionó el problema donde no se mostraba el embed del jugador cuando la fuente de datos era HoYoLAB.
+
+### Registro de cambios
+
+Consulta la [lista completa de cambios](https://github.com/seriaati/hoyo-buddy/compare/v1.16.8...v1.16.9) en GitHub.
 
 ## v1.16.8
 
@@ -435,6 +503,10 @@ La función volverá a habilitarse cuando esté disponible nuevamente.
 - (`/characters genshin`) Se corrigieron estilos inconsistentes en imágenes de algunos personajes.
 - (`/profile hsr`) Se corrigieron problemas de fuente en los nombres de los conos de luz en la plantilla 2.
 
+### Registro de cambios
+
+Consulta la [lista completa de cambios](https://github.com/seriaati/hoyo-buddy/compare/v1.16.7...v1.16.8) en GitHub.
+
 ## v1.16.7
 
 ### Nuevas funciones
@@ -458,6 +530,10 @@ La función volverá a habilitarse cuando esté disponible nuevamente.
 - (`/search`) Se deshabilitó la categoría del Abismo Espiral.
 - (`/search`) Se corrigió la falta de opciones de autocompletado para la categoría de discos de impulso.
 
+### Registro de cambios
+
+Consulta la [lista completa de cambios](https://github.com/seriaati/hoyo-buddy/compare/v1.16.6...v1.16.7) en GitHub.
+
 ## v1.16.6
 
 ### Nuevas funciones
@@ -476,6 +552,10 @@ La función volverá a habilitarse cuando esté disponible nuevamente.
 - (`/characters genshin`) Soporte para personajes sin elemento.
 - (`/challenge genshin theater`) Manejo de IDs de personajes no válidos.
 
+### Registro de cambios
+
+Consulta la [lista completa de cambios](https://github.com/seriaati/hoyo-buddy/compare/v1.16.5...v1.16.6) en GitHub.
+
 ## v1.16.5
 
 ### Nuevas Funciones
@@ -492,6 +572,10 @@ La función volverá a habilitarse cuando esté disponible nuevamente.
 - (`/upload`) Manejo de archivos de imagen demasiado grandes.
 - (`/search`) Corregida la fórmula de cálculo incorrecta para estadísticas de personajes y conos de luz.
 - (`/accounts`) Corregida la opción de 'siguiente página' que no funcionaba cuando el usuario tenía más de 25 cuentas.
+
+### Registro de cambios
+
+Consulta la [lista completa de cambios](https://github.com/seriaati/hoyo-buddy/compare/v1.16.4...v1.16.5) en GitHub.
 
 ## v1.16.4
 
@@ -515,6 +599,10 @@ La función volverá a habilitarse cuando esté disponible nuevamente.
 - (`/lb view`) Eliminada la tabla de logros de Honkai Impact 3rd.
 - (`/farm reminder`) Corregido que los nombres de los objetos aparecieran como "...".
 
+### Registro de cambios
+
+Consulta la [lista completa de cambios](https://github.com/seriaati/hoyo-buddy/compare/v1.16.3...v1.16.4) en GitHub.
+
 ## v1.16.3
 
 ### Nuevas Funciones
@@ -533,6 +621,10 @@ La función volverá a habilitarse cuando esté disponible nuevamente.
 - (`/notes`) Corregido que el notificador del transformador paramétrico no funcionara.
 - (`/gacha-log upload`) Corregida la rareza incorrecta de algunos objetos al importar métodos de ZZZ.
 
+### Registro de cambios
+
+Consulta la [lista completa de cambios](https://github.com/seriaati/hoyo-buddy/compare/v1.16.2...v1.16.3) en GitHub.
+
 ## v1.16.2
 
 ### Nuevas Funciones
@@ -543,6 +635,10 @@ La función volverá a habilitarse cuando esté disponible nuevamente.
 
 - (`/profile zzz`) Corregida la posición de la imagen de Pulchra en la plantilla de carta 2.
 - (`/build genshin`) Corregido que los emojis de posición de artefactos no se mostraran correctamente en apps de usuario.
+
+### Registro de cambios
+
+Consulta la [lista completa de cambios](https://github.com/seriaati/hoyo-buddy/compare/v1.16.1...v1.16.2) en GitHub.
 
 ## v1.16.1
 
@@ -561,11 +657,13 @@ La función volverá a habilitarse cuando esté disponible nuevamente.
 
 ### Corrección de Errores
 
-Varios arreglos de errores, ver el [changelog completo](https://github.com/seriaati/hoyo-buddy/releases/tag/v1.16.1) para más detalles.
+Varios arreglos de errores, ver el registro de cambios más abajo para más detalles.
+
+### Registro de cambios
+
+Consulta la [lista completa de cambios](https://github.com/seriaati/hoyo-buddy/compare/v1.16.0...v1.16.1) en GitHub.
 
 ## v1.16.0
-
-[Para los curiosos](https://github.com/seriaati/hoyo-buddy/releases/tag/v1.16.0)
 
 ### Nuevas Funciones
 
@@ -587,6 +685,10 @@ Varios arreglos de errores, ver el [changelog completo](https://github.com/seria
 ### Corrección de Errores
 
 Varios arreglos y mejoras.
+
+### Registro de cambios
+
+Consulta la [lista completa de cambios](https://github.com/seriaati/hoyo-buddy/compare/v1.15.7...v1.16.0) en GitHub.
 
 ## v1.15.7
 
@@ -625,6 +727,10 @@ Varios arreglos y mejoras.
 - (`/notes`) Corregido error de validación para Honkai Impact 3rd.
 - (`/challenge zzz assault`) Corregido que los iconos de buff no se mostraran.
 
+### Registro de cambios
+
+Consulta la [lista completa de cambios](https://github.com/seriaati/hoyo-buddy/compare/v1.15.6...v1.15.7) en GitHub.
+
 ## v1.15.6
 
 ### Nuevas Funciones
@@ -650,6 +756,10 @@ Varios arreglos y mejoras.
 - (`/events`) Corregido progreso incorrecto en el Abismo Espiral.
 - (`/gacha-log view`) Corregido número incorrecto de tiradas desde la última rareza.
 - Corregida la lógica de creación de carpetas de imágenes estáticas.
+
+### Registro de cambios
+
+Consulta la [lista completa de cambios](https://github.com/seriaati/hoyo-buddy/compare/v1.15.5...v1.15.6) en GitHub.
 
 ## v1.15.5
 
@@ -697,6 +807,10 @@ Varios arreglos y mejoras.
 - Corregidos problemas con la API de Hakushin.
 - Captura de excepciones generales en el método `dm_user`.
 
+### Registro de cambios
+
+Consulta la [lista completa de cambios](https://github.com/seriaati/hoyo-buddy/compare/v1.15.4...v1.15.5) en GitHub.
+
 ## v1.15.4
 
 ### Nuevas Funciones
@@ -716,6 +830,10 @@ Varios arreglos y mejoras.
 - (`/gacha-log upload`) Corregido `ValidationError` con datos UIGF.
 - (`/gacha-log upload`) Corregido `KeyError` con versiones UIGF anteriores a la 3.0.
 - (`/search`) Corregidas opciones duplicadas en autocompletado.
+
+### Registro de cambios
+
+Consulta la [lista completa de cambios](https://github.com/seriaati/hoyo-buddy/compare/v1.15.3...v1.15.4) en GitHub.
 
 ## v1.15.3
 
@@ -746,6 +864,10 @@ El código defectuoso en versiones anteriores causó que algunos usuarios vieran
 - (`/profile`) Corregido `BadRequestError` al generar imágenes AI.
 - (`/upload`) Corregido `BadRequestError` al subir imágenes.
 
+### Registro de cambios
+
+Consulta la [lista completa de cambios](https://github.com/seriaati/hoyo-buddy/compare/v1.15.2...v1.15.3) en GitHub.
+
 ## v1.15.2 y anteriores
 
-Los changelogs anteriores fueron escritos en el canal #updates de
+Las notas de la versión anteriores se publicaron en el canal #updates de nuestro [servidor de Discord](https://link.seria.moe/hb-dc).

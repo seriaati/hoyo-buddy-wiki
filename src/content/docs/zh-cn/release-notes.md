@@ -1,5 +1,5 @@
 ---
-title: "更新日志"
+title: "版本说明"
 ---
 
 ## v1.17.0
@@ -34,6 +34,10 @@ title: "更新日志"
 - 修复了实时便笺提醒有时会停止运行、直到机器人重启才恢复的问题。
 - 修复了自动任务私信通知有时延迟数小时才送达的问题。
 
+### 更新日志
+
+在GitHub上查看[完整的更改列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.24...v1.17.0)。
+
 ## v1.16.24
 
 ### 新功能
@@ -54,6 +58,10 @@ title: "更新日志"
 
 - (`/gacha-log import`) 修复了从不含稀有度数据的UIGF文件导入《绝区零》记录时，稀有度被保存为无效数值的问题。
 - (`/profile zzz`) 修复了新代理人图片有时无法显示的问题。
+
+### 更新日志
+
+在GitHub上查看[完整的更改列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.23...v1.16.24)。
 
 ## v1.16.23
 
@@ -82,6 +90,10 @@ title: "更新日志"
 ### Bug修复
 
 - (`/gacha-log view`) 修复了《绝区零》S级角色在其自身UP卡池中抽出时被计为50/50失败的问题。
+
+### 更新日志
+
+在GitHub上查看[完整的更改列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.22...v1.16.23)。
 
 ## v1.16.22
 
@@ -119,6 +131,10 @@ title: "更新日志"
 - (`/search`) 修复了测试服物品名称自动补全异常的问题。
 - 修复了文档链接打开语言不匹配的问题。
 
+### 更新日志
+
+在GitHub上查看[完整的更改列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.21...v1.16.22)。
+
 ## v1.16.21
 
 ### 新增功能
@@ -148,6 +164,10 @@ title: "更新日志"
 - 修复了关闭通知设置不生效，导致自动兑换私信骚扰推送的问题。
 - 当设置中未设置语言时，将会自动读取Discord客户端语言作为备选。
 
+### 更新日志
+
+在GitHub上查看[完整的更改列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.20...v1.16.21)。
+
 ## v1.16.20
 
 ### 新功能
@@ -164,6 +184,10 @@ title: "更新日志"
 - (`/profile zzz`) 修复了《绝区零》新角色意象影画图片丢失的问题。
 - (`/profile`) 保留传入角色参数的原有顺序。
 - (`/gacha-log`) 抽卡物品丢失时会用占位符图片展示。
+
+### 更新日志
+
+在GitHub上查看[完整的更改列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.19...v1.16.20)。
 
 ## v1.16.19
 
@@ -184,6 +208,10 @@ title: "更新日志"
 - (`/challenge hsr anomaly`) 修复了空白字符块的图标位置的问题。
 - (`/profile zzz`) 修复了爱苪和南宫羽造型图片位置错误或丢失的问题。
 
+### 更新日志
+
+在GitHub上查看[完整的更改列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.18...v1.16.19)。
+
 ## v1.16.18
 
 ### 新功能
@@ -199,6 +227,10 @@ title: "更新日志"
 - (`/search`) 修复了在《崩坏：星穹铁道》查询书籍时的错误问题。
 - (`/profile zzz`) 修复了爱苪图片在队伍卡片中显示不恰当的问题。
 - (`/profile zzz`) 修复了潘引壶造型卡片数据丢失的问题。
+
+### 更新日志
+
+在GitHub上查看[完整的更改列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.17...v1.16.18)。
 
 ## v1.16.17a
 
@@ -223,6 +255,10 @@ title: "更新日志"
 - (`/notes`) 修复崩坏3缺少体力提醒间隔的问题。
 - 修复 zh-CN 及其他语言的本地化换行问题。
 
+### 更新日志
+
+在GitHub上查看[完整的更改列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.16...v1.16.17)。
+
 ## v1.16.16
 
 ### 新功能
@@ -242,6 +278,10 @@ title: "更新日志"
 - (`/notes`) 允许将实时便笺通知时间设置为提前 0 小时（即恰好到时通知）。
 - (`/mimo`) 禁用原神旅行 Mimo 的自动抽奖功能。
 - (`/mimo`) 处理获取原神旅行 Mimo 任务时的 -510001 错误。
+
+### 更新日志
+
+在GitHub上查看[完整的更改列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.15...v1.16.16)。
 
 ## v1.16.15
 
@@ -265,6 +305,10 @@ title: "更新日志"
 - (`/gacha-log view`) 修复小屏幕设备上的 UI 问题。
 - 修复开关切换按钮未正确返回 `False` 的问题。
 - 修复多个内部部署和调度问题。
+
+### 更新日志
+
+在GitHub上查看[完整的更改列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.14...v1.16.15)。
 
 ## v1.16.14
 
@@ -295,6 +339,10 @@ title: "更新日志"
 - (`/profile zzz`) 修复了丽娜的图像与队伍卡片中心不对齐的问题。
 - 将UID掩码字符从“*”更改为“x”，以避免标记问题。
 
+### 更新日志
+
+在GitHub上查看[完整的更改列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.13...v1.16.14)。
+
 ## v1.16.13
 
 ### 新功能
@@ -315,7 +363,11 @@ title: "更新日志"
 
 ### Bug 修复
 
-由于太多，请参阅[完整更新日志](https://github.com/seriaati/hoyo-buddy/releases/tag/v1.16.13)。
+由于太多，请参阅下方的更新日志。
+
+### 更新日志
+
+在GitHub上查看[完整的更改列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.12...v1.16.13)。
 
 ## v1.16.12
 
@@ -350,6 +402,10 @@ title: "更新日志"
 - (`/gacha-log view`) 解决了无效输入卡池问题。
 - (`/challenge`) 修复了选择挑战期数下拉菜单长度超过25个时出错的问题。
 
+### 更新日志
+
+在GitHub上查看[完整的更改列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.11...v1.16.12)。
+
 ## v1.16.11
 
 ### 新功能
@@ -363,6 +419,10 @@ title: "更新日志"
 - (`/profile`) 修复了Enka结果始终以英文返回的问题。
 - (`/exploration`) 修复了部族声望等级文本溢出的问题。
 - 修复了en-GB语言环境的翻译问题。
+
+### 更新日志
+
+在GitHub上查看[完整的更改列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.10...v1.16.11)。
 
 ## v1.16.10
 
@@ -385,6 +445,10 @@ title: "更新日志"
 - (`/profile zzz`) 修复了有时 Enka Network 配置不能展示的问题。
 - (`/search`) 修复了在正常搜索自动补齐时的未公开内容显示的问题。
 
+### 更新日志
+
+在GitHub上查看[完整的更改列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.9...v1.16.10)。
+
 ## v1.16.9
 
 ### 新功能
@@ -405,6 +469,10 @@ title: "更新日志"
 - (`/gacha-log manage`) 修复了绝区零导出时物品稀有度错误问题。
 - (`/gacha-log view`) 修复了物品名字为“？？？”问题。
 - (`/profile genshin`) 修复了当数据源为HoYoLab时玩家预览不显示的问题。
+
+### 更新日志
+
+在GitHub上查看[完整的更改列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.8...v1.16.9)。
 
 ## v1.16.8
 
@@ -434,6 +502,10 @@ title: "更新日志"
 - (`/characters genshin`) 修复某些角色图片样式不同的问题。
 - (`/profile hsr`) 修复样式 2 中光锥名称的字体问题。
 
+### 更新日志
+
+在GitHub上查看[完整的更改列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.7...v1.16.8)。
+
 ## v1.16.7
 
 ### 新功能
@@ -457,6 +529,10 @@ title: "更新日志"
 - (`/search`) 停用深境螺旋分类。
 - (`/search`) 修复驱动盘分类没有自动完成选项的问题。
 
+### 更新日志
+
+在GitHub上查看[完整的更改列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.6...v1.16.7)。
+
 ## v1.16.6
 
 ### 新功能
@@ -479,6 +555,10 @@ title: "更新日志"
 
 - (`/challenge genshin theater`) 处理无效角色 ID 的问题。
 
+### 更新日志
+
+在GitHub上查看[完整的更改列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.5...v1.16.6)。
+
 ## v1.16.5
 
 ### 新功能
@@ -495,6 +575,10 @@ title: "更新日志"
 - (`/upload`) 处理过大的图片文件。
 - (`/search`) 修复角色和光锥属性计算公式错误的问题。
 - (`/accounts`) 修复当用户拥有超过 25 个账户时「下一页」选项无法正常工作的问题。
+
+### 更新日志
+
+在GitHub上查看[完整的更改列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.4...v1.16.5)。
 
 ## v1.16.4
 
@@ -518,6 +602,10 @@ title: "更新日志"
 - (`/lb view`) 移除崩坏3的成就排行榜。
 - (`/farm reminder`) 修复物品名称显示为"..."的问题。
 
+### 更新日志
+
+在GitHub上查看[完整的更改列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.3...v1.16.4)。
+
 ## v1.16.3
 
 ### 新功能
@@ -536,6 +624,10 @@ title: "更新日志"
 - (`/notes`) 修复了质变仪通知无法正常运作的问题。
 - (`/gacha-log upload`) 修复了某些 ZZZ 导入方法导致的错误物品稀有度。
 
+### 更新日志
+
+在GitHub上查看[完整的更改列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.2...v1.16.3)。
+
 ## v1.16.2
 
 ### 新功能
@@ -546,6 +638,10 @@ title: "更新日志"
 
 - (`/profile zzz`) 修复波可娜的图片在卡片样式 2 中位置错误的问题。
 - (`/build genshin`) 修复用户应用中圣遗物位置表情符号显示错误的问题。
+
+### 更新日志
+
+在GitHub上查看[完整的更改列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.1...v1.16.2)。
 
 ## v1.16.1
 
@@ -564,13 +660,15 @@ title: "更新日志"
 
 ### 问题修复
 
-修复了多个问题，详情请查阅[完整更新日志](https://github.com/seriaati/hoyo-buddy/releases/tag/v1.16.1)。
+修复了多个问题，详情请查阅下方的更新日志。
 
-## v1.16.0  
+### 更新日志
 
-[给技术宅们](https://github.com/seriaati/hoyo-buddy/releases/tag/v1.16.0)  
+在GitHub上查看[完整的更改列表](https://github.com/seriaati/hoyo-buddy/compare/v1.16.0...v1.16.1)。
 
-### 新增功能  
+## v1.16.0
+
+### 新增功能
 
 - (`/profile`) 在卡片设置中新增模板预览。  
 - (`/profile`) 在卡片模板下拉菜单中显示自定义图片的可用性。  
@@ -580,33 +678,37 @@ title: "更新日志"
 - (`/gacha-log import`) 导入祈愿记录时，对比输入的 UID 与当前账号的 UID。  
 - 自动根据 Discord 客户端的语言设置新用户的语言。  
 
-### 优化  
+### 优化
 
 - (`/redeem`) 改进用户体验，修复兑换已兑换礼包码时无响应的问题。  
 - (`/gacha-log`) 设置账号参数为必填，避免混淆。  
 - 为「缺少权限」和「消息被 AutoMod 阻止」的错误提供更明确的提示。  
 - 简化账号设置过程中的提示文字。  
 
-### 问题修复  
+### 问题修复
 
 修复了多个错误并进行了一些改进。  
 
-## v1.15.7  
+### 更新日志
 
-### 新增功能  
+在GitHub上查看[完整的更改列表](https://github.com/seriaati/hoyo-buddy/compare/v1.15.7...v1.16.0)。
+
+## v1.15.7
+
+### 新增功能
 
 - (`/web-events`) 新增命令来查看正在进行中的网页活动，并设置通知器以提醒您有新活动。  
 - (`/notes`) 为《绝区零》（ZZZ）新增悬赏委托和 Ridu 每周点数通知器。  
 - (`/about`) 新增更新日志按钮。  
 
-### 优化  
+### 优化
 
 - (`/gacha-log view`) 修复缓存问题，提升祈愿记录页面的性能。  
 - (`/about`) 移除最新 Git 变更的显示。  
 - (`/mimo`) 在自动购买时，将旅行伙伴 Mimo 商店物品按照价格从高到低排序。  
 - 改进其他语言的本地化。
 
-### 问题修复  
+### 问题修复
 
 - (`/characters genshin`) 修复因无属性旅行者导致的 `KeyError` 问题。  
 - (`/characters genshin`) 修复神里绫华天赋等级显示错误的问题。  
@@ -628,6 +730,10 @@ title: "更新日志"
 - (`/notes`) 修复《崩坏3》中的验证错误。  
 - (`/challenge zzz assault`) 修复增益图标未显示的问题。  
 
+### 更新日志
+
+在GitHub上查看[完整的更改列表](https://github.com/seriaati/hoyo-buddy/compare/v1.15.6...v1.15.7)。
+
 ## v1.15.6
 
 ### 新增功能
@@ -638,11 +744,11 @@ title: "更新日志"
 - (`/profile hsr`) 新增卡片样式 2。
 - (`/notes`) 新增对于绝区零悬赏委托及丽都周记任务信息的显示。
 
-## 优化
+### 优化
 
 - (`/check-in`) 减少重复的签到 API 请求。
 
-## 问题修复
+### 问题修复
 
 - (`/mimo`) 修复当没有完成任何任务或获取任何积分时仍发送通知的问题。
 - (`/mimo`) 修复有价值物品判断方式的问题。
@@ -654,9 +760,13 @@ title: "更新日志"
 - (`/gacha-log view`) 修复错误的「距离上一稀有度的抽取次数」。
 - 修复静态图片文件夹创建逻辑。
 
-## v1.15.5  
+### 更新日志
 
-### 新增功能  
+在GitHub上查看[完整的更改列表](https://github.com/seriaati/hoyo-buddy/compare/v1.15.5...v1.15.6)。
+
+## v1.15.5
+
+### 新增功能
 
 - (`/mimo`) 自动完成需要在帖子下留言的任务。  
 - (`/mimo`) 自动完成需要关注主题的任务。  
@@ -666,7 +776,7 @@ title: "更新日志"
 - (`/profile zzz`) 新增春政 (Harumasa) 和雅 (Miyabi) 卡片数据。  
 - (`/search`) 在某些公会中隐藏「未发布内容」分类。  
 
-### 优化  
+### 优化
 
 - (`/mimo`) 在某些任务中显示任务进度。  
 - (`/mimo`) 在通知中显示已完成任务的名称。  
@@ -679,7 +789,7 @@ title: "更新日志"
 - 改进代理 API 请求逻辑。  
 - 改善自动任务的错误处理逻辑。  
 
-### 问题修复  
+### 问题修复
 
 - (`/mimo`) 在兑换 Mimo 奖励礼包码后新增休眠间隔。  
 - (`/mimo`) 修复任务清单中遗漏的任务。  
@@ -700,19 +810,23 @@ title: "更新日志"
 - 修复 Hakushin API 的相关问题。  
 - 捕获 `dm_user` 方法中的一般异常情况。  
 
-## v1.15.4  
+### 更新日志
 
-### 新增功能  
+在GitHub上查看[完整的更改列表](https://github.com/seriaati/hoyo-buddy/compare/v1.15.4...v1.15.5)。
+
+## v1.15.4
+
+### 新增功能
 
 - (`/build genshin`) 显示角色队伍配置的相关信息。  
 - (`/mimo`) 新增指令来管理旅行 Mimo。  
 
-### 优化  
+### 优化
 
 - (`/build genshin`) 改善卡片设计。  
 - (`/notes`) 使用事件日历 API 检查位面分裂事件。  
 
-### 问题修复  
+### 问题修复
 
 - (`/build genshin`) 修复一些 UI 问题。  
 - (`/events`) 修复导致指令无法使用的问题。  
@@ -720,22 +834,26 @@ title: "更新日志"
 - (`/gacha-log upload`) 修复 UIGF 版本低于 3.0 时的 `KeyError` 问题。  
 - (`/search`) 修复重复的自动完成选项问题。  
 
-## v1.15.3  
+### 更新日志
+
+在GitHub上查看[完整的更改列表](https://github.com/seriaati/hoyo-buddy/compare/v1.15.3...v1.15.4)。
+
+## v1.15.3
 
 先前版本中的错误代码导致部分用户在登录时看到「请求次数过多」错误，请参阅[本文](/zh-cn/too-many-requests/) 以了解更多信息。
 
-### 新增功能  
+### 新增功能
 
 - (`/profile zzz`) 新增选择器，可选择想要突出的副属性。  
 - (`/profile hsr`) 新增 Fugue 和 Sunday 卡片数据。  
 
-### 优化  
+### 优化
 
 - (`/redeem`) 使用礼包码本身掩盖兑换链接。  
 - (`/challenge genshin theater`, `/challenge genshin abyss`) 在卡片中显示旅行者的元素属性。  
 - (`/accounts`) 对「请求过多」错误显示自定义错误信息。  
 
-### 问题修复  
+### 问题修复
 
 - 修复指令未被翻译为其他语言的问题。  
 - 修复超时的弹窗未正确关闭的问题。  
@@ -748,6 +866,10 @@ title: "更新日志"
 - (`/profile`) 修复生成 AI 图像时的 `BadRequestError` 问题。  
 - (`/upload`) 修复上传图片时的 `BadRequestError` 问题。  
 
+### 更新日志
+
+在GitHub上查看[完整的更改列表](https://github.com/seriaati/hoyo-buddy/compare/v1.15.2...v1.15.3)。
+
 ## v1.15.2 及以下
 
-先前版本的更新日志写在 [Discord 服务器](https://link.seria.moe/hb-dc) 内的 #更新 频道中。
+先前版本的版本说明写在 [Discord 服务器](https://link.seria.moe/hb-dc) 内的 #更新 频道中。

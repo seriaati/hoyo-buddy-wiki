@@ -1,5 +1,5 @@
 ---
-title: "Changelogs"
+title: "Release Notes"
 ---
 
 ## v1.17.0
@@ -34,6 +34,10 @@ title: "Changelogs"
 - Fix real-time notes reminders sometimes stopping until the bot restarts.
 - Fix auto task DM notifications sometimes being delivered hours late.
 
+### Changelog
+
+See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/v1.16.24...v1.17.0) on GitHub.
+
 ## v1.16.24
 
 ### New Features
@@ -54,6 +58,10 @@ title: "Changelogs"
 
 - (`/gacha-log import`) Fix ZZZ records imported from UIGF files without rarity data being saved with an invalid rarity.
 - (`/profile zzz`) Fix agent images sometimes missing for newly released agents.
+
+### Changelog
+
+See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/v1.16.23...v1.16.24) on GitHub.
 
 ## v1.16.23
 
@@ -82,6 +90,10 @@ title: "Changelogs"
 ### Bug Fixes
 
 - (`/gacha-log view`) Fix ZZZ S-ranks pulled during their own rate-up banner being counted as 50/50 losses.
+
+### Changelog
+
+See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/v1.16.22...v1.16.23) on GitHub.
 
 ## v1.16.22
 
@@ -119,6 +131,10 @@ title: "Changelogs"
 - (`/search`) Fix autocomplete error for beta items.
 - Fix documentation links opening in the wrong language.
 
+### Changelog
+
+See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/v1.16.21...v1.16.22) on GitHub.
+
 ## v1.16.21
 
 ### New Features
@@ -148,6 +164,10 @@ title: "Changelogs"
 - Fix disabling notifications not taking effect, which could cause unwanted auto-redeem DMs.
 - Fall back to your Discord client language when no language is set in settings.
 
+### Changelog
+
+See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/v1.16.20...v1.16.21) on GitHub.
+
 ## v1.16.20
 
 ### New Features
@@ -164,6 +184,10 @@ title: "Changelogs"
 - (`/profile zzz`) Fix new ZZZ characters missing Mindscape images.
 - (`/profile`) Preserve the order of characters passed as parameters.
 - (`/gacha-log`) Show a placeholder image for missing gacha item icons.
+
+### Changelog
+
+See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/v1.16.19...v1.16.20) on GitHub.
 
 ## v1.16.19
 
@@ -184,6 +208,10 @@ title: "Changelogs"
 - (`/challenge hsr anomaly`) Fix icon position for empty character blocks.
 - (`/profile zzz`) Fix bad image positions or missing skin images for Aria and Nangong Yu.
 
+### Changelog
+
+See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/v1.16.18...v1.16.19) on GitHub.
+
 ## v1.16.18
 
 ### New Features
@@ -199,6 +227,10 @@ title: "Changelogs"
 - (`/search`) Fix error when searching books in HSR.
 - (`/profile zzz`) Fix Aria's image appearing incorrectly in team cards.
 - (`/profile zzz`) Fix Pan Yinhu skin missing card data.
+
+### Changelog
+
+See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/v1.16.17...v1.16.18) on GitHub.
 
 ## v1.16.17a
 
@@ -223,6 +255,10 @@ title: "Changelogs"
 - (`/notes`) Fix missing stamina reminder interval for Honkai Impact 3rd.
 - Fix localization newline issues in zh-CN and other languages.
 
+### Changelog
+
+See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/v1.16.16...v1.16.17) on GitHub.
+
 ## v1.16.16
 
 ### New Features
@@ -242,6 +278,10 @@ title: "Changelogs"
 - (`/notes`) Allow setting reminder notify time to 0 hours before.
 - (`/mimo`) Disable auto draw for Genshin Traveling Mimo.
 - (`/mimo`) Handle -510001 error when fetching Genshin Mimo tasks.
+
+### Changelog
+
+See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/v1.16.15...v1.16.16) on GitHub.
 
 ## v1.16.15
 
@@ -265,6 +305,10 @@ title: "Changelogs"
 - (`/gacha-log view`) Fixed UI issues on small screen devices.
 - Fixed toggle switches not properly returning `False` for disabled options.
 - Fixed several internal deployment and scheduling issues.
+
+### Changelog
+
+See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/v1.16.14...v1.16.15) on GitHub.
 
 ## v1.16.14
 
@@ -295,6 +339,10 @@ title: "Changelogs"
 - (`/profile zzz`) Fix Rina's image not aligned to the center in team cards.
 - Change UID masking character from '*' to 'x' to avoid markdown issues.
 
+### Changelog
+
+See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/v1.16.13...v1.16.14) on GitHub.
+
 ## v1.16.13
 
 ### New Features
@@ -315,7 +363,11 @@ title: "Changelogs"
 
 ### Bug Fixes
 
-Too many to list, see the [full changelog](https://github.com/seriaati/hoyo-buddy/releases/tag/v1.16.13).
+Too many to list, see the changelog below.
+
+### Changelog
+
+See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/v1.16.12...v1.16.13) on GitHub.
 
 ## v1.16.12
 
@@ -350,6 +402,10 @@ Note: This version disables Traveling Mimo for Genshin Impact due to removal fro
 - (`/gacha-log view`) Handle invalid banner type input.
 - (`/challenge`) Fix issues with challenge phase dropdown when there are more than 25 phases.
 
+### Changelog
+
+See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/v1.16.11...v1.16.12) on GitHub.
+
 ## v1.16.11
 
 ### New Features
@@ -363,6 +419,10 @@ Note: This version disables Traveling Mimo for Genshin Impact due to removal fro
 - (`/profile`) Fix Enka results always returned in English.
 - (`/exploration`) Fix tribe level text overflow.
 - Fix translations issues with en-GB locale.
+
+### Changelog
+
+See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/v1.16.10...v1.16.11) on GitHub.
 
 ## v1.16.10
 
@@ -385,6 +445,10 @@ Note: This version disables Traveling Mimo for Genshin Impact due to removal fro
 - (`/profile zzz`) Fix Enka Network builds not being shown sometimes.
 - (`/search`) Fix unreleased content being shown in normal search autocomplete.
 
+### Changelog
+
+See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/v1.16.9...v1.16.10) on GitHub.
+
 ## v1.16.9
 
 ### New Features
@@ -405,6 +469,10 @@ Note: This version disables Traveling Mimo for Genshin Impact due to removal fro
 - (`/gacha-log manage`) Fix wrong item rarity for ZZZ export.
 - (`/gacha-log view`) Fix item name being "???" for HSR collaboration banner characters and light cones.
 - (`/profile genshin`) Fix no player embed being shown when data source is HoYoLAB.
+
+### Changelog
+
+See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/v1.16.8...v1.16.9) on GitHub.
 
 ## v1.16.8
 
@@ -434,6 +502,10 @@ Note: This version disables Traveling Mimo for Genshin Impact due to removal fro
 - (`/characters genshin`) Fix images of some characters being in different styles.
 - (`/profile hsr`) Fix font issues in light cone names in template 2.
 
+### Changelog
+
+See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/v1.16.7...v1.16.8) on GitHub.
+
 ## v1.16.7
 
 ### New Features
@@ -457,6 +529,10 @@ Note: This version disables Traveling Mimo for Genshin Impact due to removal fro
 - (`/search`) Disable spiral abyss category.
 - (`/search`) Fix no autocomplete choices for drive disc category.
 
+### Changelog
+
+See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/v1.16.6...v1.16.7) on GitHub.
+
 ## v1.16.6
 
 ### New Features
@@ -475,6 +551,10 @@ Note: This version disables Traveling Mimo for Genshin Impact due to removal fro
 - (`/characters genshin`) Handle no-element characters.
 - (`/challenge genshin theater`) Handle invalid character IDs.
 
+### Changelog
+
+See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/v1.16.5...v1.16.6) on GitHub.
+
 ## v1.16.5
 
 ### New Features
@@ -491,6 +571,10 @@ Note: This version disables Traveling Mimo for Genshin Impact due to removal fro
 - (`/upload`) Handle image files that are too large.
 - (`/search`) Fix incorrect calculation formula for character & light cone stats.
 - (`/accounts`) Fix 'next page' option not working when user has more than 25 accounts.
+
+### Changelog
+
+See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/v1.16.4...v1.16.5) on GitHub.
 
 ## v1.16.4
 
@@ -514,6 +598,10 @@ Note: This version disables Traveling Mimo for Genshin Impact due to removal fro
 - (`/lb view`) Removed Honkai Impact 3rd achievement leaderboard.
 - (`/farm reminder`) Fixed item names being "..."
 
+### Changelog
+
+See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/v1.16.3...v1.16.4) on GitHub.
+
 ## v1.16.3
 
 ### New Features
@@ -532,6 +620,10 @@ Note: This version disables Traveling Mimo for Genshin Impact due to removal fro
 - (`/notes`) Fixed parametric transformer notifier not working.
 - (`/gacha-log upload`) Fixed wrong item rarity for some ZZZ import methods.
 
+### Changelog
+
+See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/v1.16.2...v1.16.3) on GitHub.
+
 ## v1.16.2
 
 ### New Features
@@ -542,6 +634,10 @@ Note: This version disables Traveling Mimo for Genshin Impact due to removal fro
 
 - (`/profile zzz`) Fixed Pulchra's image position in card template 2.
 - (`/build genshin`) Fixed artifact position emojis not being shown properly for user apps.
+
+### Changelog
+
+See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/v1.16.1...v1.16.2) on GitHub.
 
 ## v1.16.1
 
@@ -560,11 +656,13 @@ Note: This version disables Traveling Mimo for Genshin Impact due to removal fro
 
 ### Bug Fixes
 
-Various bug fixes, see the [full changelog](https://github.com/seriaati/hoyo-buddy/releases/tag/v1.16.1) for more details.
+Various bug fixes, see the changelog below for more details.
+
+### Changelog
+
+See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/v1.16.0...v1.16.1) on GitHub.
 
 ## v1.16.0
-
-[For the nerds](https://github.com/seriaati/hoyo-buddy/releases/tag/v1.16.0)
 
 ### New Features
 
@@ -586,6 +684,10 @@ Various bug fixes, see the [full changelog](https://github.com/seriaati/hoyo-bud
 ### Bug Fixes
 
 Various bug fixes and improvements.
+
+### Changelog
+
+See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/v1.15.7...v1.16.0) on GitHub.
 
 ## v1.15.7
 
@@ -624,6 +726,10 @@ Various bug fixes and improvements.
 - (`/notes`) Fixed validation error for Honkai Impact 3rd.
 - (`/challenge zzz assault`) Fixed buff icons not being shown.
 
+### Changelog
+
+See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/v1.15.6...v1.15.7) on GitHub.
+
 ## v1.15.6
 
 ### New Features
@@ -634,11 +740,11 @@ Various bug fixes and improvements.
 - (`/profile hsr`) Added template 2.
 - (`/notes`) Added bounty commission and Ridu weekly points information for ZZZ.
 
-## Improvements
+### Improvements
 
 - (`/check-in`) Reduce duplicate check-in API requests.
 
-## Bug Fixes
+### Bug Fixes
 
 - (`/mimo`) Fixed notifications being sent when no tasks are completed and no points are claimed.
 - (`/mimo`) Fixed how valuable items are being determined.
@@ -649,6 +755,10 @@ Various bug fixes and improvements.
 - (`/events`) Fixed wrong Spiral Abyss progress.
 - (`/gacha-log view`) Fixed wrong number of pulls from last rarity.
 - Fixed static image folder creation logic.
+
+### Changelog
+
+See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/v1.15.5...v1.15.6) on GitHub.
 
 ## v1.15.5
 
@@ -696,6 +806,10 @@ Various bug fixes and improvements.
 - Fixed issues with Hakushin API.
 - Capture general exceptions in `dm_user` method.
 
+### Changelog
+
+See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/v1.15.4...v1.15.5) on GitHub.
+
 ## v1.15.4
 
 ### New Features
@@ -715,6 +829,10 @@ Various bug fixes and improvements.
 - (`/gacha-log upload`) Fixed `ValidationError` with UIGF data.
 - (`/gacha-log upload`) Fixed `KeyError` with UIGF versions older than 3.0.
 - (`/search`) Fixed duplicated autocomplete choices.
+
+### Changelog
+
+See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/v1.15.3...v1.15.4) on GitHub.
 
 ## v1.15.3
 
@@ -745,6 +863,10 @@ Bad code in the previous versions caused some users to see the "too many request
 - (`/profile`) Fixed `BadRequestError` when generating AI images.
 - (`/upload`) Fixed `BadRequestError` when uploading images.
 
+### Changelog
+
+See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/v1.15.2...v1.15.3) on GitHub.
+
 ## v1.15.2 and below
 
-Previous changelogs were written in the #updates channel in our [Discord server](https://link.seria.moe/hb-dc).
+Previous release notes were written in the #updates channel in our [Discord server](https://link.seria.moe/hb-dc).

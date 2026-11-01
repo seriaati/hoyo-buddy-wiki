@@ -20,15 +20,18 @@ const NAME_MAP = {
   'Account-Security': 'account-security',
   'account-hacked': 'account-hacked',
   'too-many-requests': 'too-many-requests',
-  changelog: 'changelog',
+  // Renamed: the curated notes are release notes; the raw changelog lives on
+  // GitHub (linked from each version).
+  changelog: 'release-notes',
 };
 
 // Preserve SEO: map every old Docusaurus URL (/docs/... and /<locale>/docs/...,
 // with the old mixed-case filenames) to the new /<locale>/<slug>/ URL.
+// Each key covers both /x and /x/: Astro treats them as the same route and
+// emits one dist/x/index.html, so don't add trailing-slash duplicates.
 const redirects = { '/': '/en/intro/' };
 for (const locale of LOCALES) {
   redirects[`/${locale}`] = `/${locale}/intro/`;
-  redirects[`/${locale}/`] = `/${locale}/intro/`;
 
   const oldPrefix = locale === 'en' ? '/docs' : `/${locale}/docs`;
   redirects[oldPrefix] = `/${locale}/intro/`;
@@ -49,7 +52,6 @@ const ZH_ALIAS_MAP = { 'zh-Hant': 'zh-tw', 'zh-Hans': 'zh-cn' };
 for (const [alias, target] of Object.entries(ZH_ALIAS_MAP)) {
   // Bare locale root
   redirects[`/${alias}`] = `/${target}/intro/`;
-  redirects[`/${alias}/`] = `/${target}/intro/`;
   // Old Docusaurus URLs (/zh-Hant/docs/FAQ etc.)
   redirects[`/${alias}/docs`] = `/${target}/intro/`;
   for (const [oldName, newSlug] of Object.entries(NAME_MAP)) {
@@ -58,8 +60,9 @@ for (const [alias, target] of Object.entries(ZH_ALIAS_MAP)) {
   // Every known page slug
   for (const newSlug of Object.values(NAME_MAP)) {
     redirects[`/${alias}/${newSlug}`] = `/${target}/${newSlug}/`;
-    redirects[`/${alias}/${newSlug}/`] = `/${target}/${newSlug}/`;
   }
+  // Pre-rename slug
+  redirects[`/${alias}/changelog`] = `/${target}/release-notes/`;
 }
 
 export default defineConfig({
@@ -75,7 +78,7 @@ export default defineConfig({
       plugins: [starlightLinksValidator({ errorOnRelativeLinks: true })],
       title: 'Hoyo Buddy',
       // Fallback for pages where no description can be derived from the body
-      // (e.g. the changelog). Per-page descriptions come from src/routeData.ts.
+      // (e.g. the release notes). Per-page descriptions come from src/routeData.ts.
       description:
         'Hoyo Buddy is a feature rich, easy to use, and beautifully designed Discord bot made for Hoyoverse gamers.',
       // Adjusts link preview embeds (Open Graph tags): site name, banner
@@ -153,7 +156,7 @@ export default defineConfig({
           },
           items: [{ slug: 'account-security' }, { slug: 'account-hacked' }, { slug: 'too-many-requests' }],
         },
-        { slug: 'changelog' },
+        { slug: 'release-notes' },
       ],
     }),
   ],
