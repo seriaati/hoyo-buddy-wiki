@@ -26,8 +26,8 @@ Follow exactly this process:
    ```
 
 4. **Write the release notes in the style of the current ones.** Add a new `## $1` section at the top
-   of the release notes body, just under the frontmatter (the `---` block) and before the previous
-   version's `## vX.Y.Z` section.
+   of the release notes body, below the frontmatter (the `---` block) and the Discord notification
+   sentence, and before the previous version's `## vX.Y.Z` section.
 
 ## Rules
 

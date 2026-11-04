@@ -2,6 +2,8 @@
 title: "Ghi chú phát hành"
 ---
 
+Tham gia [Máy chủ Discord](https://link.seria.moe/hb-dc) của chúng tôi để nhận thông báo khi có phiên bản mới.
+
 ## v1.17.0
 
 ### Tính năng mới
