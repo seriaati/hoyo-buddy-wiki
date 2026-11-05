@@ -43,6 +43,7 @@ title: "Notas de la versión"
 ### Corrección de errores
 
 - (`/profile`) Se corrigió que la imagen estática se viera detrás de las tarjetas animadas.
+- (`/profile`) Se corrigió que algunas tarjetas animadas, como la de Yuzuha, se mostraran como tarjetas estáticas por ser demasiado grandes.
 - (`/profile zzz`) Ahora se usa el atuendo predeterminado cuando el atuendo seleccionado no tiene datos de tarjeta, y el selector de skins elige Predeterminado cuando el atuendo actual no aparece en la lista.
 - (`/profile zzz`) Se corrigió que el resaltado predeterminado de subestadísticas en los discos no coincidiera con las estadísticas del agente.
 - (`/profile genshin`) Se corrigió que los nombres de artefactos y armas a veces se mostraran como números.
