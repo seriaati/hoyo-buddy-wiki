@@ -2,6 +2,8 @@
 title: "Release Notes"
 ---
 
+Join our [Discord server](https://link.seria.moe/hb-dc) to get notified when new versions are released.
+
 ## v1.17.0
 
 ### New Features

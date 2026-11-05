@@ -2,6 +2,8 @@
 title: "Notas de la versión"
 ---
 
+Únete a nuestro [servidor de Discord](https://link.seria.moe/hb-dc) para recibir notificaciones cuando se publiquen nuevas versiones.
+
 ## v1.17.0
 
 ### Nuevas Funciones

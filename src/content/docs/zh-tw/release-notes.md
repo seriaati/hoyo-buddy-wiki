@@ -2,6 +2,8 @@
 title: "版本說明"
 ---
 
+加入我們的 [Discord 伺服器](https://link.seria.moe/hb-dc)，即可在新版本發布時收到通知。
+
 ## v1.17.0
 
 ### 新功能
