@@ -4,6 +4,62 @@ title: "Notas de la versión"
 
 Únete a nuestro [servidor de Discord](https://link.seria.moe/hb-dc) para recibir notificaciones cuando se publiquen nuevas versiones.
 
+## v1.18.0
+
+### Nuevas Funciones
+
+- (`/diary`) Se añadió un nuevo comando para ver tus ingresos mensuales de monedas en Genshin y ZZZ.
+- (`/gacha-log view`) Se añadió una tarjeta de resumen que muestra tu último objeto de 5 estrellas con su arte, el número de tiradas y el resultado del 50/50, además de los 5 estrellas anteriores, el pity, las estadísticas y las clasificaciones globales.
+- (`/notes`) Ahora se muestra un resumen de la stamina de todas tus cuentas cuando tienes más de una y no eliges ninguna.
+- (`/characters zzz`) Se añadió un botón de Bangbú para ver tu tarjeta de Bangbú.
+- (`/profile`) Se añadieron indicadores de tiradas de subestadísticas a las tarjetas de personajes y de equipo de Genshin y HSR, y las líneas de tiradas de ZZZ se reemplazaron por los mismos indicadores.
+- (`/profile`) Se añadió un desglose opcional de subestadísticas debajo de las tarjetas de personajes, que muestra el total de cada subestadística en todo el equipamiento y cuántas tiradas recibió.
+- (`/profile`) Se añadieron tarjetas de personajes animadas para la plantilla 2 de Genshin y las plantillas 3 y 4 de ZZZ.
+- (`/profile`) Se añadieron tarjetas de equipo animadas para patrocinadores, que se activan en la nueva sección de configuración de tarjetas de equipo de `/card-settings`.
+- (`/card-settings`) Los patrocinadores ahora pueden subir GIF, WEBP animados y MP4 como arte animado de personajes para las tarjetas de personajes y de equipo, con controles de zoom y posición.
+- (`/settings`) Se añadió el ajuste Mostrar UID, que muestra tu UID completo en los resultados de los comandos, incluso cuando otras personas ven tus cuentas. Si está desactivado, se oculta una parte. También se puede activar o desactivar desde `/profile` y `/challenge`.
+- (`/profile`) Ahora se muestra tu UID en las tarjetas de personajes de Hoyo Buddy cuando Mostrar UID está activado.
+- (`/challenge genshin`) Ahora se muestra tu UID en las tarjetas de la Espiral del Abismo y del Teatro Fantasía.
+- (`/accompany`) Los patrocinadores ahora pueden usar la compañía automática con hasta 10 personajes por cuenta.
+- (`/reminders`) Se añadió un recordatorio del Templo Suibian de ZZZ que te avisa cuando la autogestión ha terminado o, en modo manual, cuando Aventura, Fabricación o Venta están inactivos.
+- (`/reminders`) Se añadió un recordatorio antes del reinicio diario para las tareas de Mimo Viajero que no se pueden completar automáticamente.
+- (`/mimo`) Las tareas y compras automáticas de Mimo Viajero de los patrocinadores ahora se ejecutan cada hora (gratis: cada 4-5 horas), y la compra automática consigue Jades Estelares, Película y Protogemas en cuanto se reponen.
+- (`/settings`) Se añadió un ajuste exclusivo para patrocinadores que hace que el sorteo automático reserve puntos para los objetos de moneda cuando la compra automática está activada.
+- (`/redeem`) Se añadió compatibilidad con Tears of Themis.
+
+### Mejoras
+
+- (`/sponsor`) Se cambió el nombre de `/supporter` a `/sponsor`, y ahora se incluyen las nuevas ventajas de arte animado y de Mimo Viajero, así como la forma de convertirse en patrocinador.
+- Ahora se muestra un botón para ver las ventajas de patrocinador cuando alguien que no es patrocinador intenta usar una de ellas.
+- (`/card-settings`) Las imágenes personalizadas ahora se suben directamente desde la ventana para añadir imágenes. Se eliminó el comando `/upload`.
+- (`/profile`) El interruptor de tiradas de subestadísticas se trasladó de la configuración de tarjeta de cada personaje a la vista del perfil, junto a Mostrar UID, y ahora se aplica a todos los personajes y juegos. Las elecciones anteriores de cada personaje se restablecieron.
+- (`/challenge genshin`) Se rediseñó la tarjeta de Conflagración Estigia y se añadió un tema claro.
+- (`/profile zzz`) Ahora los agentes aparecen centrados en las imágenes de las tarjetas de equipo.
+- (`/notes`) Se añadió paginación al selector de cuentas.
+- (`/gacha-log view`) Los nombres de los objetos de Edén Miliastra ahora se muestran en tu idioma y con íconos en la aplicación web.
+- (`/about`) Ahora se muestran los miembros del equipo, colaboradores, patrocinadores y autores de guías; el botón Registro de cambios pasó a llamarse Notas de la versión, y el comando siempre responde de forma privada.
+- Se eliminó el comando `/changelog`.
+
+### Corrección de errores
+
+- (`/profile`) Se corrigió que la imagen estática se viera detrás de las tarjetas animadas.
+- (`/profile zzz`) Ahora se usa el atuendo predeterminado cuando el atuendo seleccionado no tiene datos de tarjeta, y el selector de skins elige Predeterminado cuando el atuendo actual no aparece en la lista.
+- (`/profile zzz`) Se corrigió que el resaltado predeterminado de subestadísticas en los discos no coincidiera con las estadísticas del agente.
+- (`/profile genshin`) Se corrigió que los nombres de artefactos y armas a veces se mostraran como números.
+- (`/challenge hsr`) Se corrigió que las tarjetas de Pura ficción en modo Starward no se generaran y que los nombres de las fases mostraran la etiqueta del modo.
+- (`/gacha-log view`) Se corrigió que la tasa de victorias del banner de armas de Genshin apareciera como 50/50 en lugar de 75/25.
+- (`/mimo`) Se corrigió que la compra automática omitiera las Protogemas y se detuviera en objetos que no se pueden comprar.
+- (`/notes`) Se corrigió que las notas de Honkai Impact 3rd no se cargaran.
+- (`/notes`) Se corrigió que se mostraran cuentas privadas al ver las notas de otra persona.
+- (`/characters`) Se corrigió un error al cambiar de página con el panel de filtros abierto.
+- (`/build genshin`) Se corrigió un error cuando un personaje tiene builds con títulos idénticos.
+- (`/settings`) Se corrigió un error al abrir los ajustes de compañía con una cuenta de Miyoushe seleccionada.
+- Se corrigió que algunos enlaces de la documentación llevaran a páginas inexistentes.
+
+### Registro de cambios
+
+Consulta la [lista completa de cambios](https://github.com/seriaati/hoyo-buddy/compare/v1.17.0...v1.18.0) en GitHub.
+
 ## v1.17.0
 
 ### Nuevas Funciones

@@ -4,6 +4,62 @@ title: "Ghi chú phát hành"
 
 Tham gia [Máy chủ Discord](https://link.seria.moe/hb-dc) của chúng tôi để nhận thông báo khi có phiên bản mới.
 
+## v1.18.0
+
+### Tính năng mới
+
+- (`/diary`) Thêm lệnh mới để xem thu nhập tiền tệ hằng tháng của bạn trong Genshin và ZZZ.
+- (`/gacha-log view`) Thêm thẻ tổng quan hiển thị vật phẩm 5 sao gần nhất kèm ảnh, số lượt quay và kết quả 50/50, cùng các vật phẩm 5 sao trước đó, bảo hiểm, thống kê và thứ hạng toàn cầu.
+- (`/notes`) Hiển thị tổng quan thể lực của tất cả tài khoản khi bạn có nhiều hơn một tài khoản và không chọn tài khoản nào.
+- (`/characters zzz`) Thêm nút Bangboo để xem thẻ Bangboo của bạn.
+- (`/profile`) Thêm thanh cường hóa thuộc tính phụ vào thẻ nhân vật và thẻ đội của Genshin và HSR, đồng thời thay các vạch cường hóa của ZZZ bằng cùng kiểu thanh này.
+- (`/profile`) Thêm phần chi tiết thuộc tính phụ (tùy chọn) bên dưới thẻ nhân vật, hiển thị tổng giá trị của từng thuộc tính phụ trên tất cả trang bị và số lần được cường hóa.
+- (`/profile`) Thêm thẻ nhân vật động cho mẫu thẻ 2 của Genshin và mẫu thẻ 3, 4 của ZZZ.
+- (`/profile`) Thêm thẻ đội động dành cho nhà tài trợ, bật/tắt trong mục thiết lập thẻ đội mới của `/card-settings`.
+- (`/card-settings`) Nhà tài trợ giờ có thể tải lên GIF, WEBP động và MP4 làm ảnh động nhân vật cho thẻ nhân vật và thẻ đội, kèm tùy chỉnh thu phóng và vị trí.
+- (`/settings`) Thêm cài đặt Hiển thị UID để hiển thị đầy đủ UID của bạn trong kết quả lệnh, kể cả khi người khác xem tài khoản của bạn. Khi tắt, một phần UID sẽ bị ẩn. Cũng có thể bật/tắt từ `/profile` và `/challenge`.
+- (`/profile`) Hiển thị UID của bạn trên thẻ nhân vật Hoyo Buddy khi bật Hiển thị UID.
+- (`/challenge genshin`) Hiển thị UID của bạn trên thẻ La Hoàn Thâm Cảnh và Nhà Hát Giả Tưởng.
+- (`/accompany`) Nhà tài trợ giờ có thể tự động Ghé Thăm tối đa 10 nhân vật cho mỗi tài khoản.
+- (`/reminders`) Thêm lời nhắc Tùy Tiện Quán cho ZZZ, thông báo khi Tự Động Quản Lý kết thúc, hoặc khi Chu Du, Chế Tạo hay Bán đang nhàn rỗi ở chế độ thủ công.
+- (`/reminders`) Thêm lời nhắc trước khi đặt lại hằng ngày cho các nhiệm vụ Mimo Du Lịch không thể tự động hoàn thành.
+- (`/mimo`) Nhiệm vụ và lượt mua tự động Mimo Du Lịch của nhà tài trợ giờ chạy mỗi giờ (miễn phí: mỗi 4-5 giờ), và tự động mua sẽ mua ngay Ngọc Ánh Sao, Film Màu và Nguyên Thạch khi vừa mở bán lại.
+- (`/settings`) Thêm cài đặt dành riêng cho nhà tài trợ để tự động rút thưởng giữ lại điểm mua vật phẩm tiền tệ khi bật tự động mua.
+- (`/redeem`) Hỗ trợ Tears of Themis.
+
+### Cải thiện
+
+- (`/sponsor`) Đổi tên `/supporter` thành `/sponsor`, đồng thời liệt kê các đặc quyền mới về ảnh động và Mimo Du Lịch, cùng cách trở thành nhà tài trợ.
+- Hiển thị nút xem đặc quyền nhà tài trợ khi người chưa tài trợ thử dùng một đặc quyền dành cho nhà tài trợ.
+- (`/card-settings`) Tải ảnh tự chọn lên trực tiếp trong cửa sổ thêm ảnh. Lệnh `/upload` đã bị xóa.
+- (`/profile`) Chuyển nút bật/tắt cường hóa thuộc tính phụ từ cài đặt thẻ của từng nhân vật sang giao diện hồ sơ, cạnh Hiển thị UID, áp dụng cho mọi nhân vật và trò chơi. Lựa chọn trước đây cho từng nhân vật đã được đặt lại.
+- (`/challenge genshin`) Thiết kế lại thẻ Ảo Cảnh Hiểm Ác và thêm chủ đề sáng.
+- (`/profile zzz`) Căn giữa nhân vật trong ảnh thẻ đội.
+- (`/notes`) Phân trang bộ chuyển tài khoản.
+- (`/gacha-log view`) Hiển thị tên vật phẩm Thiên Tinh Kỳ Vực bằng ngôn ngữ của bạn, kèm biểu tượng, trên ứng dụng web.
+- (`/about`) Liệt kê thành viên nhóm, người đóng góp, nhà tài trợ và người viết hướng dẫn, đổi tên nút Nhật Ký Thay Đổi thành Ghi Chú Phát Hành, và luôn phản hồi ở chế độ riêng tư.
+- Xóa lệnh `/changelog`.
+
+### Sửa lỗi
+
+- (`/profile`) Sửa lỗi ảnh tĩnh lộ ra phía sau thẻ động.
+- (`/profile zzz`) Dùng trang phục mặc định khi trang phục đã chọn không có dữ liệu thẻ, và chọn Mặc định trong bộ chọn trang phục khi trang phục hiện tại không có trong danh sách.
+- (`/profile zzz`) Sửa lỗi thuộc tính phụ được tô sáng mặc định trên Đĩa không khớp với chỉ số của nhân vật.
+- (`/profile genshin`) Sửa lỗi tên Thánh Di Vật và vũ khí đôi khi hiển thị thành số.
+- (`/challenge hsr`) Sửa lỗi thẻ Kể Chuyện Hư Cấu ở Chế Độ Hướng Đến Biển Sao không vẽ được và tên màn hiển thị kèm nhãn chế độ.
+- (`/gacha-log view`) Sửa lỗi tỷ lệ thắng của banner vũ khí Genshin bị ghi là 50/50 thay vì 75/25.
+- (`/mimo`) Sửa lỗi tự động mua bỏ qua Nguyên Thạch và dừng lại ở vật phẩm không thể mua.
+- (`/notes`) Sửa lỗi không tải được Ghi Chép Thời Gian Thực của Honkai Impact 3rd.
+- (`/notes`) Sửa lỗi hiển thị tài khoản riêng tư khi xem Ghi Chép Thời Gian Thực của người khác.
+- (`/characters`) Sửa lỗi khi chuyển trang trong lúc bảng bộ lọc đang mở.
+- (`/build genshin`) Sửa lỗi khi một nhân vật có các build trùng tiêu đề.
+- (`/settings`) Sửa lỗi khi mở cài đặt Ghé Thăm lúc đang chọn tài khoản Miyoushe.
+- Sửa lỗi một số liên kết tài liệu dẫn đến trang không tồn tại.
+
+### Nhật ký thay đổi
+
+Xem [danh sách thay đổi đầy đủ](https://github.com/seriaati/hoyo-buddy/compare/v1.17.0...v1.18.0) trên GitHub.
+
 ## v1.17.0
 
 ### Tính năng mới
