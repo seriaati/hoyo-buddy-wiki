@@ -4,6 +4,62 @@ title: "Release Notes"
 
 Join our [Discord server](https://link.seria.moe/hb-dc) to get notified when new versions are released.
 
+## v1.18.0
+
+### New Features
+
+- (`/diary`) Add new command to view your monthly currency income for Genshin and ZZZ.
+- (`/gacha-log view`) Add a summary card showing your latest 5-star with its art, pull count, and 50/50 result, plus previous 5-stars, pity, stats, and global ranks.
+- (`/notes`) Show a stamina overview of all your accounts when you have more than one and don't pick an account.
+- (`/characters zzz`) Add a Bangboo button to view your Bangboo card.
+- (`/profile`) Add substat roll tracks to Genshin and HSR build and team cards, and replace ZZZ's roll lines with the same roll tracks.
+- (`/profile`) Add an optional substat breakdown under build cards, showing each substat's total across all gear and how many times it was rolled.
+- (`/profile`) Add animated build cards for Genshin Template 2 and ZZZ Templates 3 and 4.
+- (`/profile`) Add animated team cards for sponsors, toggled in the new team card settings section of `/card-settings`.
+- (`/card-settings`) Sponsors can now upload GIFs, animated WEBPs, and MP4s as animated character art for build and team cards, with zoom and position controls.
+- (`/settings`) Add a Show UID setting that shows your full UID in command results, including when others view your accounts. When off, part of it is hidden. It can also be toggled from `/profile` and `/challenge`.
+- (`/profile`) Show your UID on Hoyo Buddy build cards when Show UID is on.
+- (`/challenge genshin`) Show your UID on Spiral Abyss and Imaginarium Theater cards.
+- (`/accompany`) Sponsors can now auto accompany up to 10 characters per account.
+- (`/reminders`) Add a ZZZ Suibian Temple reminder that notifies you when auto-manage has ended, or when Adventure, Craft, or Sales is idle in manual mode.
+- (`/reminders`) Add a reminder before the daily reset for Traveling Mimo tasks that can't be auto-finished.
+- (`/mimo`) Sponsors' auto Traveling Mimo tasks and purchases now run every hour (free: every 4-5 hours), and auto buy grabs Stellar Jades, Polychrome, and Primogems the moment they restock.
+- (`/settings`) Add a sponsor-only setting that makes auto draw save points for currency items when auto buy is on.
+- (`/redeem`) Add Tears of Themis support.
+
+### Improvements
+
+- (`/sponsor`) Rename `/supporter` to `/sponsor`, and list the new animated art and Traveling Mimo perks and how to become a sponsor.
+- Show a button to view sponsor perks when a non-sponsor tries to use a sponsor perk.
+- (`/card-settings`) Upload custom images directly in the add image modal. The `/upload` command has been removed.
+- (`/profile`) Move the substat rolls toggle from per-character card settings to the profile view, next to Show UID, applying to all characters and games. Previous per-character choices are reset.
+- (`/challenge genshin`) Redesign the Stygian Onslaught card and add a light theme.
+- (`/profile zzz`) Center agents in team card images.
+- (`/notes`) Paginate the account switcher.
+- (`/gacha-log view`) Show Miliastra Wonderland item names in your language and with icons in the web app.
+- (`/about`) List team members, contributors, sponsors, and guide writers, rename the Changelog button to Release Notes, and always respond privately.
+- Remove the `/changelog` command.
+
+### Bug Fixes
+
+- (`/profile`) Fix the static image showing through behind animated cards.
+- (`/profile zzz`) Use the default outfit when the selected outfit has no card data, and select Default in the outfit selector when the current outfit isn't listed.
+- (`/profile zzz`) Fix default disc substat highlights not matching the agent's stats.
+- (`/profile genshin`) Fix artifact and weapon names sometimes showing as numbers.
+- (`/challenge hsr`) Fix Starward Pure Fiction cards failing to draw and showing the mode label in stage names.
+- (`/gacha-log view`) Fix the Genshin weapon banner win rate being labeled 50/50 instead of 75/25.
+- (`/mimo`) Fix auto buy skipping Primogems and stopping at items that can't be bought.
+- (`/notes`) Fix Honkai Impact 3rd notes failing to load.
+- (`/notes`) Fix private accounts being shown when viewing another user's notes.
+- (`/characters`) Fix an error when changing pages while the filter panel is open.
+- (`/build genshin`) Fix an error when a character has builds with identical titles.
+- (`/settings`) Fix an error when opening accompany settings with a Miyoushe account selected.
+- Fix some documentation links leading to missing pages.
+
+### Changelog
+
+See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/v1.17.0...v1.18.0) on GitHub.
+
 ## v1.17.0
 
 ### New Features
