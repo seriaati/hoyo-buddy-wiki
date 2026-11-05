@@ -43,6 +43,7 @@ Tham gia [Máy chủ Discord](https://link.seria.moe/hb-dc) của chúng tôi đ
 ### Sửa lỗi
 
 - (`/profile`) Sửa lỗi ảnh tĩnh lộ ra phía sau thẻ động.
+- (`/profile`) Sửa lỗi một số thẻ động, như thẻ của Yuzuha, bị hiển thị thành thẻ tĩnh do dung lượng quá lớn.
 - (`/profile zzz`) Dùng trang phục mặc định khi trang phục đã chọn không có dữ liệu thẻ, và chọn Mặc định trong bộ chọn trang phục khi trang phục hiện tại không có trong danh sách.
 - (`/profile zzz`) Sửa lỗi thuộc tính phụ được tô sáng mặc định trên Đĩa không khớp với chỉ số của nhân vật.
 - (`/profile genshin`) Sửa lỗi tên Thánh Di Vật và vũ khí đôi khi hiển thị thành số.

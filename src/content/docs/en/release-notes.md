@@ -43,6 +43,7 @@ Join our [Discord server](https://link.seria.moe/hb-dc) to get notified when new
 ### Bug Fixes
 
 - (`/profile`) Fix the static image showing through behind animated cards.
+- (`/profile`) Fix some animated cards, such as Yuzuha's, falling back to a static card because they were too large.
 - (`/profile zzz`) Use the default outfit when the selected outfit has no card data, and select Default in the outfit selector when the current outfit isn't listed.
 - (`/profile zzz`) Fix default disc substat highlights not matching the agent's stats.
 - (`/profile genshin`) Fix artifact and weapon names sometimes showing as numbers.
