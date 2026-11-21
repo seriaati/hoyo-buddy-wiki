@@ -4,6 +4,42 @@ title: "Release Notes"
 
 Join our [Discord server](https://link.seria.moe/hb-dc) to get notified when new versions are released.
 
+## v1.19.0
+
+### New Features
+
+- (`/diary`) Add Honkai: Star Rail support.
+- (`/diary`) Keep the months you've viewed so they stay selectable after HoYoLAB stops providing them (it only keeps the last 3 months).
+- (`/accompany`) Add an overview of all characters where you can add or remove auto accompany characters. It opens by default when no character is chosen.
+- (`/accompany`) Add a Read articles button to earn accompany points from the daily reading task. Sponsors' auto accompany now reads articles automatically.
+- (`/profile hsr`) Show Affinitive Eidolons on build and team cards.
+- (`/profile hsr`) Add Aeon ★ Aha card data.
+- (`/accounts`) Add an option to resend the verification email when logging in with email and password.
+
+### Improvements
+
+- (`/diary`) Show your average income per day, and compare months by daily income so the current month is compared fairly.
+- (`/notes`) Show reserved Trailblaze Power in the stamina overview.
+- (`/accompany`) Add a hint that auto accompany characters can also be chosen from a list in `/settings`.
+
+### Bug Fixes
+
+- (`/accounts`) Fix the verification email not arriving after completing the captcha when logging in with email and password.
+- (`/profile`) Fix errors when showing newly released characters and light cones whose data isn't available yet, and tidy HSR cards drawn with missing data.
+- Fix symbols like the ★ in Aeon ★ Aha's name showing as boxes on cards in some languages.
+- (`/gacha-log view`) Fix a standard character pulled on the Genshin character banner counting as a 50/50 win when a Chronicled Wish featured them.
+- (`/gacha-log view`) Fix the HSR summary card art being stretched.
+- (`/build genshin`) Fix an error for characters without builds yet instead of showing the not found message.
+- (`/challenge`) Fix an error when viewing older challenge history.
+- (`/challenge`) Fix an error when pressing the buff button after switching to a challenge without data.
+- (`/lb akasha`) Fix an error when changing pages from an empty page.
+- (`/settings`) Fix an error when opening Traveling Mimo settings with an account from an unsupported game selected.
+- (`/sponsor`) Add Primogems to the Traveling Mimo perk description.
+
+### Changelog
+
+See the [full list of changes](https://github.com/seriaati/hoyo-buddy/compare/v1.18.0...v1.19.0) on GitHub.
+
 ## v1.18.0
 
 ### New Features
